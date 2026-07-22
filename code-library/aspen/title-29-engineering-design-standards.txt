@@ -1,0 +1,636 @@
+# CITY OF ASPEN MUNICIPAL CODE — TITLE 29 - ENGINEERING DESIGN STANDARDS
+# Source: Municode (api.municode.com), Supp. No. 7 Update 1, codified through Ord. No. 06-2026 (enacted 2026-03-24)
+# Retrieved: 2026-07-22
+
+
+===== TITLE 29 - ENGINEERING DESIGN STANDARDS
+Footnotes: 
+ --- (
+1
+) ---
+Editor's note—
+2-2019
+, § 3(Exh. B), adopted July 22, 2019, deleted Title 29 and reenacted said title as
+ set out herein. Formerly, Title 29 pertained to similar subject matter and derived
+ from 
+Ord. No. 42-2013
+.
+
+===== Chapter 29.01. - [IN GENERAL]
+
+
+===== Sec. 29.01.010. - Purpose and intent.
+The purpose of this Chapter is to ensure development in the City of Aspen meets minimum
+ engineering standards. It is the City's intent to establish Engineering Standards,
+ Banner Standards, and Construction Management Plan Requirements that will ensure the
+ public health, safety and welfare, preserve the community aesthetic, and promote efficient
+ development within the City limits of Aspen.
+ (
+2-2019
+, § 3(Exh. B), 7-22-2019; Ord. No. 
+02-2026
+, § 1(Exh. A), 3-10-2026)
+
+===== Sec. 29.01.020. - Adoption of engineering standards.
+Pursuant to the powers and authority conferred by the Charter of the City, there is
+ hereby adopted and incorporated herein by reference as if fully set forth those standards
+ contained in the Engineering Standards, as may be amended from time to time by City
+ Council Resolution. At least one (1) copy of the Engineering Standards shall be available
+ for public inspection at the Community Development Department, the Engineering Department
+ and the City of Aspen's website.
+ (
+2-2019
+, § 3(Exh. B), 7-22-2019)
+
+===== Sec. 29.01.030. - Adoption of banner standards.
+Pursuant to the powers and authority conferred by the Charter of the City, there is
+ hereby adopted and incorporated herein by reference as if fully set forth herein,
+ those standards contained in the Banner Standards, as may be adopted and amended from
+ time to time by the City Engineer. At least one (1) copy of the Banner Standards shall
+ be available for public inspection at the Community Development Department, the Engineering
+ Department and the City of Aspen's website.
+ (Ord. No. 
+02-2026
+, § 1(Exh. A), 3-10-2026)
+Editor's note— 
+ Ord. No. 
+02-2026
+, § 1(Exh. A), adopted Mar. 10, 2026, renumbered the former §§ 29.01.030—29.01.110
+ as §§ 29.01.040—29.01.120 and enacted a new § 29.01.030 as set out herein. The historical
+ notation has been retained with the amended provisions for reference purposes.
+
+===== Sec. 29.01.040. - Adoption of construction management plan requirements.
+Pursuant to the powers and authority conferred by the Charter of the City, there is
+ hereby adopted and incorporated herein by reference as if fully set forth those regulations
+ contained in the Construction Management Plan Requirements Manual, as may be amended
+ from time to time by the City Engineer. At least one (1) copy of the aforementioned
+ Manual shall be available for public inspection at the Community Development Department,
+ the Engineering Department and on the City of Aspen's website.
+ (
+2-2019
+, § 3(Exh. B), 7-22-2019; Ord. No. 
+02-2026
+, § 1(Exh. A), 3-10-2026)
+Editor's note— 
+ Formerly § 29.01.030. See editor's note following § 21.01.030.
+
+===== Sec. 29.01.050. - Applicability.
+This Chapter applies to all construction, development, redevelopment, modifications
+ and additions to existing developments, any work within the right-of-way, and 
+Title 26
+ development applications and plats, annexations and vacations.
+ Unless specifically exempted, the provisions of this Chapter shall supplement any
+ and all existing laws and shall apply to all persons, without restriction, and to
+ conditions arising after the adoption thereof, to conditions not legally in existence
+ at the time of adoption of this title, and to conditions which, in the opinion of
+ the city engineer or designee, constitute a distinct hazard to life or property.
+ The Engineering Standards, Banner Standards, and Construction Management Plan Requirements
+ provide policies and design guidelines to city agencies, design professionals, private
+ developers, and community groups for residential and commercial development that ensure
+ the public welfare, preserve the community aesthetic, and promote efficient development
+ within the City limits of Aspen.
+ The City of Aspen shall use the policies, criteria and information including specifications
+ and standards in the latest edition of the Engineering Standards, Banner Standards,
+ and Construction Management Plan Requirements for the proper implementation of the
+ requirements of this Title. The Engineering Standards, Banner Standards, and Construction
+ Management Plan Requirements may be periodically amended as necessary to provide additional
+ clarity or to reflect procedural revisions or changes in construction or engineering
+ practices. Such revisions to these standards or requirements may consist of either
+ "procedural" revisions or "technical" revisions. Any other amendments to the Engineering
+ Standards, Banner Standards, and Construction Management Plan Requirements shall be
+ adopted by City Council Resolution. Examples include revisions that are considered
+ major changes, changes in law and changes that will cause significant increased cost
+ or controversy.
+ (
+2-2019
+, § 3(Exh. B), 7-22-2019; Ord. No. 
+02-2026
+, § 1(Exh. A), 3-10-2026)
+Editor's note— 
+ Formerly § 29.01.040. See editor's note following § 21.01.030.
+
+===== Sec. 29.01.060. - Review authority.
+The City Engineer, or designee, is authorized to make and enforce the rules and regulations
+ contained in the Engineering Standards, Banner Standards, and Construction Management
+ Plan Requirements in order to carry out the intent of the standards and requirements
+ of this Title. Where no specific or applicable rules, regulations, or standards appear
+ to be set forth in the Engineering Standards, Banner Standards, Construction Management
+ Plan Requirements, or other rules, regulations, standards, guidelines, and recommended
+ practices, as published by professional associations, technical organizations, model
+ code groups, and similar entities, may be used by the City for guidance.
+ (
+2-2019
+, § 3(Exh. B), 7-22-2019; Ord. No. 
+02-2026
+, § 1(Exh. A), 3-10-2026)
+Editor's note— 
+ Formerly § 29.01.050. See editor's note following § 21.01.030.
+
+===== Sec. 29.01.070. - Review procedure.
+(a)
+Review process.
+ The City Engineer shall have the authority on behalf of the City of Aspen to determine
+ that all design and construction is completed to a level that is equal to or exceeds
+ the requirements set forth in this Chapter, the Engineering Standards, Banner Standards,
+ and the Construction Management Plan Requirements.
+ (
+2-2019
+, § 3(Exh. B), 7-22-2019; Ord. No. 
+02-2026
+, § 1(Exh. A), 3-10-2026)
+Editor's note— 
+ Formerly § 29.01.060. See editor's note following § 21.01.030.
+
+===== Sec. 29.01.080. - Variances.
+(a)
+Authority.
+ The City Engineer may grant variances to the Engineering standards. Variances are
+ deviations from the terms of this Chapter which would not be contrary to the public
+ interest.
+ (b)
+Standards.
+ In order to authorize a variance from the Engineering standards or construction management
+ regulations, the following standards shall be met:
+ (1)
+ There exist practical difficulties and unnecessary hardships inconsistent with the
+ purpose and intent of the Engineering standards.
+ (2)
+ The issuance of a variance shall not compromise the safety of a site or structure.
+ (c)
+Application.
+ Requests for variances from the standards, policies or submittal requirements of
+ this document shall be submitted in writing with appropriate documentation and justification
+ to the City Engineer. An application for a variance from the Engineering standards
+ shall include, at a minimum, the following information:
+ (1)
+ The criteria from which the applicant seeks a variance.
+ (2)
+ A written justification outlining why the criterion cannot be met.
+ (3)
+ An alternate criteria or standard that is proposed to comply with the intent of the
+ criteria from which the variance is sought.
+ (4)
+ Supporting documentation, including necessary calculations, etc.
+ (5)
+ An explanation of any potential adverse impacts of the proposed variance to adjacent
+ landowners.
+ (6)
+ An analysis of the variance request must be signed and stamped by a Professional Engineer
+ licensed in the State of Colorado.
+ Upon receipt of a complete application for a variance, the City Engineer shall prepare
+ a statement, approving, approving with conditions, or denying the variance. During
+ the course of reviewing the requested variance, the City Engineer may request additional
+ information needed to make a decision. The City Engineer may also request modifications
+ of the proposed variance.
+ (d)
+Expiration.
+ Except as otherwise established in this Title or through vesting of a site specific
+ development plan pursuant to 
+Title 26
+, a variance granted under this Chapter shall automatically expire after twelve (12)
+ months from the date of approval unless a building permit application submittal is
+ accepted by the Chief Building Official.
+ The City Engineer may grant an extension to an approved variance. All requests for
+ extensions must be submitted prior to the expiration of the variance, must demonstrate
+ good cause showing the extension is necessary, and must demonstrate that the circumstances
+ for granting the variance are still applicable.
+ (e)
+Appeals.
+ An applicant may appeal a variance decision pursuant to 
+Section 29.02.110
+, Appeals.
+ (
+2-2019
+, § 3(Exh. B), 7-22-2019; Ord. No. 
+21-2024
+, § 4, 1-14-2025; Ord. No. 
+02-2026
+, § 1(Exh. A), 3-10-2026)
+Editor's note— 
+ Formerly § 29.01.070. See editor's note following § 21.01.030.
+
+===== Sec. 29.01.090. - Right-of-entry.
+Upon presentation of his or her credentials, the City Engineer or his or her duly
+ authorized representative may enter at any reasonable time any building, structure
+ or premises in the City that is the subject of an active building permit to perform
+ any duty imposed upon him or her by this Code.
+ (
+2-2019
+, § 3(Exh. B), 7-22-2019; Ord. No. 
+02-2026
+, § 1(Exh. A), 3-10-2026)
+Editor's note— 
+ Formerly § 29.01.080. See editor's note following § 21.01.030.
+
+===== Sec. 29.01.100. - Stop work orders.
+Whenever any construction or other work is being performed contrary to this Code the
+ City Engineer shall order the work stopped by notice in writing served on any person
+ engaged in the doing or causing of such work to be done. It shall be unlawful for
+ any person to fail or refuse to obey such order. Each day that one so notified, or
+ any other person who can reasonably be expected to be informed of the notice, fails
+ to comply with the order shall constitute a separate offense.
+ (
+2-2019
+, § 3(Exh. B), 7-22-2019; Ord. No. 
+02-2026
+, § 1(Exh. A), 3-10-2026)
+Editor's note— 
+ Formerly § 29.01.090. See editor's note following § 21.01.030.
+
+===== Sec. 29.01.110. - Violations and penalties.
+Any person violating any provision of this Chapter may be punished by a fine, imprisonment
+ or both a fine and imprisonment, as set forth in Section 1.04.180 of this Code. Each
+ day any violation of this Chapter shall continue shall constitute a separate offense.
+ (
+2-2019
+, § 3(Exh. B), 7-22-2019; Ord. No. 
+02-2026
+, § 1(Exh. A), 3-10-2026)
+Editor's note— 
+ Formerly § 29.01.100. See editor's note following § 21.01.030.
+
+===== Sec. 29.01.120. - Violations and penalties not to excuse abatement.
+The application of any penalty under this Chapter shall not constitute the condoning
+ or legalizing of any prohibited condition or prevent the abatement or enforced removal
+ of such condition by any lawful means available to the city.
+ (
+2-2019
+, § 3(Exh. B), 7-22-2019; Ord. No. 
+02-2026
+, § 1(Exh. A), 3-10-2026)
+Editor's note— 
+ Formerly § 29.01.110. See editor's note following § 21.01.030.
+
+===== Sec. 29.01.130. - Reserved.
+Editor's note— 
+ Ord. No. 
+21-2024
+, § 3, adopted Jan. 14, 2025, repealed § 29.01.120, which pertained to appeals and
+ derived from 
+2-2019
+, § 3(Exh. B), 7-22-2019.
+ Formerly § 29.01.120. See editor's note following § 21.01.030.
+
+===== CHAPTER 29.02. - CONSTRUCTION AND DEMOLITION DEBRIS DIVERSION
+
+
+===== Sec. 29.02.010. - Purpose.
+The purpose of this Chapter is to conserve landfill operations and capacity and reduce
+ greenhouse gas emissions consistent with the City of Aspen's adopted carbon goals,
+ through the prevention of landfill disposal of Recoverable Materials by requiring
+ all locally salvageable materials be recycled, repurposed, or rehomed.
+ (Ord. No. 
+21-2024
+, § 1, 1-14-2025)
+
+===== Sec. 29.02.020. - Definitions.
+As used in this Chapter, unless the context otherwise requires, the following terms
+ shall be defined as follows:
+C&D Diversion Approval
+ is an approval issued by the City Engineer, or their designee, when all documents,
+ reports, and plans required by this Chapter have been submitted as part·of a permit
+ application and deemed complete by the City Engineering Department.
+Construction and Demolition Debris (C&D)
+ is solid waste generated by or resulting from construction or demolition-related
+ activities including, but not limited to, building, construction, deconstruction,
+ demolition, improvement, reconstruction, remodeling, renovation, repair, or site clean-up.
+Construction Mitigation Disturbance Square Footage
+ means the combined square footage of the building work area in addition to all the
+ soil disturbance area as demonstrated in a City of Aspen permit application for construction,
+ development, redevelopment, modifications and additions to existing developments undertaken
+ within the City of Aspen.
+Construction Management Plan (CMP)
+ means the Construction Management Plan associated with a building permit approved
+ pursuant to the Construction Management Plan Requirements of Sectiob 
+29.01.030
+ - Adoption of construction management plan requirements.
+Diversion Recovery Plan (DRP)
+ means the Diversion Recovery Plan submitted in the City's designated waste tracking
+ software. This plan requires the applicant to estimate the total tons of debris generated
+ from the project, materials anticipated for recovery, the means by which the materials
+ will be transferred to a local recycling facility, and facilities intended to accept
+ the Recoverable Materials. The DRP is approved prior to permit issuance by the City
+ Engineer, or designee.
+Diversion Compliance Deposit
+ is a deposit from the permit applicant prior to permit issuance, made to the City
+ of Aspen, calculated by applying the following equation:
+ Diversion Compliance Deposit = (Construction Mitigation Square Footage X 0.05 tons/sq
+ ft) X (Social Cost of Carbon for C&D Materials*)
+Diversion Reports
+ is a diversion status report submitted by the permittee through the City's waste
+ tracking software for the City Engineer, or their designee. A Report is required to
+ be filed prior to building inspections and prior to final building inspections. The
+ diversion report must include receipts or other documentation showing the amount of
+ recoverable diverted or salvaged, the means by which the material was diverted or
+ salvaged, and the amount of material deposited in the landfill. The final diversion
+ report will be used by City of Aspen staff to determine if the permittee met the requirements
+ of this Chapter.
+Locally available recycling or recovery facilities
+ is a recycling and recovery facilities located within the region of Aspen, as defined
+ by the City Engineer, or their designee, where the environmental benefit ofrecovering,
+ recycling, or rehoming is not voided by the emissions impact of transportation over
+ extended distances. The Pitkin County Solid Waste Center accepts all Recoverable Materials
+ listed in this Chapter for recycling or reuse.
+Recoverable Management Practice
+ means a practice approved by the City that prevents Recoverable Materials from end-of-life
+ disposal through the reuse or recycling of said materials. Examples of practices include
+ recycling of divertible materials, donation or rehoming of goods, and reuse of materials
+ onsite for building and con truction purposes.
+Recoverable Materials diversion acknowledgement form
+ is a form signed prior to permit issuance acknowledging the diversion requirements
+ and consequences of failure to meet these requirements, as stated in this Chapter.
+Recoverable Materials
+ means construction and demolition debris for which there is a local option to reuse,
+ recycle, or otherwise divert such debris from the landfill. Recoverable Materials
+ includes all materials that the Pitkin County Solid Waste Center accepts for recycling
+ and reuse.
+Social Cost of Carbon for C&D Materials
+ is a dollar estimate of the economic damages caused by emitting carbon dioxide into
+ the atmosphere from landfilling one (1) ton of Unsorted Load. This cost is set forth
+ in 
+Section 2.12.051
+. - Engineering Department fees and amended from time to time to reflect financial
+ changes in environmental accounting.
+Trash
+ means substances designated for end-of-life disposal in a landfill, or other end-of-life
+ disposal practice, from which the substances can never be recovered. Recoverable Materials
+ are not trash.
+Unsorted Load
+ means the comingling of at least ten percent (10%) of recoverable material in any
+ one (1) load of trash designated for end-of-life disposal in a landfill.
+ (Ord. No. 
+21-2024
+, § 1, 1-14-2025)
+
+===== Sec. 29.02.030. - Applicability for construction and demolition diversion requirements.
+City of Aspen permitted projects with more than two thousand (2,000) square feet of
+ construction mitigation square footage must separate all Recoverable Materials generated
+ by construction and demolition activity from the trash. Recoverable Materials are
+ to be separated by material type and designated for recycling, repurposing, reuse,
+ or any other alternative recoverable management practice approved by the City.
+ (Ord. No. 
+21-2024
+, § 1, 1-14-2025)
+
+===== Sec. 29.02.040. - Recoverable materials list.
+(a)
+ The Recoverable Materials list identifies materials for which there is a local option
+ to reuse, recycle, or otherwise divert from the landfill. These materials are required
+ to be separated from the trash and repurposed. This list may be amended from time
+ to time by the City Engineer, or their designee, to adjust for changes in local recycling
+ and reuse marketplaces. The Recoverable Materials list is developed in consultation
+ with the Pitkin County Solid Waste Center and shall be available for public inspection
+ at the Community Development Department, the Engineering Department, and on the City
+ of Aspen's website. Projects may divert these materials to any locally available recycling
+ facility in addition to the Pitkin County Solid Waste Center for diversion.
+ (b)
+ Recoverable Materials include but are not limited to:
+ (1)
+ Concrete;
+ (2)
+ Corrugated cardboard;
+ (3)
+ Porcelain;
+ (4)
+ Metal appliances;
+ (5)
+ Asphalt;
+ (6)
+ Rock and dirt;
+ (7)
+ Metal;
+ (8)
+ Single stream recyclables;
+ (9)
+ Organics;
+ (10)
+ Untreated (no stain, paint, or chemical treatment) lumber and pallets;
+ (11)
+ Any other materials for which the City has determined there to be a local recycling
+ or reuse marketplace.
+ (Ord. No. 
+21-2024
+, § 1, 1-14-2025)
+
+===== Sec. 29.02.050. - Exemptions.
+The following are exempt from the provisions of this Chapter:
+ (a)
+ To the extent a recoverable material tests positive for asbestos, as determined by
+ a state certified asbestos inspector, it shall be exempt from the requirements of
+ this Chapter. Upon removal of all asbestos contaminated materials, the remaining Recoverable
+ Materials are expected to follow the requirements of this Chapter.
+ (b)
+ Projects unable to meet the minimum diversion requirements of this Chapter due to
+ an absence of Recoverable Materials may ask the City Engineer, or their designee,
+ for an exemption to the minimum requirements of this code upon demonstration to the
+ satisfaction of the City Engineer, or their designee that no Locally available recycling
+ or recovery facilities exist for the materials generated from the project's construction
+ activity.
+ (c)
+Right-of-way permits:
+ Projects permitted for alterations in the public right-of-way as determined by the
+ City Engineer shall be exempt from the requirements of this Chapter.
+ (Ord. No. 
+21-2024
+, § 1, 1-14-2025)
+
+===== Sec. 29.02.060. - Right-of-way usage.
+The City Engineering Department may, in its sole discretion, allow properties to locate
+ containers used for gathering and storing Recoverable Materials pursuant to this section
+ within public right-of-way where feasible, if the permittee can demonstrate that the
+ containers cannot be reasonably stored on the property where development is permitted.
+ The City Engineer, or their designee, may waive the encroachment permit fee for containers
+ used solely for the purposes of separation, storing, and diverting recoverable material.
+ If at any time such container is placed in the right of way pursuant to this section
+ and is not being used for purposes of diverting Recoverable Materials, the permittee
+ will be responsible to pay the encroachment fees, per square footage of the container's
+ footprint pursuant to 
+Section 2.12.051
+.
+ (Ord. No. 
+21-2024
+, § 1, 1-14-2025)
+
+===== Sec. 29.02.070. - C&D approval process.
+For all construction and demolition activities subject to the diversion requirements
+ set forth herein, the following items must be submitted to the City:
+ (a)
+ At permit submittal, the applicant shall submit a Diversion Recovery Plan (DRP) in
+ the City's designated waste tracking software. Incomplete or insufficient DPRs may
+ be deemed incomplete by the City Engineer or their designee. Permits for any development
+ on a parcel requiring a DRP will not be issued until a C&D Approval is granted by
+ the City Engineer, or their designee.
+ (b)
+ Issuance Fees: Upon C&D Approval and prior to permit issuance, the applicant shall
+ submit a refundable Diversion Compliance Deposit to the City of Aspen. The refundable
+ Diversion Compliance Deposit shall be calculated by applying the following equation:
+ Diversion Compliance Deposit =
+ (Construction Mitigation Square Footage X 0.05 tons/sq ft) X (Social Cost of Carbon
+ for C&D Materials*)
+ * Set forth in the Standard Fee Schedule of Chapter 
+2.12.051
+ (c)
+ Prior to permit issuance, the applicant must sign a Recoverable Materials Diversion
+ Acknowledgement Form.
+ (Ord. No. 
+21-2024
+, § 1, 1-14-2025)
+
+===== Sec. 29.02.080. - Diversion reporting requirements.
+(a)
+ The permittee or their designated project manager shall use the City's waste tracking
+ software to track and submit tickets and receipts for the disposal and diversion of
+ debris, on an ongoing basis, until the project is complete.
+ (b)
+ The permittee or their designated project manager is responsible for retaining and
+ submitting all receipts and related documentation accounting for the disposal and
+ diversion of C&D debris generated from the project. This includes tracking debris
+ generated from work conducted by sub-contractors.
+ (c)
+Prior to Building Inspection:
+ The City Engineer, or their designee, will review the projects account in the City's
+ waste tracking software for submissions and recordings of receipts related to disposal
+ and diversion of debris. Building inspections will not take place until an up to date
+ diversion report is approved by the City Engineer, or their designee.
+ (d)
+Prior to Final Building Inspection:
+ The permittee or their designated project manager must submit their finalized diversion
+ report in the City's waste tracking software for review and approval by the City Engineer,
+ or their designee, before a final building inspection may occur.
+ (Ord. No. 
+21-2024
+, § 1, 1-14-2025)
+
+===== Sec. 29.02.090. - Penalties and enforcement.
+(a)
+Municipal Court Penalties.
+ Any person violating any provision of this Chapter shall be subject to prosecution
+ in Municipal Court and upon conviction may be punished by a fine, imprisonment, or
+ both a fine and imprisonment, as set forth in Section 1.04.180 of this Code. Each
+ day any violation of this Chapter occurs or continues shall constitute a separate
+ offense.
+ (b)
+Stop Work Orders.
+ Whenever construction or other work being performed fails to comply with the requirements
+ of this Chapter, the City Engineer, or their designee, shall order the work stopped
+ by notice in writing served upon any person engaged in the doing or causing of such
+ violation. It shall be unlawful for any person to fail or refuse to obey such an order.
+ Each day that one so notified, or any other person who can reasonably be expected
+ to be informed of the notice, fails to comply with the order shall constitute a separate
+ offense. The City Engineer, or their designee, may withhold all deposits assessed
+ to the permittee if the project has been subject to a Stop Work Order.
+ (c)
+Unsorted Load Fee.
+ Any Unsorted Load disposed of in a landfill by a permittee, or their designee, shall
+ be assessed an administrative fee, in accordance with the guidelines set forth in
+ the City Engineer's Construction Mitigation Plan manual, based upon the total weight
+ of the Unsorted Load by the City Engineer, or their designee. The fee shall be determined
+ by multiplying the Social Cost of Carbon for C&D Materials by the total tonnage of
+ the Unsorted Load.
+ (1)
+ For example, the penalty for an Unsorted Load containing ten (10) tons of debris will
+ be calculated by multiplying the debris tonnage by the Social Cost of Carbon, as listed
+ in 
+Section 2.12.051
+. - Engineering Department fees.
+ (2)
+ 10 tons X $495 Social Cost of Carbon for C&D Materials = $4,950 unsorted load fee
+ (3)
+ Upon receipt of notice of a fee assessment issued for an Unsorted Load, the permittee
+ shall have thirty (30) days to pay the fee. Failure to pay an Unsorted Load Fee shall
+ be considered a violation of this Chapter.
+ (4)
+ All Unsorted Load fees shall be used by the City for the purposes of environmental
+ health and sustainability initiatives.
+ (d)
+ The City shall not issue a Certificate of Occupancy to the project if the permittee
+ has outstanding Unsorted Load fees or outstanding fines assessed due to a violation
+ of this Chapter.
+ (Ord. No. 
+21-2024
+, § 1, 1-14-2025)
+
+===== Sec. 29.02.100. - Diversion Compliance Deposit return.
+(a)
+ Permittees will be eligible for a refund of their Diversion Compliance Deposit if
+ they have diverted a minimum of fifty percent (50%) of the project's total tonnage
+ as reported in the Diversion Recovery Plan. Permittees that divert less than fifty
+ percent (50%) of the project's total tonnage as determined by the Diversion Reports
+ will not be eligible for a refund of their Diversion Compliance Deposit. In addition
+ to diverting fifty percent (50%) of the project's total tonnage, to receive a refund
+ of the Diversion Compliance Deposit the permittee must meet the following criteria:
+ (1)
+ The submission of a final Diversion Report which shall include submission of tickets,
+ receipts, or other means of proof, that the diversion of Recoverable Materials listed
+ in their initial Diversion Recovery Plan has been satisfied.
+ (2)
+ The permittee has paid all fees and fines assessed pursuant to this Chapter.
+ (3)
+ The records of the City Engineer demonstrate that the permittee did not receive any
+ stop work orders for violations of this Chapter.
+ (4)
+Undocumented diversion amounts:
+ Upon request of a permittee, the City Engineer, may at their discretion, consider
+ evidence of diversion by other means not listed in this Chapter and not identified
+ in the diversion recovery plan, which demonstrate the quantity of material diverted
+ and recovery practice utilized.
+ (5)
+ The City Engineer, at their discretion, may authorize the refund of the Diversion
+ Compliance Deposit if a permittee demonstrates that noncompliance was due to circumstances
+ outside of their control.
+ (b)
+ Permittees aggrieved by a decision of the City Engineer under this section may appeal
+ the decision pursuant to the procedures set forth in this Chapter.
+ (Ord. No. 
+21-2024
+, § 1, 1-14-2025)
+
+===== Sec. 29.02.110. - Appeal procedures.
+(a)
+Initiation.
+ An applicant or permittee aggrieved by an order, requirement, decision, or determination
+ of the City Engineer pursuant to this Title may appeal the decision of the City Engineer
+ to the Administrative Hearing Officer by filing a notice of appeal with the City Engineer.
+ The notice of appeal shall be filed with the City Engineer within fourteen (14) days
+ of the date of the order, requirement, decision or determination being appealed. The
+ notice of appeal shall state in detail the action appealed, the grounds for the appeal
+ and the relief sought. Failure to file such notice of appeal within the prescribed
+ time shall constitute a waiver of any rights under this Title to appeal any order,
+ requirements, decision or determination.
+ (b)
+Effect of filing an appeal.
+ The filing of a notice of appeal shall stay any proceedings in furtherance of the
+ action appealed from unless the City Engineer certifies in writing to the Administrative
+ Hearing Officer that a stay poses an imminent peril to life or property, in which
+ case the appeal shall not stay further proceedings. The Administrative Hearing Officer
+ may review such certification and grant or deny a stay of proceedings.
+ (c)
+Fee.
+ At the time of perfecting an appeal pursuant to this section, the appellant shall
+ be required to pay an appeal fee of two thousand dollars ($2,000.00) which fee may
+ be returned to the appellant at the discretion of the Administrative Hearing Officer
+ if the order, requirements, decision or determination of the City Engineer is reversed
+ or modified.
+ (d)
+Timing.
+ The Administrative Hearing Officer authorized to hear the appeal shall consider the
+ appeal within thirty (30) days of the date of filing the notice of appeal or as soon
+ thereafter as is practical under the circumstances.
+ (e)
+Standard of review.
+ Unless otherwise specifically stated in this Title, the Administrative Hearing Officer
+ authorized to hear the appeal shall decide the appe l based solely upon the written
+ decision and record established by the administrative body from which the appeal is
+ taken. A decision or determination shall not be reversed or modified unless there
+ is a finding that there was a denial of due process, or the administrative body has
+ exceeded its jurisdiction or abused its discretion.
+ (f)
+Action by Administrative Hearing Officer.
+ The Administrative Hearing Officer may reverse, affirm or modify the decision or
+ determination appealed from and, if the decision is modified, shall be deemed to have
+ all the powers of the City Engineer. The decision shall be approved by written resolution.
+ All appeals shall be public meetings. The Administrative Hearing Officer's decision
+ shall be submitted to both the City Engineer and the appellant in writing.
+ (Ord. No. 
+21-2024
+, § 1, 1-14-2025)

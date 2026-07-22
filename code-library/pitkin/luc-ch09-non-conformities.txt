@@ -1,0 +1,632 @@
+Chapter 9 - Non-Conformities
+
+
+CHAPTER 9 - INDEX
+
+9-10: GENERAL .................................................................................................................... 3
+9-20: SUBSTANDARD SIZE LOTS OR PARCELS ......................................................... 3
+9-20-10: GENERAL ............................................................................................................... 3
+9-20-20: CUMULATING OF SUBSTANDARD SIZE LOTS OR PARCELS ................ 3
+9-20-30: SEPARATION OF PLATTED SUBSTANDARD SIZE LOTS ......................... 4
+9-30: NON-CONFORMING USES ...................................................................................... 5
+9-30-10: AUTHORITY TO CONTINUE ............................................................................ 5
+9-30-20: NORMAL MAINTENANCE AND REPAIR....................................................... 5
+9-30-30: EXPANSION ........................................................................................................... 5
+9-30-40: RELOCATION ....................................................................................................... 5
+9-30-50: CHANGE IN USE ................................................................................................... 5
+9-30-60: ABANDONMENT OR DISCONTINUANCE ..................................................... 5
+9-30-70: DESTRUCTION OR DEMOLITION .................................................................. 5
+9-30-80: ACCESSORY USES ............................................................................................... 5
+9-40: NON-CONFORMING STRUCTURES ..................................................................... 6
+9-40-10: AUTHORITY TO CONTINUE ............................................................................ 6
+9-40-20: NORMAL MAINTENANCE AND REPAIR....................................................... 6
+9-40-30: EXTENSIONS ......................................................................................................... 6
+9-40-40: RELOCATION ....................................................................................................... 6
+9-40-50: UNSAFE STRUCTURE ......................................................................................... 6
+9-40-60: DESTRUCTION OR DEMOLITION .................................................................. 7
+9-40-70: ACCESSORY STRUCTURES .............................................................................. 7
+9-50: REPAIRS, RESTORATION, RECONSTRUCTION, REPLACEMENT,
+REMODEL, ADDITIONS AND ALTERATIONS TO NON-CONFORMING
+STRUCTURES OUTSIDE THE VC AND VR ZONE DISTRICTS ................................. 7
+9-50-10: GENERAL ............................................................................................................... 7
+9-50-20: RESTORATION WITHOUT SIGNIFICANT CHANGES ............................... 7
+9-50-30: RESTORATION OR EXPANSION OF NON-CONFORMING STRUCTURE
+OR USE WITH SIGNIFICANT CHANGES ....................................................................... 9
+9-50-40: EXPANSION OR REDEVELOPMENT OF NON-CONFORMING CIVIC
+AND INSTITUTIONAL USES............................................................................................ 10
+9-60: REPLACEMENT, RECONSTRUCTION OR RESTORATION IN THE VC
+AND VR ZONE DISTRICTS .............................................................................................. 12
+9-60-10: GENERAL ............................................................................................................. 12
+9-60-20: BUILDING PERMIT MUST BE ISSUED WITHIN TWO YEARS ............... 12
+9-60-30: LIMITATION OF FLOOR AREA ..................................................................... 13
+9-60-40: LOTS OR PARCELS CREATED THROUGH SUBDIVISION EXEMPTION
+................................................................................................................................................. 13
+9-60-50: DEVELOPMENT EXACTIONS ........................................................................ 13
+
+
+
+
+Pitkin County Land Use Code                      CHAPTER 9 – NON-CONFORMITIES
+July 2006                                                                                                                                        Page 1
+Chapter 9 - Non-Conformities
+
+INDEX OF TERMS
+___________________________________________________________________________
+
+Accessory Use or Structure (see also Use,      Non-conformity
+  Accessory and Temporary), 7                    Structure, 6, 7, 8, 9, 13
+Board of County Commissioners (BOCC),            Use, 3, 5, 9
+  3, 4, 9, 13                                  Non-conformity (general), 6, 8
+Building Permit, 7, 12, 13                     Replacement and Remodeling, 13
+Change in Use, 5                               Restoration, 7, 10, 13
+Chief Building Official, 6                     Subdivision Exemption, 13
+Community Development Director, 8              Unsafe Structure, 6
+Development Application, 7                     Use
+Development Exaction, 10, 13                     Accessory and Temporary, 5, 6
+Hotel, 13                                      Zone Districts
+Land Use Policies, 9                             Village Commercial (VC), 6, 7, 12, 13
+Lots or Parcels, substandard size, 3, 4          Village Residential – 6,000 Sq. Ft. Lot
+Master Plans (general), 10                         (VR), 6, 7, 12, 13
+Motel/Lodge, 13
+
+
+
+
+Pitkin County Land Use Code    CHAPTER 9 – NON-CONFORMITIES
+July 2006                                                                                  Page 2
+Chapter 9 - Non-Conformities
+
+CHAPTER 9: NON-CONFORMITIES
+
+9-10: GENERAL
+
+There are lots or parcels, uses, and structures within the zone districts established by this
+Land Use Code that were lawfully established prior to the adoption of this Land Use Code,
+that are in violation of the standards of this Land Use Code. The standards in this chapter
+regulate and limit the continued existence of non-conforming uses and structures. It is the
+intent of this chapter to permit these non-conformities to continue when in compliance with
+the following provisions.
+
+9-20: SUBSTANDARD SIZE LOTS OR PARCELS
+
+9-20-10: GENERAL
+
+A single family dwelling unit is a permitted use on any legally created lot or parcel made
+substandard as to size by the imposition of the initial adoption of the Pitkin County Zoning
+Resolution of 1955, or the adoption of any relevant amendment thereto subject to compliance
+with this Land Use Code. Land uses and structures that are accessory to the single family
+dwelling are permitted. Other uses may be permitted subject to underlying zoning.
+
+9-20-20: CUMULATING OF SUBSTANDARD SIZE LOTS OR PARCELS
+
+        (a) "Common ownership" of contiguous substandard size lots or parcels shall
+        cumulate with the exception that:
+
+                (1) Lots or parcels in subdivisions approved and signed by the Board of
+                County Commissioners shall not merge regardless of their size, unless the
+                owner has consented, and
+
+                (2) Pursuant to C.R.S. 30-28-139, on and after October 1, 2003, lots for
+                which the owner has not consented to merger shall not merge regardless of
+                their size.
+
+                (3) All mergers of contiguous substandard size lots shall follow the procedure
+                set forth in Sec. 2-40-90.
+
+        (b) The aggregate area of the lots or parcels shall be considered as one (1) lot or
+        parcel regardless of diverse times of acquisition by the common owner and whether
+        or not the property was acquired before adoption of this regulation.
+
+        (c) If a roadway in public fee ownership that was in place prior to June 2, 1975
+        provides access to contiguous substandard size lots and separates such lots, the lots
+        shall not cumulate unless the owner has consented.
+
+
+
+
+Pitkin County Land Use Code     CHAPTER 9 – NON-CONFORMITIES
+July 2006                                                                                       Page 3
+Chapter 9 - Non-Conformities
+
+9-20-30: SEPARATION OF PLATTED SUBSTANDARD SIZE LOTS
+
+The Planning Commission may permit the separation of legally platted substandard size lots
+or parcels that have not been approved by the Board of County Commissioners and that have
+cumulated pursuant to Sec. 9-20-20, subject to compliance with all of the standards in this
+section. In the case of multiple, cumulated substandard size lots, the County may limit the
+number of lots that may be separated and require lot lines to be reconfigured. Where
+substandard size lots are separated pursuant to this Sec. 9-20-30, and the original substandard
+would have qualified for a GMQS exemption pursuant to Sec. 6-30 because of the date of
+their creation, the resulting separated lots shall retain an exemption pursuant to Sec. 6-30
+equal to, but not greater than, the exemption that applied to the original lots.
+
+        (a) The lots must be located in a legally platted subdivision.
+
+        (b) The subdivision plat must have been legally recorded with the County Clerk in
+        compliance with all subdivision laws in effect at the time of recording.
+
+        (c) The Commission shall approve, deny, or limit the separation of cumulated
+        substandard size lots based upon consideration of the criteria.
+
+                (1) The number of substandard lots developed in the area and the effect of
+                separate development on the character of the neighborhood;
+
+                (2) The extent to which the lots comply with existing subdivision standards;
+
+                (3) The effect of separate development on available utilities, roads and other
+                public services;
+
+                (4) Any physical limitations of the lots;
+
+                (5) The configuration of the lots as it affects their suitability for separate
+                development;
+
+                (6) The degree of economic loss to the owner if separate development
+                permission is not granted;
+
+                (7) The history of acquisition including a consideration of the purposes of the
+                purchase and whether or not the lots were involuntarily acquired; and
+
+                (8) The historical use of the lots.
+
+
+
+
+Pitkin County Land Use Code      CHAPTER 9 – NON-CONFORMITIES
+July 2006                                                                                        Page 4
+Chapter 9 - Non-Conformities
+
+9-30: NON-CONFORMING USES
+
+9-30-10: AUTHORITY TO CONTINUE
+
+Legal non-conforming uses of land or structures may continue in accordance with the
+provisions of this Chapter 9.
+
+9-30-20: NORMAL MAINTENANCE AND REPAIR
+
+Normal maintenance and repair to permit continuation of non-conforming uses may be
+performed.
+
+9-30-30: EXPANSION
+
+Non-conforming uses shall not be expanded except pursuant to the standards in this Sec. 9-
+30. This prohibition shall be construed so as to prevent (a) occupancy of additional lands or
+(b) the enlargement of non-conforming uses by additions to the area of the structure in which
+such non-conforming uses are located.
+
+9-30-40: RELOCATION
+
+A non-conforming use may not be moved to another location on or off the parcel of land on
+which it is located, unless the use will then conform to the limitations of the zone district into
+which it is moved and receives necessary development approvals.
+
+9-30-50: CHANGE IN USE
+
+A non-conforming use shall not be changed to any other use unless the new use conforms to
+the provisions of the zone district in which it is located and receives necessary development
+approvals.
+
+9-30-60: ABANDONMENT OR DISCONTINUANCE
+
+Where a non-conforming use of land or non-conforming use of structure is discontinued or
+abandoned for twelve (12) consecutive months, then such use may not be re-established or
+resumed, and any subsequent use must conform to the provisions of this Land Use Code.
+
+9-30-70: DESTRUCTION OR DEMOLITION
+
+Any non-conforming use that is demolished or destroyed through any manner not willfully
+accomplished by the owner may be restored as of right, regardless of the extent of demolition
+or destruction, subject to compliance with the standards in Sec 9-50.
+
+9-30-80: ACCESSORY USES
+
+
+
+
+Pitkin County Land Use Code      CHAPTER 9 – NON-CONFORMITIES
+July 2006                                                                                       Page 5
+Chapter 9 - Non-Conformities
+
+Non-conforming accessory uses shall be discontinued after the principal use has terminated,
+unless the accessory use thereafter conforms as a principal or accessory use to the zone
+district standards for the zone in which it is located.
+
+9-40: NON-CONFORMING STRUCTURES
+
+9-40-10: AUTHORITY TO CONTINUE
+
+A non-conforming structure devoted to a use permitted in the zone district in which it is
+located may be continued in accordance with the provisions of this Chapter 9.
+
+9-40-20: NORMAL MAINTENANCE AND REPAIR
+
+Normal maintenance or repair to permit continuation of non-conforming structures may be
+performed.
+
+9-40-30: EXTENSIONS
+
+        (a) General
+
+        Except in the VC and VR zone districts, a non-conforming structure shall not be
+        extended by an enlargement or expansion that increases the non-conformity. A non-
+        conforming structure may be extended or altered in a manner that does not change or
+        that decreases the non-conformity, except pursuant to Sec. 9-50.
+
+        (b) VC and VR Zone Districts
+
+        In the VC and VR zone districts, a non-conforming structure shall not be extended by
+        an enlargement or expansion that increases the non-conformity, except pursuant to
+        Sec. 9-60. A non-conforming structure may be extended or altered in a manner that
+        does not increase the non-conformity.
+
+9-40-40: RELOCATION
+
+A non-conforming structure shall not be moved unless, after the move, it will conform to the
+standards and requirements of the zone district in which it is located.
+
+9-40-50: UNSAFE STRUCTURE
+
+        (a) General
+
+        Any portion of a non-conforming structure that becomes physically unsafe or
+        unlawful due to lack of repairs and maintenance, and that is declared unsafe or
+        unlawful by the Chief Building Official or Fire Marshal, but that an owner wishes to
+        restore, repair or rebuild, shall only be restored, repaired, or rebuilt subject to
+        compliance with the following standards:
+
+
+Pitkin County Land Use Code    CHAPTER 9 – NON-CONFORMITIES
+July 2006                                                                                      Page 6
+Chapter 9 - Non-Conformities
+
+
+                (1) If the property is located in any zone district other than the VC or VR
+                zone district, the restoration, repair, or rebuilding shall comply with the
+                standards in Sec. 9-50.
+
+                (2) If the property is located in the VC or VR zone district, the restoration,
+                repair, or rebuilding shall comply with the standards in Sec. 9-60.
+
+9-40-60: DESTRUCTION OR DEMOLITION
+
+A non-conforming structure that is demolished or destroyed to any extent may be restored as
+of right regardless of the extent of demolition or destruction pursuant to the standards in
+Secs. 9-50 or 9-60, whichever is applicable.
+
+9-40-70: ACCESSORY STRUCTURES
+
+Non-conforming accessory structures shall be removed after the principal structure has been
+destroyed or demolished unless the accessory structure thereafter shall conform to the
+standards of the zone district in which it is located.
+
+9-50: REPAIRS, RESTORATION, RECONSTRUCTION, REPLACEMENT,
+REMODEL, ADDITIONS AND ALTERATIONS TO NON-CONFORMING
+STRUCTURES OUTSIDE THE VC AND VR ZONE DISTRICTS
+
+9-50-10: GENERAL
+
+Any legally created non-conforming structure may be restored, repaired, replaced,
+remodeled, or added to subject to compliance with the standards in this section.
+
+9-50-20: RESTORATION WITHOUT SIGNIFICANT CHANGES
+
+A non-conforming structure may be restored without significant changes subject to the
+compliance with the standards in this section.
+
+        (a) Building Permit
+
+        A building permit for reconstruction must be issued within two (2) years of the date
+        of demolition or destruction, whichever occurs first. The Board may approve an
+        extension to the deadline if a development application is submitted and approved
+        according to the procedures and conditions outlined in Secs. 2-20-20 and 2-30-20.
+
+        (b) Conformance with Old Building or Use
+
+        The proposed building restoration must conform in terms of use, number of dwelling
+        units, configuration and area and bulk to the building that was partly or fully
+        demolished by the owner or that was destroyed. The restoration may include
+
+
+Pitkin County Land Use Code      CHAPTER 9 – NON-CONFORMITIES
+July 2006                                                                                        Page 7
+Chapter 9 - Non-Conformities
+
+        insignificant modifications to the original design if the Community Development
+        Director finds that such modifications are necessary to allow the use or structure to
+        meet basic life, health, and safety standards of the adopted building code.
+
+        (c) Restoration, Repair, Reconstruction, Replacement, Remodel, and Additions to
+        Legal Non-conforming Structures
+
+        A legal non-conforming structure may be expanded, repaired, restored, reconstructed,
+        replaced, or remodeled as long as the activity does not increase the non-conformity.
+        Prohibited enlargement of the non-conformity shall include, but not be limited to:
+        expansion of the gross floor area where the floor area for the zone district has been
+        exceeded and expansion of the structure in to the setbacks, including an increase in
+        the mass of the existing structure within the setbacks; expansion of the structure into
+        any other area where the development standards or the building codes prohibit
+        development. Expansion of the structure into the setbacks, including an increase in
+        the mass of the existing structure within the setbacks is prohibited, except in
+        riparian/wetland setbacks, in which height and bulk may be added to an existing
+        residential structure with no change to the existing footprint of the structure, subject
+        to compliance with the following criteria:
+
+                (1) A site specific analysis shall be submitted to prove that there is no area on
+                the property that can be used for expansion/development outside of he one
+                hundred (100) foot setback, without encroachment into the following area(s)
+                prohibited from development in Section 7 of the Land Use Code.
+
+                         (a) Slope;
+
+                         (b) Floodplain
+
+                         (c) Geologic Hazard
+
+                         (d) Reserved
+
+                         (e) Wildlife Habitat
+
+                (2) In the event that no developable area exists outside of the 100 foot
+                riparian/wetland setback, expansion of a structure shall be subject to
+                compliance with the following criteria:
+
+                         (a) The Environmental Health/Natural Resources Department finds
+                         that the related septic system or other wastewater treatment system
+                         may be adequately accommodated without detriment to the
+                         wetland/riparian stream habitat:
+
+                         (b) No Transferable Development Rights (TDRs) shall be used on site
+                         for any purpose;
+
+
+Pitkin County Land Use Code      CHAPTER 9 – NON-CONFORMITIES
+July 2006                                                                                       Page 8
+Chapter 9 - Non-Conformities
+
+
+                         (c) There shall not be removal of vegetation or other existing visual
+                         buffers between the proposed structure and the stream.
+
+                         (d) Expansion shall be limited to one additional floor directly over the
+                         existing footprint of the structure (footprint does not include
+                         appurtenant decks) (subject to all applicable Code provisions,
+                         including standard maximum height restrictions defined in Table 5-
+                         1A, “Dimensional Requirements.”); and
+
+                         (e) Expansion shall be limited to above-grade space only.
+
+                         Addition of height and bulk shall be subject to approval of a
+                         construction management plan by the Pitkin County Planning
+                         Engineer, and any other applicable permits.
+
+                (3) Notwithstanding paragraphs (1) and (2) above, any residential structure
+                that is legally non-conforming with respect to riparian/wetland setbacks is
+                permitted a one-time total 300 sq. ft. above grade attached expansion without
+                requirement of a demonstration that no developable area exists outside of the
+                100 foot setback area. This expansion must maintain at least a 50 foot
+                riparian/wetland setback, and there must be demonstration to the satisfaction
+                of the Environmental Health/Natural Resources Department that the
+                expansion can be sited without detriment to the wetland/riparian habitat. A
+                riparian/wetland mitigation plan that outlines improvement and/or restoration
+                of the subject property may be required to be submitted to the Community
+                Development Director for review, approval, and implementation as part of this
+                analysis in order to obtain this exemption.
+                .
+
+Code repealed and reenacted Ord. No. 14-d, 2006 - § 9-50-20 amended (part) Ord. 21-07,
+07-24-07; Ord. 024-08, 07-23-08; Ord. 002.2013, 01-23-13; Ord. 019-2026, 03-25-2026
+
+9-50-30: RESTORATION OR EXPANSION OF NON-CONFORMING STRUCTURE
+OR USE WITH SIGNIFICANT CHANGES
+
+The Board of County Commissioners may permit modifications to a non-conforming
+structure or use that does not meet the standards of Sec. 9-50-20, subject to compliance with
+the standards in this section.
+
+        (a) Adverse Impacts and County Land Use Policies
+
+        The Board of County Commissioners finds that any adverse impacts of the non-
+        conforming use or structure on the neighborhood or the County as a whole and any
+        inconsistencies with County Land Use Policies in Chapter 1 to be tolerable.
+
+
+
+Pitkin County Land Use Code       CHAPTER 9 – NON-CONFORMITIES
+July 2006                                                                                        Page 9
+Chapter 9 - Non-Conformities
+
+        (b) Consistency with Master Plans
+
+        The structure or use is generally consistent with adopted master plans for the area and
+        adjacent land uses.
+
+        (c) Building Code Standards, Hardships or Improvements to Function and
+        Appearance
+
+        The applicant demonstrates that the purpose of the development is to:
+
+                (1) Meet practical difficulties and hardships that arise from the existing
+                restrictions upon repair, alteration or restoration; or
+
+                (2) Improve the function and appearance of the structure.
+
+        (d) Development Exactions and Impact Fees
+
+        The applicant makes all required dedications to the County in accordance with the
+        standards in Chapter 8 for any additional development that is approved pursuant to
+        this Sec. 9-50-30.
+
+Code repealed and reenacted Ord. No. 14-d, 2006 - § 9-50-30 amended (part) Ord. 21-07,
+07-24-07; Ord. 024-08, 07-23-08; Ord. 019-09, 06-24-09)
+
+
+9-50-40: EXPANSION OR REDEVELOPMENT OF NON-CONFORMING CIVIC
+AND INSTITUTIONAL USES
+
+Existing, legally-established civic and institutional uses that are non-conforming uses shall be
+allowed to remain as non-conforming uses and the Board of County Commissioners may
+permit expansion and redevelopment of such uses by special review, subject to satisfaction of
+each of the following criteria:
+
+        (a) Standards
+
+                (1) At the time the use of the property was established such use must have
+                been legally created and in substantial conformance with the land use
+                approvals granting such use (if any); and
+
+                (2) The proposal for expansion of the non-conforming use or re-development
+                of structures associated with the non-conforming use shall be consistent with
+                neighborhood master plans. The proposal shall not change the character of
+                the immediately adjacent neighborhood and shall not, except as otherwise
+                permitted in this Section, increase the impacts of the use on either the
+                surrounding neighborhood or the master plan area; and
+
+
+
+Pitkin County Land Use Code      CHAPTER 9 – NON-CONFORMITIES
+July 2006                                                                                    Page 10
+Chapter 9 - Non-Conformities
+
+                (3) The applicant has demonstrated that the expansion or re-development is
+                the minimum expansion or re-development necessary to sustain the operation;
+                and
+
+                (4) In no event shall there be:
+
+                         (a) Any increase in the floor area of more than a cumulative total of
+                         20% of the existing built floor area of the non-conforming use on the
+                         property (20% shall be assessed against built, rather than approved, but
+                         as of yet un-built floor area;) and
+
+                         (b) Any change in the existing developed use of the property, except
+                         that accessory uses may be approved that do not create impacts to the
+                         immediately surrounding neighborhood in addition to any impacts
+                         created by the existing developed use. For purposes of this
+                         subparagraph, one residential unit for an on-site caretaker or property
+                         manager (which may include a Caretaker Unit(“CDU”)) shall not be
+                         considered a change in use; and
+
+                         (c) Any increase in the number of free market residential dwelling
+                         units on the property; and
+
+                         (d) Any increase in traffic impacts to the public roads serving the
+                         property that are not satisfactorily mitigated.
+
+                (5) The applicant shall prepare a site-specific master plan for the property,
+                which shall be subject to approval by the Board after the plan has first been
+                reviewed by P&Z and a recommendation from the P&Z has been received.
+                The master plan shall include plans for the entire property and shall address, at
+                a minimum, the short-term and long-term plans for the following: proposed
+                revisions to the site layout; architectural renderings, including buildings and
+                other structures and landscaping; volume parking limitations (including
+                mitigation of visual impacts) and traffic mitigation; employee limitation; the
+                daily, monthly, yearly and special event volume of activity on the property;
+                accessory uses and structures, if any; agricultural uses and structures, if any;
+                permanent limitations on future development; and other items deemed
+                relevant and requested by the County. All new development shall comply with
+                Development Standards and criteria in Chapter 7 of the Land Use Code.
+
+        (b) Additional Review Guidelines.
+
+                (1) The standards and criteria set forth in this section shall be applied to the
+                actual development on the property as of January 1, 2006, but in no event may
+                the development exceed the floor area permitted under prior approvals.
+
+
+
+
+Pitkin County Land Use Code       CHAPTER 9 – NON-CONFORMITIES
+July 2006                                                                                      Page 11
+Chapter 9 - Non-Conformities
+
+                (2) If the development has been undertaken on two or more properties that are
+                not contiguous to each other, then the standards and criteria of this section
+                shall be applied separately to each such property through an individual site
+                impact analysis.
+
+        (c) Reversion to Underlying Zoning
+
+                (1) If the existing, legally established non-conforming civic and institutional
+                use ceases operation for any consecutive 12 month period, all uses and
+                structures must immediately be brought in to conformance with the underlying
+                zone district regulations. If cessation of operation is due to demolition or
+                destruction through any manner not willfully accomplished by the owner,
+                uses/structures may be restored as of right pursuant to Section 9-30-70 of the
+                Land Use Code,
+
+                (2) If the property associated with the use and/or the use is transferred or
+                conveyed to different ownership at any time, the use(s) and structures shall
+                remain entirely unchanged and in compliance with special review and master
+                plan approvals. In the event that change in ownership results in change to the
+                use(s) and/or structure(s), all special review and master plan approvals
+                relating to the non-conforming use shall expire, and all uses and structures
+                must immediately be brought into conformance with the underlying zone
+                district regulations.
+
+(Code repealed and reenacted by Ord. 014-D-2006, 07-05-08; § 9-50-40 added Ord. 023-07,
+08-28-07)
+
+
+9-60: REPLACEMENT, RECONSTRUCTION OR RESTORATION IN THE VC
+AND VR ZONE DISTRICTS
+
+9-60-10: GENERAL
+
+Non-conforming structures within the VR and VC zone districts that are existing as of May
+13, 2003, may be replaced, reconstructed or restored, subject to compliance with the Historic
+Preservation Guidelines and the following standards.
+
+
+9-60-20: BUILDING PERMIT MUST BE ISSUED WITHIN TWO YEARS
+
+A building permit for replacement, reconstruction or restoration must be issued within two
+(2) years of the date of demolition or destruction, whichever occurs first. The Board may
+approve an extension to the two (2) year deadline.
+
+
+
+
+Pitkin County Land Use Code     CHAPTER 9 – NON-CONFORMITIES
+July 2006                                                                                    Page 12
+Chapter 9 - Non-Conformities
+
+9-60-30: LIMITATION OF FLOOR AREA
+
+The replacement structure shall be limited to the floor area of the replaced structure, but not
+the existing footprint, as long as the location complies with the dimensional requirements of
+the applicable zone district. Within the VC zone district only, an increase in the floor area of
+an existing hotel/motel/lodge may be permitted by the Board of County Commissioners,
+subject to the special review process in Sec. 2-40-20.
+
+
+9-60-40: LOTS OR PARCELS CREATED THROUGH SUBDIVISION EXEMPTION
+
+An existing non-conforming structure in the VC or VR zone districts that is located on a lot
+or parcel created pursuant to the subdivision exemption in Sec. 2-30-30 may only be replaced
+subject to compliance with all of the dimensional standards in the applicable zone district and
+the Historic Preservation Guidelines.
+
+
+9-60-50: DEVELOPMENT EXACTIONS
+
+The applicant shall make all required dedications to the County in accordance with the
+standards in Chapter 8 for any additional development that is approved pursuant to this Sec.
+9-60.
+
+
+
+
+Pitkin County Land Use Code     CHAPTER 9 – NON-CONFORMITIES
+July 2006                                                                                     Page 13
+Chapter 9 - Non-Conformities
+
+
+                              This page left blank intentionally
+
+
+
+
+Pitkin County Land Use Code       CHAPTER 9 – NON-CONFORMITIES
+July 2006                                                          Page 14
+

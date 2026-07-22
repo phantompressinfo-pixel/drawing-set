@@ -1,0 +1,2511 @@
+# CITY OF ASPEN MUNICIPAL CODE — TITLE 13 - HEALTH AND QUALITY OF ENVIRONMENT
+# Source: Municode (api.municode.com), Supp. No. 7 Update 1, codified through Ord. No. 06-2026 (enacted 2026-03-24)
+# Retrieved: 2026-07-22
+
+
+===== TITLE 13 -       HEALTH AND QUALITY OF ENVIRONMENT      
+Footnotes: 
+ --- (
+1
+) ---
+Editor's note—
+ Section 3 of Ord. No. 35-1985 revised former Ch. 11 by designating §§ 11-1.1—11-1.10
+ as Article I, §§ 11-2.1—11-2.9 as Article II and §§ 11-3.1—11-3.3 as Article III,
+ to allow for the inclusion in said chapter of new Article IV. During the 1995 recodification,
+ each of the above Articles were codified as separate chapters to this Title 13.
+Cross reference— 
+ Rabies control, § 6.12.010 et seq.; noise abatement, Title 18; solid waste, Title 12; impoundment of motor vehicles, § 24.08.010.
+
+===== Chapter 13.01. - ECOLOGICAL BILL OF RIGHTS
+
+
+===== Sec. 13.01.010. - Ecological Bill of Rights.
+The City shall from time to time adopt an Ecological Bill of Rights that establishes
+ and projects the City's philosophy for protecting environmental quality. The Ecological
+ Bill of Rights shall serve as one (1) of the guides to all land use development and
+ planning, based on the philosophy of "allowing the use of our natural resources, but
+ not depleting them beyond their ability to recover at their natural rate." The City
+ shall from time to time adopt and update action steps to accomplish the goals in the
+ Ecological Bill of Rights. Once adopted, the Ecological Bill of Rights shall be made
+ available for public inspection in the City Clerk's office, the Community Development
+ Department and the Environmental Health Department.
+ (
+Ord. No. 13-2000
+, § 1)
+
+===== Chapter 13.04. -         WATER QUALITY        
+Footnotes: 
+ --- (
+2
+) ---
+Cross reference— 
+ Water service.
+
+===== Sec. 13.04.010. - Definitions.
+The following words, terms and phrases, when used in this Chapter shall have the meanings
+ ascribed to them in this Section, except where the context clearly indicates a different
+ meaning:
+Composting Toilet
+ shall mean a human waste disposal system consisting of a toilet that uses little
+ or no water connected to a specially built tank in which waste material is decomposed
+ by aerobic bacteria.
+Enjoined
+ shall include temporary, preliminary and permanent injunctive relief.
+Municipal water supplies
+ means all surface and underground water rights, whether absolutely or conditionally
+ decreed, of the City, which are used or are capable of being used for any beneficial
+ purpose, including, without limitation, municipal, commercial, aesthetic, irrigation,
+ minimum stream flow, fish and game propagation, recreation, domestic, industrial uses
+ and augmentation and exchange.
+Nonpoint source
+ means any source of pollutant other than a point source and includes, without limitation,
+ water use and development practices, activities which encroach on riparian areas,
+ vegetation disturbance, soil disturbance and earth movement, impervious cover and
+ storm water runoff from developed areas.
+Permit
+ means a permit lawfully issued pursuant to Public Law 92-500, the Federal Water Pollution
+ Control Act Amendments of 1972 (33 U.S.C. 1251, et seq.) or pursuant to C.R.S. § 25-8-501
+ et seq.
+Person
+ means an individual, corporation, partnership, association, municipality, district,
+ federal or state agency, commission or other state or federal body or political subdivision
+ thereof.
+Point source
+ means any discernible, confined and discrete conveyance, including, but not limited
+ to, any pipe, ditch, channel, tunnel, conduit, well, discrete fissure, container,
+ rolling stock or concentrated animal feeding operation from which pollutants are or
+ may be discharged.
+Pollutant
+ means dredged spoil, solid waste, incinerator residue, sewage, garbage, sewage sludge,
+ munitions, chemical waste, biological materials, radioactive materials, heat, wrecked
+ or discarded equipment, rock, sand, cellar dirt and industrial, municipal and agricultural
+ waste dirt and slurry.
+Presumption
+ means that any person charged with the waste of water resources shall bear the burden
+ of proving that the water diversions which were wasted did not contribute to or result
+ in a degradation of the water quality standards set forth in 
+Section 13.04.020
+ below.
+Sources
+ means any area which contributes to the water supply of any stream or river and includes,
+ without limitation, any drainage basin or underground aquifer.
+Waste
+ means the failure to apply water diverted from any source which contributes to municipal
+ water supplies to a beneficial use and includes, without limitation, causing or permitting
+ the application of water in excess of that reasonably required to accomplish the purpose
+ or purposes for which the water is diverted; permitting water to escape from ditches,
+ canals or other structures in excess of reasonable loss; and any diversion of water
+ rights decreed for a given purpose under circumstance which cannot reasonably justify
+ such usage.
+ (Code 1971, § 11-1.1; 
+Ord. No. 44-1981
+, § 1; 
+Ord. No. 12-1983,
+ § 2; 
+Ord. No. 16-2012
+)
+
+===== Sec. 13.04.020. - Water quality standards.
+Within the jurisdictional areas set forth in 
+Section 13.04.030
+ below, the standards for water quality shall be those standards adopted from time
+ to time by the Water Quality Control Commission pursuant to C.R.S. §§ 25-8-202(b)
+ and 25-8-404, as applicable to the waters located within the jurisdiction of this
+ Chapter. Said standards are incorporated herein by reference.
+ (Code 1971, § 11-1.2; 
+Ord. No. 44-1981
+, § 1; 
+Ord. No. 12-1983
+, §§ 2, 3[a])
+
+===== Sec. 13.04.030. - Jurisdiction for water quality.
+Pursuant to C.R.S. § 31-15-707(1), and for the purpose of maintaining and protecting
+ its municipal water supply from injury and pollution, the City shall exercise regulatory
+ and supervisory jurisdiction within the incorporated limits of the City of Aspen and
+ over all streams and sources contributing to municipal water supplies for a distance
+ of five (5) miles above the points from which municipal water supplies are diverted.
+ (Code 1971, § 11-1.3; 
+Ord. No. 44-1981
+, § 1; 
+Ord. No. 12-1983
+, § 2)
+
+===== Sec. 13.04.040. - Discharges unlawful.
+Within the jurisdictional areas defined in 
+Section 13.04.030
+ above, it shall be unlawful for any person to discharge from either a point on a
+ nonpoint source any pollutant or engage in any activity which will result in the degradation
+ of water quality below the standards set forth in 
+Section 13.04.020
+ above.
+ (Code 1971, § 11-1.4; 
+Ord. No. 44-1981
+, § 1; 
+Ord. No. 12-1983
+, §§ 2, 3(b))
+
+===== Sec. 13.04.050. - Waste prohibited.
+Within the jurisdictional areas defined in 
+Section 13.04.030
+ above, it shall be unlawful for any person to waste water resources. The failure
+ to apply water to a beneficial use shall give rise to a presumption of waste.
+ (Code 1971, § 11-1.5; 
+Ord. No. 44-1981
+, § 1; 
+Ord. No. 12-1983
+, §§ 2, 3[c])
+
+===== Sec. 13.04.060. - Compliance with permits.
+Compliance with an applicable permit held by any person charged with a violation of
+ this Chapter shall constitute an absolute defense to any such violation.
+ (Code 1971, § 11-1.6; 
+Ord. No. 44-1981
+, § 1; 
+Ord. No. 12-1983
+, § 2)
+
+===== Sec. 13.04.070. - On-site waste disposal system.
+(a)
+ It shall be unlawful for the owner or occupant of any building used for residence
+ or business purposes within the City to construct or reconstruct an on-site sewage
+ disposal device for the purpose of collecting, storing or disposing of sewage; provided,
+ however, that temporary, self-contained privies may be placed on construction sites
+ or at public gatherings for the duration of the construction or attraction. These
+ temporary facilities shall be maintained in a clean and sanitary condition at all
+ times.
+ (b)
+ If any structure within the jurisdictional limits defined in 
+Section 13.04.030
+ above is currently being served by an on-site sewage disposal system and that system
+ fails or malfunctions to the extent that it no longer is treating waste effectively
+ and a danger is created that pollution of the City's water supply or ground water
+ may occur, the owner or occupant shall make application within five (5) days from
+ the date on which the owner or occupant first learns of said failure or malfunction
+ to the applicable sanitation district for attachment of the structure to the public
+ sewage system. If said structure is not within a sanitation district or capable of
+ being attached to a public sewage system, the owner or occupant shall be responsible
+ for controlling, repairing or replacing said failure or malfunction within five (5)
+ days from the date on which said owner or occupant first learns of said failure or
+ malfunction. If such an on-site sewage disposal system is to be installed, it shall
+ be done so in conformance with "Pitkin County Regulations on Sewage Disposal Systems."
+ Any malfunction or failure of an on-site waste disposal system is hereby defined to
+ be a public nuisance.
+ (c)
+ Notwithstanding any provision herein to the contrary, at the sole discretion of the
+ Environmental Health Director, a composting toilet may be constructed upon publicly
+ owned property or upon privately owned property within the City of Aspen in excess
+ of five (5) acres. Such composting toilet shall be constructed and maintained pursuant
+ to standards issued by the Environmental Health Department. If in the opinion of the
+ Environmental Health Director any approved and installed composting toilet constitutes
+ a potential threat to the public health, then the Environmental Health Director shall
+ require improvements to the constructed toilet or to the maintenance procedures or
+ shall revoke permission for use of the composting toilet. Any such requirements, including
+ removal of the toilet, shall be completed by the property owner within ten (10) days
+ of notice from the Environmental Health Director.
+ (Code 1971, § 11-1.7; 
+Ord. No. 44-1981
+, § 1; 
+Ord. No. 12-1983
+, §§ 2, 3[c]; 
+Ord. No. 16- 2012)
+
+===== Sec. 13.04.080. - Disposal of animal carcasses.
+Any animal which shall be killed or die from any cause in the City or within one hundred
+ (100) feet of the banks of Maroon Creek, Castle Creek, Hunter Creek, the Roaring Fork
+ River or any tributary thereto that is within the jurisdictional limits defined in
+Section 13.04.030
+ above shall be at once removed to a designated landfill by the owner or person having
+ had such animal in his or her possession, control or charge and the carcass of such
+ animal shall be buried or disposed of in a sanitary manner. If ownership of the animal
+ cannot be determined, it shall be the responsibility of the animal control department
+ to pick up and dispose of such an animal carcass as herein provided.
+ (Code 1971, § 11-1.8; 
+Ord. No. 44-1981
+, § 1; 
+Ord. No. 12-1983
+, §§ 2, 3[c])
+
+===== Sec. 13.04.090. - Specific activities causing pollution.
+(a)
+ It shall be unlawful for any person or persons to have, keep or maintain any grazing
+ livestock or other animal within one hundred (100) feet of any water treatment facility,
+ reservoir, intake point, distribution stream, trench, inlet pipe or drain comprising
+ a part of the City of Aspen municipal water facility.
+ (b)
+ It shall be unlawful for any person to bathe or swim in any of the reservoirs or other
+ part of the Aspen water utility.
+ (Code 1971, § 11-1.9; 
+Ord. No. 44-1981
+, § 1; 
+Ord. No. 12-1983
+, § 2)
+
+===== Sec. 13.04.100. - Accumulation of standing water on land regulated.
+It shall be unlawful for any person owning or occupying any premises, lot or parcel
+ of land within the jurisdictional limits defined in 
+Section 13.04.030
+ above to allow an accumulation of standing water that is or is likely to become offensive
+ or injurious to the public health. Any person owning or occupying any premises, lot
+ or parcel of land whereupon water shall be standing as aforesaid shall be deemed guilty
+ of creating and maintaining a public nuisance.
+ (Code 1971, § 11-1.10; 
+Ord. No. 44-1981
+, § 1; 
+Ord. No. 12-1983,
+ §§ 2, 3(c))
+
+===== Chapter 13.08. - AIR QUALITY
+
+
+===== Sec. 13.08.010. - Air quality, declaration of policy.
+The City Council hereby finds and declares that air quality is an important component
+ of the health, safety and welfare of the citizens and community of the City and that
+ the air quality in and around the City is threatened by various pollutants. The City
+ Council finds and declares that it has a duty to not only protect and improve the
+ air quality in and around the City for the health, safety and general welfare of the
+ City but also for the economic and aesthetic well-being of the City as a resort community
+ and to preserve the scenic natural resources of the community. To this end, it is
+ the purpose of these 
+Sections 13.08.010
+ through 
+13.08.060
+ to achieve the maximum practical degree of air purity possible by requiring the use
+ of all available practical methods and techniques to control, prevent and reduce air
+ pollution throughout the City and to maintain a cooperative air quality program with
+ the County, the State and the United States Environmental Protection Agency. It is
+ further declared that the control, prevention and abatement of air pollution within
+ the City is a matter of significant local interest and that the following regulations
+ are enacted by the exercise of the City's police powers, including those granted to
+ the City pursuant to C.R.S. § 25-7-128, as amended.
+ (Code 1971, § 11-2.1; 
+Ord. No. 12-1983
+, § 6; 
+Ord. No. 74-1992,
+ § 1)
+
+===== Sec. 13.08.020. - Definitions.
+The following words, terms and phrases, when used in this Chapter shall have the meanings
+ ascribed to them in this Section, except where the context clearly indicates a different
+ meaning:
+Charbroiler
+ shall mean a cooking device in a commercial food service establishment, either gas
+ fired or using charcoal or other fuel, upon which grease drips down upon an open flame,
+ charcoal or embers.
+Commission
+ shall mean the Colorado Air Quality Control Commission.
+Decorative gas appliance
+ shall mean a device utilizing natural gas as a fuel designed to appear as a real
+ fireplace with a four (4) to five (5) inch Class B vent, fixed glass doors and a fire
+ box no deeper than twenty-four (24) inches.
+Food service establishment
+ shall have the same meaning as the definition for the term in C.R.S. § 12-44-202,
+ as amended.
+High-fat-content meat
+ shall mean any meat and/or the meat portion of any meat product having a precooked
+ fat percentage equal to or greater than fifteen percent (15%) by weight according
+ to established laboratory testing procedures as determined by the department, such
+ meat and/or meat products including, without limitation, hamburger, chopped beef,
+ ground beef, beef sausage, beef ribs, pork sausage, pork ribs and sausage made from
+ any form of meat or combinations of meats.
+ (Code 1971, § 11-2.2; 
+Ord. No. 12-1983
+, § 6; 
+Ord. No. 5-1986
+, § 2; 
+Ord. No. 20-1988,
+ § 1; 
+Ord. No. 74-1992
+, § 1; 
+Ord. No. 47-1993
+, § 1; 
+Ord. No. 7-1999
+, § 1; 
+Ord. No. 40-2000
+, § 1 (part))
+
+===== Sec. 13.08.030. - Reserved.
+Editor's note— 
+ Ord. No. 40-2000, § 1, repealed former § 13.08.030, pertaining to establishment of
+ the Clean Air Advisory Board. Former § 13.08.030 was derived from Code 1971, § 11-2.3
+ and Ord. No. 74-1992, § 1.
+
+===== Sec. 13.08.040. - Reserved.
+Editor's note— 
+ Ord. No. 40-2000, § 1, repealed former § 13.08.040, pertaining to composition and
+ terms of the Clean Air Advisory Board. Former § 13.08.040 was derived from Code 1971,
+ § 11-2.4 and Ord. No. 74-1992, § 1.
+
+===== Sec. 13.08.050. - Reserved.
+Editor's note— 
+ Ord. No. 40-2000, § 1, repealed former § 13.08.050, pertaining to powers and duties
+ of the Clean Air Advisory Board. Former § 13.08.050 was derived from Code 1971, §
+ 11-2.5 and Ord. No. 74-1992, § 1.
+
+===== Sec. 13.08.060. - Reserved.
+Editor's note— 
+ Ord. No. 40-2000, § 1, repealed former § 13.08.050, pertaining to powers and duties
+ of the Clean Air Advisory Board. Former § 13.08.050 was derived from Code 1971, §
+ 11-2.6 and Ord. No. 74-1992, § 1.
+
+===== Sec. 13.08.070. - Fireplaces and woodstoves.
+(a)
+ No person shall repair, alter, move, install or reinstall a solid fuel-burning device
+ or gas log fireplace without having first obtained a building permit in accordance
+ with 
+Title 8
+ of this Code.
+ (b)
+ No person shall replace a solid fuel burning device which is substantially destroyed,
+ demolished or in need of replacement with another solid fuel burning device, unless
+ the replacement is a Department certified device. Solid fuel burning devices lawfully
+ existing and installed as of the date of enactment of this ordinance may be repaired
+ to the extent that such repair, in the reasonable judgment of the Chief Building Inspector,
+ is necessary to prevent the existence of an unsafe condition and that such repair
+ will not affect the fire box.
+ (c)
+ No person shall install a solid-fuel-burning device in any building unless it is a
+ Department certified device.
+ (d)
+ No person shall install more than two (2) Department certified devices in any single
+ building.
+ (e)
+ Each new solid-fuel-burning device, gas log fireplace or gas appliance shall be registered
+ with the department upon installation and prior to final approval of such installation
+ by the Department. Such registration shall be obtained by submission of the stove
+ and fireplace registration form provided by the department and upon payment of the
+ fee prescribed by 
+Title 2
+ of this Code.
+ (f)
+ Notwithstanding any provision of this Section to the contrary, any pre-existing wood
+ burning fireplace which is destroyed or demolished by an act of God or through any
+ manner not willfully accomplished by the owner may be restored as of right with a
+ gas log fireplace; provided, however, that a building permit for reconstruction shall
+ be issued within twelve (12) months of the date of the demolition or destruction.
+ (Code 1971, § 11-2.10; 
+Ord. No. 12-1983
+, § 6; 
+Ord. No. 5-1986
+, § 3; 
+Ord. No. 20-1988
+, §§ 1—4; 
+Ord. No. 38-1988
+, § 1; 
+Ord. No. 48-1988
+, § 1; 
+Ord. No. 54-1989
+, §§ 1, 2; 
+Ord. No. 74-1992
+, § 1; 
+Ord. No. 29-1993
+, § 1; 
+Ord. No. 7-1999
+, § 2)
+
+===== Sec. 13.08.080. - Coal burning prohibition.
+No person shall burn coal in a solid-fuel-burning device.
+ (Code 1971, § 11-2.11; 
+Ord. No. 74-1992,
+ § 1; 
+Ord. No. 7-1999
+, § 3)
+
+===== Sec. 13.08.090. - Non-owner occupied dwelling units.
+No property owner shall rent a building if a fireplace or woodstove is the sole source
+ of heat. Property owners and not tenants, shall be liable for any penalty imposed
+ for a violation of this Section.
+ (Code 1971, § 11-2.12; 
+Ord. No. 74-1992
+, § 1; 
+Ord. No. 7-1999
+, § 4)
+
+===== Sec. 13.08.100. - Restaurant grills.
+It shall be unlawful for any person to construct, maintain or operate a restaurant
+ grill in a commercial food service operation within the City in a manner not in compliance
+ with this Section.
+ (a)
+ Charbroilers installed in food service establishments on or after January 1, 1993,
+ shall install, operate and maintain a control device that reduces uncontrolled PM10
+ emissions by at least ninety percent (90%), according to manufacturer specified removal
+ efficiencies. This Subsection (a) shall not apply to the replacement of an existing
+ charbroiler with a charbroiler having a cooking surface area that is less than or
+ equal to the cooking surface of the charbroiler being replaced. Food service establishments
+ with charbroilers that re-open for business after being closed for a period of six
+ (6) months or more shall be subject to the provisions of this Subsection to the same
+ extent as food service establishments that install charbroilers on or after January
+ 1, 1993. Control devices required by this Subsection (a) shall be maintained according
+ to manufacturer's recommended guidelines. All owners and operators of food service
+ establishments subject to the provisions of this Subsection (a) shall maintain records
+ containing the control device's installation date, manufacturer's recommended guidelines
+ and the actual maintenance performed on the control device.
+ (b)
+ Charbroilers installed in a food service establishment after April 25, 1983 but before
+ January 1, 1993, shall not be used to cook high-fat-content meat unless an emission
+ control device that reduces uncontrolled PM10 emissions by at least ninety percent
+ (90%) according to manufacturer specified removal efficiencies is installed and thereafter
+ operated in accordance with manufacturer's suggested guidelines or instructions. Owners
+ and operators of food service establishments subject to the provisions of this Subsection
+ (b) who claim to serve meat that is not high-fat-content shall allow the Department
+ to enter upon the establishment at all times reasonable for the purpose of obtaining
+ a sample of meats prepared on the charbroiler or to review and evaluate test data
+ maintained by the establishment illustrating the fat-content levels of the meat prepared
+ in such establishment.
+ (c)
+ Notwithstanding any provision to the contrary as contained hereinabove, food service
+ establishments shall be exempt from the limitations as set forth in this 
+Section 13.08.100
+ above for up to four (4) days per year during a period commencing May 1 and ending
+ October 30 so as to accommodate the utilization of outdoor charbroilers in food preparation.
+ Such exemptions shall be subject to those rules and regulations as may be adopted
+ from time to time by the City Manager to implement this Subsection.
+ (Code 1971, § 11-2.30; 
+Ord. No. 12-1983
+, § 6; 
+Ord. No. 74-1992
+, § 1; 
+Ord. No. 47-1993
+, § 2)
+
+===== Sec. 13.08.110. - Engine idling.
+(a)
+ Except as hereinafter provided, it shall be unlawful for any person to idle or permit
+ the idling of the motor of any stationary motor vehicle for a prolonged or unreasonable
+ period of time determined herein to be five (5) minutes or more within any one (1)
+ hour period of time.
+ (b)
+ This Section shall not apply when an engine must be operated in the idle mode for
+ safety reasons including, but not limited to, the operation of cranes and forklifts
+ used in the construction industry.
+ (c)
+ The time required by a diesel-powered motor vehicle with a gross weight rating of
+ ten thousand (10,000) pounds or more while operating in a stationary position to achieve
+ a temperature of one hundred twenty (120) degrees Fahrenheit and an air pressure of
+ one hundred (100) pounds per square inch, shall not be included in the computation
+ of the five (5) minutes determined herein to be a prolonged or unreasonable period
+ of time. The temperature and air pressure as indicated on the vehicle's gauges may
+ be used for determining the diesel engine's temperature and air pressure.
+ (d)
+ The time during which transportation vehicles are actively loading or discharging
+ passengers shall not be included in the computation of the five (5) minutes determined
+ herein to be a prolonged or unreasonable period of time. A 
+transportation vehicle
+ shall be defined for purposes of this Section to mean motor vehicles designed to
+ transport a minimum of sixteen (16) persons.
+ (Code 1971, § 11-2.70; 
+Ord. No 74-1992
+, § 1)
+
+===== Sec. 13.08.120. - Smoking Vehicles.
+Editor's note— 
+ See subsequent Sections 13.08.120.01—13.08.120.06 for provisions pertaining to smoking
+ vehicles.
+13.08.120.01 Applicability and Statement of Purpose.
+ (a)
+Applicability.
+ This Chapter applies to diesel-powered motor vehicles having a gross vehicle weight
+ rating of 14,001 or more pounds, which are considered heavy duty diesel vehicles (HDDV).
+ (b)
+Purpose.
+ Aspen's Outdoor Air Quality program manages many air quality measures and develops
+ new programs and projects that continue to protect our air quality with a changing
+ climate. The Opacity Standard on HDDVs will improve Aspen's air quality by allowing
+ for the local enforcement of a state Opacity Standard for HDDVs.
+13.08.120.02 Definitions
+.
+Air Pollutant
+ means any fume, smoke, particulate matter, vapor or gas or any combination thereof,
+ but does not include water vapor or steam condensate.
+Emission
+ shall mean the discharge or release of one (1) or more Air Pollutants into the atmosphere.
+Emit
+ shall mean to discharge, release, or to permit or cause the discharge or release
+ of one (1) or more Air Pollutants into the atmosphere.
+Engine
+ shall mean any internal combustion machine such as found in motor vehicles which
+ utilize liquid fuel for combustion.(e) Heavy-duty diesel vehicle or HDDV means a diesel-powered
+ Vehicle or bus with a Gross Vehicle Weight Rating (GVWR) of greater than fourteen
+ thousand (14,000) pounds.
+Opacity
+ means the degree to which an air pollutant obscures the view of an observer expressed
+ in percentage of obscuration, or the degree, expressed in percent, to which transmittance
+ of light is reduced by the air pollutant.
+Opacity Meter
+ means an optical instrument which is designed to measure the Opacity of diesel exhaust.
+ Opacity Meters to be utilized for the SAE J1667 test procedures must meet SAE J1667
+ specifications.
+Opacity Standard
+ means any Air Pollutant which when Emitted is such a shade or density as to obscure
+ an observer's vision to a degree in excess of forty percent (40%).
+Owner
+ shall mean the person or entity that holds or possesses title to any Vehicle or other
+ means of transportation, conveyance or machine whose Engine is Emitting Air Pollutants
+ as described herein.
+Qualified Observer
+ shall mean a person who is certified by Colorado Department of Public Health and
+ Environment (CDPHE) in taking visual Opacity readings. Any person certified by the
+ CDPHE after completion of a course in observing and grading visible Emissions in terms
+ of Opacity is competent to express an opinion on degree of Opacity in any proceeding.
+Roadside Inspection
+ means the testing of a HDDV's Emission for Opacity in a manner that meets the requirements
+ set forth by the SAE J1667 and established by Section 13.08.120.03.
+SAE J1667
+ means the Society of Automotive Engineers' J1667 Snap Acceleration Smoke Specifications
+ and Test Procedures set out in 
+J1667 Recommended Practice, Snap Acceleration Smoke Test Procedure for Heavy-Duty
+ Diesel Powered Motor Vehicles
+, © 1996 Society of Automotive Engineers Inc. (SAE), which document is hereby incorporated
+ into this regulation by reference. The incorporation of the J1667 Recommended Practice
+ into this Chapter by reference does not include later amendments to or editions of
+ the material. To obtain a copy of the
+J1667 Recommended Practices
+ visit the Society of Automotive Engineers, Inc. website at www.sae.org.
+Vehicle
+ shall mean any on road mode of conveyance designed for highway speeds and delivers
+ people or goods.
+13.08.120.03 Testing and Roadside Inspection.
+ (a)
+ The Environmental Health & Sustainability Department shall develop a vehicle screening
+ method, or methods, for conducting Roadside Inspections of HDDVs that operate within
+ the City of Aspen. The purpose of such inspections shall be to determine whether such
+ vehicles are in compliance with the Opacity Standard for HDDVs.
+ (b)
+ The Roadside Inspection of HDDVs shall be performed by a Qualified Observer at any
+ location designated by the Environmental Health & Sustainability Director or any location
+ acceptable to both the Qualified Observer and the HDDV Owner.
+ (c)
+ Qualified Observers. The Opacity test shall be administered by a Qualified Observer.
+ (d)
+ Enforcement by Qualified Observers. Enforcement of the Opacity Standard shall be by
+ any code enforcement officer who is a Qualified Observer. As well, any such Qualified
+ Observer may exercise discretion and issue a warning rather than a summons. Any warning
+ so issued shall notify the individual of the nature of the violation and recommend
+ that the cause of the violation be remedied as soon as possible. No other person may
+ stop a HDDV for a violation of this Chapter, or make an arrest, or issue a summons
+ and complaint for a violation of this Chapter, unless such person is so empowered
+ by law.
+13.08.120.04 Opacity Standard.
+ (a)
+Opacity Standard.
+ HDDVs shall maintain an Emission Opacity level that is at or below forty percent
+ (40%). A HDDV will pass the Opacity test if its smoke measurement is at or below the
+ Opacity level of 40%.
+ (b)
+Responsible Party.
+ Regardless of who is operating a HDDV at the time of violation of this Article, it
+ is the legal responsibility of the Owner thereof to provide for compliance with the
+ provisions of this Chapter. Any summons issued for violation of this Section shall
+ likewise be issued to the Owner of the HDDV.
+ (c)
+Test Results.
+ Drivers and Owners of HDDVs that undergo the Roadside Inspection shall be given a
+ copy of their test results.
+13.08.120.05 Violation and Penalty.
+ (a)
+Violation.
+ (1)
+ It shall be unlawful for any person to own a HDDV or allow to be operated an HDDV
+ in the City of Aspen that Emits or causes to be Emitted any Air Pollutant in excess
+ of the Opacity Standard.
+ (2)
+ It shall be unlawful for any person to fail to cooperate or allow to be tested a HDDV
+ during a roadside inspection.
+ (b)
+Penalty.
+ A violation of this provision of this Chapter shall constitute a misdemeanor and
+ shall be subject to the penalty set forth in 
+Section 1.04.080
+ of the City Municipal Code, except as provided in 13.08.120.05(c) below. Each day
+ a violation continues constitutes a separate offense.
+ (c)
+Minimum Fines.
+ The minimum fine for a first offense violation shall be five hundred dollars ($500.00)
+ with a mandatory court appearance.
+ (d)
+Authority.
+ Authority is expressly provided to the judge of the municipal court to reduce or
+ to suspend all or any part of fines in the event that the person charged with the
+ violation provides proof to the court that the HDDV which Emitted the pollutant resulting
+ in the violation has been repaired as provided in Section 13.08.120.06 hereof.
+13.08.120.06 Repair of HDDV.
+ (a)
+Compliance Period.
+ Any Owner who is given a ticket for a violation of this Chapter shall be provided
+ the opportunity to either fix the HDDV or appear in municipal court on the regular
+ court arraignment date next closest to the expiration of sixty (60) days thereafter
+ to answer charges of the violation of this Chapter. Within the period prior to arraignment,
+ the person summoned may either repair the HDDV to comply with the provisions of this
+ Chapter; cease operating the HDDV within the City; or risk charges for additional
+ violations of this Chapter.
+ (b)
+ If prior to the court appearance date, the HDDV which is the subject of the summons
+ is repaired and found to be in compliance with the provisions of this Chapter after
+ a test conducted by a Qualified Observer, the ticket will be dismissed by the Municipal
+ Court upon proof of compliance without the need for the HDDV owner to appear. Such
+ compliance shall be evidenced by an appropriate written document. The Qualified Observer
+ who issued the ticket must present a compliance letter to the Court in order to obtain
+ the dismissal.
+ The Qualified Observer may, upon request, extend the compliance period for a period
+ of not to exceed fifteen (15) days from the date of request. The court shall be notified
+ of the extension.
+ (
+Ord No.27a-2016
+)
+
+===== Chapter 13.12. - RUBBISH, WEEDS AND BRUSH CONTROL
+
+
+===== Sec. 13.12.010. - Removal of rubbish, weeds and brush required.
+All rubbish and all weeds and brush which constitute a fire or health hazard shall
+ be removed from all lots and tracts of land within the City and from the alleys behind
+ and from the sidewalk areas in front thereof.
+ (Code 1971, § 11-3.1; 
+Ord. No. 44-1981
+, § 1; 
+Ord. No. 12-1983
+, § 4)
+
+===== Sec. 13.12.020. - Notice; removal by City and assessment of cost for failure to remove.
+(a)
+ In the event any landowner shall fail to remove any such rubbish or weeds and brush
+ which constitute a fire or health hazard as provided herein, the City Manager or his
+ or her authorized agent may give the record owner of such lot or parcel of land written
+ notice of such condition and require the removal of such weeds, brush and rubbish
+ within fifteen (15) days of the date of such notice. It shall be unlawful for any
+ landowner to fail or refuse to comply with such notice.
+ (b)
+ If the owner of such property shall fail to remove the weeds, brush and rubbish within
+ the period above provided, then the City may remove or have removed such weeds, brush
+ and rubbish and shall thereupon charge the whole cost thereof, including inspection
+ and other incidental costs in connection therewith, to the owner of such lots or parcels
+ of land.
+ (c)
+ In the event that the owner or owners of the lot or lots or tracts of land against
+ which any assessment hereunder shall be made, shall fail, refuse or neglect to pay
+ the same within twenty (20) days from the date of notice of such assessment, then
+ and in this event, the assessment shall be certified by the Director of Finance to
+ the County Treasurer of the county to be by him placed upon the tax list for the current
+ year and to be collected in the same manner as other taxes are collected together
+ with a penalty added thereto to defray the costs of collection. All the laws of the
+ state for the assessment and collection of general taxes, including the laws for the
+ sale of property for taxes and the redemption thereof, shall apply to and have full
+ effect for the collection of all such assessments.
+ (Code 1971, § 11-3.2; 
+Ord. No. 44-1981
+, § 1; 
+Ord. No. 12-1983
+, § 4)
+
+===== Sec. 13.12.030. - Notice in discretion of City Manager or his or her authorized agent.
+The notices required by 
+Section 13.12.020
+ above to be given to remove weeds, brush and rubbish shall be given at the sole discretion
+ of the City Manager or his or her authorized agent and a determination by him that
+ such a notice should be given because of the condition of such lots or tracts of land
+ shall be conclusive on the question of whether the condition of such lots or tracts
+ of land are such as warrant such action.
+ (Code 1971, § 11-3.3; 
+Ord. No. 44-1981
+, § 1; 
+Ord. No. 12-1983
+, §§ 4, 5)
+
+===== Chapter 13.16. - CITY OF ASPEN CLEAN AIR ACT
+Footnotes: 
+ --- (
+3
+) ---
+Editor's note—
+Ord. No. 04-2025
+, § 1, adopted June 10, 2025, repealed the former Ch. 13.16, §§ 13.16.010—13.16.100,
+ and enacted a new Ch. 13.16 as set out herein. The former Ch. 13.16 pertained to smoking
+ in public places and derived from Code 1971, §§ 11-4.1—11-4.9, 11-5.1; 
+Ord. No. 35-1985
+, § 1; 
+Ord. No. 44-1981
+, § 1; 
+Ord. No. 12-1983
+, § 8; 
+Ord. No. 35-1985
+, § 1; 
+Ord. No. 1-1996
+, §§ 1—3; 
+Ord. No. 12-1996
+, §§ 9, 10; 
+Ord. No, 32-2010
+.
+
+===== Sec. 13.16.010. - Short title.
+This Chapter shall be known as and it may be cited as the "City of Aspen Clean Air
+ Act."
+ (
+Ord. No. 04-2025
+, § 1, 6-10-2025)
+
+===== Sec. 13.16.020. - Purpose.
+The intent of this Chapter is to protect health, safety and welfare by prohibiting
+ smoking, vaping and the use of other tobacco products in designated public places,
+ including outdoor and indoor public spaces, and places of employment.
+ (
+Ord. No. 04-2025
+, § 1, 6-10-2025)
+
+===== Sec. 13.16.030. - Definitions.
+The terms in this Chapter have the following meanings unless the context clearly indicates
+ otherwise.
+Auditorium
+ means the part of a public building where an audience gathers to attend a performance,
+ and includes any corridors, hallways, or lobbies adjacent thereto.
+Business
+ means a sole proprietorship, partnership, joint venture, corporation, or other business
+ entity, either for profit or not-for-profit, including retail establishments where
+ goods or services are sold; professional corporations and other entities where legal,
+ medical, dental, engineering, architectural, or other professional services are delivered;
+ and private clubs.
+Cigar-tobacco bar
+ means a bar as defined in C.R.S. § 25-14-203(4), that in the calendar year ending
+ December 31, 2005, generated at least five percent (5%) or more of its total annual
+ gross income or fifty thousand dollars ($50,000.00) in annual sales from the on-site
+ sale of tobacco products and the rental of on-site humidors, not including any sales
+ from vending machines. In any calendar year after December 31, 2005, a bar that fails
+ to generate at least five percent (5%) of its total annual gross income or fifty thousand
+ dollars ($50,000.00) in annual sales from the on-site sale of tobacco products and
+ the rental of on-site humidors shall not be defined as a "cigar-tobacco bar" and shall
+ not thereafter be included in the definition regardless of sales figures.
+Electronic smoking device
+ or 
+ESD
+:
+ (a)
+ Means any product, other than a product described in subsection (c) of this definition,
+ that contains or delivers nicotine, or any other substance intended for human consumption
+ and that can be used by a person to enable the inhalation of vapor or aerosol from
+ the product;
+ (b)
+ Includes any product described in subsection (a) of this definition and any similar
+ product or device, whether manufactured, distributed, marketed, or sold as an e-cigarette,
+ e-cigar, e-pipe, e-hookah, or vape pen or under any other product name or descriptor;
+ (c)
+ Does not include a humidifier or similar device that emits only water vapor.
+Employee
+ means any person who:
+ (a)
+ Performs any type of work for benefit of another in consideration of direct or indirect
+ wages or profit;
+ (b)
+ Provides uncompensated work or services to a business or nonprofit entity;
+ (c)
+ "Employee" includes every person described in paragraph (a) of this definition, regardless
+ of whether such person is referred to as an employee, contractor, independent contractor,
+ volunteer or by any other designation or title.
+Employer
+ means any person, partnership, association, corporation, business or nonprofit entity
+ that employs one (1) or more persons. "Employer" includes, without limitation, the
+ legislative, executive, and judicial branches of state government; any county, city
+ and county, city, or town, or instrumentality thereof, or any other political subdivision
+ of the state, special district, authority, commission, or agency; or any other separate
+ corporate instrumentality or unit of state or local government.
+Enclosed Area
+ means closed in by a roof and four (4) walls with appropriate openings for ingress
+ and egress and is not intended to mean areas commonly described as public lobbies.
+Entryway
+ means the outside of the front or main doorway leading into a building or facility
+ that is not exempted from this Chapter. Entryway also includes the area of public
+ or private property within twenty-five (25) feet of the doorway.
+Indoor area
+ means any enclosed area or portion thereof of a location open to the public. The
+ opening of windows or doors, or the temporary removal of wall panels, does not convert
+ an enclosed area into an unenclosed.
+Marijuana
+ shall have the same meaning as in Section 16(2)(f) of Article XVIII of the Colorado
+ State Constitution.
+Outdoor Dining Area
+ means any publicly or privately owned unenclosed area, including streets and sidewalks,
+ that is available to or customarily used by the general public or an employee, and
+ that is designed, established, or regularly used for consuming food or drink.
+Person
+ means any natural person, partnership, cooperative association, corporation, personal
+ representative, receiver, trustee, assignee, or any other legal entity, including
+ government agencies.
+Place of employment
+ means an area under the control of an employer where an employee or the general public
+ may enter in the normal course of operations, regardless of the hours of operation,
+ whether the area is enclosed or unenclosed including work areas and construction sites.
+ A private residence is not a "place of employment" unless it is used as a childcare,
+ adult day care, or health care facility.
+Private Club
+ means an organization, whether incorporated or not, where the owner, lessee, or occupant
+ of a building or portion thereof is used exclusively for club purposes at all times,
+ which is operated solely for a recreational, fraternal, social, patriotic, political,
+ benevolent, or athletic purpose, but not for pecuniary gain, and which only sells
+ alcoholic beverages incidental to its operation. The affairs and management of the
+ organization are conducted by a board of directors, executive committee, or similar
+ body chosen by the members at an annual meeting.
+ The organization has established bylaws and/or a constitution to govern its activities.
+ The organization has been granted an exemption from the payment of federal income
+ tax as a club under 26 U.S.C. Section 501.
+Public building
+ means any building owned or operated by:
+ (a)
+ The state, including the legislative, executive, and judicial branches of state government;
+ (b)
+ Any county, city and county, city, or town, or instrumentality thereof, or any other
+ political subdivision of the state, a special district, an authority, a commission,
+ or an agency; or
+ (c)
+ Any other separate corporate instrumentality or unit of state or local government.
+Public Event
+ means an event which is open to and may be attended by the general public, including
+ but not limited to, such events as concerts, fairs, farmers' markets, festivals, parades,
+ performances, and other exhibitions, regardless of any fee or age requirement.
+Public place
+ means any publicly or privately-owned place that is open to the general public, regardless
+ of any fee or age requirement, including, but not limited to, auditoriums, theaters,
+ entryways, elevators, plazas, public buildings, public events, public restrooms, shopping
+ areas.
+Reasonable Distance
+ means a distance of twenty-five (25) feet from an entryway where smoking is prohibited.
+Secondhand smoke
+ means the complex mixture formed from the escaping smoke of a burning tobacco product,
+ also known as "sidestream smoke," and smoke exhaled by the smoker.
+Service area
+ means any publicly or privately owned area, including streets and sidewalks, that
+ is designed to be used or is regularly used by one (1) or more persons to receive
+ a service, wait to receive a service, or to make a transaction, whether or not such
+ service or transaction includes the exchange of money. The term "service area" includes,
+ but is not limited to, areas including or within twenty-five (25) feet of information
+ kiosks, automatic teller machines (ATMs), service lines, bus stops or shelters, or
+ cab stands.
+Smoke
+ means the gases, particles, or vapors released into the air as a result of combustion,
+ electrical ignition, or vaporization, when the apparent or usual purpose of the combustion,
+ electrical ignition, or vaporization is human inhalation of the byproducts, except
+ when the combusting or vaporizing material contains no tobacco or nicotine and the
+ purpose of inhalation is solely olfactory, such as, for example, smoke from incense.
+ The term smoke includes, but is not limited to, tobacco smoke, vapors from an electronic
+ device, and marijuana smoke.
+Smoking
+ means inhaling, exhaling, burning, or carrying any lighted or heated cigar, cigarette,
+ or pipe or any other lighted or heated tobacco or plant product intended for inhalation,
+ including marijuana, whether natural or synthetic, in any manner or in any form. Smoking
+ also includes the use of an Electronic Smoking Device (ESD).
+Tobacco
+ means cigarettes, cigars, cheroots, stogies, and periques; granulated, plug cut,
+ crimp cut, ready rubbed, and other smoking tobacco; snuff and snuff flour; cavendish;
+ plug and twist tobacco; fine-cut and other chewing tobacco; shorts, refuse scraps,
+ clippings, cuttings, and sweepings of tobacco; and other kinds and forms of tobacco,
+ prepared in such manner as to be suitable for chewing or for smoking in a cigarette,
+ pipe, or otherwise, or both for chewing and smoking. Tobacco also includes cloves
+ and any other plant matter or product that is packaged for smoking.
+Tobacco product
+ means:
+ (a)
+ Any product that is made from or derived from tobacco, or that contains nicotine,
+ that is intended for human consumption or is likely to be consumed, whether inhaled,
+ absorbed, or ingested by any other means, including but not limited to, a cigarette,
+ a cigar, pipe tobacco, chewing tobacco, snuff, or snus;
+ (b)
+ Any electronic smoking device and any substances that may be aerosolized or vaporized
+ by such device, whether or not the substance contains nicotine; or
+ (c)
+ Any component, part, or accessory of subsection (1) or (2) of this definition, whether
+ or not any of these contains tobacco or nicotine, including but not limited to filters,
+ rolling papers, blunt or hemp wraps, hookahs, mouthpieces, and pipes.
+Unenclosed area
+ means any area that is not an enclosed area.
+Work area
+ means an area in a place of employment where one (1) or more employees are routinely
+ assigned and perform services for or on behalf of their employer.
+ (
+Ord. No. 04-2025
+, § 1, 6-10-2025)
+
+===== Sec. 13.16.040. - Prohibition of smoking and tobacco product use in enclosed areas.
+Smoking and the use of Tobacco Products is prohibited in the Enclosed Areas of the
+ following places within the City of Aspen:
+ (a)
+ Places of Employment; and
+ (b)
+ Public Places.
+ (
+Ord. No. 04-2025
+, § 1, 6-10-2025)
+
+===== Sec. 13.16.050. - Prohibition of smoking and tobacco product use in unenclosed areas.
+(a)
+ Smoking and the use of Tobacco Products is prohibited in the following Unenclosed
+ Areas within the City:
+ (1)
+ Service Areas; and
+ (2)
+ Outdoor Dining Areas; and
+ (3)
+ Places of Employment; and
+ (4)
+ Any outdoor areas of City owned property which has been designated as a non-smoking
+ area. Such area shall be clearly marked with appropriate no smoking signage; and
+ (5)
+ Other Public Places, when being used for a public event including, but not limited
+ to, a farmers' market, parade, craft fair, festival, or any other event open to the
+ general public.
+ (b)
+ Nothing in this Chapter prohibits any Person, Employer, or nonprofit entity with legal
+ control over any property from prohibiting Smoking and Tobacco Product use on any
+ part of such property, even if Smoking or the use of Tobacco Products is not otherwise
+ prohibited in that area.
+ (
+Ord. No. 04-2025
+, § 1, 6-10-2025)
+
+===== Sec. 13.16.060. - Reasonable smoking distance required.
+(a)
+ Smoking in Unenclosed Areas shall be prohibited within a Reasonable Distance of twenty-five
+ (25) feet from any entryway into an Enclosed Area where Smoking is prohibited.
+ (b)
+ Smoking in Unenclosed Areas shall be prohibited within a Reasonable Distance of twenty-five
+ (25) feet from any Unenclosed Areas in which Smoking is prohibited by this Chapter.
+ (
+Ord. No. 04-2025
+, § 1, 6-10-2025)
+
+===== Sec. 13.16.070. - Other requirements and prohibitions.
+(a)
+ No Person, Employer, or nonprofit entity shall knowingly permit Smoking or the use
+ of Tobacco Products in an area which is under the legal or de facto control of that
+ Person, Employer, or Nonprofit Entity and in which Smoking, or the use of Tobacco
+ Products is prohibited by law.
+ (b)
+ No Person, Employer, or nonprofit entity shall knowingly or intentionally permit the
+ presence or placement of ash receptacles, such as ashtrays or ash cans, within an
+ area under the legal or de facto control of that Person, Employer, or nonprofit entity
+ and in which Smoking or the use of Tobacco Products is prohibited by law, including,
+ without limitation, within a Reasonable Distance required by this Chapter from any
+ area in which Smoking, or the use of Tobacco Products is prohibited. Notwithstanding
+ the foregoing, the presence of ash receptacles in violation of this subsection shall
+ not be a defense to a charge of Smoking or the use of Tobacco Products in violation
+ of any provision of this Chapter.
+ (c)
+ No Person, Employer, or nonprofit entity shall intimidate, threaten any reprisal,
+ or effect any reprisal, for the purpose of retaliating against another Person who
+ seeks to attain compliance with this Chapter.
+ (d)
+ Each instance of Smoking or Tobacco Product use in violation of this Chapter shall
+ constitute a separate violation. For violations other than for Smoking, each day of
+ a continuing violation of this Chapter shall constitute a separate violation.
+ (
+Ord. No. 04-2025
+, § 1, 6-10-2025)
+
+===== Sec. 13.16.080. - Exceptions.
+(a)
+ Notwithstanding any provision to the contrary, nothing in this chapter shall be interpreted
+ to restrict or otherwise regulate the use of a drug, device, or combination product.
+ (b)
+ Authorized for sale by the United States Food and Drug Administration, as those terms
+ are defined in the Federal Food, Drug, and Cosmetic Act.
+ (c)
+ Cigar-tobacco bar.
+ (d)
+ Retail Marijuana Hospitality and Sales Business pursuant to C.R.S. § 44-10-610.
+ (
+Ord. No. 04-2025
+, § 1, 6-10-2025)
+
+===== Sec. 13.16.090. - Enforcement.
+(a)
+ The City Manager or the City Manager's designee shall be responsible for compliance
+ with this Chapter with regard to facilities which are owned, operated or leased by
+ the City.
+ (b)
+ Any citizen who desires to register a complaint under this Chapter may initiate enforcement
+ with the City Manager or City Manager's designee.
+ (c)
+ The City Manager or the City Manager's designee may enforce the provisions of this
+ Chapter by either of the following actions:
+ (1)
+ Servicing notice requiring correction of any violation of this Chapter.
+ (2)
+ Requesting the City Attorney to initiate appropriate enforcement proceedings, including,
+ without limitation, the initiation of a complaint in Municipal Court or the institution
+ of injunctive, abatement or other appropriate action to prevent, enjoin, abate or
+ remove such violation.
+ (d)
+ Any person convicted of violating any provision of this Chapter shall, upon conviction,
+ be punished by a fine, up to the maximum amount allowed in 
+Section 1.04.080
+ of this Code, for each separate offense and may be enjoined from any further or continued
+ violation thereof. Each day any violation of this Chapter shall continue shall constitute
+ a separate offense.
+ (e)
+ Any remedies provided for herein shall be cumulative and not exclusive and shall be
+ in addition to any other remedies provided by law.
+ (
+Ord. No. 04-2025
+, § 1, 6-10-2025)
+
+===== Sec. 13.16.100. - Penalties and relief.
+(a)
+ Any person, upon conviction of a violation of any provision of this Title, shall be
+ subject to a fine, imprisonment or both a fine and imprisonment, as set forth in 
+Section 1.04.080
+ of this Code, for each separate offense and may be enjoined from any further or continued
+ violation hereof. A violation of 
+Chapter 13.16
+ shall be punishable by a fine only. Each day any violation of this Title shall continue,
+ shall constitute a separate offense hereunder.
+ (b)
+ In addition to the penalties and relief provided for in Subsection (a) above, any
+ person found in violation of any provision of 
+Sections 13.04.010
+ to 
+13.04.100
+ of this Title shall reimburse the City for any expenses incurred in preventing pollution
+ of the municipal water supplies caused by said person, any expenses incurred in restoring
+ municipal water supplies to the standards set forth in 
+Section 13.04.020
+ or any expenses incurred in improving any intake, treatment facility or other part
+ of the water works, which improvement is necessitated by the violation found hereunder.
+ (
+Ord. No. 04-2025
+, § 1, 6-10-2025)
+
+===== Chapter 13.20. - TREE REMOVAL PERMITS
+
+
+===== Sec. 13.20.010. - Legislative intent and purposes.
+The City Council finds that trees provide important environmental, aesthetic and health
+ benefits to the residents and guests of the City which extend beyond the boundaries
+ of the property upon which trees may grow. The City Council further finds that trees
+ enhance the real estate values of property upon which trees grow and neighboring properties.
+ Large trees are a resource which cannot be fully replaced if injured, damaged or removed.
+ Property development and construction activities can result in injury or loss of valuable
+ trees in the City. It is the intent of this Chapter to preserve to the fullest extent
+ possible existing trees considered desirable by the Manager of Parks and Recreation
+ or his or her designee as hereinafter set forth.
+ (
+Ord. 34-1995,
+ § 3)
+
+===== Sec. 13.20.020. - Removal of trees; permit required; valuation.
+(a)
+Applicability of Section and definition.
+ The terms and provisions of this Chapter shall apply to all private and public real
+ property situated in or subsequently annexed to the corporate limits of the City.
+ The term 
+tree
+ shall include, for purposes of this Chapter, all deciduous trees having a trunk diameter
+ at breast height (DBH) of six (6) inches or more, 
+Querus gambelli
+ (Gamble Oak), 
+Acer glabrum
+ (Rocky Mountain Maple), 
+Amelanchier spp.
+ (Serviceberry) and 
+Prunus Virginiana
+ (Chokecherry) with a trunk diameter of three (3) inches or more and coniferous trees
+ having a trunk diameter of four (4) inches or more. Trunk diameters (DBH) shall be
+ measured in inches measured as close to four and one-half (4½) feet above ground as
+ possible.
+ (b)
+Removal or damage to trees prohibited without permit.
+ (1)
+ It shall be unlawful for any person, without first obtaining a permit as herein provided,
+ to remove or cause to be removed any tree.
+ (2)
+ It shall be unlawful for any person, without first obtaining a permit for tree removal
+ as herein provided, to dig, excavate, turn, compact or till the soil within the critical
+ root zone (CRZ) of any tree in such a manner as to cause material damage to the root
+ system of the tree. For purposes of this Subsection, the critical root zone (CRZ)
+ of a tree is a cylinder extending from grade level down to a depth of ten (10) feet
+ below grade, having a radius in feet equal to the diameter at breast height (DBH)
+ of the tree in inches, with the center of the cylinder located at the center of the
+ trunk of the tree.
+ (3)
+ It shall be unlawful for any person to park or place machinery, automobiles or structures;
+ or to pile, store or place, soil, excavated material, fill or any other matter within
+ the critical root zone (CRZ) of any tree. During construction of any structure or
+ other improvements, the Parks and Recreation Director or his or her designee may require
+ the erection of suitable barriers around all trees, including trees not included in
+ the definition set forth at Subsection (a) above, to be preserved. These protection
+ areas will be established on site in order to protect existing natural resources when
+ appropriate. Roots must be protected from exposure to the elements with burlap or
+ other suitable materials and these materials must remain moist during the extent of
+ the project. In addition, during construction, no attachments or wires other than
+ protective guy wires shall be attached to any tree.
+ (4)
+ Where construction of structures or improvements on any property necessitates the
+ removal or relocation of any trees, the Parks and Recreation Director or his or her
+ designee, may, as a condition for the approval of the removal or relocation, require
+ that the owner replace any removed or relocated trees with a tree or trees of comparable
+ value on the affected property. When in the opinion of the Parks and Recreation Director
+ or his or her designee, replacement of removed or relocated trees cannot reasonably
+ be accommodated on the affected property; the applicant shall pay a cash-in-lieu amount
+ equal to the comparable value of the aggregate of all trees removed as determined
+ pursuant to 
+Section 13.20.020
+(e), below.
+ (5)
+ It shall be unlawful for any person, without first obtaining a permit for tree removal
+ as herein provided, to intentionally top, damage, girdle, limb up or poison any healthy
+ tree. For purposes of this Section, 
+topping
+ a tree is the removal of more than five percent (5%) of the height from the top of
+ any deciduous tree or the removal of the terminal bud from a coniferous tree. The
+ terminal bud of a coniferous tree is the highest bud on the tree.
+ (6)
+ It shall be unlawful for any person, without first obtaining a permit as herein provided,
+ to relocate any tree. If a relocated tree dies within two (2) years of relocation
+ and is not replaced with a tree of equal value, the death of the relocated tree shall
+ be deemed an unpermitted tree removal. This Section shall not apply to the initial
+ planting of trees obtained from nursery stock.
+ (7)
+ It shall be unlawful for any person to fail to provide the Parks and Recreation Director
+ or his or her designee, with written notice, delivered at least four (4) working days
+ in advance, of the time and date on which removal of any tree will occur. Written
+ notice pursuant to this Section is required even if a permit for tree removal, as
+ herein provided, has been obtained.
+ (8)
+ In the event a tree poses a hazard to the public or harbors pests which may spread
+ to other trees the City may give a written notice of abatement to the tree's owner.
+ After the expiration of the notice the City may correct the hazard or condition caused
+ by the tree, and the owner of the trees will be liable for any costs associated with
+ the abatement work.
+ (9)
+ Each violation of the above Subsections (b)(1—7) shall be a separate offense.
+ (c)
+Penalty.
+ Any person convicted of violating any provision of 
+Chapter 13.20
+ shall be subject to punishment as set forth in 
+Section 1.04.080
+ of this Code.
+ (d)
+Tree removal permits.
+ (1)
+ Any person wishing to obtain a permit or relocate a tree shall file an appropriate
+ application with the Parks and Open Space department. Such application shall contain
+ such information as the Parks and Recreation Director or his or her designee, shall
+ require to allow adequate enforcement of this Section.
+ (2)
+ On request of the Parks and Recreation Director or his or her designee and when necessary
+ to adequately apprise the Parks and Recreation Director or his or her designee, of
+ the intended tree removal, said application shall include a site plan showing the
+ following:
+ a.
+ Location of proposed driveways and other planned areas or structures on said site;
+ b.
+ Location of all trees four (4) inches or over identified by trunk diameter and species;
+ three (3) inches or over for native species;
+ c.
+ Designation of all diseased trees and any trees endangering any roadway pavement or
+ structures and trees endangering utility service lines;
+ d.
+ Designation of any trees proposed to be removed, retained and relocated and areas
+ which will remain undisturbed;
+ e.
+ Any proposed grade changes on the site;
+ f.
+ Location of all site improvements including subsurface improvements such as utilities,
+ irrigation infrastructure or foundation work.
+ (3)
+ After filing said application, the Parks and Recreation Director or his or her designee,
+ shall review the application (and site plan if required) and determine what effect
+ the intended removal or relocation of trees will have on the natural and historic
+ resources of the area. Based on a review of the following factors, the Parks and Recreation
+ Director shall either grant or deny the requested permit:
+ a.
+ Whether the trees intended for removal or relocation are necessary to minimize flood,
+ wildfire, snowslide or landslide hazards;
+ b.
+ Whether retention of the trees is necessary to prevent excess water runoff or otherwise
+ protect the watershed;
+ c.
+ Whether the removal or relocation of the trees will cause wind erosion or otherwise
+ adversely affect air quality;
+ d.
+ The condition of the trees with respect to disease, danger of falling and interference
+ with utility lines;
+ e.
+ The number and types of trees in the neighborhood, the contribution of the trees to
+ the natural beauty of the area and the effect of removal or relocation on property
+ values in the area;
+ f.
+ The necessity or lack thereof, to remove the trees to allow reasonable economic use
+ and enjoyment of the property;
+ g.
+ The implementation of good forestry practices, including consideration of the number
+ of healthy trees that the parcel of land in question can support;
+ h.
+ The adequacy of the methods proposed to be used to relocate any trees; and
+ i.
+ The impact of any tree on a historically designated property or adjacent right-of-way
+ by considering the following matters:
+ 1.
+ In cases where a tree is jeopardizing the physical integrity of a historically designated
+ structure through contact with the building, heaving due to roots or shading that
+ results in decay, deterioration or structural defect, this shall be justification
+ for the issuance of a tree removal permit exempt from mitigation pursuant to 
+Section 13.20.020
+(d). Examples of unacceptable impacts to a historically designated structure include:
+ deterioration of exterior walls, foundations or other vertical supports; deterioration
+ of flooring or floor supports or other horizontal members; deterioration of external
+ chimneys; deterioration or crumbling of exterior plasters or mortars; ineffective
+ waterproofing of exterior walls, roofs and foundations; the inability to retain paint
+ on exterior surfaces; or excessive weathering of exterior surfaces. The applicant
+ for a tree removal permit shall be required to submit proof of the damage that is
+ occurring in the form of a written evaluation from a third party with expertise in
+ structural engineering or a relevant building trade. The Parks and Recreation Director
+ may suggest means to prevent the tree from causing further damage short of its removal
+ if these actions would meaningfully reverse the problem.
+ 2.
+ In cases where, per the advice of the Historic Preservation Commission, a tree detracts
+ from the integrity of a landscape which has been historically designated for its own
+ merits, this shall be justification for the issuance of a tree removal permit exempt
+ from mitigation pursuant to 
+Section 13.20.020
+(d).
+ 3.
+ In cases where the visibility of the street facing facades of a historically designated
+ structure are impacted by an evergreen tree which is not located in the City right-of-way,
+ to the extent that the public enjoyment of the resource is seriously diminished per
+ the advice of the Historic Preservation Commission, this shall be justification for
+ the issuance of a tree removal permit exempt from mitigation pursuant to 
+Section 13.20.020
+(d). The Parks and Recreation Director may consider whether the tree in question has
+ a unique character to offset the negative impact to the structure. This character
+ may include an unusual or unique species or specimen tree quality. The Parks and Recreation
+ Director may suggest means to prevent the tree from obstructing the resource, short
+ of its removal, if these actions would meaningfully reverse the problem.
+ 4.
+ In cases where, per the advice of the Historic Preservation Commission, a tree is
+ inconsistent with established historic landscape patterns in the area or landscape
+ practices associated with the period of significance of the property or district,
+ the removal or relocation of the tree should be considered, subject to mitigation
+ pursuant to 
+Section 13.20.020
+(d). The Parks and Recreation Director may consider whether the tree in question has
+ a unique character to offset the negative impact to the structure. This character
+ may include an unusual or unique species or specimen tree quality.
+ 5.
+ In cases where, per the advice of the Historic Preservation Commission, the protection
+ of a tree conflicts with the redevelopment of a historically designated property in
+ a manner that is consistent with the "City of Aspen Historic Preservation Design Guidelines,"
+ the Parks and Recreation Director shall consult with the Historic Preservation Commission
+ to consider the feasibility of all options including removal or relocation of the
+ tree or redesign of the development. Unless the tree is an unusual or unique species
+ or specimen tree quality, flexibility shall be allowed for its removal or relocation
+ in favor of the best preservation option for the historic structure, subject to mitigation
+ pursuant to 
+Section 13.20.020
+(d).
+ (4)
+ Where construction of structures or improvements on any property necessitates the
+ removal or relocation of any trees, the Parks and Recreation Director or his or her
+ designee, may, as a condition for the approval of the removal or relocation, require
+ that the owner replace any removed or relocated trees with a tree or trees of comparable
+ value on the affected property. When in the opinion of the Parks and Recreation Director
+ or his or her designee, replacement of relocated trees cannot reasonably be accommodated
+ on the affected property; the applicant shall pay a cash-in-lieu amount equal to the
+ comparable value of the aggregate of all trees removed. 
+Comparable value
+ for purposes of this Section shall mean a tree or trees of equal aggregate value
+ and species to the replacement cost of the tree to be removed or relocated.
+ (5)
+ Where wildfire risk is identified as a basis for a removal permit for either removal
+ or relocation of any trees, the Parks and Recreation Director, or his or her designee,
+ shall either grant or deny the requested permit based upon criteria identified in
+ the 
+Wildfire Mitigation Policy.
+ a.
+ As a condition of approval of the removal or relocation, the Parks and Recreation
+ Director may require that the owner replace any removed or relocated tree with a tree
+ or shrub designated as a fire-resistant species. The Parks and Open Space Department
+ shall maintain a list of suitable fire-resistant tree and plant species and make that
+ list available to the public via its website or at the office of the department.
+ b.
+ When a fire-resistant species is planted to mitigate the value of the removed tree,
+ the value of the fire-resistant plant shall be multiplied by a variable to be established
+ in the 
+Wildfire Mitigation Policy
+ to incentivize replanting landscapes with fire resistant plants, instead of vegetation
+ removal and cash-in-lieu payments.
+ c.
+ When in the opinion of the Parks and Recreation Director or his or her designee, replacement
+ of removed tree with a fire-resistant plant cannot reasonably be accommodated on the
+ affected property; the applicant shall pay a cash-in-lieu amount set forth in the
+Wildfire Mitigation Policy.
+ d.
+ Pursuant to the powers and authority conferred by the Charter of the City, there is
+ hereby adopted and incorporated herein by reference as if fully set forth the procedures
+ and policies contained in he 
+Wildfire Mitigation Policy.
+ The 
+Wildfire Mitigation
+ Policy will set forth the criteria and factors to be considered when determining
+ whether wildfire risks necessitate tree removal or relocation, the methodologies and
+ fee waivers that are granted for the purposes of reducing wildfire risk related to
+ vegetation on a property. The 
+Wildfire Mitigation Policy
+ may be amended, updated, and expanded from time to time by City Council Resolution.
+ At least one copy of the 
+Wildfire Mitigation Policy
+ shall be available for public inspection at the offices of the Parks and Open Space
+ Department.
+ (6)
+ No trees shall be removed from City property except in accordance with 
+Chapter 21.20
+ of this Code.
+ (7)
+ The removal of dead trees shall require prior notice to the Parks and Recreation Director
+ or his or her designee and a permit from the City.
+ (8)
+ In case of an emergency caused by a tree being in a hazardous or dangerous condition
+ posing an immediate threat-to person or property, such tree may be removed without
+ resort to the procedures herein described; provided, however, that evidence of such
+ an emergency is provided to the Parks and Recreation Director or his or her designee,
+ within twenty-four (24) hours.
+ (9)
+ After obtaining a permit as herein provided the responsible party must post the permit
+ in such a manner that it is clearly visible from curbside of the property.
+ (e)
+Valuation of trees.
+ When, in accordance with this Section, the value of a tree must be determined, the
+ Basic Value shall be $X per square inch of the cross­ sectional area of the tree at
+ the point where the diameter of the tree is measured. In calculating the Basic Value,
+ the following equation shall be used:
+ Basic Value = $Xxπx (D/2)
+ 2
+ Where: D = the diameter of the tree in inches, measured at 4.5 feet from the ground.
+ X = the $(dollar) value assigned in the Tree Fees - Mitigation Fee in 
+Section 2.12.080
+.
+ (
+Ord. No. 34-1995
+, § 3; 
+Ord. No. 19-2004
+ § 1; 
+Ord. No. 16-2016
+ § 2; Ord. No. 
+11-2024
+, 7-23-2024)
+
+===== Sec. 13.20.030. - Fees.
+The applicable administrative fees for tree removal permits and permits to landscape
+ in the public right-of-way shall be as established in 
+Section 2.12.080
+, Parks Department fees, where a 
+'Standalone tree removal permit'
+ is a request unrelated to construction activities and a 
+'Development Tree Removal Permit'
+ is a request where construction of a structure or improvements on any property necessitates
+ the removal or relocation of any trees.
+ (
+Ord. No. 19-2004
+, § 1; 
+Ord. No. 16-2016
+, § 3; Ord. No. 
+11-2024
+, 7-23-2024)
+
+===== Sec. 13.20.040. - Appeals.
+Any person not satisfied with the action taken by the Parks and Recreation Director
+ or his or her designee or any other City staff person regarding an application pursuant
+ to this Chapter shall have the right to take successive appeals, first to the City
+ Manager and then to the City Council. An appeal to the City Manager shall be taken
+ by filing with the City Clerk a signed statement that the applicant desires to appeal
+ to the City Manager, along with a copy of the application and the written denial or
+ the permit objected to. An appeal of a decision by the City Manager to the City Council
+ shall be taken by filing with the City Clerk copies of the application, denial or
+ permit and the written decision issued by the City Manager, along with a signed statement
+ that the applicant desires to appeal to the City Council. Each appeal shall be filed
+ within two (2) days, exclusive of Saturdays, Sundays and legal holidays, of the decision
+ appealed from. An informal summary hearing shall precede a decision by either the
+ City Manager or City Council, and advance notice of the hearing shall be provided
+ to the applicant and the City official whose decision is being appealed as soon as
+ is practicable. The right to appeal an adverse decision by the City Manager to City
+ Council shall be contingent upon City Council's regular meeting schedule. If the applicant's
+ appeal cannot be heard by the City Council within ninety (90) days of the original
+ decision then the City Manager's decision shall be final.
+ (
+Ord. No. 19-2004
+, § 1; Ord. No. 
+11-2024
+, 7-23-2024)
+
+===== Chapter 13.24. - WASTE REDUCTION
+
+
+===== Sec. 13.24.010. - Definitions.
+Section 13.24.010
+ shall be amended to include the definitions set forth in the Plastic Pollution Reduction
+ Act, Colo. Rev. Stat. Section 25-17-503, as it may be amended from time to time.
+ (
+Ord. No. 06-2023
+, § 1, 3-14-2023)
+
+===== Sec. 13.24.020. - Prohibitions.
+On and after the effective date:
+ (a)
+ No Grocer shall provide a Disposable Plastic Bag to a customer at the point of sale.
+ (b)
+ Nothing in this Section shall preclude persons or Grocers from making Reusable Bags
+ available for sale or for no cost to customers.
+
+===== Sec. 13.24.030. - Paper Bag fee requirements.
+(a)
+ Grocers shall collect from customers, and customers shall pay, at the time of purchase,
+ a fee of twenty cents ($0.20) for each Disposable Paper Bag provided to the customer.
+ (b)
+ Grocers shall record the number of Disposable Paper Bags provided and the total amount
+ of fee charged on the customer transaction receipt.
+ (c)
+ A Grocer shall not refund to the customer any part of the waste reduction fee, nor
+ shall the grocer advertise or state to customers that any part of the waste reduction
+ fee will be refunded to the customer.
+ (d)
+ A Grocer shall not exempt any customer from any part of the waste reduction fee for
+ any reason except as stated in 
+Section 13.24.070
+.
+
+===== Sec. 13.24.040. - Voluntary Opt In.
+(a)
+ Any store or business with a City of Aspen business license may voluntarily opt in
+ to the Waste Reduction Program and apply the ban and waste reduction fee to its business
+ by applying with the City of Aspen Environmental Health Department.
+
+===== Sec. 13.24.050. - Retention, remittance, and transfer of the Waste Reduction fee.
+(a)
+ A Grocer may retain twenty-five percent (25%) of each waste reduction fee collected
+ up to a maximum amount of one thousand dollars ($1,000.00) per month within the first
+ twelve (12) months of the effective date of this ordinance and one hundred dollars
+ ($100.00) per month for all months thereafter.
+ (b)
+ The retained percent is limited to allowable use for the Grocer to:
+ (1)
+ Provide educational information about the Waste Reduction Fee to customers;
+ (2)
+ Train staff in the implementation and administration of the fee; and
+ (3)
+ Improve or alter infrastructure to allow for the implementation, collection and administration
+ of the fee.
+ (c)
+ The fees retained by a Grocer pursuant to this ordinance shall not be classified as
+ revenue for the purposes of calculating sales tax;
+ (d)
+ The remaining amount of each fee collected by a Grocer shall be paid to the City of
+ Aspen Finance Department and shall be deposited in the Waste Reduction and Recycling
+ Account.
+ (e)
+ A Grocer shall pay and the City of Aspen shall collect this fee at the same time as
+ the City Sales Tax. The City shall provide the necessary forms for Grocers to file
+ individual returns with the City, separate from the required City Sales Tax forms,
+ to demonstrate compliance with the provisions of the fee.
+ (1)
+ If payment of any amounts to the City is not received on or before the applicable
+ due date, penalty and interest charges shall be added to the amount due as described
+ in 
+Section 13.24.080
+.
+ (f)
+ The Waste Reduction Fee shall be administered by the City of Aspen Environmental Health
+ Department.
+ (g)
+ Funds deposited in the Waste Reduction and Recycling Account shall be used for the
+ following projects, in the following order of priorities:
+ (1)
+ Campaigns conducted by the City of Aspen and begun within three hundred sixty-five
+ (365) days of the effective date of this act, to:
+ a.
+ Provide reusable carryout bags to residents and visitors; and
+ b.
+ Educate residents, businesses, and visitors about the impact of trash on the City's
+ environmental health, the importance of reducing the number of disposable carryout
+ bags entering the waste stream, and the impact of disposable carryout bags on the
+ waterways and the environment.
+ (2)
+ Ongoing campaigns conducted by the City of Aspen to:
+ a.
+ Provide reusable bags to both residents and visitors; and
+ b.
+ Create public educational campaigns to raise awareness about waste reduction and recycling;
+ c.
+ Funding programs and infrastructure that allows the Aspen community to reduce waste
+ and recycle.
+ d.
+ Purchasing and installing equipment designed to minimize trash pollution, including,
+ recycling containers, and waste receptacles;
+ e.
+ Funding community cleanup events and other activities that reduce trash;
+ f.
+ Maintaining a public website that educates residents on the progress of waste reduction
+ efforts; and
+ g.
+ Paying for the administration of this program.
+ (h)
+ The Fees shall not be used to supplant funds appropriated as part of an approved annual
+ budget.
+ (i)
+ No Waste Reduction Fee shall revert to the General Fund at the end of the fiscal year,
+ or at any other time, but shall be continually available for the uses and purposes
+ set forth in Subsection (g) of this Section without regard to fiscal year limitation.
+
+===== Sec. 13.24.060. - Required Signage for Grocers.
+Every Grocer subject to the collection of the fee shall display a sign in a location
+ outside or inside of the business, viewable by customers, alerting customers to the
+ City of Aspen imposed ban and fee.
+
+===== Sec. 13.24.070. - Exemptions.
+A Grocer may provide a Disposable Paper Bag to a customer at no charge to that customer
+ if the customer is a participant in a Colorado Food Assistance Program.
+
+===== Sec. 13.24.080. - Audits and Violations.
+(a)
+ Each Grocer licensed pursuant to the provisions of this Chapter shall maintain accurate
+ and complete records of the fees collected, the number of Disposable Paper Bags provided
+ to customers, the form and recipients of any notice required pursuant to this Chapter,
+ and any underlying records, including any books, accounts, invoices, or other records
+ necessary to verify the accuracy and completeness of such records. It shall be the
+ duty of each Grocer to keep and preserve all such documents and records, including
+ any electronic information, for a period of three (3) years from the end of the calendar
+ year of such records.
+ (b)
+ If requested, each Grocer shall make its records available for audit by the City Manager
+ during regular business hours in order for the City to verify compliance with the
+ provisions of this Chapter. All such information shall be treated as confidential
+ commercial documents.
+ (c)
+ Violation of any of the requirements of this act shall subject a Grocer to the penalties
+ set forth in this Section.
+ (1)
+ If it is determined that a violation has occurred, the City of Aspen shall issue a
+ warning notice to the Grocer for the initial violation.
+ (2)
+ If it is determined that an additional violation of this Chapter has occurred within
+ one (1) year after a warning notice has been issued for an initial violation, the
+ City of Aspen shall issue a notice of infraction and shall impose a penalty against
+ the retail establishment.
+ (3)
+ The penalty for each violation that occurs after the issuance of the warning notice
+ shall be no more than:
+ a.
+ Fifty dollars ($50.00) for the first offense.
+ b.
+ One hundred dollars ($100.00) for the second offense.
+ c.
+ For the third and all subsequent offenses there shall be a mandatory Court appearance
+ and such penalty as may be determined by the Court pursuant to 
+Section 1.04.080
+.
+ (4)
+ No more than one (1) penalty shall be imposed upon a Grocer within a seven (7) calendar
+ day period.
+ (5)
+ A Grocer shall have fifteen (15) calendar days after the date that a notice of infraction
+ is issued to pay the penalty.
+ (6)
+ The penalty shall double after fifteen (15) calendars days if the Grocer does not
+ pay the penalty; or fails to respond to a notice of infraction by either denying or
+ objecting in writing to the infraction or penalty.
+ (d)
+ If payment of any amounts of the Waste Reduction Fee to the City is not received on
+ or before the applicable due date, penalty and interest charges shall be added to
+ the amount due in the amount of:
+ (1)
+ A penalty of five percent (5%) of total due, not to exceed ten dollars ($10.00) each
+ month.
+ (2)
+ Interest charge of one percent (1%) of total penalty per month.
+
+===== Sec. 13.24.090. - Repeal of Ordinance 24, Series of 2011.
+(a)
+ Prior to May 1, 2023, the City shall retain its prohibitions on disposable plastic
+ bags applicable to grocers established by Ordinance 24, Series of 2011 and set forth
+ in 
+Sections 13.24.020
+ through 
+13.24.080
+ of the City of Aspen Municipal Code.
+ (b)
+ Ordinance 24, Series of 2011 shall be repealed effective May 1, 2023.
+ (
+Ord. No. 06-2023
+, § 1, 3-14-2023)
+
+===== Sec. 13.24.100. - Single-use plastic carryout bag prohibition.
+(a)
+ Subject to 
+Section 13.24.110
+, on and after January 1, 2024, a store or retail food establishment shall not provide
+ a single-use plastic carryout bag to a customer, except that a retail food establishment
+ need not comply with this Section if the retail food establishment:
+ (1)
+ Prepares or serves food in individual portions for immediate on or off-premises consumption;
+ and
+ (2)
+ Is not a grocery store or convenience store.
+ (b)
+ Subject to the carryout bag fee applied to single-use plastic carryout bags in 
+Section 13.24.110
+, a store or retail food establishment may provide a single-use plastic carryout bag
+ to a customer on or before June 1, 2024, if the single-use plastic carryout bag was
+ part of the store's or retail food establishment's inventory before January 1, 2024.
+ (c)
+ This Subsection (b) is repealed effective September 1, 2024.
+ (
+Ord. No. 06-2023
+, § 1, 3-14-2023)
+
+===== Sec. 13.24.110. - Carryout bag fee—Disposition of money.
+(a)
+ (1)
+ On and after May 1, 2023, and before January 1, 2024, a store may provide a customer
+ with one (1) or more recycled paper carryout bags or single-use plastic carryout bags
+ at the point of sale only if the customer pays a carryout bag fee of twenty cents
+ ($0.20) per recycled paper carryout bag or single-use plastic carryout bag. For each
+ carryout bag or single-use plastic carryout bag fee collected pursuant to this Section,
+ the shore shall:
+ a.
+ Remit, in accordance with Subsection (c)(4) of this Section, sixty percent (60%) of
+ the first ten cents ($0.10) and the remainder of the fee to the City which shall use
+ the remitted fee to pay:
+ 1.
+ Administrative and enforcement costs incurred as a result of this Section.
+ 2.
+ Costs associated with any recycling, composting, or other waste diversion programs
+ and related outreach and education activities, and
+ b.
+ Retain forty percent (40%) of the first ten cents ($0.10) of the fee, which portion
+ of the fee does not count as revenue for the purpose of calculating sales tax.
+ c.
+ The carryout bag fee set forth in Subsection (a)(1) of this Section does not apply
+ to a customer that provides evidence to the store that the customer is participating
+ in a federal or state food assistance program.
+ (2)
+ This Subsection (a) is repealed, effective September 1, 2024.
+ (b)
+ (1)
+ On and after January 1, 2024, a store may provide a customer with one or more recycled
+ paper carry out bags at the point of sale only if the customer pays a carryout bag
+ fee of twenty cents ($.20) per recycled paper carryout bag. For each carryout bag
+ fee collected pursuant to this section, the store shall:
+ a.
+ Remit, in accordance with subsection (3)(d) of this section, sixty percent (60%) of
+ the first ten cents ($.10) and the remainder of the fee to the City which shall use
+ the remitted fee to pay:
+ 1.
+ Administrative and enforcement costs incurred as a result of this section; and
+ 2.
+ Costs associated with any recycling, composting, or other waste diversion programs
+ and related outreach and education activities.
+ b.
+ Retain forty percent (40%) of the first ten cents ($0.10) of the fee, which portion
+ of the fee does not count as revenue for the purpose of calculating sales tax.
+ (2)
+ The carryout bag fee set forth in Subsection (a)(1) of this Section does not apply
+ to a customer that provides evidence to the store that the customer is participating
+ in a federal or state food assistance program.
+ (3)
+ a.
+ Beginning January 1, 2024 and ending June 1, 2024, a store may provide a customer
+ with a single-use plastic carryout bag at the point of sale for the carryout bag fee
+ described in Subsection (b)(1) of this Section only if the single-use plastic carryout
+ bag is within the store's remaining inventory pursuant to 
+Section 13.24.100
+(b)(1). The store shall remit the fee collected pursuant to this Subsection pursuant
+ to Subsection (b)(1) of this Section.
+ b.
+ This Subsection (b)(3) is repealed effective July 1, 2024.
+ (c)
+ In providing carryout bags for a fee pursuant to this Section a store shall:
+ (1)
+ For each customer provide on the customer's transaction receipt a record of the number
+ of carryout bags provided as part of the transaction and the total amount of fees
+ charged for the carryout bags provided, itemized by type of carryout bag;
+ (2)
+ Not refund to the customer any portion of the carryout bag fee, either directly or
+ indirectly, or advertise or otherwise convey to customers that any portion of the
+ carryout bag fee will be refunded;
+ (3)
+ Conspicuously display a sign in a location inside or outside the store, which sign
+ alerts customers about the carryout hag fee; and
+ (4)
+ On a quarterly basis starting April 1, 2024, remit from the total amount of carryout
+ bag fees collected in the previous quarter the amount that is owed to the City's finance
+ department. A store need not remit carryout bag fees collected in any quarter in which
+ the collected fees total less than twenty dollars ($20.00). The store shall retain
+ those collected fees until the store has more than twenty dollars ($20.00) worth of
+ collected fees to remit and shall remit those fees as part of the next quarterly remittance.
+ (
+Ord. No. 06-2023
+, § 1, 3-14-2023; Ord. No. 
+17-2023
+, § 1, 11-28-2023)
+
+===== Sec. 13.24.120. - Prohibitions on use of expanded polystyrene food containers.
+(a)
+ Except as provided in Subsection (b) of this Section, effective January 1, 2024, a
+ retail food establishment shall not distribute an expanded polystyrene product for
+ use as a container for ready-to-eat food.
+ (b)
+ If a retail food establishment purchased expanded polystyrene products before January
+ 1, 2024, the retail food establishment may distribute any remaining inventory of the
+ expanded polystyrene products then purchased for use as containers for ready-to-eat
+ food until the inventory is depleted.
+ (
+Ord. No. 06-2023
+, § 1, 3-14-2023)
+
+===== Sec. 13.24.130. - Voluntary opt-in.
+Any store or business with a City of Aspen Business license may voluntarily opt into
+ the provisions of this Chapter and apply the ban and carryout bag fee to its business
+ by applying with the City of Aspen Environmental Health Department.
+ (
+Ord. No. 06-2023
+, § 1, 3-14-2023)
+
+===== Sec. 13.24.140. - Audits.
+(a)
+ Each Store shall maintain accurate and complete records of the carryout bag fees collected,
+ the number of single use plastic carryout bags and recycled carryout bags provided
+ to customers, the form and recipients of any notice required pursuant to this Chapter,
+ and any underlying records, including any books, accounts, or invoices, or other records
+ necessary to verify the accuracy and completeness of such records. It shall be the
+ duty of each grocer, store, and retail food establishment to keep and preserve all
+ such documents and records, including any electronic information for a period of three
+ (3) years from the end of the calendar year of such records.
+ (b)
+ If requested, each store, and retail food establishment shall make its records available
+ for audit by the City Manager or designee during regular business hours in order for
+ the City to verify compliance with the provisions of this Chapter. All such information
+ shall be treated as confidential commercial documents.
+ (
+Ord. No. 06-2023
+, § 1, 3-14-2023)
+
+===== Sec. 13.24.150. - Enforcement—Possible penalties.
+(a)
+ Violations of any of this Chapter shall subject a store and retail food establishment
+ to the penalties set forth herein:
+ (1)
+ If it is determined that a violation has occurred, the City shall issue a wanting
+ notice to the store or retail food establishment for the initial violation.
+ (2)
+ If it is determined that an additional violation of this chapter has occurred within
+ one (1) year after a warning notice has been issued for an initial violation, the
+ City shall issue a penalty assessment against the violator. The penalty shall not
+ exceed:
+ a.
+ One hundred dollars ($100.00) for the first violation after written warning.
+ b.
+ Two-hundred dollars ($200.00) for the second violation after written warning.
+ c.
+ Three-hundred dollars ($300.00) for the third violation in the same calendar year
+ as the first and second violation.
+ d.
+ All subsequent violations shall require a mandatory court appearance by the violator,
+ and such penalty as may be determined by the Court pursuant to 
+Section 1.04.080
+.
+ (3)
+ No more than one (1) penalty assessment shall be issued upon the same violator within
+ a seven (7) day period.
+ (4)
+ If a payment of any amounts of the carryout bag fee to the City is not received on
+ or before the applicable due date, penalty and interest charges shall be added to
+ the amount due in the amount of:
+ a.
+ A penalty of five percent (5%) of total due, not to exceed ten dollars ($10.00) each
+ month.
+ b.
+ Interest charge of one percent (1%) of total penalty per month.
+ (b)
+ The City may seek injunctive relief to enforce a violation of this Chapter against
+ a store or retail food establishment.
+ (
+Ord. No. 06-2023
+, § 1, 3-14-2023)
+
+===== Sec. 13.24.160. - Exemptions.
+(a)
+ Nothing in this Chapter prohibits or limits the use of any material used in the packaging
+ of a product that is regulated as a drug, medical device, or dietary supplement by
+ the food and drug administration in the United Statement Department of Health and
+ Human Services under the "Federal Food, Drug, and Cosmetic Act," 21 U.S.C. Sec. 321
+ et seq., as amended, or any equipment and materials used to manufacture such products.
+ (b)
+ Retail food establishments located within a school shall be exempt from the provisions
+ of this Chapter.
+ (
+Ord. No. 06-2023
+, § 1, 3-14-2023)
+
+===== Chapter 13.25. - Licensing of Tobacco Retailers
+
+
+===== Sec. 13.25.010. - Incorporation of general licensing provisions.
+The provisions of 
+Chapter 14.04
+ City of Aspen Municipal Code (Licenses and Permits General Provisions)and 
+Section 1.04.110
+ (Double Fee for Failure to Obtain Required Licenses), shall apply to this Chapter
+ except where they are specifically modified by the provisions of this Chapter.
+
+===== Sec. 13.25.020. - Definitions.
+The following definitions shall apply throughout this Chapter:
+Cigarette 
+means any product that contains tobacco or nicotine, that is intended to be burned
+ or heated under ordinary conditions of use, and consists of or contains:
+ (a)
+ Any roll of tobacco wrapped in paper or in any substance not containing tobacco;
+ (b)
+ Tobacco in any form that is functional in the product, which, because of its appearance,
+ the type of tobacco used in the filler, or its packaging or labeling, is likely to
+ be offered to, or purchased by consumers as a cigarette; or
+ (c)
+ Any roll of tobacco wrapped in any substance containing tobacco that, because of its
+ appearance, the type of tobacco used in the filler, or its packaging and labeling,
+ is likely to be offered to, or purchased by, consumers as a cigarette described in
+ [the definition] above.
+ (d)
+ The term includes all "roll-your-own," i.e., any tobacco that, because of its appearance,
+ type, packaging, or labeling, is suitable for use and likely to be offered to, or
+ purchased by consumers as tobacco for making cigarettes.
+Department
+ means the City of Aspen Environmental Health Department, and any agency or person
+ designated by the City Manager to enforce or administer the provisions of this Chapter.
+Electronic Smoking Device
+ means an electronic device that, when activated, emits a vapor, aerosol, fume or
+ smoke that may be inhaled or absorbed by the user, including, but not limited to,
+ an e-cigarette, e-cigar, e-pipe, vape pen, e-hookah and similar devices. Electronic
+ smoking device includes any component, part, or accessory of such a device, whether
+ or not sold separately, and includes any substance, with or without nicotine, intended
+ to be aerosolized, vaporized or produces a fume or smoke during the use of the device
+ intended for human consumption.
+License
+ refers to the Tobacco Product Retailer license.
+Licensee
+ means the owner or holder of a Tobacco Product Retailer License.
+Licensing Administrator
+ means the person(s) within the City government designated with responsibilities by
+ the City Manager for license issuance, renewal and collection of fees.
+Minimum Legal Sales Age
+ means twenty-one (21) years of age or older.
+Mobile Vending
+ means any sales other than at a fixed location.
+Self-Service Display
+ means the open display or storage of Tobacco Products in a manner that is physically
+ accessible in any way to the general public without the assistance of the retailer
+ or employee of the retailer and a direct person-to-person transfer between the purchaser
+ and the retailer or employee of the retailer. A vending machine is a form of self-service
+ display.
+Tobacco Paraphernalia
+ means any item designed for the consumption, use or preparation of Tobacco Products.
+Tobacco Product
+ means 1) any product which contains, is made or derived from tobacco or used to deliver
+ nicotine or other substances intended for human consumption, whether heated, chewed,
+ absorbed, dissolved, inhaled, snorted, sniffed or ingested by any other means, including,
+ but not limited to Cigarettes, cigars, little cigars, chewing tobacco, pipe tobacco,
+ snuff, bidis, snus, mints, hand gels; and 2) electronic smoking device; 3) notwithstanding
+ any provision of Subsections 1) and 2) to the contrary, "tobacco product" includes
+ any component, part, accessory or associated tobacco paraphernalia of a tobacco product
+ whether or not sold separately. 4) The term "Tobacco Product" does not include: (i)
+ any product that contains marijuana; and (ii) any product made from or derived from
+ tobacco and approved by the Food and Drug Administration (FDA) for use in connection
+ with cessation of smoking.
+Tobacco Product Retail Location
+ or 
+Retail Location
+ means any premises where Tobacco Products are sold or distributed to a consumer including,
+ but not limited to, hookah bar, lounge or café, any grounds occupied by a retailer,
+ any store, stand, outlet, vehicle, cart, location, vending machine or structure where
+ Tobacco Products are sold.
+Tobacco Product Retailer
+ means any Person who sells, offers for sale, or does or offers to exchange for any
+ form of consideration, Tobacco or Nicotine Products, or Tobacco Paraphernalia. "Tobacco
+ Retailing" shall mean the doing of any of these things. This definition is without
+ regard to the quantity of Tobacco Products or Tobacco Paraphernalia sold, offered
+ for sale, exchanged, or offered for exchange.
+Tobacco Product Retailing
+ means the selling, offering for sale, or exchanging for any form of consideration
+ a Tobacco Product.
+Vending machine
+ shall mean any mechanical, electrical, or electronic self-service device which, upon
+ insertion of money, tokens, or any other form of payment, dispenses product.
+
+===== Sec. 13.25.030. - Minimum Legal Sales Age.
+Tobacco Products shall not be sold to any person under the Minimum Legal Sales Age.
+
+===== Sec. 13.25.040. - License requirements and prohibitions.
+(a)
+Tobacco Product Retailer License required.
+ (1)
+ It shall be unlawful for any person to act as a Tobacco Product Retailer in the City
+ unless he or she has obtained a License and maintains the same in full force and effect
+ pursuant to this Chapter for each location where Tobacco Product Retailing occurs.
+ (2)
+ No license may be issued to authorize Tobacco Product retailing anywhere other than
+ at a fixed location that is designated in the License application and approved by
+ the Licensing Administrator. Tobacco Product Retailing by a persons on foot, from
+ vehicles or through Mobile Vending is prohibited.
+ (3)
+ Tobacco Retailing without a valid License is a nuisance as a matter of law.
+ (b)
+Display of License.
+ Each License shall be prominently displayed in a publicly visible location at the
+ licensed Tobacco Product Retail Location.
+ (c)
+Display of Minimum Legal Sales Age Requirements.
+ The requirement of the Minimum Legal Sale Age for the purchase of Tobacco Retail
+ Product shall be prominently displayed in the entrance (or other clearly visible location)
+ of the Tobacco Product Retail Location.
+ (d)
+Other Prohibitions.
+ (1)
+ A Tobacco Product Retail Location may only have one (1) active License at one (1)
+ time. Every License is separate and distinct and specific to a designated location.
+ The License cannot be assigned, delegated, sold, inherited or otherwise transferred
+ between persons or transferred to a different location, except as provided in this
+ Chapter. No Licensee shall exercise the privileges of any other License or delegate
+ the privileges of its own License.
+ (2)
+ A person or entity may not apply for a License for a one (1) year period after a License
+ has been revoked.
+ (3)
+ No License shall be issued to any person under twenty-one (21) years of age.
+
+===== Sec. 13.25.050. - Conditions of the Tobacco Product Retail License.
+The following conditions shall apply to the Licensee:
+ (a)
+Minimum age for persons handling Tobacco Products.
+ No Person who is younger than the minimum age established by the City to purchase
+ and possess the Tobacco Products shall, while employed at a Tobacco Product Retail
+ Location, sell, stock, retrieve, or otherwise handle Tobacco Products.
+ (b)
+Prohibition of self-service displays.
+ Licensees shall stock and display all Tobacco Products in a manner so as to make
+ all such products inaccessible to customers without the assistance of a retail clerk,
+ thereby requiring a direct face-to-face exchange of the Tobacco Product from an employee
+ of the business to the customer.
+ (c)
+Requirements of positive identification.
+ No person engaged in Tobacco Product retailing shall sell or transfer a Tobacco Product
+ to another person who appears to be under the age of thirty (30) years without first
+ examining the identification of the recipient to confirm that the recipient is at
+ least twenty-one (21) years of age.
+ (d)
+No Licenses shall be issued within five hundred (500) feet of schools.
+ No Licenses will be issued to retailers located within five hundred (500) feet from
+ schools or youth populated areas (community specific locations, playgrounds, parks
+ etc.), as determined by the Licensing Administrator. This restriction shall not apply
+ to an existing Retail Location within five hundred (500) feet of a youth populated
+ area.
+
+===== Sec. 13.25.060. - Application procedure.
+(a)
+ An application for a License shall be submitted and signed by an individual authorized
+ by the person or entity making application for the License. It is the responsibility
+ of each applicant and/or Licensee to be informed regarding all laws applicable to
+ tobacco retailing, including those laws affecting the issuance of said License. No
+ applicant and/or Licensee may rely on the issuance of a License as a determination
+ by the City that the proprietor has complied with all applicable tobacco retailing
+ laws.
+ (b)
+ All applications shall be submitted on a form supplied by the Licensing Administrator.
+ (c)
+ A licensed Tobacco Product Retailer shall inform the Licensing Administrator in writing
+ of any change in the information submitted on an application for a License within
+ thirty (30) business days of a change.
+ (d)
+ All License applications shall be accompanied by the payment in full of all fees as
+ required in this Chapter.
+
+===== Sec. 13.25.070. - Issuance of a Tobacco Product License.
+Upon the receipt of a completed application for a License as required by this Chapter,
+ the Licensing Administrator shall sign and issue a License within thirty (30) days
+ which period may be extended by the Licensing Administrator for good cause unless
+ substantial evidence demonstrates that one (1) or more of the following bases for
+ denial exists:
+ (a)
+ The information presented in the application is incomplete, inaccurate or false;
+ (b)
+ The applicant seeks authorization for a License at a location where this Chapter prohibits
+ the issuance of a License;
+ (c)
+ The applicant seeks a License for a location that is not appropriately zoned for the
+ use;
+ (d)
+ The applicant seeks authorization for a License and the applicant's current License
+ is suspended or revoked;
+ (e)
+ The applicant is not qualified to hold the requested License under the provisions
+ of this Chapter; or
+ (f)
+ The applicant and/or retail location is not in compliance with all City, state or
+ federal laws;
+ (g)
+ The applicant is indebted to, or obligated in any manner to the City for unpaid taxes,
+ liens or other monies; or
+ (h)
+ The payment of the licensing fee in the full amount chargeable for such License does
+ not accompany such License application.
+
+===== Sec. 13.25.080. - Denial of Tobacco Product License.
+(a)
+ If the Licensing Administrator denies the issuance of the License, the Licensing Administrator
+ shall notify the applicant in writing by regular mail postage prepaid on the address
+ shown in the application. The notice shall include the grounds for denial. Notice
+ is deemed to have been properly given upon mailing.
+ (c)
+ An applicant has the right to appeal the Licensing Administrator's denial of an application
+ to the "Hearing Officer" that shall be appointed by the City Manager. Such an appeal
+ shall be initiated by filing a written request with the Licensing Administrator within
+ twenty (20) days of the date of the notice of denial of the issuance of a License.
+ (d)
+ The applicant's failure to timely appeal the decision of the Licensing Administrator
+ is a waiver of the applicant's right to contest the denial of the issuance of the
+ License.
+ (e)
+ The appeal, including any right to further appeals, shall be conducted and controlled
+ by the provisions of Rule 106(a)(4) of the Colorado Rules of Civil Procedure. The
+ standard of proof at such appeal shall be a preponderance of the evidence and the
+ burden of proof shall be upon the applicant. The Licensee's failure to timely appeal
+ the decision is a waiver of the Licensee's right to contest the suspension or revocation
+ of the License.
+
+===== Sec. 13.25.090. - License term, renewal and expiration.
+(a)
+Term.
+ All Licenses issued under this Code shall be for the period of one (1) year or a
+ fraction thereof and shall expire on the last day of December of each calendar year
+ unless otherwise specifically provided.
+ (b)
+Renewal of License.
+ A Licensee shall apply for the renewal of the License and submit the renewal License
+ fee no later than thirty (30) days prior to expiration of the existing term. The Licensing
+ Administrator shall renew the License prior to the end of the term, provided that
+ the renewal application and fee were timely submitted and the Licensing Administrator
+ is not aware of any fact that would have prevented issuance of the original License
+ or issuance of the renewal.
+ (c)
+Expiration of License.
+ A License that is not timely renewed shall expire at the end of its term. The failure
+ to timely obtain a renewal of a License requires submission of a new application.
+ There shall be no sale of any Tobacco Products after the License expiration date and
+ before the new License is issued.
+
+===== Sec. 13.25.100. - License non-transferable.
+(a)
+ A License shall not be transferred from one (1) person to another or from one (1)
+ location to another.
+ (b)
+ When a License has been issued to a husband and wife, or to general or limited partners,
+ the death of a spouse or partner shall not require the surviving spouse or partner
+ to obtain a new License for the remainder of the term of that License. All rights
+ and privileges granted under the original License shall continue in full force and
+ effect as to such survivors for the balance of the term of the License.
+
+===== Sec. 13.25.110. - Fee for License.
+(a)
+ The annual fee for original issuance of a License for applications filed in 2018 shall
+ be five hundred dollars ($500.00). The fee to issue or to renew a License may be changed
+ from time to time by resolution of the City Council. The fee shall be calculated so
+ as to recover the direct and indirect costs of administration and enforcement of this
+ Chapter, including, for example, issuing a License, administering the License program,
+ retailer education and training, retailer inspection, compliance checks, community
+ outreach and education, documentation of violations, and prosecution of violators,
+ but shall not exceed the cost of the regulatory program authorized by this Chapter.
+ Fees are nonrefundable except as may be required by law. In addition, from time to
+ time, as deemed appropriate by License Administrator, the License may be increased
+ in accordance with Article X Section 20 of the Colorado Constitution.
+ (b)
+ All fees and interest from proceeds of License fees under this Chapter shall be deposited
+ in a separate cash account established by the City. These funds are to be used exclusively
+ to defray the costs of the local licensing program.
+ (c)
+ As part of the annual budget process, the amount of fees charged by the City pursuant
+ to this Section shall be reviewed and, if necessary, adjusted to reflect the direct
+ and indirect costs incurred by the City in connection with the adoption, administration
+ and enforcement of this Chapter.
+ (d)
+ Beginning with the fiscal 2018 budget, the amount of the fees charged by the City
+ pursuant to this Section shall be fixed by City Council as part of its annual budget
+ process. If, for any reason, such fees are not fixed by City Council as part of its
+ annual budget process, the fees for the preceding year shall continue to in full force
+ and effect until changed by City Council.
+
+===== Sec. 13.25.120. - Compliance monitoring.
+(a)
+ Compliance monitoring of this Chapter shall be by the Department, as the Department
+ (or its designee) deems appropriate.
+ (b)
+ The Department shall have discretion to consider previous compliance check history
+ or prior violations of a Licensee in determining how frequently to conduct compliance
+ checks of the Licensee with respect to individual Licensees.
+ (c)
+ The Department shall inspect each Tobacco Product Retailer at least two (2) times
+ per twelve (12) month period. Nothing in this paragraph shall create a right of action
+ in any Licensee or other Person against the City or its agents.
+ (d)
+ Compliance checks shall be conducted as the Department deems appropriate so as to
+ allow the Department to determine, at a minimum, if the Tobacco Product Retailer is
+ conducting business in a manner that complies with laws regulating access to Tobacco
+ Products. When the Department deems appropriate, the compliance checks shall determine
+ compliance with other laws applicable to Tobacco Products.
+
+===== Sec. 13.25.130. - Suspension or Revocation of License.
+(a)
+ The following shall be grounds for suspension or revocation of the Licensee's License:
+ (1)
+ A violation by a Licensee or Licensee's officers, agents, or employees of any of the
+ provisions of this Chapter, or any laws of the United States, the State of Colorado
+ or ordinances of the City relating to the sale or furnishing of tobacco or Cigarettes
+ to minors, or the storage or display of Cigarettes or tobacco products.
+ (2)
+ Violations of any conditions imposed by the Licensing Administrator or Hearing Officer
+ in connection with the issuance or renewal of a License.
+ (3)
+ Failure to pay State or local taxes that are related to the operation of the business
+ associated with the License.
+ (4)
+ Loss of right to possession of the licensed premises.
+ (5)
+ Fraud, misrepresentation, or a false statement of material fact contained in the original
+ or renewal license application;
+ (b)
+ The City Manager shall appoint a Hearing Officer to hear all actions relating to the
+ suspension or revocation of Licenses pursuant to this Chapter. The Hearing Officer
+ shall have the authority to suspend, revoke, or impose remedial sanctions for violations.
+ (c)
+ The Licensing Administrator shall commence suspension or revocation proceedings by
+ petitioning the Hearings Officer to issue an order to the Licensee to show cause why
+ the Licensee's License(s) should not be suspended or revoked. The Hearing Officer
+ shall issue such an order to show cause if the petition demonstrates that probable
+ cause exists to determine that one or more grounds exist pursuant to Subsection (a)
+ to suspend or revoke the Licensee's License. The order to show cause shall set the
+ matter for a public hearing before the Hearing Officer.
+ (d)
+ Notice of the order to show cause order and hearing date shall be mailed to Licensee
+ by regular mail, postage prepaid, at the address shown on the License no later than
+ thirty (30) days prior to the hearing date. Notice is deemed to have been properly
+ given upon mailing.
+ (e)
+ The notice to show cause hearing and any subsequent right to appeal shall be conducted
+ and controlled by the provisions of Rule 106(a)(4) of the Colorado Rules of Civil
+ Procedure. The standard of proof at such hearings shall be a preponderance of the
+ evidence and the burden of proof shall be upon the Licensing Administrator and/or
+ Department.
+ (f)
+ In determining whether a License should be suspended or revoked, and in determining
+ whether to impose conditions in the event of a suspension, the Hearing Officer shall
+ consider the following factors:
+ (1)
+ The nature and circumstances of the violation;
+ (2)
+ Corrective action, if any taken by the Licensee;
+ (3)
+ Prior violations, if any by the Licensee;
+ (4)
+ The likelihood of recurrence of the violation;
+ (5)
+ Whether the violation was willful; and
+ (6)
+ Previous sanctions, if any, imposed on the Licensee.
+
+===== Sec. 13.25.140. - Penalties and fines.
+(a)
+Licensees penalties and fines.
+ In addition to any other penalty authorized by law, and if the Hearing Officer determines
+ based on a preponderance of the evidence, that the Licensee, or any of the Licensee's
+ agents or employees, has violated any of the requirements, conditions, or prohibitions
+ of this Chapter, or has pleaded guilty, "no contest" or its equivalent, or admitted
+ to a violation of any law relating to the sale of tobacco to minors including but
+ not limited to C.R.S. §§ 18-13-121 and 24-35-503, the Hearing Officer may consider
+ the following non-binding guidelines in determining the sanctions to be imposed upon
+ a Licensee as follows:
+ (1)
+ One (1) violation within thirty-six (36) months: a civil penalty of five hundred dollars
+ ($500.00) and/or suspension of the License for three (3) days.
+ (2)
+ Two (2) violations within thirty-six (36) months: a civil penalty of one thousand
+ dollars ($1,000.00) and suspension of the License for seven (7) days.
+ (3)
+ Three (3) violations within thirty-six (36) months: a civil penalty of one thousand
+ five hundred dollars ($1,500.00) and a minimum twenty (20) days suspension of the
+ License.
+ (4)
+ Four (4) violations within thirty-six (36) months: a civil penalty of two thousand
+ dollars ($2,000.00) and revocation of License.
+ The actual sanction imposed upon a Licensee for any violation may vary from the above-stated
+ guidelines when warranted by the specific facts and circumstances of the case.
+ (b)
+ After the effective date of this ordinance, it shall be unlawful for any Tobacco Product
+ Retailer to sell a Tobacco Product without a License as mandated under this Chapter,
+ or with a suspended or revoked License. In addition, the Hearing Officer may impose
+ civil penalties of up to two thousand five hundred dollars ($2,500.00) for each separate
+ Tobacco Product sold during the period of non-compliance with this Chapter. A retailer
+ whose License has been suspended or revoked 1) shall not display Tobacco Products
+ in public view during the timeframe in which the License is suspended or revoked;
+ and 2) advertisements relating to Tobacco Products that promote the sale or distribution
+ of such products from the location that could lead a reasonable person to believe
+ that such products can be obtained from that location shall not be displayed.
+
+===== Sec. 13.25.150. - Enforcement.
+(a)
+ The remedies provided by this Chapter are cumulative and in addition to any other
+ remedies available at law or in equity. In addition to other remedies provided by
+ this Chapter or by other law, any violation of this Chapter may be remedied by a civil
+ action brought by the City Attorney, including but not limited to nuisance abatement
+ proceedings and injunctive relief.
+ (b)
+ Causing, permitting, aiding, abetting, or concealing a violation of any provision
+ of this Chapter shall cause the offender to be subject to the penalties set forth
+ herein or in the Aspen Municipal Code.
+
+===== Sec. 13.25.160. - No Rights in License.
+Every License issued under this Chapter confers only a limited and conditional privilege
+ subject to the requirements, conditions, limitations and qualifications of this Chapter.
+ The License does not confer a property right of any kind. The License and privilege
+ created by the License may be further regulated, limited or completely extinguished
+ at the discretion of City Council or the electorate of the City, as provided in this
+ Chapter, without any compensation to the Licensee. Nothing contained in this Chapter
+ grants to any Licensee any vested right to continue operating under the provisions
+ of this Chapter as they existed at the time the License was approved or issued, and
+ every License shall be subject to any ordinance or prohibition adopted after the License
+ was approved or issued.
+
+===== Sec. 13.25.170. - Effective Date.
+This Chapter shall become effective as of January 1, 2018 and enforceable on and after
+ that date. Any Tobacco Product Retailer without a License after the effective date
+ will be in violation of this Chapter.
+ (Ord. No. 24, 2011; 
+Ord. No 17, 2017
+)
+
+===== Chapter 13.26. - Restrictions on the Sale of Flavored Tobacco Products, Including Menthol, in Tobacco Product Retail Establishments
+
+
+===== Sec. 13.26.010. - Reserved.
+
+
+===== Sec. 13.26.020. - Definitions.
+Characterizing Flavor
+ means a distinguishable taste or aroma or both, other than the taste or aroma of
+ tobacco, imparted either prior to or during consumption of a Tobacco Product or any
+ byproduct produced by the Tobacco Product. Characterizing flavors include, but are
+ not limited to, tastes or aromas relating to any fruit, chocolate, vanilla, honey,
+ candy, cocoa, dessert, alcoholic beverage, menthol, mint, wintergreen, herb, spice;
+ provided, however, that a Tobacco Product shall not be determined to have a characterizing
+ flavor solely because of the use of additives or flavorings or the provision of ingredient
+ information. Rather, it is the presence of a distinguishable taste or aroma or both,
+ as described in the first sentence of this definition that constitutes a characterizing
+ flavor.
+Cigar
+ means any roll of tobacco other than a cigarette wrapped entirely or in part in tobacco
+ or any other substance containing tobacco. For purposes of this Chapter, cigar includes,
+ but is not limited to tobacco products known or labeled as "cigar," "cigarillo," or
+ "little cigar."
+Cigarette
+ means any product that contains tobacco or nicotine that is intended to be burned
+ or heated under ordinary conditions of use, and consists of or contains:
+ (a)
+ Any roll of tobacco wrapped in paper or in any substance not containing tobacco;
+ (b)
+ Tobacco in any form that is functional in the product, which, because of its appearance,
+ the type of tobacco used in the filler, or its packaging or labeling, is likely to
+ be offered to, or purchased by Consumers as a cigarette; or
+ (c)
+ Any roll of tobacco wrapped in any substance containing tobacco that, because of its
+ appearance, the type of tobacco used in the filler, or its packaging and labeling,
+ is likely to be offered to, or purchased by, Consumers as a cigarette described above.
+ (d)
+ The term includes all "roll-your-own," i.e., any tobacco that, because of its appearance,
+ type, packaging, or labeling, is suitable for use and likely to be offered to, or
+ purchased by consumers as tobacco for making cigarettes.
+Constituent
+ means any ingredient, substance, chemical, or compound other than tobacco, water,
+ or reconstituted tobacco sheet that is added by the manufacturer to a Tobacco Product
+ during the processing, manufacture, or packing of a Tobacco Product.
+Consumer
+ means an individual who purchases a Tobacco Product or Tobacco Paraphernalia for
+ consumption and not for sale to another.
+Distinguishable
+ means perceivable by either the sense of smell or taste.
+Electronic Smoking Device
+ means any product containing or delivering nicotine intended for human consumption
+ that can be used by an individual to simulate smoking in the delivery of nicotine
+ or any other substance, even if marketed as nicotine-free, through inhalation from
+ the product. Electronic smoking device includes any refill, cartridge or component
+ part of a product, whether or not marketed or sold separately. Electronic smoking
+ device does not include any product that has been approved or certified by the United
+ States Food and Drug Administration for sale as a tobacco cessation product or for
+ other medically approved or certified purposes.
+Establishment
+ means any store, stand, booth, concession or any other enterprise that sells, offers
+ for sale, or does or offers to exchange for any form of consideration, Tobacco Products
+ or Tobacco Paraphernalia including, but not limited to any retail location, stand,
+ outlet, vehicle, cart, vending machine, structure or any grounds where Tobacco Products
+ and/or Tobacco Paraphernalia are sold or offered for exchange.
+Flavored Tobacco Product
+ means any Tobacco Product, including cigarettes, that contains a constituent or that
+ imparts a characterizing flavor.
+Ingredient
+ means any substance, chemical or compound, other than tobacco, water or reconstituted
+ tobacco sheet that is added by the manufacturer to a tobacco product during the processing,
+ manufacture or packing of the Tobacco Product.
+Labeling
+ means written, printed, pictorial, or graphic matter upon any Tobacco Product or
+ any of its packaging.
+License
+ means a Tobacco Product Retail License.
+Manufacturer
+ means a person, including any repacker or relabeler, who manufacturers, fabricates,
+ assembles, processes, or labels a Tobacco Product; or imports a finished Tobacco Product
+ for sale or distribution into the United States.
+Packaging
+ means a pack, box, carton, or container of any kind or, if no other container, any
+ wrapping (including cellophane) in which a Tobacco Product(s) is sold or offered for
+ sale to a consumer.
+Person
+ in this Chapter means any natural person, partnership, cooperative association, corporation,
+ limited liability company, personal representative, receiver, trustee, assignee or
+ other legal entity.
+Sale or Sell
+ means any transfer, exchange, barter, gift, offer for sale, or distribution for a
+ commercial purpose, in any manner, for any form of consideration or by any means whatsoever.
+Tobacco Paraphernalia
+ means any item designed for the consumption, use, or preparation of Tobacco Products.
+Tobacco Product
+ means:
+ (a)
+ Any product which contains, is made or derived from tobacco or used to deliver nicotine,
+ synthetic nicotine or other substances intended for human consumption, whether heated,
+ chewed, absorbed, dissolved, inhaled, snorted, sniffed or ingested by any other means,
+ including, but not limited to cigarettes, cigars, little cigars, chewing tobacco,
+ pipe tobacco, snuff, bidis, snus, mints, hand gels; and
+ (b)
+ An Electronic Smoking Device;
+ (c)
+ Notwithstanding any provision of Subsections (1) and 2) above to the contrary, "Tobacco
+ Product" includes any component, part, accessory or associated Tobacco Paraphernalia
+ of a Tobacco Product whether or not sold separately.
+ (d)
+ The term "Tobacco Product" does not include:
+ (1)
+ Any product that contains marijuana; and
+ (2)
+ Any product made from or derived from tobacco and approved by the Food and Drug Administration
+ (FDA) for use in connection with cessation of smoking.
+Tobacco Product Retailer
+ means any person who engages in the Sale of Tobacco Products and or Flavored Tobacco
+ Products directly to the public from any store, stand, booth, concession, outlet,
+ vehicle, cart, vending machine, structure or any grounds or any other enterprise that
+ sells, offers for sale, or does or offers to exchange for any form of consideration.
+Tobacco Product Retailing
+ means the act of selling, offering for sale or exchanging or offering to exchange
+ for any form of consideration, Tobacco Products and or Flavored Tobacco Products.
+ (Ord. No. 
+14A-2019
+, § 1, 5-13-2019)
+
+===== Sec. 13.26.030. - Sale or Distribution of Flavored Tobacco Products Prohibited.
+(a)
+ The sale or distribution by a Tobacco Product Retailer of a Flavored Tobacco Product(s)
+ is prohibited.
+ (b)
+ A Tobacco Product Retailer, or any of the Tobacco Product Retailer's agents, or employees
+ shall not sell, offer for sale or possess with the intent to sell a Flavored Tobacco
+ Product(s).
+ (c)
+ There shall be a rebuttable presumption that a Tobacco Product is presumed to be a
+ Flavored Tobacco Product if a manufacturer or any of the manufacturer's agents or
+ employees, in the course of their agency or employment, has made a statement or claim
+ directed to consumers or to the public that the Tobacco Product has or produces a
+ characterizing flavor, including, but not limited to, text, color; and/or images on
+ the product's labeling or packaging that are used to explicitly or implicitly communicate
+ that the Tobacco Product has a characterizing flavor.
+ (d)
+ There shall be a rebuttable presumption that a Tobacco Product Retailer in possession
+ of four (4) or more Flavored Tobacco Products, including but not limited to individual
+ Flavored Tobacco Products, packages of Flavored Tobacco Products, or any combination
+ thereof, possesses such Flavored Tobacco Products with the intent to sell or offer
+ said products for sale.
+ (Ord. No. 
+14A-2019
+, § 1, 5-13-2019)
+
+===== Sec. 13.26.040. - Compliance Monitoring.
+(a)
+ Enforcement of this Chapter shall be monitored by the local police department and
+ the City of Aspen Environmental Health Department.
+ (b)
+ All Tobacco Product Retailers shall be subject to a compliance check for adherence
+ to the provisions of this Chapter at least twice a year with violators being checked
+ more frequently until two (2) consecutive checks are completed without a violation.
+ (Ord. No. 
+14A-2019
+, § 1, 5-13-2019)
+
+===== Sec. 13.26.050. - Violations, Penalties and Fines.
+(a)
+Licensee penalties and fines.
+ In addition to any other penalty authorized by law, if the City of Aspen Municipal
+ Court determines based on the evidence, that a Tobacco Product Retail Licensee, or
+ any of the Licensee's agents or employees, has violated any of the requirements, conditions,
+ or prohibitions of this Chapter, or has pleaded guilty, "no contest" or its equivalent,
+ or admitted to a violation of any law related to the Sale of Flavored Tobacco Products
+ the following penalties shall be imposed on the Licensee:
+ (1)
+ Upon the first violation, a penalty of five hundred dollars ($500.00)
+ (2)
+ Upon the second violation within thirty-six (36) months, a penalty of one thousand
+ five hundred dollars ($1,500.00).
+ (3)
+ Upon the third violation within thirty-six (36) months, court appearance shall be
+ mandatory, and the Court may issue a penalty of up to the maximum amount allow by
+ law or imprisonment for a period of up to one (1) year or both such fine and imprisonment
+ at the discretion of the court.
+ (4)
+ Each day of violation constitutes a separate offense.
+ (b)
+Suspension or revocation of Tobacco Product Retail License.
+ In addition to the penalties set forth about, the City of Aspen may suspend or revoke
+ a Tobacco Product Retailer license issued pursuant to 
+Chapter 13.25
+, pursuant to the terms set forth in such 
+Chapter 13.25
+. A Tobacco Product Retailer whose license has been suspended or revoked pursuant
+ to 
+Chapter 13.25
+:
+ (1)
+ Shall not display Flavored Tobacco Products in public view during the time when the
+ license is suspended or revoked; and
+ (2)
+ Advertisements related to Flavored Tobacco Products that promote the sale or distribution
+ of said products from the location that could lead a reasonable person to believe
+ that such products can be obtained from the location shall not be displayed.
+ (c)
+Remedies cumulative.
+ Remedies provided by this Chapter are cumulative and in addition to any other remedies
+ available at law or in equity. In addition to the remedies provided by this Chapter
+ or by any other law, any violation of this Chapter may be remedied by a civil action,
+ brought by the City Attorney including, but not limited to injunctive relief.
+ (d)
+[Causing, permitting, aiding, abetting or concealing.]
+ Causing, permitting, aiding, abetting or concealing a violation of any provision
+ of this Chapter shall cause the offender to be subject to the penalties set forth
+ herein or in the Aspen Municipal Code.
+ (Ord. No. 
+14A-2019
+, § 1, 5-13-2019)
+
+===== Sec. 13.26.060. - Reserved.
+
+
+===== Sec. 13.26.070. - No Conflict With Federal or State Law.
+Nothing in this Chapter shall be interpreted or applied so as to create any requirement,
+ power, or duty that is preempted by federal or state law.
+ (Ord. No. 
+14A-2019
+, § 1, 5-13-2019)

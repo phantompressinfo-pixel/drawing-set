@@ -1,0 +1,359 @@
+# CITY OF ASPEN MUNICIPAL CODE — TITLE 10 - EMERGENCY ALARM SYSTEMS AND PROTECTION SERVICES
+# Source: Municode (api.municode.com), Supp. No. 7 Update 1, codified through Ord. No. 06-2026 (enacted 2026-03-24)
+# Retrieved: 2026-07-22
+
+
+===== TITLE 10 - EMERGENCY ALARM SYSTEMS AND PROTECTION SERVICES
+
+
+===== Chapter 10.04. -         EMERGENCY ALARM SYSTEMS AND PROTECTION SERVICES        
+Footnotes: 
+ --- (
+1
+) ---
+Editor's note—
+ Ord. No. 5-1980, § 1, repealed former Ch. 8 1/2, §§ 8 1/2-1—8 1/2-12, relative to
+ emergency alarm systems and enacted in lieu thereof a new Ch. 8 1/2, §§ 8 1/2-1—8
+ 1/2-8 [Chapter 10.04], as herein set out. Former Ch. 8 1/2 was derived from Ord. No.
+ 11-1973, § 1, adopted May 29, 1973.
+Cross reference— 
+ Licenses and permits generally, Title 14; reporting false alarm prohibited, § 15.04.080.
+
+===== Sec. 10.04.010. - Definitions.
+The following words, terms and phrases, when used in this Chapter shall have the meanings
+ ascribed to them in this Section, except where the context clearly indicates a different
+ meaning:
+Alarm business
+ shall mean the business by any individual, partnership, corporation or other entity
+ of selling, leasing, maintaining, servicing, repairing, altering, replacing, moving
+ or installing of any alarm system in or on any building, structure or facility or
+ the business of monitoring such alarms for the purpose of requesting police response
+ to activated alarms.
+Alarm user
+ shall mean the person, firm, partnership, association, corporation, company or organization
+ of any kind in control of any building, structure or facility wherein an alarm system
+ is maintained.
+Director of operations
+ shall mean the Chief of Police of the Aspen Police Department and such persons designated
+ by the Chief of Police to administer the provisions of this Chapter.
+Emergency alarm system
+ shall mean any burglar, holdup, police, fire or other emergency alarm or device arranged
+ to signal the occurrence of an activity requiring urgent attention to which police
+ are expected to respond.
+False alarm
+ shall mean an alarm signal, eliciting a response by police when a situation of imminent
+ threat of injury to person or property or theft of property does not in fact exist,
+ but does not include an alarm signal caused by violent conditions of nature or other
+ extraordinary circumstances not reasonably subject to control by the alarm business
+ or alarm user.
+ (Code 1971, § 8 1/2-1; 
+Ord. No. 5-1980
+, § 1; 
+Ord. No. 3-1988
+, § 1)
+
+===== Sec. 10.04.020. - Alarm user permit.
+Every alarm user shall obtain an alarm user's permit for each separate emergency alarm
+ system from the Director of Finance prior to the use of an alarm system The permit
+ year shall extend from January 1st to the following December 31st. Application for
+ an emergency alarm user's permit shall be filed with the fee prescribed by Subsection
+2.12.050
+ of this Code shall be paid to the Director of Finance before January 1st of each
+ year. Revoked permits may be reactivated during the permit year upon payment of the
+ fee prescribed by Subsection 
+2.12.050
+ of this Code. Each permit shall bear the signature of the Director of Operations
+ and shall be for a one (1) year period. The Director of Operations may require the
+ user to provide such information deemed reasonably necessary for the expeditious and
+ safe response of officers and the timely and effective billing of false alarm fees.
+ This information shall include, but shall not be limited to, the name and current
+ mailing and physical address of the person responsible for paying false alarm fees.
+ The permittee shall also provide, through the alarm business, current and reasonable
+ directions to the alarm site. Residential permittees may be required to display the
+ house number so that it is visible and discernible from the street. An alarm business
+ may act as agent for the user in the handling of permit matters.
+ (Code 1971, § 8 1/2-1.1; 
+Ord. No. 3-1988
+, § 2; 
+Ord. No. 44-1991,
+ § 1; 
+Ord. No. 77-1992
+, § 1)
+Cross reference— 
+ Definitions and rules of construction generally, 
+§ 1.04.020
+.
+
+===== Sec. 10.04.030. - Alarm business license required; application; fee; bond.
+(a)
+ It shall be unlawful to operate an alarm business within the City without having first
+ obtained a business license therefor.
+ (b)
+ Applications shall be filed and licenses for an alarm business license shall be issued
+ under the provisions of and pursuant to the regulations of 
+Sections 14.04.010
+ to 
+14.08.120
+, inclusive, of this Code provided however, that the annual license fee shall be in
+ an amount set forth at Subsection 
+2.12.050
+ of this Code.
+ (c)
+ Applications for alarm business licenses shall be accompanied by an affidavit signed
+ by the applicant, setting forth the location of the proposed facilities, the equipment,
+ personnel policies, management and method of operations of the applicant and such
+ other information as the Director of Finance may reasonably require from time to time
+ and stating further that the applicant agrees to comply with all the provisions of
+ this 
+Chapter 10.04
+.
+ (d)
+ Applications for an alarm business license shall include:
+ (1)
+ Proof of technical capacity to install and properly maintain emergency alarm systems,
+ which shall include three (3) letters of recommendation from alarm manufacturing and
+ supply companies attesting to the applicant's technical qualifications and such other
+ proof as the Director of Finance may reasonably require from time to time.
+ (2)
+ The applicant's current financial statement, certified by a certified public accountant,
+ demonstrating the applicant's ability to comply with the requirements of this 
+Chapter 10.04
+.
+ (e)
+ Upon approval of the application, but prior to issuance of an alarm business license
+ by the Director of Finance, the applicant shall provide:
+ (1)
+ A performance bond in the amount of ten thousand dollars ($10,000.00) guaranteeing
+ the performance of the applicant's obligations under this 
+Chapter 10.04
+.
+ (2)
+ A certificate of insurance in the face amount of not less than one million dollars
+ ($1,000,000.00) insuring the applicant against personal injury and property damage,
+ errors and omissions of the applicant, its employees and agents and third party contractors
+ acting under the authority of the applicant.
+ (Code 1971, § 8 1/2-2; 
+Ord. No. 5-1980
+, § 1; 
+Ord. No. 3-1988
+, § 3; 
+Ord. No. 53-1995
+ § 1)
+
+===== Sec. 10.04.040. - Prohibited connections and emergency alarm systems.
+(a)
+ No alarm system or device, other than those required by federal or state law or those
+ connected by a licensed protection service, shall be connected directly to the Aspen
+ Police Department.
+ (b)
+ No alarm system or device which transmits a signal of prerecorded message directly
+ to the Police Department shall be connected to or be permitted to use any telephone
+ lines serving the Department.
+ (c)
+ No alarm system or device which transmits a signal to an unlicensed protection system
+ shall be permitted to use any telephone lines serving the Department.
+ (d)
+ No alarm system or device which transmits only an audible signal to the general public
+ (so-called "local alarm") shall be permitted within the City, except, however, local,
+ residential fire alarm and mobile or automobile alarms.
+ (e)
+ The City shall make available to each licensee hereunder sufficient space in its Police
+ Department to accommodate the required telephone equipment, but shall otherwise be
+ under no duty or obligation of any kind to a licensee hereunder.
+ (Code 1971, § 8 1/2-3; 
+Ord. No. 5-1980
+, § 1)
+
+===== Sec. 10.04.050. - Installation, operation and maintenance of emergency alarm system.
+(a)
+ All costs and expenses of installing, maintaining and monitoring emergency alarm systems
+ licensed hereunder shall be borne entirely by the licensee. It shall be the further
+ responsibility of a licensee hereunder to relocate its Police Department telephone
+ connections to any different location that may be reasonably required from time to
+ time by the Police Department, without expense to the City.
+ (b)
+ It shall be unlawful to install and thereafter operate or maintain any emergency alarm
+ device or system of any kind, with the exception of local, residential fire alarms,
+ mobile and automobile alarms or an alarm system or device required by Federal or State
+ law, without having first obtained a protection service business license.
+ (Code 1971, § 8 1/2-4; 
+Ord. No. 5-1980
+, § 1)
+
+===== Sec. 10.04.060. - Emergency alarm system warning signal requirements.
+Every emergency alarm system installed within the City shall have an audible warning
+ signal which sounds immediately if the system is mistakenly armed when it should not
+ be so armed. Such warning signal must be located in close proximity to the control
+ point where the arming and disarming of the system occurs and must be of at least
+ ninety (90) decibels intensity at the point of control.
+ (Code 1971, § 8 1/2-5; 
+Ord. No. 5-1980
+, § 1; 
+Ord. No. 3-1988
+, § 4)
+
+===== Sec. 10.04.070. - False alarm fee.
+(a)
+ Except as provided in 
+Section 10.04.130
+, each time an alarm business relays a false alarm to the Aspen Police Department,
+ the alarm user who has contracted with the alarm business to monitor that alarm shall
+ pay, within thirty (30) days of receiving a bill from the Director of Finance, a fee
+ as prescribed by Subsection 
+2.12.050
+ of this Code.
+ (b)
+ Any testing or installation of equipment that may activate an emergency response from
+ the Police Department must be approved in advance by the Director of Operations. Unless
+ such approval is granted, an alarm that occurs during installation or testing will
+ be considered a false alarm.
+ (Code 1971, § 8 1/2-6; 
+Ord. No. 5-1980
+ § 1; 
+Ord. No. 1-1984
+, § 1; 
+Ord. No. 3-1988
+, § 5; 
+Ord. No. 44-1991
+, § 2; 
+Ord. No. 77-1992
+, § 2)
+
+===== Sec. 10.04.080. - Revocation of alarm user's permit.
+(a)
+ Any emergency alarm system which has four (4) or more false alarms within a permit
+ year shall be subject to permit revocation as provided herein.
+ (b)
+ Failure of the alarm user to pay a false alarm fee within thirty (30) days of receipt
+ of the bill from the Director of Finance shall subject the permittee to a late fee
+ as prescribed by Subsection 
+2.12.050
+ of this Code and the Director of Operations may initiate permit revocation proceedings
+ as set forth hereinafter.
+ (c)
+ Failure on the part of the user to provide current permit information shall subject
+ the alarm permit to revocation.
+ (d)
+ If the Police Department records indicate that four (4) or more false alarms have
+ occurred within a permit year for an alarm system or if the alarm user fails to comply
+ with reasonable requests to update alarm permit information, the Director of Operations
+ shall notify the alarm user and the alarm business that monitors the alarm that the
+ user permit will be revoked if the user does not contact the Director of Operations
+ within fifteen (15) days of the service of the notice by certified mail. The notice
+ shall be mailed to the last known billing address as provided by the user on the current
+ year's permit application. The notice shall also advise the user of the process for
+ requesting a revocation hearing.
+ (e)
+ If contacted by the alarm user, the Director of Operations shall require the user
+ to arrange a meeting with the Director of Operations, the alarm user and a representative
+ of the alarm business within fifteen (15) days to determine a plan for eliminating
+ the false alarms.
+ (f)
+ If the user does not contact the Director of Operations or if the Director of Operations
+ determines that the action recommended by the user and/or business representative
+ will be ineffective, the Director of Operations shall revoke the permit and send a
+ final notice of revocation to the user by certified mail.
+ (g)
+ If the action recommended by the user and/or business representative is acceptable
+ to the Director of Operations, the permit shall not be revoked, however, the Director
+ of Operations shall advise the user that one more false alarm in the permit year will
+ result in the summary revocation of the user permit.
+ (h)
+ The return of unreceipted certified notices or bills to the City shall be evidence
+ of noncompliance with permit requirements by the alarm user and shall result in the
+ immediate revocation of the alarm permit.
+ (i)
+ A user whose permit has been revoked may request an appeals hearing before the City
+ Council within thirty (30) days of the mailing of the final revocation notice by the
+ Director of Operations. An appeal shall be perfected by filing notice thereof with
+ the City Clerk. The City Clerk shall set the matter on the agenda of the next regular
+ City Council meeting, at which hearing the alarm user shall be permitted to introduce
+ all relevant evidence and be allowed to examine and cross-examine witnesses. At the
+ conclusion of the hearing or within twenty-one (21) days thereof, the City Council
+ shall make findings and state reasons for its decision.
+ (Code 1971, § 8 1/2-6.1; 
+Ord. No. 3-1988
+, § 6; 
+Ord. No. 44-1991
+, § 3; 
+Ord. No. 77-1992
+, § 3)
+
+===== Sec. 10.04.090. - Suspension and revocation of license; appeals.
+(a)
+ The license of any protection service business may be suspended by the Finance Director
+ for failure to pay any fees imposed pursuant to this 
+Chapter 10.04
+. Such suspension shall continue until the fees have been paid in full by the licensee
+ or the license has been revoked. It shall be unlawful for any licensee to provide
+ protection services within the City while its license is under suspension.
+ (b)
+ In the event a licensee hereunder fails to remedy any violations of this Chapter within
+ ten (10) days following receipt by the licensee of written notice from the City Finance
+ Director or the Police Department describing such violations, the Finance Director
+ shall have the right to revoke the license granted hereunder to such licensee.
+ (c)
+ Any charges imposed upon a licensee and any order suspending or revoking a license
+ may be appealed to the Aspen City Council within thirty (30) days from the date of
+ the billing of such charges or order of suspension or revocation. An appeal is perfected
+ by filing notice thereof with the City Clerk, which notice shall contain an appropriate
+ reference to the order appealed from. The City Clerk shall set the matter on the agenda
+ of the next regular meeting of the Council, at which hearing the licensee shall be
+ permitted to introduce all relevant evidence and be allowed to examine and cross-examine
+ witnesses. The licensee may be represented by an attorney and may examine all City
+ records relevant to the alleged violations in advance of the hearing. At the conclusion
+ of the hearing or within ten (10) days thereof, the City Council shall make findings
+ and state reasons for its decision.
+ (d)
+ The licensee may appeal the action of the City Council taken pursuant to Subsection
+10.04.090
+(c) hereof within thirty (30) days thereof in a court of competent jurisdiction. Review
+ shall not be extended further than to determine whether the City Council has exceeded
+ its jurisdiction or abused its discretion.
+ (Code 1971, § 8 1/2-7; 
+Ord. No. 5-1980
+, § 1)
+
+===== Sec. 10.04.100. - Operation of unpermitted alarm system; failure to pay false alarm fee.
+Operation of an alarm system without a permit or failure to pay false alarm fees is
+ a misdemeanor.
+ (Code 1971, § 8 1/2-7.1; 
+Ord. No. 3-1988
+, § 7)
+
+===== Sec. 10.04.110. - Separate offense for each day's violation.
+The installation or operation of any emergency alarm system in violation of any of
+ the provisions of this Chapter or of any regulation promulgated hereunder shall be
+ unlawful and shall be subject to the penalty prescribed under 
+Section 1.04.080
+ of this Code and shall be deemed a separate offense for each and every day that such
+ violation occurs.
+ (Code 1971, § 8 1/2-8; 
+Ord. No. 5-1980
+, § 1)
+
+===== Sec. 10.04.120. - Exemption for City-operated municipal facilities.
+The provisions of this Chapter shall not apply to security systems connected directly
+ from City-operated municipal facilities (whether in City-owned or leased premises)
+ to the Police Department if such facilities are the subject of a written exemption
+ permit issued by the City Manager.
+ (Code 1971, § 8 1/2-9; 
+Ord. No. 1-1984
+, § 2)
+
+===== Sec. 10.04.130. - Exemption from statutorily required alarm systems.
+An alarm user required by federal, state or municipal statute, regulation, rule or
+ ordinance to install, maintain and operate an alarm system shall not be subject to
+ permit revocation. Each time an alarm system relays a false alarm to the Aspen Police
+ Department from a user that is exempt from the revocation process pursuant to this
+ Section, said user shall pay, within thirty (30) days of receiving a bill from the
+ Director of Finance, a fee as prescribed by Subsection 
+2.12.050
+ of this Code.
+ (Code 1971, § 8 1/2-9.1; 
+Ord. No. 3-1988
+, § 8; 
+Ord. No. 44-1991
+, § 4; 
+Ord. No. 77-1992
+, § 4)
