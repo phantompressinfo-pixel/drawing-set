@@ -88,6 +88,19 @@ prior permits stack.
 
 Use "N/A" or "None" rather than blanks — the model does.
 
+**If the project has a prior land use approval (P&Z/HPC resolution, Special Review, lot
+split), that resolution's dimensional tables are the binding ceilings — not the zone
+district numbers and not your own existing-conditions calcs.** A §26.430 Special Review
+resolution continuing a nonconforming structure typically caps *Proposed Floor Area* at a
+specific figure ("to not exceed"); the permit set must demonstrate proposed countable ≤ that
+figure, even where your re-measured existing differs from the resolution's "Existing" (do not
+relitigate it — the entitlement number governs). On the sheets: fill Unique Approvals with
+the resolution number, series, and reception #; add an "Approved per Resolution __, Series __"
+row to the Allowable Floor Area Summary and show the comparison; match the demolition legend
+to the resolution's exhibit ("per Resolution XX, Series XX"). The reviewer comment
+**"Demonstrate how approvals are being met in the table"** means exactly this — show the
+resolution's caps in the table and prove compliance against them.
+
 ### 2b. Net Lot Area — Table 26.575.020-1
 
 Development rights derive from **Net Lot Area**, not gross lot area. Two separate NLA results
@@ -296,7 +309,19 @@ Countable  = subgrade gross floor area × Exposed %
   or above the top of the segment — that *is* the demonstration.
 - **SUBGRADE CALCULATIONS LEGEND: EXPOSED WALL / WALL BELOW GRADE**
 
-**(d)(16) Airlocks** — exempt up to 100 sf per building.
+**(d)(16) Airlocks** — exempt up to 100 sf per building, **but only for buildings containing
+non-residential uses — explicitly NOT available for single-family, duplex, or multi-family**.
+Not a residential lever.
+
+**No exemption exists for fireplaces, chimneys, or interior wall cavities/chases** — anything
+within the exterior face of framing counts. Interior fireplace masses count. Exterior masonry
+beyond the face of framing is already outside the measurement line (it's veneer/mass, not
+floor area) — verify polylines weren't drawn to the face of veneer.
+
+**Open-to-below voids (double-height spaces) are not floor area at the upper level** — floor
+area is "the sum of the gross horizontal areas of each story"; where no floor structure
+exists, there is no area. Converting upper-level floor to a void is a 1:1 countable
+reduction lever, and upper-level polylines must exclude existing voids.
 
 ### Not floor area at all
 - **At-grade uncovered patios** — §26.104.100 defines Patio as "an outdoor uncovered, at-grade
