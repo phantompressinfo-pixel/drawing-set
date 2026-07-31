@@ -1,3 +1,13 @@
+# PITKIN COUNTY CODE - Title 11: Buildings and Construction
+# Source: pitkincounty.com. Includes Wildfire Resiliency Code Sec. 11.35,
+#   effective 2026-05-02 (BOCC approved 2026-03-25).
+# Currency verified 2026-07-31 against pitkincounty.com/192/Building, which
+#   lists 'Title 11 (Includes Wildfire Resiliency Code Section 11.35)' as current.
+# NOTE: the DocumentCenter/View/29891 PDF is an OLDER cut (45 pp., no 11.35).
+#   This copy is 97 pp. and supersedes it.
+# Adopted: 2021 IBC (+App C,E,I,J) - 2021 IRC (+App AE,AF,AH,AK,AQ) - 2021 IEBC
+#   2021 IMC/IPC/IFGC/IECC/ISPSC - 2023 NEC (eff. 2023-08-01)
+
 TITLE 11: BUILDINGS AND CONSTRUCTION
 
 11.04: INTERNATIONAL BUILDING CODE........................................................................ 3
