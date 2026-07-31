@@ -27,6 +27,28 @@ ROOT = os.path.normpath(
 
 AMENDED_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)),
                             "..", "references", "locally-amended-sections.txt")
+DPO_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                        "..", "references", "colorado-dpo-amended.txt")
+
+
+def load_dpo():
+    """{(code, section): kind} where OUR text is already Colorado-amended.
+
+    The inverse of load_amended(): there we hold model text that Aspen/Pitkin
+    supersede; here the stored text itself diverges from the ICC model that
+    Aspen and Pitkin actually adopt.
+    """
+    out = {}
+    try:
+        with open(DPO_FILE, encoding="utf-8") as fh:
+            for line in fh:
+                line = line.split("#", 1)[0].strip()
+                parts = line.split()
+                if len(parts) == 4 and parts[0] == "colorado":
+                    out[(parts[1].lower(), parts[2].lower())] = parts[3]
+    except OSError:
+        pass
+    return out
 
 
 def load_amended():
@@ -132,7 +154,9 @@ def main():
     hits = shown = 0
     blind = [0]
     amended = load_amended()
+    dpo = load_dpo()
     flagged = []
+    dpo_hits = []
 
     for path, juris, edition in corpus(args.jurisdiction, args.code, args.chapter):
         chapter = os.path.basename(path)[:-4]
@@ -157,6 +181,13 @@ def main():
                           f"SUPERSEDED. ***\n"
                           f"    *** Read the amendment before quoting this section. ***")
                     flagged.append(f"{edition} §{sec_id} ({label})")
+                kind = dpo.get((edition.split("-")[0].lower(), sec_id.lower()))
+                if kind:
+                    print(f"    *** NOT ICC MODEL TEXT — Colorado {kind} on this "
+                          f"section. ***\n"
+                          f"    *** Aspen and Pitkin adopt the ICC version, which is "
+                          f"NOT held. Use the ICC book. ***")
+                    dpo_hits.append(f"{edition} §{sec_id} ({kind})")
                 print(f"    {chapter} | {row.get('section','')}")
                 meta = " | ".join(f"{k}={row[k]}" for k in
                                   ("code_category", "primary_responsibility",
@@ -181,6 +212,12 @@ def main():
         print("    Check code-library/aspen/title-8-buildings-and-building-regulations.txt"
               "\n    or code-library/pitkin/title-11-building-construction.txt "
               "before citing.")
+    if dpo_hits:
+        print(f"\n    !! {len(dpo_hits)} result(s) are Colorado-amended and are NOT "
+              f"the ICC text Aspen/Pitkin adopt:")
+        for d in dpo_hits:
+            print(f"       - {d}")
+        print("    Use the ICC-published section for an Aspen or Pitkin project.")
 
 
 if __name__ == "__main__":
