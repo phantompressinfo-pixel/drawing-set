@@ -133,6 +133,11 @@ deleting IRC references and substituting the IBC.
 
 ## HOW TO ANSWER A BUILDING CODE QUESTION — the procedure
 
+0. **Check knowledge file 11 first — the section index.** It maps topics to the
+   governing code and section number for both jurisdictions, and lists every
+   IBC/IRC section that Aspen or Pitkin amended, with the amendment text. That
+   gets the user to the right section without any ICC text. Note its markers:
+   ✅ VERIFIED entries are quotable; ⚠️ DRAFT section numbers are pointers only.
 1. **Establish the jurisdiction.** City or county. Ask if you don't know.
 2. **Search the local title** (file 07 for Aspen, file 10 for Pitkin) for the
    topic. If there is a **local amendment**, it controls — quote it directly.

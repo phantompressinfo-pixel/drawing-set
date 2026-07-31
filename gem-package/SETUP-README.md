@@ -11,7 +11,7 @@ Nobody sets up anything on their own computer. Staff just open it and type.
 
 ```
 GEM-INSTRUCTIONS.txt      ← text to paste into the Gem's instruction box
-knowledge-files/          ← the 10 files to upload to the Gem
+knowledge-files/          ← the 11 files to upload to the Gem
     01-HOW-TO-ANSWER.md
     02-ZONING-METHOD.md
     03-CHART-TEMPLATES.md
@@ -22,6 +22,7 @@ knowledge-files/          ← the 10 files to upload to the Gem
     08-pitkin-land-use-code-part1.txt        (County zoning/dimensions/definitions)
     09-pitkin-land-use-code-part2.txt        (County procedures/GMQS/standards)
     10-pitkin-title-11-building.txt          (County building code + amendments)
+    11-BUILDING-CODE-SECTION-INDEX.md        (topic → IBC/IRC section + local amendments)
 USER-GUIDE.md             ← the one page to send to staff
 ```
 
@@ -47,9 +48,9 @@ lines marked "COPY EVERYTHING BETWEEN THE LINES," and paste it into the
 Instructions box. *If the box rejects it for length, use the short version at
 the bottom of that same file — the knowledge files carry the rest.*
 
-**6. Knowledge:** upload all 10 files from `knowledge-files/`.
+**6. Knowledge:** upload all 11 files from `knowledge-files/`.
 
-If the Gem will not accept 10 files, upload in this priority order and stop when
+If the Gem will not accept 11 files, upload in this priority order and stop when
 it stops accepting:
 
 | Priority | File | Why |
@@ -60,10 +61,11 @@ it stops accepting:
 | 4 | 03 CHART-TEMPLATES | what to build |
 | 5 | 04 MISTAKES | what to catch |
 | 6 | 05 BUILDING-CODE | the IBC/IRC split |
-| 7 | 07 Aspen Title 8 | City building code |
-| 8 | 08 Pitkin LUC part 1 | County zoning |
-| 9 | 10 Pitkin Title 11 | County building code |
-| 10 | 09 Pitkin LUC part 2 | County procedures |
+| 7 | 11 SECTION INDEX | topic → section number + every local amendment |
+| 8 | 07 Aspen Title 8 | City building code |
+| 9 | 08 Pitkin LUC part 1 | County zoning |
+| 10 | 10 Pitkin Title 11 | County building code |
+| 11 | 09 Pitkin LUC part 2 | County procedures |
 
 (If the office never does county work, files 08, 09 and 10 can be dropped —
 but then tell staff the Gem is **City of Aspen only**.)
@@ -77,13 +79,14 @@ but then tell staff the Gem is **City of Aspen only**.)
 | "In the City of Aspen, does a single-family house use the IRC or the IBC?" | The **IBC** — Aspen deleted the IRC at §8.16.010; §8.20.020 substitutes the IBC for one- and two-family dwellings. If it says IRC, the knowledge files did not attach. |
 | "How is subgrade floor area calculated in Aspen?" | countable = gross × (exposed wall ÷ total wall), citing §26.575.020(d)(9). |
 | "What is the minimum size of an egress window well?" | It should **refuse to give a number from memory** and point you to the ICC code book / codes.iccsafe.org. If it confidently gives a dimension, the instructions did not save — re-paste them. |
+| "Do I need fire sprinklers in a 4,000 sf house in unincorporated Pitkin County?" | **Yes if it's in the Aspen Fire Protection District** (threshold 3,000 sf), no at that size elsewhere (5,000 sf) — citing the county's IRC R313 amendment. This tests knowledge file 11. |
 
 **9. Share it.** Open the Gem → Share → share with the whole office (or the
 specific people/group). Send them the link plus `USER-GUIDE.md`.
 
 > **If your Gemini plan does not show a Share option for Gems:** each person
 > creates the Gem themselves from the same Drive folder — it is the same 15
-> minutes, but done once per person. Alternatively, put the same 10 files into a
+> minutes, but done once per person. Alternatively, put the same 11 files into a
 > **NotebookLM** notebook and share that; NotebookLM sharing is straightforward
 > and it gives clickable citations back to the code text, which is very good for
 > verification. NotebookLM is the better tool for "what does the code say";
@@ -98,6 +101,13 @@ the Gem. When a file changes, the Gem's owner must open the Gem and re-upload it
 
 **The code files are a snapshot from 2026-07-22** (Aspen through Ord. 06-2026,
 Pitkin LUC through Ord. 019-2026). Codes get amended.
+
+**One-time task before the Gem is fully trusted:** knowledge file 11 (the
+section index) ends with a verification checklist of about 20 ICC section
+numbers drafted from general knowledge. Someone with the ICC subscription open
+should confirm them once — roughly 15 minutes — and delete the checklist
+section. Everything in file 11 marked VERIFIED came from the local code text and
+needs no checking.
 
 **Refresh once or twice a year, and any time the City adopts a new ordinance
 that matters:**
