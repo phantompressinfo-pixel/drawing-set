@@ -44,6 +44,19 @@ the method does not. Use them as the generic layer; use
 `references/case-log-844-roaring-fork.md` only for that specific project's
 continuity.
 
+## Need the model code text itself? Use the `us-building-codes` skill
+
+Aspen's Title 8 adopts the IBC and amends it — it does not reprint it. When a
+question needs the **full wording of an IBC section** (or IEBC or ADA text,
+which this library has no copy of at all), search
+`code-library/us-building-codes/` via the `us-building-codes` skill. It holds
+Colorado's 2021 IBC — the same edition Aspen adopted — plus IEBC 2021 and the
+2010 ADA Standards.
+
+**This skill still governs.** Always check Title 8 for an Aspen amendment before
+presenting model text as the requirement, and say which layer you are quoting.
+Note the model set covers IBC ch 1–18 and IRC ch 1–15 only.
+
 ## What is stored
 
 ### City of Aspen — `code-library/aspen/` (one .txt per title)
