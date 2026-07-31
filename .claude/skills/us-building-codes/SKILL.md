@@ -48,10 +48,11 @@ and still check Title 8 / Title 11 for anything submittal-critical.
 | Jurisdiction | Codes | Chapters | Notes |
 | --- | --- | --- | --- |
 | `colorado/` | ibc-2021, irc-2021, iebc-2021 | **IBC 1–35 · IRC 1–44 · IEBC 1–16** | Matches Aspen's adopted 2021 IBC edition |
+| `model-appendices/` | ibc-2021, irc-2021 | IBC C, E, I, J, P · IRC AE, AF, AH, AK, AQ | The appendices Aspen and Pitkin adopt by reference |
 | `gsa/` | ibc-2024, irc-2024, iebc-2024 | IBC 1–35 · IRC 1–15 · IEBC 1–16 | Unamended ICC baseline — the "source of truth" |
 | `ada/` | `ada-standards-2010.csv` | flat | 2010 ADA Standards for Accessible Design |
 
-~20,200 provisions across 163 CSVs. Source: scraped from up.codes, enriched with
+~20,500 provisions across 173 CSVs. Source: scraped from up.codes, enriched with
 LLM-inferred metadata. Origin repo: `github.com/thexqin/us-building-codes-dataset`
 (see `LICENSE` in the data folder).
 
@@ -66,31 +67,32 @@ LLM-inferred metadata. Origin repo: `github.com/thexqin/us-building-codes-datase
 - **GSA IRC still stops at chapter 15.** Only the Colorado IRC was completed.
   GSA is the comparison baseline, so this rarely matters; if a GSA IRC question
   lands in 16–44, use the Colorado copy and note the edition difference.
-- **No IBC or IRC appendices**, with one exception (IRC `AG`, piping standards).
-  up.codes marks them `disabled` for Colorado — the state's adoption does not
-  publish them.
+- **Every appendix Aspen and Pitkin adopt is now held**, in
+  `model-appendices/` — search with `-j model-appendices`. Colorado's up.codes
+  publication marks appendices `disabled`, so these were sourced from
+  jurisdictions that print the same unamended ICC text.
 
-  **This is a real gap for Pitkin County**, which adopts more appendices than
-  the dataset carries (verified against
-  `code-library/pitkin/title-11-building-construction.txt`):
-
-  | Jurisdiction | Adopts appendices | Held locally? |
+  | Jurisdiction | Adopts | Ordinance |
   | --- | --- | --- |
-  | **Aspen** IBC 2021 (§8.20.010) | C, E, P | **No** |
-  | **Pitkin** IBC 2021 (§11.04.010) | C, E, I, J | **No** |
-  | **Pitkin** IRC 2021 (§11.20.010) | AE, AF, AH, AK, AQ | **No** — except the AQ amendments |
+  | **Aspen** IBC 2021 | C, E, P | §8.20.010 |
+  | **Pitkin** IBC 2021 | C, E, I, J | §11.04.010 |
+  | **Pitkin** IRC 2021 | AE, AF, AH, AK, AQ | §11.20.010 |
 
-  Pitkin adopts these **by reference** ("as published by the International Code
-  Council"), so title-11 contains only its *amendments*, not the appendix text.
-  The only appendix content actually in the repo is Pitkin's amendment of
-  Appendix AQ — `AQ106.1` (air leakage ≤0.30 cfm50/sf) and `AQ106.2`
-  (alternative energy compliance).
+  Both adopt them **by reference**, so Title 8 / Title 11 carry only
+  *amendments*. Pitkin amends AQ (`AQ106.1`, `AQ106.2`) — `codesearch.py` flags
+  those rows automatically.
 
-  So for radon control (AF), patio covers (AH/I), sound transmission (AK),
-  manufactured housing (AE), agricultural buildings (C), supplementary
-  accessibility (E) or grading (J): **the requirement text is not in this repo
-  at all.** Say so and point to up.codes or the ICC-published appendix. Do not
-  imply title-11 answers it — it only says the appendix is adopted.
+  **Six of ten are cross-verified** (byte-identical across two independent
+  publications): IBC C, E, I and IRC AH, AK, AQ. The other four are
+  single-source — **IBC J, IBC P, IRC AE, and especially IRC AF (radon)**.
+  Say so when quoting them and recommend confirming against the ICC book.
+
+  Colorado's own IRC appendices remain unpublished apart from `AG`.
+
+- **up.codes' `amendType` flag is not trustworthy.** Oregon's IRC AF is flagged
+  `amendType=None` yet names Oregon counties, cites ORS 455.365, and adds seven
+  sections absent from the model. Never treat that flag as proof text is
+  unamended — diff against a second publication instead.
 - Tables and figures flatten badly into `body` text — see the note below.
 - IBC ch. 35 and IRC ch. 44 (referenced standards) are each a single row holding
   the whole standards table; search with a keyword rather than expecting
