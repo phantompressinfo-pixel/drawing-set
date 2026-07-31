@@ -65,10 +65,16 @@ numbers are the real limit — they beat the zone district numbers. Finding this
 out late has cost this office weeks.
 
 **It will refuse to give you IBC or IRC dimensions.** Egress window sizes, guard
-heights, stair dimensions — it will name the section and tell you to look it up.
-That's deliberate: those codes are copyrighted and aren't in its files, so
-anything it "remembered" would be a guess. Guessed dimensions on a permit set
-are exactly what we're avoiding.
+heights, stair dimensions — it will name the section and send you to **UpCodes**,
+which the office pays for. That's deliberate: those codes are copyrighted and
+aren't in its files, so anything it "remembered" would be a guess. Guessed
+dimensions on a permit set are exactly what we're avoiding.
+
+**So the workflow is two tools, and they don't overlap:**
+- **The Gem** — Aspen and Pitkin *zoning*: floor area, height, demolition,
+  mitigation, setbacks, chart checking. UpCodes does not carry this.
+- **UpCodes** — the *building code* text: IBC for city projects, IRC for county.
+The Gem tells you which section to open; UpCodes shows you what it says.
 
 **It will tell you when the code is ambiguous** and say to get it in writing from
 the Zoning Officer (`comdevzoning@gmail.com`) instead of picking an answer for

@@ -4,8 +4,31 @@
 section* governs a topic, and — where the local jurisdiction has modified that
 section — what the modification says, quoted from the local ordinance.
 
-Use it to go straight to the right section in the office's ICC subscription
-(`codes.iccsafe.org`) or code book, instead of hunting.
+Use it to go straight to the right section in the office's **UpCodes**
+subscription (`upcodes.com`), instead of hunting.
+
+## Reading the text: UpCodes
+
+The office pays for UpCodes — that is the licensed source, and it is where every
+"what does that section actually say" question should land.
+
+UpCodes has one feature that fits this office particularly well: where it carries
+a jurisdiction, it shows **local amendments merged into the base code text**, so
+you see the amended version rather than having to hold two documents in your
+head. Check whether **City of Aspen** and **Pitkin County** are among the
+jurisdictions it carries — if they are, set the jurisdiction filter and read from
+there.
+
+**But treat Parts 3–5 of this file as the authority on what was amended.** Those
+were extracted directly from the adopting ordinances in knowledge files 07 and
+10. Any third-party overlay can lag behind a recent ordinance or miss an item.
+**If UpCodes and this file disagree about an amendment, the ordinance text
+wins** — and say so, because it means one of the two needs updating.
+
+If your UpCodes plan includes its AI assistant, that is a reasonable place to ask
+building-code questions directly, since it answers from the licensed text. This
+Gem stays the better tool for Aspen and Pitkin **zoning** — floor area, height,
+demolition, mitigation — which is not what UpCodes covers.
 
 ---
 

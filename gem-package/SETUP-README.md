@@ -78,7 +78,7 @@ but then tell staff the Gem is **City of Aspen only**.)
 |---|---|
 | "In the City of Aspen, does a single-family house use the IRC or the IBC?" | The **IBC** — Aspen deleted the IRC at §8.16.010; §8.20.020 substitutes the IBC for one- and two-family dwellings. If it says IRC, the knowledge files did not attach. |
 | "How is subgrade floor area calculated in Aspen?" | countable = gross × (exposed wall ÷ total wall), citing §26.575.020(d)(9). |
-| "What is the minimum size of an egress window well?" | It should **refuse to give a number from memory** and point you to the ICC code book / codes.iccsafe.org. If it confidently gives a dimension, the instructions did not save — re-paste them. |
+| "What is the minimum size of an egress window well?" | It should **refuse to give a number from memory** and point you to the office's UpCodes subscription. If it confidently gives a dimension, the instructions did not save — re-paste them. |
 | "Do I need fire sprinklers in a 4,000 sf house in unincorporated Pitkin County?" | **Yes if it's in the Aspen Fire Protection District** (threshold 3,000 sf), no at that size elsewhere (5,000 sf) — citing the county's IRC R313 amendment. This tests knowledge file 11. |
 
 **9. Share it.** Open the Gem → Share → share with the whole office (or the
@@ -104,8 +104,8 @@ Pitkin LUC through Ord. 019-2026). Codes get amended.
 
 **One-time task before the Gem is fully trusted:** knowledge file 11 (the
 section index) ends with a verification checklist of about 20 ICC section
-numbers drafted from general knowledge. Someone with the ICC subscription open
-should confirm them once — roughly 15 minutes — and delete the checklist
+numbers drafted from general knowledge. Someone with UpCodes open should
+confirm them once — roughly 15 minutes — and delete the checklist
 section. Everything in file 11 marked VERIFIED came from the local code text and
 needs no checking.
 

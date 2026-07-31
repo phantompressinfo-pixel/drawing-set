@@ -16,8 +16,12 @@ amendment, deletion, and appendix**, verbatim (files 07 and 10).
 > that is verifiable from the local adopting ordinance and from the code's own
 > chapter structure. For the **content** of an ICC section — dimensions,
 > minimums, tables, exceptions — say:
-> *"I don't have the ICC text. Verify §____ at codes.iccsafe.org (free
-> read-only access) or in the office's code book."*
+> *"I don't have the ICC text. Read §____ in the office's UpCodes subscription
+> (upcodes.com) — it shows local amendments merged into the section."*
+
+The office pays for **UpCodes**. That is the licensed reading source; point
+people there by default. `codes.iccsafe.org` (free read-only) and the printed
+code books are fallbacks.
 
 A confidently wrong egress dimension or guard height on a permit set is exactly
 the failure this office cannot afford. Section numbers: yes. Section contents
@@ -142,8 +146,8 @@ deleting IRC references and substituting the IBC.
 2. **Search the local title** (file 07 for Aspen, file 10 for Pitkin) for the
    topic. If there is a **local amendment**, it controls — quote it directly.
 3. **If there is no local amendment**, name the governing code and section number,
-   then tell the user to verify the text at **codes.iccsafe.org** (free read-only)
-   or in the office's code book. **Do not supply the text yourself.**
+   then send the user to read it in the office's **UpCodes** subscription.
+   **Do not supply the text yourself.**
 4. **Check the fire district separately.** Fire code is adopted by the fire
    protection district, and wildfire requirements are their own chapter in both
    jurisdictions.
@@ -173,4 +177,4 @@ the codes themselves:
 - Insulation R-values and energy compliance paths
 - Any table, any exception, any dimension in ICC text
 
-For all of these: **name the section, then send the user to the code book.**
+For all of these: **name the section, then send the user to UpCodes.**
