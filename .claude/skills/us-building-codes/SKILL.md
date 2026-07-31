@@ -30,22 +30,34 @@ Aspen library for an amendment to that section before quoting it as final.
 
 | Jurisdiction | Codes | Chapters | Notes |
 | --- | --- | --- | --- |
-| `colorado/` | ibc-2021, irc-2021, iebc-2021 | IBC 1–18 · IRC 1–15 · IEBC 1–16 | Matches Aspen's adopted 2021 IBC edition |
-| `gsa/` | ibc-2024, irc-2024, iebc-2024 | same | Unamended ICC baseline — the "source of truth" |
+| `colorado/` | ibc-2021, irc-2021, iebc-2021 | **IBC 1–35** · IRC 1–15 · IEBC 1–16 | Matches Aspen's adopted 2021 IBC edition |
+| `gsa/` | ibc-2024, irc-2024, iebc-2024 | **IBC 1–35** · IRC 1–15 · IEBC 1–16 | Unamended ICC baseline — the "source of truth" |
 | `ada/` | `ada-standards-2010.csv` | flat | 2010 ADA Standards for Accessible Design |
 
-~16,000 provisions across 99 CSVs. Source: scraped from up.codes, enriched with
+~18,100 provisions across 133 CSVs. Source: scraped from up.codes, enriched with
 LLM-inferred metadata. Origin repo: `github.com/thexqin/us-building-codes-dataset`
 (see `LICENSE` in the data folder).
 
 ### Coverage limits — read before claiming a section is absent
 
-- **IBC stops at chapter 18.** Chapters 19–35 are *not here*: concrete, masonry,
-  steel, wood, aluminum, glass/glazing, gypsum, plastics, referenced standards.
-  A structural materials question cannot be answered from this dataset.
-- **IRC stops at chapter 15.** Chapters 16–44 are *not here*: the entire
-  plumbing, fuel gas, and electrical parts.
+- **IBC is complete, chapters 1–35** — including concrete, masonry, steel, wood,
+  aluminum, glass/glazing, gypsum, plastics, electrical, mechanical, plumbing,
+  elevators, special construction and referenced standards.
+- **IRC stops at chapter 15.** Chapters 16–44 are *not here*: duct systems,
+  combustion air, chimneys/vents, boilers, hydronic piping, fuel gas, and the
+  entire plumbing (25–33) and electrical (34–43) parts, plus all appendices.
+  This matters for **Pitkin County**, which adopts the IRC. Aspen does not
+  (`§8.16.010`), so Aspen residential work is unaffected. For a section in that
+  range, say it is not held locally and point to up.codes rather than guessing.
 - **IEBC chapters 1–16 is complete.**
+- **IBC chapters 19–35 carry no metadata.** They were parsed locally from the
+  upstream raw scrape, which never went through the LLM enrichment pass, so
+  `ifc_type`/`occupancy`/`code_category`/`primary_responsibility`/`design_phase`
+  are empty. Body text, `id`, `section` and `title` are complete and are what
+  matters. **Metadata filters silently miss these chapters** — when filtering by
+  `--category` or `--responsibility`, also run a plain keyword search.
+- IBC ch. 35 (referenced standards) is a single row holding the whole standards
+  table; search it with a keyword rather than expecting per-standard rows.
 - Tables and figures flatten badly into the `body` text. When a provision turns
   on a table (occupant load factors, fire-resistance ratings, height/area), say
   the value came from flattened text and recommend confirming against the
