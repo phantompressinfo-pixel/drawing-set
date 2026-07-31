@@ -53,7 +53,10 @@ def corpus(jurisdiction=None, code=None, chapter=None):
                 yield os.path.join(gdir, name), juris, group or juris
 
 
-def matches(row, args, pattern):
+def matches(row, args, pattern, blind):
+    """True if the row matches. `blind` counts rows dropped only because a
+    metadata field is empty — those chapters were never enriched, so a metadata
+    filter silently excludes them. Reported so the miss is never invisible."""
     if pattern:
         hay = " ".join(filter(None, (row.get("title"), row.get("body"), row.get("id"))))
         if not pattern.search(hay):
@@ -61,13 +64,23 @@ def matches(row, args, pattern):
     if args.section and (row.get("id") or "").strip() != args.section:
         return False
     # metadata values are pipe-delimited and inconsistently cased -> substring match
+    dropped_on_blank = False
     for field, want in (("code_category", args.category),
                         ("primary_responsibility", args.responsibility),
                         ("occupancy", args.occupancy),
                         ("ifc_type", args.ifc_type),
                         ("design_phase", args.phase)):
-        if want and want.lower() not in (row.get(field) or "").lower():
+        if not want:
+            continue
+        have = (row.get(field) or "").strip()
+        if not have:
+            dropped_on_blank = True
+            continue
+        if want.lower() not in have.lower():
             return False
+    if dropped_on_blank:
+        blind[0] += 1
+        return False
     return True
 
 
@@ -95,12 +108,13 @@ def main():
 
     pattern = re.compile(args.query, re.IGNORECASE) if args.query else None
     hits = shown = 0
+    blind = [0]
 
     for path, juris, edition in corpus(args.jurisdiction, args.code, args.chapter):
         chapter = os.path.basename(path)[:-4]
         with open(path, newline="", encoding="utf-8") as fh:
             for row in csv.DictReader(fh):
-                if not matches(row, args, pattern):
+                if not matches(row, args, pattern, blind):
                     continue
                 hits += 1
                 if args.count or shown >= args.limit:
@@ -123,6 +137,10 @@ def main():
     print(f"\n--- {hits} hit(s){'' if args.count else f', {shown} shown'} ---")
     if hits > shown and not args.count:
         print("    narrow with --code/--chapter/--section or raise --limit")
+    if blind[0]:
+        print(f"    NOTE: {blind[0]} row(s) otherwise matched but have no metadata "
+              f"on the filtered field, so they were excluded.\n"
+              f"    Re-run without the metadata filter to see them.")
 
 
 if __name__ == "__main__":
