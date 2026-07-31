@@ -48,10 +48,29 @@ the repo owner's explicit direction, as an UpCodes subscriber, for the office's
 own reference. Re-run it the same way — deliberately and rate-limited — rather
 than wiring it into anything automated.
 
-**Appendices are not available.** up.codes marks IRC appendices `disabled` for
-Colorado (they 404), since the state's adoption does not publish them; only
-`AG` came through. Pitkin County separately adopts **AE, AF, AH, AK and AQ** and
-amends AQ — for those, use `code-library/pitkin/title-11-building-construction.txt`.
+**Appendices are not available.** up.codes marks IBC and IRC appendices
+`disabled` for Colorado (they 404), since the state's adoption does not publish
+them; only IRC `AG` came through.
+
+This leaves a real gap for Pitkin County, which adopts (verified in
+`code-library/pitkin/title-11-building-construction.txt`):
+
+- **IBC 2021 §11.08** — Appendices C, E, I and J
+- **IRC 2021 §11.20** — Appendices AE, AF, AH, AK and AQ, amending AQ
+
+All adopted **by reference** to the ICC-published text, so title-11 carries only
+the amendments. The sole appendix content in this repo is Pitkin's AQ amendment
+(`AQ106.1` air leakage, `AQ106.2` alternative compliance). The base text of
+every one of those nine appendices is absent — radon control, patio covers,
+sound transmission, manufactured housing, agricultural buildings, supplementary
+accessibility and grading are not answerable from this repo.
+
+Clean unamended copies do exist on up.codes under other jurisdictions
+(`amendType=None`): Connecticut's 2021 IRC publishes AE/AH/AK/AQ, Washington's
+publishes AF, and Connecticut/Arkansas/North Carolina publish IBC C/E/I/J.
+Sourcing model text from another state's adoption is defensible only because
+these are unamended ICC appendices — it would need labeling as such, and
+Appendix J is available only from a 2024-branded code.
 
 ### Metadata on locally-parsed chapters
 
