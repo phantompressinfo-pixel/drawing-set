@@ -55,8 +55,8 @@ them; only IRC `AG` came through.
 This leaves a real gap for Pitkin County, which adopts (verified in
 `code-library/pitkin/title-11-building-construction.txt`):
 
-- **IBC 2021 §11.08** — Appendices C, E, I and J
-- **IRC 2021 §11.20** — Appendices AE, AF, AH, AK and AQ, amending AQ
+- **IBC 2021 §11.04.010** — Appendices C, E, I and J
+- **IRC 2021 §11.20.010** — Appendices AE, AF, AH, AK and AQ, amending AQ
 
 All adopted **by reference** to the ICC-published text, so title-11 carries only
 the amendments. The sole appendix content in this repo is Pitkin's AQ amendment

@@ -59,8 +59,8 @@ LLM-inferred metadata. Origin repo: `github.com/thexqin/us-building-codes-datase
 
   | Pitkin adopts | Appendices | Held locally? |
   | --- | --- | --- |
-  | IBC 2021 (§11.08) | C, E, I, J | **No** |
-  | IRC 2021 (§11.20) | AE, AF, AH, AK, AQ | **No** — except the AQ amendments |
+  | IBC 2021 (§11.04.010) | C, E, I, J | **No** |
+  | IRC 2021 (§11.20.010) | AE, AF, AH, AK, AQ | **No** — except the AQ amendments |
 
   Pitkin adopts these **by reference** ("as published by the International Code
   Council"), so title-11 contains only its *amendments*, not the appendix text.
