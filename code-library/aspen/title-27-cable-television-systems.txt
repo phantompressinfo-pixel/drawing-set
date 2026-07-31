@@ -1,0 +1,1241 @@
+# CITY OF ASPEN MUNICIPAL CODE — TITLE 27 - CABLE TELEVISION SYSTEMS
+# Source: Municode (api.municode.com), Supp. No. 7 Update 1, codified through Ord. No. 06-2026 (enacted 2026-03-24)
+# Retrieved: 2026-07-22
+
+
+===== TITLE 27 -       CABLE TELEVISION SYSTEMS      
+Footnotes: 
+ --- (
+1
+) ---
+Cross reference— 
+ Streets, sidewalks, other public property, Title 21.
+
+===== Chapter 27.04. - GRANT OF NONEXCLUSIVE REVOCABLE PERMITS AND GENERAL PROVISIONS
+
+
+===== Sec. 27.04.010. - Title of Title.
+This Title shall be known and may be cited as the "Aspen Cable Television System Ordinance."
+ (Code 1971, § 25-1; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.04.020. - Definitions.
+For the purpose of this Title, certain words or phrases are defined as follows:
+ When not inconsistent with the context, words used in the present tense include the
+ future; words in the singular number include the plural; words in the plural number
+ include the singular; and the masculine includes the feminine. The word "shall" is
+ mandatory; the word "may" is permissive; words not defined shall be given their common
+ and ordinary meaning.
+Additional subscriber services
+ (or additional service). Any communication service, other than basic service provided
+ by a permittee to its subscribers, directly or as a carrier for its subsidiaries,
+ affiliates or any other person engaged in communication services, including, but not
+ limited to, pay television signals, data or other electronic intelligence transmission,
+ meter reading and home shopping.
+Applicant.
+ Any person applying for a permit to operate a cable television system in the City
+ or for approval when required by this Title.
+Application.
+ Any application to operate a cable television system in accordance with the provisions
+ of this Title, including all written proposals, in whatever form, made by an applicant
+ or permittee to the City concerning construction, maintenance or any other matter
+ pertaining to the cable television system contemplated or operating.
+Basic service.
+ Subscriber services provided by a permittee covered by regular monthly charge paid
+ by all subscribers. Basic service shall not include receipts for installation fees,
+ converter charges or taxes collected upon the sale of various services, goods or additional
+ services for which a separate charge is made.
+Cable television system (or CATV, cable system or system
+). A system of coaxial cables or other electrical signals or conductors and reception
+ and transmission equipment used or to be used primarily to receive television or radio
+ signals directly or indirectly off-the-air and transmit them and other electronic
+ intelligence services to and/or from subscribers for a fee.
+City.
+ When used in this Title, the term 
+City
+ shall mean the City of Aspen, Colorado and shall encompass, when appropriate, its
+ officers and employees, including the City Council and the designees of the City Council.
+Class IV channel.
+ A signaling path provided by a cable television system to transmit signals of any
+ type from a subscriber terminal to another point in the cable television system.
+Community channel.
+ A specifically designated nonprofit radio or television channel maintained within
+ any cable television system for the use of educational and/or governmental authorities,
+ in addition to the general public.
+Converter.
+ An electronic device capable of receiving and converting any authorized signal from
+ a cable television system to an output frequency compatible with the receiver of a
+ subscriber.
+Equipment and apparatus.
+ When used in this Title, the term 
+equipment and apparatus
+ shall mean and include all manholes, underground conduits, poles, cables, boxes,
+ wires, fixtures, conductors or other facilities necessary, essential or used or useful
+ to and operated in connection with an authorized cable television system.
+Fair market value.
+ The price that a willing buyer under no compulsion to buy would pay to a willing
+ seller under no compulsion to sell. 
+Fair market value
+ shall not include a valuation of "goodwill" or of any right or privilege under any
+ permit issued pursuant to this Title.
+FCC.
+ The Federal Communications Commission of the United States government or its lawful
+ successor.
+Gross revenues.
+ All revenue derived directly or indirectly by a permittee, its affiliates, subsidiaries
+ parent or any person in which the permittee has an ownership interest, from or in
+ connection with the operation of a cable television system pursuant to this Title;
+ provided, however, all revenues shall include, but not be limited to, basic subscriber
+ service monthly fees, pay cable fees, installation and reconnection fees, leased channel
+ fees, converter sales and rentals and advertising revenues; and provided further that
+ this shall not include any taxes on services furnished by permittee imposed directly
+ upon any subscriber or user by any governmental entity and collected by permittee
+ on behalf of any governmental entity.
+Installation.
+ The connection of any cable television system from feeder lines to subscribers' receivers
+ and/or converters.
+Monitoring.
+ The observance of a communication signal or the absence of a signal where the observer
+ is neither the subscriber nor the programmer, whether the signal is observed by visual
+ or electronic means, for any purpose whatsoever. 
+Monitoring
+ shall also include system-wide, nonindividually addressed sweeps of the system for
+ purposes of verifying system integrity, controlling return path transmissions or billing
+ for pay services.
+Permit.
+ The nonexclusive revocable right and franchise to construct and operate a cable television
+ system along the streets, alleys, rights-of-way and public ways of the City.
+Permit area.
+ That area within the boundaries of the City.
+Permittee.
+ Any person who has applied for and has received a permit to operate a cable television
+ system within the City pursuant to the requirements of this Title.
+Person.
+ When used in this Title the word 
+person
+ shall include any individual, firm, partnership, association, corporation, company
+ or organization of any kind.
+Programmer.
+ Any person who is or who produces or otherwise provides program material for transmission
+ by audio, video, digital or other signals, either live or from recorded tapes, to
+ subscribers by means of cable television system.
+Public easement.
+ When used in this Title the term 
+easement
+ shall be limited in meaning to those rights-of-way owned by the City, the terms,
+ conditions or limitations upon which are not inconsistent with the erection, construction
+ or maintenance of a cable television system, its structures or equipment.
+Public way
+ or
+(public right-of-way).
+ When used in this Title, the term 
+public way
+ or 
+(public right-of-way)
+ shall mean and include all public property easements, sidewalks, streets, alleys,
+ trails and City-owned utility poles.
+Return signals.
+ A signaling path provided by a cable television system to transmit signals of any
+ type from a subscriber terminal to another point in the cable television system, which
+ may include 
+Class IV channels
+ as defined in this Title.
+ (Code 1971, § 25-2; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.04.030. - Grant of authority.
+Any permit to operate a cable television system granted pursuant to the provisions
+ of this Title shall grant to the permittee the right and privilege to erect, construct,
+ operate and maintain in, upon, along, across, above, over and under the streets, sidewalks,
+ easements and dedications including the right to attach to City-owned poles now in
+ existence and as may be created or established during the term of the permit, poles,
+ wires, cable, underground conduits, manholes and other television conductors and fixtures
+ necessary for the maintenance and operation of a cable television system for the interception,
+ sale, transmission and distribution of television programs and other electronic intelligence
+ and the right to transmit the same to inhabitants of the City.
+ (Code 1971, § 25-3; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.04.040. - Nonexclusive revocable permit.
+The rights granted by permit in accordance with this Title shall be nonexclusive and
+ revocable pursuant to its terms and the City shall reserve the right to grant similar
+ permits to such other applicants as the City Council may deem to be in the best interest
+ of the City; provided, however, nothing in this Title shall be construed or deemed
+ to require the granting of additional cable television system permits if, in the judgment
+ of the City Council, such additional permits would not be in the best interest of
+ the City and its inhabitants.
+ (Code 1971, § 25-4; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.04.050. - Acceptance and term of permit.
+Any permit and the rights, privileges and authority granted pursuant thereto shall
+ become effective thirty (30) days after approval of the electors of the City voting
+ at a special or general election, provided that within said thirty-day period the
+ applicant files with the City Clerk its unconditional acceptance of and promise to
+ comply with the provisions, terms and conditions of this Title and the granting of
+ a permit as approved by ordinance of the City Council and subsequently by the electors.
+ Acceptance and promise by applicant shall be in writing duly executed and sworn to
+ by the applicant before a notary public or other officer authorized by law to administer
+ oaths and shall contain a provision that the permit, by its terms, shall be binding
+ on the heirs, successors and assigns of the applicant. All permits issued hereunder
+ shall be for a term of not more than fifteen (15) years.
+ (Code 1971, § 25-5; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.04.060. - Fees.
+For the reason that the streets and public rights-of-way to be used in the operation
+ of a cable television system are valuable public properties acquired and maintained
+ by the City at great expense and that permission to use said streets and rights-of-way
+ is a valuable property right without which any permittee would be required to invest
+ substantial capital in rights-of-way costs and acquisitions and because the City will
+ incur costs in regulating and administering any permit issued in accordance with this
+ Title, compliance with the following requirements with respect to fees shall be a
+ prerequisite to the maintenance of a permit issued in accordance with this Title.
+ (a)
+ A permit fee shall be paid to the City by the permittee in an amount equal to two
+ percent (2%) of permittee's gross revenue on an annual basis from all sources attributable
+ to the operations of the permittee within the boundaries of the City.
+ (b)
+ The permit fee and any other costs assessed to permittee shall be payable annually
+ at the office of the Finance Director. The permittee shall file a complete and accurate
+ verified statement of all gross revenue accruing as a result of its operations within
+ the City during the permittee's preceding fiscal year and said annual fees and charges
+ shall be paid to the City not later than ninety (90) days from the close of permittee's
+ preceding fiscal year.
+ (c)
+ The City shall have the right to inspect the permittee's gross revenue records and
+ the right to audit and to recompute any amounts determined to be payable as required
+ by this Title; provided, however, that such audit covering any year shall take place
+ within thirty-six (36) months following the close of such fiscal year. Any additional
+ amount due to the City as a result of the audit shall be paid within thirty (30) days
+ following written notice to the permittee by the City, which notice shall include
+ a copy of the audit report. The cost of said audit shall be borne by the permittee
+ if it is properly determined by the City Council that the permittee's annual payment
+ to the City for the audited year is increased by more than five percent (5%).
+ (d)
+ In the event that any payment or recomputed amount, cost or penalty, is not made on
+ or before the dates said payments are due and payable, interest thereon shall accrue
+ and be charged from the date said payments are due, at a rate of five percent (5%)
+ above the prime interest rate charged by the Central Bank of Denver, Denver, Colorado
+ during the period the payments are in arrears.
+ (Code 1971, § 25-6; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.04.070. - Acknowledgement of police power.
+Acceptance of any permit issued pursuant to this Title shall constitute an acknowledgement
+ by the permittee, its heirs, successors and assigns that its rights under its permit
+ are subject to the police power of the City to adopt and enforce general ordinances
+ necessary for the health, safety and welfare of the public and an agreement that permittee
+ shall comply with all applicable general laws and ordinances enacted by the City pursuant
+ to such power as they may be amended from time to time.
+ Any conflict between the provisions of any permit and any other present or future
+ lawful exercise of the City's police powers shall be resolved in favor of the latter,
+ except that any such exercise that is not of general application or applies exclusively
+ to any cable television system which contains provisions inconsistent with any permit
+ shall prevail only if upon such exercise, the City finds an emergency exists constituting
+ a danger to health, safety, property or general welfare or such exercise as mandated
+ by law.
+ (Code 1971, § 25-7; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.04.080. - Costs.
+Every applicant shall bear the costs attributable to the issuance of a permit pursuant
+ to this Title, including, but not limited to, all costs of publication of any ordinance
+ specifically authorizing a permit, the costs attributable to any special election
+ scheduled solely for the purpose of requiring approval by the electors of the permit,
+ the costs of all notices of any public meeting required by this Title and the costs
+ incurred by the City in its study, preparation of permit documents, evaluation of
+ the application and evaluation of the applicant's qualifications, not including permanent
+ staff time.
+ (Code 1971, § 25-8; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.04.090. - Notices.
+All notices from any permittee to the City shall be made to the City Manager or such
+ person designated in writing by the City Manager. Permittee shall maintain with the
+ City, throughout the term of its permit, an address for service of notices by mail.
+ Permittee shall also maintain within the County a local office and telephone number
+ for the conduct of matters related to its permit during normal business hours.
+ (Code 1971, § 25-9; 
+Ord. No. 64-1983, § 1 
+)
+
+===== Sec. 27.04.100. - Financial guarantees.
+In order to ensure the faithful performance of all of the provisions of this Title
+ and the provisions of any permit issued pursuant to this Title, all cable television
+ system permits shall be conditioned upon compliance with the provisions of this Section
+ pertaining to financial guarantees:
+ (a)
+ Within ten (10) days after the award and voter approval of any permit, the permittee
+ shall deposit with the City a letter of credit from a Colorado financial institution
+ in the amount of fifty thousand dollars ($50,000.00) or such lesser amount as the
+ City Council may find, by resolution, to reasonably and adequately ensure faithful
+ performance by permittee. The form and content of such letter of credit shall be approved
+ in writing by the City Attorney. The letter of credit shall be used to ensure the
+ faithful performance of all of the provisions of the permit and compliance with all
+ requirements of this Title and orders, directions of any agency, commission, board,
+ department, division or office of the City having jurisdiction over the acts or defaults
+ of permittee under the permit and payment by the permittee of any claims, liens and
+ taxes due the City which arise by reason of the construction, operation or maintenance
+ of the system.
+ (b)
+ The letter of credit shall be maintained at an equivalent fifty thousand dollars ($50,000.00)
+ or such lesser amount as may be determined by the City Council, indexed to 1983 dollars
+ during and continuing for the entire term of the permit even if amounts have to be
+ withdrawn pursuant to the provisions of this Section.
+ (c)
+ If the permittee fails to pay the City any compensation within the time fixed herein
+ or fails, after thirty (30) days' notice to pay the City any taxes due unpaid; or
+ fails to repay the City within thirty (30) days any damages, costs or expenses which
+ the City is compelled to pay by reason of any act or default of the permittee in connection
+ with the permit; or, fails, after ten (10) days' notice by the City of such failure
+ to comply with any provision of the permit which the City reasonably determines can
+ be remedied by demand on letter of credit, the City Manager may immediately request
+ payment of the amount thereof from the letter of credit, together, with interest and
+ any penalties. Upon such request for payment, the City shall notify the permittee
+ of the amount and date thereof. Permittee may appeal such demands for payment to the
+ City Council by submitting a written request for appeal to the City Clerk within ten
+ (10) days after receipt of the demand.
+ (d)
+ Any rights reserved to the City with respect to the letter of credit are in addition
+ to all other rights of the City, whether reserved by the permit or authorized by law
+ and no action, proceeding or exercise of a right with respect to such letter of credit
+ shall affect any other right the City may have.
+ (e)
+ All letters of credit required by this Section shall contain the following endorsement:
+ "It is hereby understood and agreed that this letter of credit may not be cancelled
+ by the surety nor the intention not to renew be stated by the surety until sixty (60)
+ days after receipt by the City, by registered mail, a written notice of such intention
+ to cancel or not to renew."
+ (Code 1971, § 25-10; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.04.110. - Indemnification, liability and insurance.
+In addition to all other requirements of this Title, any permit granted shall be conditioned
+ upon full compliance with the requirements of this Section pertaining to indemnification,
+ liability and insurance:
+ (a)
+ Permittee shall indemnify and save harmless the City, its officers, employees and
+ agents against any and all claims for damages to property or injuries to or death
+ of any person or persons, including property and employees or agents of the City,
+ its officers, employees and agents, from any and all claims, costs, demands, suits,
+ actions or proceedings of any kind or nature resulting from or arising out of permittee's
+ operations in connection with the permit, including operations of subcontractors and
+ acts or omissions of employees or agents of the permittee.
+ (b)
+ Permittee shall pay and by its acceptance of a permit shall thereby agree that it
+ will pay all reasonable expenses incurred by the City in defending itself with regard
+ to all damages and penalties mentioned in Subsection (a) above. These expenses shall
+ include all out-of-pocket expenses, such as attorney's fees and shall also include
+ the reasonable value of any services rendered by the City Attorney or his or her assistants
+ or any employees of the City or its agents.
+ (c)
+ Permittee shall maintain and by its acceptance of a permit shall specifically agree
+ that it will maintain throughout the term of the permit, liability insurance insuring
+ the City and the permittee with regard to all damages mentioned in Subsection (a)
+ of this Section, in the minimum amount of not less than the limits of liability set
+ forth in C.R.S. § 24-10-114, as it may be amended from time to time and at least in
+ the following amounts:
+ (1)
+ Two hundred fifty thousand dollars ($250,000.00) for property damage to any one (1)
+ person;
+ (2)
+ One million dollars ($1,000,000.00) for property damage in any one (1) accident;
+ (3)
+ Five hundred thousand dollars ($500,000.00) for personal injury to any one (1) person;
+ and
+ (4)
+ One million dollars ($1,000,000.00) for personal injury in any one (1) accident.
+ (d)
+ Any insurance policy obtained by permittee in compliance with this Section must be
+ approved in writing by the City Attorney and such insurance policy, along with written
+ evidence of payment of required premiums, shall be filed and maintained with the City
+ Clerk during the term of the permit and may be required by the City to be changed
+ from time to time to reflect changing liability limits. The permittee shall immediately
+ advise the City Clerk and City Attorney of any litigation that may develop which would
+ affect this insurance.
+ (e)
+ Neither the provisions of this Section nor the payment of any damages required by
+ the City hereunder shall limit or be construed to limit, the liability of permittee
+ under any permit issued hereunder.
+ (f)
+ All insurance policies maintained pursuant to this Section shall contain the following
+ endorsement:
+ "It is hereby understood and agreed that this insurance policy may not be cancelled
+ by the surety nor the intention not to renew be stated by the surety until sixty (60)
+ days after receipt by the City, by registered mail, a written notice of such intention
+ to cancel or not to renew."
+ (Code 1971, § 25-11; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.04.120. - Rights of individuals.
+In addition to all other requirements of this Title, any permit granted shall be conditioned
+ upon full compliance and acknowledgement of the rights of individuals as required
+ by this Section.
+ (a)
+ Permittee shall not deny service, deny access or otherwise discriminate against subscribers,
+ channel users or general citizens on the basis of race, color, religion, national
+ origin or sex. Permittee shall comply with all times with applicable federal, state
+ and local laws and regulations and all executive and administrative orders relating
+ to nondiscrimination which shall be incorporated and made a part of any permit by
+ reference.
+ (b)
+ Permittee shall strictly adhere to the Equal Employment Opportunity Requirements of
+ Federal, State and Local regulations, as they may be amended from time to time.
+ (c)
+ No signals of a Class IV cable communications channel shall be transmitted from a
+ subscriber terminal for the purpose of monitoring individual viewing patterns or practices
+ without the express written permission of the subscriber. Requests for such permission
+ shall be contained in a separate document with a prominent statement that the subscriber
+ is authorizing the permission in full knowledge of this Section. The authorization
+ shall be revocable at any time, in writing, by the subscriber without penalty of any
+ kind whatsoever. Such authorization is required for each type or classification of
+ Class IV cable communications activity planned for such purpose, provided, however,
+ that the permittee shall be entitled to conduct system-wide or individually addressed
+ "sweeps" for the purpose of verifying system integrity, controlling return-path transmission
+ or billing or additional services.
+ (d)
+ It shall be unlawful for any person, including permittee or any of its agents or employees,
+ without the specific written authorization of the subscriber involved, to sell or
+ otherwise make available to any party:
+ (1)
+ A list of the names and addresses of a permittee's subscribers or
+ (2)
+ Any information which identifies the individual viewing habits of subscribers, with
+ the exception of information pertaining to billing which shall be used for billing
+ purposes only.
+ (Code 1971, § 25-12; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.04.130. - Selection of a permittee.
+All applications seeking a cable television system permit shall address the various
+ provisions of this Title and prior to being referred to the electors shall be evaluated
+ and approved by the City Council according to the following general criteria:
+ (a)
+ Installation plan. Preference may be given to an installation plan that would provide
+ flexibility needed to adjust to new developments, maintenance practices and services
+ that would be available to the subscriber and the community immediately and in the
+ future. Preference may be given for total system construction in the shortest time.
+ (b)
+ Rate schedule. Preference may be given to companies with the most reasonable installation
+ and subscriber rate schedule.
+ (c)
+ Financial soundness and capability. The evidence of financial ability required in
+ any application shall be such as to assure ability to complete the entire system within
+ the proposed schedule.
+ (d)
+ Demonstrated experience in operating a cable television system. Preference may be
+ given upon evidence of the applicant's experience in operating a cable television
+ system under any City franchise or permit, where such evidence would show or tend
+ to show or confirm the ability of the applicant to furnish sufficient and dependable
+ service to the potential public and private users. Prior to accepting any applicant
+ and forwarding the same to the voters for approval, a public fact-finding hearing
+ shall be held on the application and approval thereof shall be by ordinance of the
+ City Council. The decision to approve an application shall be at the discretion of
+ the City Council within the requirements of this Title. No permit shall be granted
+ unless approved by a majority vote of the electors of the City voting thereon.
+ (Code 1971, § 25-13; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.04.140. - Permit area.
+The requirements of this Title shall apply to the present territorial limits of the
+ City and any area hereinafter added during the period of any permit. The permittee
+ shall be required to extend service to all sections of the City as corporate limits
+ of the City now exist and shall be required to extend service to all sections of the
+ City annexed or added to the City after the date of final passage of this Title; provided,
+ that there is a density in such area to be served of not less than twenty (20) dwelling
+ units per one-quarter (¼) mile if underground installation is utilized and not less
+ than fifteen (15) dwellings per one-quarter (¼) mile if aerial installation is utilized.
+ (Code 1971, § 25-14; 
+Ord. No. 64-1983, § 1
+)
+
+===== Chapter 27.08. - SYSTEM CONSTRUCTION, OPERATIONS, STANDARDS AND PROCEDURES
+
+
+===== Sec. 27.08.010. - Construction map and schedule.
+No construction shall occur unless the permittee obtains the written approval of the
+ City Engineer in accordance with the following procedures:
+ (a)
+ Prior to any construction permittee shall submit a construction plan. The construction
+ plan shall consist of a map of the entire permit area and clearly delineate the following:
+ (1)
+ The areas within the permit area where the cable television system will be available
+ to subscribers.
+ (2)
+ Those areas within the permit area where extension of the cable television system
+ could not reasonably be constructed due to a lack of present or planned development.
+ These areas and the reasons for not serving them must be clearly identified on the
+ map.
+ (3)
+ By use of reference to specific areas describe the construction timetable showing
+ which areas will be built and the date by which construction and system activation
+ will occur.
+ (b)
+ No permit for construction shall be issued until the construction plan has been reviewed
+ and approved by the City Engineer. Any substantial changes in the construction schedule
+ that involve delaying construction within any area shall only be permitted pursuant
+ to approval in accordance with the application procedure of 
+Section 27.12.020
+. The City Manager is authorized to determine in writing whether a change is substantial
+ thereby requiring approval in accordance with such application procedure.
+ (c)
+ Copies of the approved plan and any changes thereto shall be filed with the office
+ of the City engineer and a copy shall also be made available for public inspection
+ during normal business hours at the permittee's local office at permittee's expense.
+ (d)
+ Nothing in this Section shall prevent the permittee from constructing the system earlier
+ than planned. However, no construction shall be permitted beyond the time specified
+ in the plan unless and until an application therefor and consent has been obtained.
+ Time period extensions shall be granted upon a showing by the permittee that there
+ is good cause therefor and the City Council may attach reasonable conditions to assure
+ performance.
+ (Code 1971, § 25-21; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.08.020. - System construction.
+Construction of the cable television system shall only occur in accordance with the
+ following requirements:
+ (a)
+ Permittee shall comply with the construction plan including the approved construction
+ timetable.
+ (b)
+ In those sections of the City where cables, wires or other like facilities of public
+ utilities are placed underground, the permittee shall place its cable, wires or other
+ like facilities underground to the maximum extent permissible under existing technology.
+ If at any time, the City determines that existing aboveground wires, cables or other
+ like facilities of public utilities anywhere in the City shall be changed from an
+ overhead to an underground installation, permittee shall also, at permittee's sole
+ expense, convert its system to underground installation. Permittee shall be obligated
+ to pay only those costs of construction or conversion associated with the underground
+ installation of permittee's own equipment.
+ (c)
+ In any subdivision approved by the City after the effective date of this Title in
+ which telephone and electrical utility lines are placed underground, permittee shall
+ execute with the subdivider a written purchase order for the installation of such
+ underground transmission and distribution of cable television services to residents
+ of the subdivision. Permittee shall not charge a subdivider more than permittee's
+ actual cost for time and materials for the construction and installation of the underground
+ facilities. The amount due may be made payable to permittee sixty (60) days prior
+ to the date that cable television service is actually made available to the lots (if
+ undeveloped) or dwelling units in the subdivision.
+ (d)
+ Necessary excavation permits shall be obtained from the City for the installation
+ of all underground lines and appurtenances installed in any City right-of-way. All
+ underground installations shall comply with the requirements of construction and excavation
+ within public rights-of-way required by this Code. Plants and shrubbery shall be restored
+ or replaced to as near original state as possible.
+ (e)
+ Underground installation of distribution lines shall initially be at a minimum of
+ twelve-inch depth.
+ (f)
+ Permittee shall respond to all requests for line locations within forty-eight (48)
+ hours. If the permittee fails to respond or fails to locate the line installed by
+ permittee the requesting party shall not be responsible for damage that may result.
+ Unless the lines are properly located and marked by permittee in a timely fashion,
+ the party responsible for any subsequent damage will not be responsible for the cost
+ of necessary repairs.
+ (g)
+ Whether service drops to subscribers are installed by overhead or underground methods,
+ no permanent service drops shall be left lying exposed on the ground.
+ (h)
+ In areas of the City where electrical or telephone systems are installed on poles
+ above the ground, the permittee shall have the option of installing its system in
+ like manner above the ground or underground.
+ (i)
+ Permittee shall construct, install, operate and maintain its system in a manner consistent
+ with all laws ordinances, construction standards, governmental requirements, FCC technical
+ standards and detailed standards submitted by permittee. In addition, permittee shall
+ provide the City, upon request, with a written report of the results of permittee's
+ annual proof of performance test conducted pursuant to FCC standards and requirements.
+ (j)
+ Whether performed on private property or public rights-of-way, all construction, installation
+ and maintenance of permittee's cable television system shall be performed in an orderly
+ and workmanlike manner. All cables and wires shall be installed, where possible, parallel
+ with electric and telephone lines. Multiple cable configurations shall be arranged
+ in parallel and bundled with due respect for engineering considerations.
+ (k)
+ The cable television system shall not endanger or interfere with the safety of persons
+ or property in the permit area.
+ (l)
+ Any antenna structure used in permittee's cable television system shall comply with
+ construction, marking and lighting of antenna structure required by the United States
+ Department of Transportation.
+ (m)
+ Incorporated within any cable television system shall be a capability permitting the
+ City in times of emergency to override the audio portion of all channels simultaneously.
+ Permittee shall also designate a channel which will be used for emergency broadcasts
+ of both audio and video. Permittee shall cooperate with the City in the use and operation
+ of the emergency alert over its system.
+ (n)
+ All necessary easements over and under private property shall be arranged by the permittee.
+ If permittee has difficulty obtaining necessary easements, the City will cooperate
+ to assist permittee in obtaining necessary easements through the use of the City's
+ condemnation powers, to the extent permitted by law and at permittee's expense.
+ (o)
+ No poles or other fixtures shall be placed where the same will interfere with any
+ gas, electric or telephone facilities, traffic-control signalization, streetlights,
+ fire lines or communications lines or obstruct or hinder in any manner the various
+ utilities serving the residents of the City. All such poles or other fixtures placed
+ in any street, alley or public way shall be placed as close as possible to the line
+ of the lot abutting thereupon and in such manner as not to interfere with the usual
+ traffic on such streets, alleys and public ways.
+ (Code 1971, § 25-22; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.08.030. - Construction bond.
+Within thirty (30) days after the award of any permit and prior to construction, permittee
+ shall obtain and maintain at its own cost and expense and file with the City Clerk,
+ a construction bond provided by a company authorized to do business in the State and
+ in a form acceptable to the City Attorney, in the amount of five hundred thousand
+ dollars ($500,000.00) or at such lesser amounts as the City Council may by resolution
+ find to be satisfactory, to guarantee the timely construction, full activation and
+ proper installation of permittee's cable television system. Such bond shall satisfy
+ the following requirements:
+ (a)
+ There shall be recoverable by the City, jointly and severally from the principal and
+ surety, any and all damages, loss or costs suffered by the City resulting from the
+ failure of the permittee to satisfactorily complete and fully activate the system
+ throughout the permit area.
+ (b)
+ The bond shall specify that any extension to the prescribed construction time limit
+ shall be authorized by the City.
+ (c)
+ The construction bond shall be terminated only after the City Council finds that the
+ permittee has satisfactorily completed construction and activation of its system pursuant
+ to the terms and conditions of this Title and its permit.
+ (d)
+ An acknowledgement shall be contained within the bond that the rights reserved to
+ the City with respect thereto are in addition to all other rights of the City, whether
+ established and reserved pursuant to this Title or otherwise authorized by law and
+ no action, proceeding or exercise of any right with respect to such construction bond
+ shall affect any other rights the City may have.
+ (e)
+ The bond shall contain the following endorsement:
+ "It is hereby understood and agreed that this bond may not be cancelled by the surety
+ nor the intention not to renew be stated by the surety until sixty (60) days after
+ receipt by the City, by registered mail, a written notice of such intent to cancel
+ or not to renew."
+ (Code 1971, § 25-23; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.08.040. - Use of streets and public rights-of-way.
+In addition to all other requirements of this Title, any permit granted shall be conditioned
+ upon full compliance with the following requirements pertaining to use of streets
+ and public rights-of-way:
+ (a)
+ Interference with persons and improvements. Permittee's system, poles, wires and appurtenances
+ shall be located, erected and maintained so that none of its facilities shall endanger
+ or interfere with the lives of persons or interfere with any improvements the City
+ may deem proper to make or unnecessarily hinder or obstruct the free use of the streets,
+ alleys, bridges, public easements or public property.
+ (b)
+ Minimum interference with public ways. All transmission and distribution structures,
+ lines and equipment erected by the permittee within the City shall be so located as
+ to cause minimum interference with the proper use of streets, alleys and other public
+ ways and places and to cause minimum interference with the rights or reasonable convenience
+ of property owners who adjoin any of the said streets, alleys or other public ways
+ and places.
+ (c)
+ Restoration to prior condition. In case of any disturbance by permittee to any public
+ easement, pavement, sidewalk, driveway, landscaping, street, alley, public way or
+ other surfacing, the permittee shall, at its own cost and expense and in a manner
+ approved by the City Engineer, replace and restore such public easement, paving, sidewalk,
+ driveway or surface of any street, alley or public way disturbed, in as good condition
+ as before said work was commenced in accordance with standards for such work set by
+ the City Engineer.
+ (d)
+ Relocation of facilities. In the event that at any time during the period of any permit,
+ the City shall lawfully elect to alter or change the grade of any street, alley or
+ other public ways, permittee, upon reasonable notice by the City, shall remove or
+ relocate as necessary its poles, wires, cables, underground conduits, manholes and
+ other fixtures at its own expense.
+ (e)
+ Cooperation with building movers. Permittee shall, on the request of any person holding
+ a building moving permit, issued by the City, temporarily raise or lower its wires
+ to permit the moving of buildings. The expense of such temporary removal, raising
+ or lowering of wires shall be paid by the person requesting the same and permittee
+ shall have the authority to require such payment in advance. Permittee shall be given
+ not less than five (5) days' advance notice to arrange for such temporary wire changes.
+ (f)
+ Tree trimming. Permittee shall have the same right as may be reserved to the City,
+ subject to the approval of the Director of Parks, to trim trees upon and overhanging
+ the streets, alleys, sidewalks and public ways and places of the City so as to prevent
+ parts of such trees from coming in contact with the equipment and apparatus of permittee.
+ Permittee shall undertake reasonable efforts to notify the owner of any property upon
+ which the trees are located prior to undertaking such work. At a minimum, notice shall
+ be posted on the nearest exit door of any dwelling unit located on such property at
+ least twenty-four (24) hours prior to the commencement of work. If the property is
+ vacant, a reasonable effort shall be made to locate the owner. Notwithstanding the
+ foregoing, in the event of any emergency or interference with the transmission of
+ signals through the system by reason of a tree having contact with the equipment and
+ apparatus of the permittee, permittee shall be entitled to trim the tree as necessary
+ to prevent injuries, damage to property or any person, including permittee or as necessary
+ to restore or ensure continued transmission of signals through the permittee's equipment.
+ (Code 1971, § 25-24; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.08.050. - System maintenance standards.
+In addition to all other requirements of this Title, any permit granted shall be conditioned
+ upon compliance with the following maintenance standards:
+ (a)
+ All parts of the system shall be maintained in good condition throughout the entire
+ permit area and during the entire term of the permit. In this regard, permittee shall
+ agree to be bound by and comply with the following requirements to assure continuity
+ of service:
+ (1)
+ It shall be the right of all subscribers to continue receiving service insofar as
+ their financial and other obligations to the permittee are honored. In the event that
+ permittee elects to overbuild, rebuild or modify the system, permittee shall act so
+ as to ensure that all subscribers receive continuous, uninterrupted service, regardless
+ of the circumstances.
+ (2)
+ In the event that permittee fails to operate the system for four (4) consecutive days
+ without prior approval of the City or without just cause, the City may, at its option,
+ operate the system and receive the revenues therefrom or designate an operator until
+ such time as permittee restores service under conditions acceptable to the City or
+ a permanent operator is selected. If the City is required to fulfill this obligation
+ for the permittee, permittee shall reimburse the City for all reasonable costs or
+ damages in excess of revenues from the system received by the City during the course
+ of its operation that are the result of permittee's failure to perform.
+ (b)
+ Permittee shall render efficient service, make repairs promptly and interrupt service
+ only for a good cause and for the shortest time possible. Such interruptions, insofar
+ as possible, shall be preceded by notice and shall occur during periods of minimum
+ system use.
+ (c)
+ The operation of the system shall not interfere with television reception of persons
+ not served by permittee.
+ (d)
+ Throughout the term of any permit, a cable television system shall comply with the
+ technical standards and quality of service set forth in this Title. Should the City
+ find that the permittee has failed to maintain substantial compliance with the technical
+ standards and quality of service required by this Title and the permit and should
+ it specifically enumerate feasible corrections to be made, permittee shall make such
+ corrections. Failure to make such corrections within three (3) months shall constitute
+ a material breach of condition by permittee.
+ (e)
+ RF leakage shall be checked at reception locations for emergency radio services to
+ prove no interference signal combinations are possible. Stray radiation shall be measured
+ adjacent to any proposed aeronautical navigation radio sites to prove no interference
+ to airborne navigational reception and normal flight patterns. FCC rules and regulations
+ shall govern.
+ (Code 1971, § 25-25; 
+Ord. No. 64-1983, § 1)
+
+===== Sec. 27.08.060. - Complaint procedure.
+In addition to all other requirements of this Title, any permit granted shall be conditioned
+ upon full compliance of the requirement of this Section pertaining to complaints regarding
+ the quality of service, equipment malfunctions and similar matters:
+ (a)
+ Permittee's office shall be open to receive inquiries or complaints of subscribers
+ during normal business hours, Monday through Friday, excluding legal holidays. The
+ office shall be reachable by local telephone call and permittee shall provide the
+ means to accept complaint calls twenty-four (24) hours a day, seven (7) days a week.
+ Permittee shall designate an agent to receive complaints and shall provide the City
+ with such agent's name, address and telephone number.
+ (b)
+ Any service complaints from subscribers shall be investigated and acted upon as soon
+ as possible. All service complaints shall be resolved within three (3) working days.
+ (c)
+ Upon request by a subscriber, permittee shall credit a subscriber's account on a pro
+ rata basis for loss of service commencing forty-eight (48) hours after notification.
+ (d)
+ Permittee shall keep a maintenance service log which will indicate the nature of each
+ service complaint, the date and time it was received, the disposition of said complaint
+ and the time and date thereof. The log shall maintain complaints for a minimum period
+ of two (2) years and shall be made available for periodic inspection by the City.
+ (e)
+ As subscribers are connected or reconnected to the system, permittee shall, by appropriate
+ means, such as a card or brochure, furnish information concerning the procedures for
+ making inquiries or complaints including the name, address and local telephone numbers
+ of the agent or agents designated by permittee to whom such inquiries or complaints
+ may be addressed and furnish information concerning the City office responsible for
+ administration of the permit with the address and telephone number of the office.
+ (f)
+ Where similar complaints are made or where there exists other evidence, which, in
+ the judgment of the City, casts doubt on the reliability or quality of service, the
+ City shall have the right and authority to require permittee to test, analyze and
+ report on the performance of the system. Permittee shall fully cooperate with the
+ City in performing such testing and shall prepare the results in a report, if requested,
+ within thirty (30) days after notice. Such report shall include the following information:
+ (1)
+ The nature of the complaint or problem which precipitated the special test.
+ (2)
+ What system component was tested.
+ (3)
+ The equipment used and procedures employed in testing.
+ (4)
+ The method, if any, in which such complaint or problem was resolved.
+ (5)
+ Any other information pertinent to said test and analysis which may be required.
+ The City may require that the test be supervised at permittee's expense, by a professional
+ engineer who is not on permittee's permanent staff. The engineer shall sign all records
+ of special tests and forward to the City such records with a report interpreting the
+ results of the test and recommending actions to be taken. The City's rights hereunder
+ shall be limited to requiring tests, analyses and reports covering specific subjects
+ and characteristics based on complaints and other evidence when and under such circumstances
+ as the City has reasonable grounds to believe that the complaints or other evidence
+ require that tests be performed to protect the public against substandard service.
+ (Code 1971, § 25-26; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.08.070. - Transfer of ownership or control.
+In addition to all other requirements of this Title, any permit granted shall be conditioned
+ upon full compliance with the following requirements pertaining to transfer of ownership
+ or control:
+ (a)
+ No permit shall be assigned or transferred, either in whole or in part, leased, sublet
+ or mortgaged in any manner, nor shall title thereto, either legal or equitable or
+ any right, interest or property therein, passed to or vest in any person without the
+ prior written consent of the City Council. The proposed assignee must demonstrate
+ satisfactory financial responsibility as determined by the City Council and must agree
+ to comply with all provisions of this Title and other related ordinances. The City
+ Council shall be deemed to have consented to a proposed transfer or assignment in
+ the event its refusal to consent is not communicated in writing to permittee within
+ sixty (60) days following receipt of a written notice of the proposed transfer or
+ assignment.
+ (b)
+ The City shall be promptly notified of any actual or proposed change in or transfer
+ of or acquisition by any other party of control of the permit. The word "control"
+ as used herein is not limited to major stockholders but includes actual working control
+ in whatever manner exercised. Every change, transfer or acquisition of control of
+ the permit shall make the permittee subject to cancellation unless and until the City
+ Council shall have consented thereto, which consent shall not be unreasonably withheld.
+ For the purpose of determining whether it shall consent to such change, transfer or
+ acquisition of control, the City Council may inquire into the qualification of the
+ prospective controlling party and the permittee shall assist the City Council in any
+ such inquiry.
+ (c)
+ Assignee must acknowledge that consent or approval of the City Council to any transfer
+ of permittee shall not constitute a waiver or release of the rights of the City in
+ and to the streets and any transfer shall by its terms, be expressly subordinate to
+ the terms and conditions of this Title and any related ordinance.
+ (d)
+ In the absence of extraordinary circumstances, the City Council will not approve any
+ transfer or assignment of any permit prior to substantial completion of construction
+ of the proposed system.
+ (Code 1971, § 25-27; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.08.080. - Availability of books and records.
+As an additional condition to the grant of any permit, permittee shall fully cooperate
+ in making available at reasonable times and the City shall have the right to inspect
+ the complaint, maintenance and technical records, maps, plans and other like materials
+ of the permittee applicable to the system at any time during normal business hours;
+ provided where volume and convenience necessitate, permittee may require inspection
+ to take place on permittee's premises. Additionally, copies of all petitions, applications,
+ communications and reports submitted by the permittee to the Federal Communications
+ Commission, Securities and Exchange Commission or any other federal or state regulatory
+ commission or agency having jurisdiction in respect to any matters affecting cable
+ television operations authorized pursuant to this Title and related ordinances shall
+ be provided upon request.
+ (Code 1971, § 25-28; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.08.090. - State of the art.
+As an additional condition to the grant of any permit, permittee shall upgrade its
+ facilities, equipment and service so that its system is as advanced as the current
+ state of technology as reasonably determined by evaluation of the permittee's system
+ every two (2) years by the City in accordance with 
+Section 27.12.030
+, Perform evaluation sessions. Such evaluation shall consist of reviewing the current
+ system and comparing it with systems, excluding pilot or test services or systems,
+ in other communities of comparable size and density and with comparable demographic
+ and competitive factors. Nothing herein shall prevent the City from requesting that
+ the permittee appear at any time to discuss the state of art technology and make informal
+ suggestions as may be appropriate.
+ (Code 1971, § 25-29; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.08.100. - System design and programming.
+All cable television systems operating within the City shall comply, at a minimum,
+ with the following design and programming requirements:
+ (a)
+ The system shall be capable of bi-directional signals and have three hundred (300)
+ MHZ design.
+ (b)
+ The system shall be capable of operating independently with complete off-air, headend
+ and satellite earth station facilities.
+ (c)
+ The system shall be capable of providing thirty-five (35) video channels, with twenty
+ (20) channels immediately operational upon activation of the system. The eighty-eight
+ (88) to one hundred eight (108) MHZ spectrum region shall be devoted to the distribution
+ of radio and monaural audio programming.
+ (d)
+ Permittee shall provide facilities and/or support for the distribution through its
+ distribution system, for community channel access, at such time and at such a level
+ of financial support as shall be prescribed in its approved permit. Such equipment
+ and/or financial support so specified shall be provided directly to the City for allocation,
+ in its sole discretion, for use in providing community channel access.
+ (e)
+ Two (2) channels or ten percent (10%) of the systems' channel capacity, shall be provided
+ for community channel use. If the designated community channels are not used, permittee
+ may provide programming on channel or channels not used and programming may continue
+ until such time as community channel access is approved by the City.
+ (Code 1971, § 25-30; Ord. No. 64-1983, § 1)
+
+===== Sec. 27.08.110. - Permittee's services.
+As an additional condition to the grant of any permit, all cable television systems
+ operating within the City shall provide, at a minimum, the following services in accordance
+ with a schedule of reasonable rates prepared by permittee:
+ (a)
+ Standard installation consisting of an aerial drop, not exceeding two hundred (200)
+ feet from a distribution line attachment to the customer's residence.
+ (b)
+ Concealed wiring and underground drops.
+ (c)
+ Permittee shall provide service to pre-wired projects (subject to technical compatibility),
+ shall review and approve methods and materials, supply specifications, technical assistance
+ and material and shall pre-wire all projects upon request.
+ (d)
+ Deposits for materials and services may be required and collected.
+ (e)
+ Additional outlets shall be provided as customers may request.
+ (f)
+ Service shall be transferred upon request.
+ (g)
+ Service shall be restored to customers wishing restoration, provided such customer
+ has satisfied any previous obligations owed.
+ (h)
+ Extensions or relocations of current customers' service shall be made upon request.
+ (i)
+ Permittee shall provide and maintain system repair service to customer's premises
+ to test and repair service.
+ (Code 1971, § 25-31; 
+Ord. No. 64-1983, § 1
+)
+
+===== Chapter 27.12. - ADMINISTRATION AND REGULATIONS
+
+
+===== Sec. 27.12.010. - Supplemental rules and regulations.
+In addition to the powers of the City to regulate and control cable television systems
+ and those powers especially reserved by the City and provided for herein or in any
+ permit issued pursuant to the authority of this Title, the right and power is hereby
+ reserved by the City to promulgate such additional and supplemental regulations as
+ it shall find necessary for the public health, safety and welfare, in the exercise
+ of its lawful powers and in furtherance of the terms and conditions of any permit,
+ whether such regulations are initiated by the City or upon request by a permittee.
+ (Code 1971, § 25-40; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.12.020. - Application procedure.
+Except as provided in 
+Section 27.08.010
+ regarding construction approvals, all applications, including applications for a
+ cable television system permit, services, construction plans and schedules, transfer
+ or ownership, proposed changes in regulations or ordinances, etc., shall be made and
+ processed according to the following procedure:
+ (a)
+ Applications shall be submitted to the City Manager in written form and shall contain
+ sufficient facts and information for the City to act thereon, as may be deemed necessary
+ by the City. In the event an application is deemed inadequate, rejection thereof shall
+ be by written notice which shall state the perceived deficiencies. Such notice shall
+ not be construed to limit further and different deficiencies on subsequent applications.
+ (b)
+ The City Manager shall review all applications for adequacy and shall, within fourteen
+ (14) days of its submission, determine whether the application, if adequate, is of
+ such nature to require City Council rather than City Manager approval. If the City
+ Manager determines that City Council approval is warranted under the circumstances
+ of the application, he or she shall forward it to the City Council or the City Council's
+ designee for further study and reporting as the City Council may deem reasonably appropriate.
+ To the extent practicable, such study shall be completed within ten (10) days after
+ the initial presentation to the City Council at a regularly scheduled meeting and
+ such initial period may be extended an additional thirty (30) days upon the giving
+ of written notice to the applicant or such longer period of time as may be consented
+ to by applicant. During the study period, the applicant or the permittee, as the case
+ may be, shall fully cooperate with City representatives in providing information and
+ documents related to and reasonably necessary for the proper evaluation of the application.
+ Failure to cooperate or unreasonable delay in providing information and documents
+ shall be grounds for a determination by the City Council that the application is inadequate.
+ (c)
+ The City Council shall review the application and all attendant studies, information
+ and recommendations as soon as is practicable after the completion of the study. In
+ the event a public hearing is deemed appropriate or is otherwise required, the City
+ Council shall schedule and notice a public hearing within thirty (30) days after the
+ completion of the study. If, in the course of the public hearing, the City Council
+ determines that additional information or documents are necessary to adequately evaluate
+ the application, it may continue the hearing from time to time pending augmentation
+ of the record. To the extent practicable, continuances shall not exceed fifteen (15)
+ days at a time. As soon as practicable after the close of the public hearing, the
+ City Council shall either approve, approve with modifications or deny the application.
+ The City Council shall indicate the basis of its action for the record and shall notify
+ the applicant of its decision. Reasonable conditions in furtherance of the purpose
+ and intent of the permit or application may be attached by the City Council to an
+ approval or modification.
+ (d)
+ Any time limit hereinabove may be waived by consent of the City Council and applicant.
+ (Code 1971, § 25-41; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.12.030. - Performance evaluation sessions.
+Performance evaluation sessions shall be held at a minimum of every two (2) years
+ from the granting of any cable television system permit or anniversary date thereof
+ and the City Council may direct that such evaluation sessions be conducted by a cable
+ TV advisory committee. In addition, special evaluation sessions may be held at any
+ time during the term of the permit upon reasonable request of the City or permittee.
+ Evaluation sessions shall be open to the public and announced in a newspaper of general
+ circulation within the City at least ten (10) days prior to the session and permittee
+ shall notify its subscribers of all evaluation sessions by announcement on at least
+ one (1) channel of its system between the hours of 7:00 p.m. and 9:00 p.m., for five
+ (5) consecutive days preceding each session. Topics which may be discussed at any
+ session or special evaluation session may include, but shall not be limited to, service
+ rate structures, permit fee, penalties, free or discounted services, community channel
+ performance, allocation or channels for community channel use, application of new
+ technologies, system performance, services provided, programming offered, customer
+ complaints, privacy, amendments to this Title, judicial and FCC rulings, line extension
+ policies and permit or City rules. During a review and evaluation by the City, permittee
+ shall fully cooperate with the City and shall provide such information and documents
+ the City may need to reasonably perform its review. Any performance evaluation session
+ may be waived by the written consent of the City Council and permittee.
+ (Code 1971, § 25-42; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.12.040. - Monetary penalties.
+In addition to all other remedies under this Title or as may otherwise be provided
+ by law or the conditions of any permit, the following penalties may be chargeable
+ against the permittee for a violation of any of the following provisions of CATV permit:
+ (a)
+ The sum of three hundred dollars ($300.00) per day for failure to complete system
+ construction in accordance with the submitted plan, unless the City Council specifically
+ approves the delay, due to the occurrence of conditions beyond permittee's control,
+ payable per day for each day or part thereof that the deficiency continues, as determined
+ by the City Council.
+ (b)
+ The sum of one hundred fifty dollars ($150.00) for failure to provide information
+ required pursuant to this Title or as may be required in a permit, per day for each
+ day or part thereof, that the violation occurs or continues, as may be determined
+ by the City Council.
+ (c)
+ The sum of one hundred fifty dollars ($150.00) for failure to test, analyze and report
+ on the performance of the system within a reasonable time following a request by the
+ City pursuant to any permit, payable for each day or part thereof, that such noncompliance
+ continues as may be determined by the City Council.
+ (d)
+ The sum of three hundred dollars ($300.00) for failure of the permittee to comply
+ with operational maintenance standards within forty-five (45) days following written
+ notice from the City determining that the permittee has failed to comply with operational
+ or maintenance standards, payable for each day or part thereof, that such noncompliance
+ continues, as may be determined by the City Council.
+ (Code 1971, § 25-43; 
+Ord. No. 64-1984, § 1
+)
+
+===== Sec. 27.12.050. - Forfeiture and termination.
+In addition to all other remedies, rights and powers retained by the City pursuant
+ to this Title, law, any permit or otherwise, the City shall, as a condition to the
+ granting of a permit, reserve the right to forfeit and terminate any such permit and
+ all rights and privileges thereunder in the event of a substantial breach of the terms
+ and conditions of said permit or the requirements of this Title. A substantial breach
+ by permittee shall include, but shall not be limited to, the following:
+ (a)
+ Violation of any material provision of this Title, the provisions of a permit or any
+ material rule order, regulation or determination of the City made pursuant to this
+ Title.
+ (b)
+ Any attempt at evading or attempting to evade any material provision of any permit
+ or perpetrating or attempting to perpetrate any fraud, deceit or misrepresentation
+ upon the City or actual or potential subscribers or customers of the cable television
+ service.
+ (c)
+ Failure to begin or complete system construction.
+ (d)
+ Failure to provide the types of services required by any permit.
+ (e)
+ Failure to restore service after ninety-six (96) consecutive hours of interrupted
+ service, except when approval of such interruption is obtained from the City Council
+ prior to or subsequent to such interruption.
+ (f)
+ Material misrepresentation of fact in any application pursuant to this Title.
+ The foregoing shall not constitute a material breach if the violation occurs without
+ fault of the permittee or its directors, officers or employees or occurs as a result
+ of circumstances beyond permittee's control. However, permittee shall not be excused
+ by mere economic hardship or by misfeasance or malfeasance of its directors, officers
+ or employees.
+ (Code 1971, § 25-44; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.12.060. - Procedure for a forfeiture and termination.
+In the event that permittee fails to comply with any provision, rule order or requirement
+ or determination under or pursuant to this Title or its permit, the City Council may
+ direct that a written demand for compliance be served upon the permittee by depositing
+ a copy of the same in the United States mail by certified or registered mail addressed
+ to permittee at its business office. If the violation is not remedied within a period
+ of thirty (30) days following such written demand or without satisfactory proof that
+ corrective action is being actively and expeditiously pursued by permittee, the City
+ Council may schedule a hearing for the purpose of taking action on the forfeiture
+ and termination of the permit. Written notice of the City Council's intent to request
+ such forfeiture and termination and setting forth the time and place of the hearing
+ shall be served upon permittee and shall have been published in a newspaper of general
+ circulation in the City at least fifteen (15) days prior to the date of the hearing.
+ If based on the record adduced at the hearing, the City Council determines that there
+ is substantial evidence that the alleged violation was the responsibility or fault
+ of permittee and within permittee's control, the City Council may find and declare
+ the permit terminated and forfeited or provide an additional reasonable period for
+ compliance. No opportunity for compliance shall be granted by the City Council in
+ the event of a finding of fraud or misrepresentation on the part of permittee. The
+ City Council shall again immediately consider the issue of forfeiture and termination
+ at the expiration of the time set by it for compliance, at which time the City Council
+ may terminate the permit forthwith upon a finding that permittee has failed to achieve
+ compliance or, in its sole discretion, may further extend said period for compliance.
+ (Code 1971, § 25-45; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.12.070. - Compliance with state and federal laws.
+Notwithstanding any of the provisions of this Title to the contrary, permittee shall
+ at all times comply with all applicable laws and regulations of the state and federal
+ governments or any administrative agencies thereof. Should any such state or federal
+ law or regulation require permittee to perform any service or shall purport to permit
+ the performance of any service or purport to prohibit the performance of any service,
+ in conflict with the terms of this Title or any permit approved pursuant hereto or
+ of any law or regulation of the City, permittee shall, as soon as possible following
+ the knowledge thereof notify the City Attorney of the point of conflict believed to
+ exist between such regulation or law and the laws or regulations of the City or this
+ Title or approved system permit. The City Attorney shall, as soon as practicable,
+ refer such conflict to the City Council and, if the City Council determines that a
+ material provision of this Title is affected by any subsequent action of the State
+ or federal governments, the City Council shall have the right to modify or amend any
+ of the provisions of this Title or any permit to such reasonable extent as may be
+ necessary to carry out the full intent and purpose of this Title.
+ (Code 1971, § 25-46; 
+Ord. No. 64-1983, § 1
+)
+
+===== Chapter 27.16. - CONDITIONS REGARDING TERMINATION, ASSIGNMENT OR PUBLIC PURCHASE OF CATV SYSTEM
+
+
+===== Sec. 27.16.010. - Post-termination period.
+Any permit issued pursuant to this Title shall be conditioned upon and contain assurances
+ that permittee shall comply with the following requirements with regard to termination
+ of permit by expiration or lack of extension so that there will be no interruption
+ of service:
+ (a)
+ No later than fifteen (15) months prior to the expiration of any permit, the permittee
+ shall serve upon the City a notice of its intention to renew in accordance with the
+ procedures outlined in 
+Section 27.16.040
+ or to abandon the system upon termination. Should the permittee indicate its intention
+ to abandon the system the City shall have the option, exercisable within three (3)
+ months prior to the expiration, to purchase the system at its fair market value. In
+ the event of dispute in the matter, the question of fair market value may be submitted
+ to an independent arbitrator for binding determination in conformance with the arbitration
+ procedures of the American Arbitration Association and Rule 109 of the Colorado Rules
+ of Civil Procedure. The City's right to purchase as hereinabove provided shall be
+ assignable at the discretion of the City Council and upon notice of purchase, purchase
+ or assignment of right to purchase, permittee shall upon consummation of any acquisition
+ deliver the system to the City or its assignee in good operating condition.
+ (b)
+ In the event that permit is not extended or renewed or the system is not purchased
+ by the City as hereinabove provided, permittee shall, at its own expense, remove its
+ system from the streets and public ways of the City and the private property of subscribers
+ within one hundred eighty (180) days after the expiration of the permit as set forth
+ in 
+Section 27.16.030
+.
+ (Code 1971, § 25-50; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.16.020. - Termination due to permittee's breach of permit or because of revocation for breach.
+Upon termination because of permittee's breach of any permit or because of revocation
+ for breach, the permittee:
+ (a)
+ Shall temporarily continue to operate the system for a period of up to six (6) months,
+ as may be determined in the sole discretion of the City Council, so that there is
+ no interruption of service and
+ (b)
+ May sell its system; provided, that the sale is expressly conditioned upon the prospective
+ purchaser applying for and obtaining a permit in conformance with the requirements
+ of this Title; or
+ (c)
+ Shall sell its system to the City, its assignee; provided, the City is willing to
+ purchase the system for fair market value in accordance with 
+Section 27.16.010
+; or
+ (d)
+ Shall remove, at its own expense, its system from the streets and ways of the City
+ and the private property of the subscribers within one hundred eighty (180) days after
+ the effective date of the revocation or termination and shall forfeit the full value
+ of its faithful performance bond, provided the City is willing to allow removal and
+ accept forfeiture of the performance bond.
+ (Code 1971, § 25-51; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.16.030. - Removal of the system.
+In addition to requirements for the removal of the system as provided in this Chapter,
+ permittee shall promptly, within one hundred eighty (180) days, remove its system
+ from public ways and subscriber private property if the permittee fails or ceases
+ to operate its system for a continuous period of ninety (90) days. No notice or revocation
+ proceedings shall be required for this provision to become effective.
+ If permittee fails to remove all its properties from public ways and subscriber private
+ property within one hundred eighty (180) days' removal period, permittee shall forfeit
+ its faithful performance bond and the City Council may declare all such property of
+ permittee abandoned and all such property shall become the property of the City and
+ the permittee shall further agree to execute and deliver an instrument in writing
+ transferring its ownership interest in any such property to the City.
+ (Code 1971, § 25-52; 
+Ord. No. 64-1983, § 1
+)
+
+===== Sec. 27.16.040. - Procedures for renewal.
+The following procedures shall be applied in the event of permit renewal:
+ (a)
+ Permittee shall inform the City in writing of its intent to seek renewal at least
+ fifteen (15) months prior to the expiration of any permit and shall include therewith
+ its proposal for services in accordance with a renewed permit.
+ (b)
+ In addition to all of the requirements of this Title pertaining to permit applications,
+ in cases of renewal, the City Council shall also determine whether the permittee has
+ satisfactorily performed its obligations under its permit. To determine satisfactory
+ performance, the City Council shall consider technical developments and performance
+ of the system, programming, other services offered, cost of services and any other
+ particular requirement set forth in this Title or the permit and the City Council
+ shall also consider permittee's proposal in its annual reports made to the City and
+ the FCC.
+ (c)
+ In the course of making the determination required in Subsection (a) above, the City
+ Council shall provide the opportunity for public comment at least one (1) public hearing,
+ notice of which shall be published in a newspaper of general circulation at least
+ ten (10) days prior to the date of the hearing.
+ (d)
+ The City shall make its determination with respect to the permittee's eligibility
+ for renewal within a period of four (4) months from the date it receives notice of
+ intent to renew from permittee.
+ (e)
+ If, based on permittee's performance during its permit term, permittee's new proposal
+ and the public hearing held thereon, the City finds that a renewal of the permit with
+ permittee is in the public interest, the City may enter into a renewal of the permit
+ in accordance with the provisions of the title, as it may be amended from time to
+ time.
+ (f)
+ Notwithstanding the foregoing, no requests for renewal shall be unreasonably denied.
+ (Code 1971, § 25-53; 
+Ord. No. 64-1983, § 1
+)

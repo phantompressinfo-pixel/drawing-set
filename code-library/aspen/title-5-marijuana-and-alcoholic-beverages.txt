@@ -1,0 +1,1658 @@
+# CITY OF ASPEN MUNICIPAL CODE — TITLE 5 - MARIJUANA AND ALCOHOLIC BEVERAGES
+# Source: Municode (api.municode.com), Supp. No. 7 Update 1, codified through Ord. No. 06-2026 (enacted 2026-03-24)
+# Retrieved: 2026-07-22
+
+
+===== TITLE 5 - MARIJUANA AND ALCOHOLIC BEVERAGES
+Footnotes: 
+ --- (
+1
+) ---
+Editor's note—
+ Ord. No. 35-1978, § 1, amended Title 5 (formerly Ch. 4) to read as herein set out.
+ Formerly Ch. 4 was derived from Code 1962, §§ 65-1, 9-1-1—9-1-10; Ord No. 40-1974,
+ § 1; Ord. No. 54-1976, § 1; and Ord. No. 82-1975, § 1.
+Cross reference— 
+ Drinking liquor or possession of open container on public property prohibited, § 15.04.180.
+State Law reference— 
+ Colorado Beer Code, C.R.S. § 44-46-101 et seq.; Colorado Liquor Code C.R.S. § 44-47-101
+ et seq.; local licensing authority, C.R.S. §§ 44-46-117, 44-47-135.
+
+===== Chapter 5.04. - ALCOHOLIC BEVERAGES
+Footnotes: 
+ --- (
+2
+) ---
+Editor's note—
+ Ord. No. 50-1992, § 1, repealed the provisions of former Arts. I and II, relative
+ to liquor licensing and beer licensing, and enacted a new Art. I (Chapter 5.04) to
+ read as herein set out. Ord. 50-1992 further renumbered former Arts. III and IV as
+ Arts. II and III (Chapters 5.08 and 5.12). The provisions of former Arts. I and II
+ derived from Ord. No. 35-1978, § 1.
+   Additionally, 
+Ord. No. 1-2022
+, § 4, adopted Feb. 8, 2022, amended the title of Ch. 5.04 to read as herein set out.
+ The former title pertained to beer and wine licensing.
+
+===== Sec. 5.04.010. - Legislative intent.
+The City Council hereby declares that the purpose of this Chapter is to protect the
+ public health, safety and welfare by requiring all persons desiring to sell or offer
+ for sale any liquor or 
+3.2
+ beer to be licensed by the City. The City Council intends that the City issue local
+ licenses for sale of such beverages, as authorized by state law and that the City's
+ licensing requirements be consistent with those for state licenses under state law.
+ The City Council desires to promote responsibility in the consumption of malt, vinous
+ and spirituous liquors by its citizens and guests. The City Council's mission for
+ the separate Local Licensing Authority is to ensure (a) that the needs of the community
+ for licensed premises are measured by free market economic forces and not arbitrary
+ numerical limitations on new licenses; (b) that the privacy rights of licensees and
+ applicants of liquor license are fairly balanced against the Authority's investigatory
+ responsibilities; and (c) that educational efforts be implemented before enforcement
+ activity is undertaken whenever educational efforts are deemed appropriate and necessary.
+ The City Council desires that the separate Local Licensing Authority carry out its
+ mission in as streamlined a fashion as possible and that it seek to avoid the creation
+ of new and burdensome paperwork for either the City or its citizens.
+ (Code 1971, § 4-1; 
+Ord. No. 50-1992
+, § 1; 
+Ord. No. 8-1994
+, § 1)
+
+===== Sec. 5.04.020. - State Liquor Code adopted.
+The provisions of C.R.S. art. 47, tit. 44, as amended and the provisions of Colorado
+ Rules and Regulations promulgated thereunder as amended, relating to the definition
+ of terms, licensing, sales, hours of sale, records, inspection, unlawful acts and
+ all other matters pertaining to the retail sale, distribution and consumption of alcoholic
+ liquors are adopted and made a part of this Code as if set out in full. At least one
+ (1) copy of the State of Colorado Liquor Code and all rules and regulations promulgated
+ pursuant thereto shall be kept on file in the office of the City Clerk and shall be
+ available for inspection during regular business hours.
+ (Code 1971, § 4-2; 
+Ord. No. 50-1992
+, § 1; 
+Ord. No. 1-2022
+, § 5, 2-8-2022)
+
+===== Sec. 5.04.030. - State Beer Code adopted.
+The provisions of Colorado Statutes, C.R.S. art. 46, tit. 44, as amended and the provisions
+ of Colorado Rules and Regulations adopted under the authorization granted by the provisions
+ of C.R.S. § 44-46-105, as amended, relating to the definition of terms, licensing,
+ sales, hours of sale, records, inspection, unlawful acts and all other matters pertaining
+ to the retail sale, distribution and consumption of fermented malt beverages are adopted
+ and made a part of this Code as if set out in full. At least one (1) copy of the State
+ Beer Code and all rules and regulations promulgated pursuant thereto shall be kept
+ on file in the office of the City Clerk and shall be available for inspection during
+ regular business hours.
+ (Code 1971, § 4-3; 
+Ord No. 50-1992
+, § 1; 
+Ord. No. 1-2022
+, § 5, 2-8-2022)
+
+===== Sec. 5.04.040. - Aspen Local Licensing Authority.
+(a)
+Members; appointment; term; compensation; vacancies.
+ (1)
+ The City Local Licensing Authority shall consist of five (5) members and one (1) alternate
+ member, all of whom shall be appointed by the City Council to serve without compensation.
+ The alternate member shall vote only in the absence of one (1) or more regular members.
+ Members of the Authority shall be qualified electors and residents of the City for
+ at least one (1) year prior to appointment. In the event that any member is no longer
+ a qualified elector or is convicted of a felony or an offense involving moral turpitude
+ while in office, the City Council shall terminate the appointment of such person as
+ a member of the Authority.
+ (2)
+ Appointments by the City Council shall be for a four (4) year term commencing on the
+ first day of January and expiring on the thirty-first day of December at the completion
+ of the member's term. Initial appointments shall be made as soon as practical and
+ shall specify the term of office of each individual in order to achieve overlapping
+ tenure.
+ (3)
+ There shall be no limit on the number of terms for any member. No person shall serve
+ or continue to serve as a member of the Authority if that person or any member of
+ his immediate family shall or may hereafter obtain any financial interest in the operation
+ of any business issued a license relating to the sale or dispensation of fermented
+ malt beverages or alcoholic beverages pursuant to C.R.S. arts. 46 or 47 of tit. 44,
+ as amended or in the operation of any business issued a license pursuant to C.R.S.
+ arts. 43.3 or 43.4. of tit. 44. "Financial interest" as used in this paragraph (a)(3)
+ shall not include employees of any licensed restaurant, bar, or marijuana facility,
+ if the employee has no ownership interest in the business. Notwithstanding this definition,
+ such appointed member of the Authority shall be disqualified from consideration of
+ any action regarding his or her employer.
+ (4)
+ Vacancies created by death, resignation or disqualification of a member of the Authority
+ shall be filled by appointment of the City Council and such appointments shall be
+ for the remainder of the unexpired term. When a regular member resigns, the alternate
+ member shall automatically be appointed as a regular member in replacement.
+ (5)
+ All members of the Authority shall be subject to removal by the City Council.
+ (b)
+Functions.
+ (1)
+ The Authority shall have the duty and authority to grant or refuse licenses for the
+ possession, sale and offering for sale of malt, special malt, vinous or spirituous
+ liquors and fermented malt beverages as provided by law, to conduct investigations
+ as are required by law and to levy penalties against licensees in the manner provided
+ by law.
+ (2)
+ The Authority shall have all the powers of the local licensing authority as set forth
+ in C.R.S. tit. 44, arts. 46, 47 and 48.
+ (3)
+ The Authority shall have the power to promulgate rules and regulations concerning
+ the procedures for hearings before it and the presentation of evidence at hearings.
+ (4)
+ The Authority shall have the power to require any applicant for a license to furnish
+ any relevant information required by the Authority.
+ (5)
+ The Authority shall have the power to administer oaths and issue subpoenas to require
+ the presence of persons and the production of papers, books and records necessary
+ to the determination of any hearing which the Authority is authorized to conduct.
+ It shall constitute a violation of this Code for any person to fail to comply with
+ any subpoena issued by the Authority in the proper conduct of its hearing.
+ (6)
+ The Authority shall have the power to perform all other acts or duties required to
+ carry out the purposes of the state and City liquor and fermented malt beverage and
+ marijuana licensing laws.
+ (7)
+ The Authority shall have the power to perform all other responsibilities that the
+ Council may delegate to it and to delegate as many of its functions as it deems appropriate
+ to the City Clerk.
+ (c)
+Organization; bylaws.
+ (1)
+ The Authority shall elect annually from its membership a chairperson and such other
+ officers as may be required. Bylaws may be adopted by the Authority, which bylaws
+ shall not be inconsistent with the Charter and the Code.
+ (2)
+ A quorum shall consist of a majority of the members of the Authority and a decision
+ of the majority of those present constituting a quorum shall control.
+ (d)
+Secretary.
+ The City Clerk shall serve as secretary of the authority, but shall not be entitled
+ to vote on any matters coming before the Authority. The City Clerk shall, as official
+ secretary of the Authority, designate a person to provide necessary notice of meetings
+ to members and shall also provide secretarial and reporting services for the Authority.
+ The secretary shall prepare and keep minutes of the meetings of the Authority. The
+ records of such meetings, if any, shall be submitted monthly to the City Council and
+ shall become part of the permanent records of the City to be maintained by the City
+ Clerk. The secretary shall perform such other duties delegated to him or her by the
+ Authority or assigned by the Code.
+ (e)
+Legal advisor; appeals.
+ (1)
+ The City Attorney shall be the legal advisor to the Authority and shall represent
+ the Authority and the City in all proceedings before the Authority and in all courts
+ where any decision of the Authority is appealed. The City Attorney may employ special
+ counsel when the City Attorney determines that he or she cannot ethically perform
+ the functions of prosecuting a complaint against a licensee before the Authority and
+ simultaneously representing the Authority.
+ (2)
+ All appeals from the Authority shall be directly to the District Court except appeals
+ from the denial of new licenses and the transfer of a license which shall be to the
+ City Council of the City which shall conduct a hearing de novo. Appeals from the City
+ Council shall be directly to the District Court.
+ (3)
+ Aggravating and mitigating factors considered at show cause hearings. In all cases
+ where a violation of the applicable state or local laws is found at a show cause hearing,
+ the Authority shall consider evidence and statements in mitigation and in aggravation
+ of the violation proper to determine the appropriate penalty. Such evidence and statements
+ may relate to and include, but not be limited to, the following factors:
+ (1)
+ Seriousness of the violation;
+ (2)
+ Corrective action taken by the licensee after the violation;
+ (3)
+ Prior violations at the licensed premises by the licensee or the licensee's employees
+ and the effectiveness of prior corrective action;
+ (4)
+ Prior violations at the licensed premises by a prior licensee or the prior licensee's
+ employees and the sanctions imposed for such violations, if the current licensee or
+ any of the current licensee's owners, partners, shareholder, directors, officers or
+ managers held an ownership interest of five percent (5%) or more in the entity holding
+ such prior license.
+ (5)
+ Whether the violation is part of a repeated course of conduct or is an isolated occurrence;
+ (6)
+ Likelihood of recurrence;
+ (7)
+ All circumstances surrounding the violations;
+ (8)
+ Willfulness of the violation;
+ (9)
+ Length of time the license has been held by the licensee;
+ (10)
+ Previous sanctions imposed against the licensee; and
+ (11)
+ Other factors making the situation with respect to the licensee or the licensed premises
+ unique.
+ (g)
+Optional procedures for the payment of fine in lieu of having retail license suspended.
+ (1)
+ a.
+ Whenever a decision of the Authority suspending a license for fourteen (14) days or
+ less becomes final, whether by failure of the licensee to appeal the decision or by
+ exhaustion of all appeals and judicial review, the licensee may, before the operative
+ date of the suspension, petition for permission to pay a fine in lieu of having his
+ license suspended for all or part of the suspension period. Upon the receipt of the
+ petition, the Authority may, in its sole discretion, stay the proposed suspension
+ and cause any investigation to be made which it deems desirable and may, in its sole
+ discretion, grant the petition if it is satisfied:
+ 1.
+ That the public welfare and morals would not be impaired by permitting the licensee
+ to operate during the period set for the suspension and that the payment of the fine
+ will achieve the desired disciplinary purposes;
+ 2.
+ That the books and records of the licensee are kept in such a manner that the loss
+ of sales which the licensee would have suffered had the suspension gone into effect
+ can be determined with reasonable accuracy therefor; and
+ 3.
+ That the licensee has not had his license suspended or revoked, by the Authority or
+ by the State, nor had any suspension stayed by payment of a fine, during the two (2)
+ years immediately preceding the date of the motion or complaint which has resulted
+ in a final decision to suspend the license.
+ b.
+ The fine accepted shall be the equivalent to twenty percent (20%) of the licensee's
+ estimated gross revenues from sales of alcoholic beverages or marijuana during the
+ period of the proposed suspension; except that the fine shall not be less than two
+ hundred dollars ($200.00) nor more than five thousand dollars ($5,000.00).
+ c.
+ Payment of any fine pursuant to the provision of this Subsection (g)(1) shall be in
+ the form of cash or in the form of a certified check or cashier's check made payable
+ to the City of Aspen.
+ (Code 1971, § 4-4; 
+Ord. 8-1994
+, § 2; 
+Ord. No. 48-1999
+, § 1; 
+Ord. No. 1-2022
+, §§ 1, 5, 2-8-2022)
+
+===== Sec. 5.04.050. - City license to sell required.
+(a)
+ No person shall sell or offer for sale any malt, vinous or spirituous liquor in the
+ City without first having obtained a City license therefor under the provisions of
+ this Chapter and laws of the State, in addition to any other license required by the
+ State.
+ (b)
+ No person shall sell or offer for sale any fermented malt beverages without first
+ having obtained a City license therefor under the provisions of this Chapter and the
+ laws of the State, in addition to any other license required by the State.
+ (c)
+ Nothing in this Code shall be deemed to require a person to obtain a separate City
+ license in order to sell or offer for sale any malt, vinous or spirituous liquor or
+ fermented malt beverage pursuant to a special event permit issued by the State.
+ (Code 1971, § 4-5; 
+Ord. No. 50-1992
+, § 1)
+
+===== Sec. 5.04.060. - Authority to issue City licenses.
+(a)
+ An applicant for a City or State license under this Chapter shall apply therefor to
+ the City Clerk on forms provided by the City Clerk.
+ (b)
+ The authority may issue any type of license set forth at C.R.S. §§ 44-47-309 and 44-46-107.
+ (c)
+ In order to qualify for a City license under this Chapter, an applicant must meet
+ all conditions for the issuance of the parallel state license prescribed by the Colorado
+ Liquor Code, for malt, vinous and spirituous liquors and the Colorado Beer Code, for
+ fermented malt beverages, except that the fees for a City license are those prescribed
+ by 
+Section 5.04.170
+ of this Code.
+ (Code 1971, § 4-6; 
+Ord. No. 50-1992
+, § 1; 
+Ord. No. 1-2022
+, § 5, 2-8-2022)
+
+===== Sec. 5.04.070. - State law procedures apply.
+Except as may be amended by this Chapter, provisions of the Colorado Liquor Code and
+ the Colorado Beer Code governing procedures for applications, hearing and decisions
+ for state liquor or fermented malt beverages shall apply for City licenses.
+ (Code 1971, § 4-7; 
+Ord. No. 50-1992
+, § 1)
+
+===== Sec. 5.04.080. - Term and renewal of licenses.
+(a)
+ The term of the City license issued under this Chapter is twelve (12) months from
+ the date of issuance.
+ (b)
+ Applicants for State and City license renewal shall apply to the City Clerk on or
+ before the forty-fifth day prior to the date of expiration of the license.
+ (c)
+ Upon receipt of a completed application for a license renewal, the City Clerk shall
+ refer the application to the following City departments: Environmental Health Department,
+ City Utility Department, City Police Department and the Aspen Fire Protection District.
+ If the referral comments received by the City Clerk do not adversely reflect upon
+ the applicant's license, the City Clerk may approve the renewal application forthwith.
+ The City Clerk shall notify the authority of all such applications for renewals on
+ the first of each month.
+ (d)
+ If for any reason the City Clerk decides not to approve a renewal application, he
+ or she shall place the matter on the agenda of the next regularly scheduled meeting
+ of the Aspen Local Licensing Authority at which time the authority shall grant the
+ renewal, order further staff investigation or order a hearing in accordance with State
+ law. The Local Licensing Authority may refuse to renew a license for good cause.
+ (e)
+ Notwithstanding the provisions of subparagraph (a), above, a licensee must maintain
+ possession of leased premises at all times that a license is active. If the licensee
+ loses possession of leased premises prior to the end of the license term, whether
+ through termination, abandonment or any other reason, the license shall be deemed
+ immediately suspended and all operations of the licensee pursuant to the license shall
+ immediately cease. The licensee may request that the suspension be lifted pursuant
+ to an application for change of location, pursuant to 
+Section 5.04.120
+, or transfer of ownership, pursuant to 
+Section 5.04.130
+, below. The application to lift the suspension for a change of location or transfer
+ of ownership may be submitted at any time during the remainder of the license term.
+ The licensee may also apply to lift the suspension upon a showing that the licensee
+ has regained possession of the premises.
+ (f)
+ The license of any licensee who has ceased operations for a period of in excess of
+ six (6) months shall be suspended. Such suspension may be lifted by the LLA for good
+ cause shown to the LLA pursuant to an application for relief. Good cause shall include
+ any closure pursuant to a general public health order. However, a closure of a business
+ for violation of a duly issued public health order shall not be deemed good cause.
+ In the event that a licensee is aware of an upcoming closure for longer than six (6)
+ months for construction, remodeling, maintenance or other purpose, the licensee may
+ provide the LLA with notice of such closure with a statement of anticipated reopening
+ date. If closure is based on activity that requires the receipt of a Certificate of
+ Occupancy (CO) prior to reopening, then no suspension will occur if the business is
+ open within thirty (30) days of issuance of the CO. For any other reason of closure,
+ no suspension will occur pursuant to this Section if the business is reopened within
+ thirty (30) days of the anticipated reopening date, unless such time is extended by
+ the LLA. If any business is closed for a period of three (3) months immediately prior
+ to the renewal date of such license, such license renewal shall be reviewed by the
+ LLA, pursuant to subparagraph (d), above.
+ (Code 1971, § 4-8; 
+Ord. No. 50-1992
+, § 1; 
+Ord. No. 1-2022
+, § 2, 2-8-2022)
+
+===== Sec. 5.04.090. - Temporary permit.
+(a)
+ The Aspen Local Licensing Authority may, in accordance with the provisions of the
+ Colorado Beer Code and Colorado Liquor Code, issue a temporary permit to a transferee
+ of a fermented malt beverage license issued by the state licensing authority pursuant
+ to the Colorado Beer Code or any class of liquor license issued pursuant to the Colorado
+ Liquor Code. Such temporary permit shall authorize a transferee to sell fermented
+ malt or alcoholic beverages in accordance with either C.R.S. § 44-46-106.5 or § 44-47-303.
+ (b)
+ If the next regularly scheduled meeting of the Aspen Local Licensing Authority will
+ not be held within three (3) working days of the receipt by the City Clerk of an application
+ for a temporary permit under this Section, the City Clerk shall issue the temporary
+ permit requested by such an application provided the City Clerk first determines the
+ following:
+ (1)
+ That the applicant is in compliance with all applicable provisions of the Colorado
+ Beer Code and Colorado Liquor Code; and
+ (2)
+ That a preliminary background check conducted by the Aspen Police Department of the
+ applicant and its officers, directors and owners having a five percent (5%) or more
+ ownership interest, indicates that such persons have not been convicted of a felony
+ or an offense involving moral turpitude.
+ If either of the above determinations cannot be made by the City Clerk with respect
+ to any application under this subparagraph (b), the Clerk shall not issue a temporary
+ permit.
+ (c)
+ If for any reason the City Clerk decides not to issue a temporary permit applied for
+ under this Section, the applicant shall be entitled to a hearing before the Aspen
+ Local Licensing Authority at its next regularly scheduled meeting, at which time the
+ Aspen Local Licensing Authority shall consider the City Clerk's decision not to issue
+ the temporary permit and it may, within its discretion, either uphold the decision
+ of the City Clerk or reverse it and issue the temporary permit to the applicant.
+ (Code 1971, § 4-9; Ord. No. 50-1992, § 1; 
+Ord. No. 1-2022
+, § 5, 2-8-2022)
+
+===== Sec. 5.04.100. - Temporary licenses.
+(a)
+ Pursuant to C.R.S. § 44-47-303, any licensee whose license expires may, upon the filing
+ of an application for a permanent annual alcoholic beverage license and upon payment
+ of all applicable fees relating thereto, also apply for a temporary license to allow
+ continued operation of the licensed premises under the same terms and conditions as
+ provided in the expired license. Such application shall be made no later than ninety
+ (90) days after the expiration of the permanent annual license.
+ (b)
+ The City Clerk may approve an application for a temporary license when the expiration
+ of the preexisting license resulted from the licensee's inadvertent failure to make
+ application for renewal or any administrative error or mistake.
+ (c)
+ If, for any reason, the City Clerk decides not to issue a temporary license applied
+ for under this Section, the applicant shall be entitled to a hearing before the Aspen
+ Local Licensing Authority at its next regularly scheduled meeting.
+ (d)
+ A temporary license shall be valid until the licensee's application for a regular
+ annual license has been processed and approved or denied by the authority and the
+ state licensing authority, except that in no event shall such license be valid for
+ more than one hundred twenty (120) days.
+ (e)
+ The City Clerk shall notify the authority of the approval of all temporary licenses
+ at its next regularly scheduled meeting.
+ (Code 1971, § 4-10; 
+Ord. No. 50-1992
+, § 1; 
+Ord. No. 1-2022
+, § 5, 2-8-2022)
+
+===== Sec. 5.04.110. - Modification of premises.
+(a)
+ No licensee may physically change, alter or modify the licensed premises from that
+ shown in the plans and specifications submitted at the time the licensee obtained
+ its original license until written approval to do so has been received from the Aspen
+ Local Licensing Authority and the state licensing authority.
+ (b)
+ Requests for changes, alterations or modifications of the licensed premises shall
+ be on such forms as are provided by the state licensing authority and, in addition,
+ on such forms as may be provided by the City, if any. The request shall be filed with
+ the City Clerk.
+ (c)
+ If the City Clerk finds that the proposed modification does not substantially fall
+ within the meaning of Colorado Department of Revenue Regulation 47-302, he or she
+ shall forthwith grant the request. The City Clerk shall notify the authority of all
+ such approved modifications at its next regularly scheduled meeting. If the City Clerk
+ cannot make this determination, he or she shall not grant the request and shall cause
+ the request to be placed on the agenda of the authority for their next regularly scheduled
+ meeting.
+ (Code 1971, § 4-11; 
+Ord. No. 50-1992
+, § 1)
+
+===== Sec. 5.04.120. - Change of location.
+(a)
+ No license issued by the Aspen Local Licensing Authority shall be transferred to another
+ location howsoever proximate without the approval of the authority.
+ (b)
+ Applications for permission to change the location of the licensed premises shall
+ be made with the City Clerk.
+ (Code 1971, § 4-12; 
+Ord. No. 50-1992
+, § 1)
+
+===== Sec. 5.04.130. - Transfer of ownership.
+(a)
+ No license granted under the provisions of this Chapter shall be transferable without
+ the approval of the Aspen Local Licensing Authority.
+ (b)
+ Applications for permission to transfer ownership of a license shall be made with
+ the City Clerk.
+ (Code 1971, § 4-13; 
+Ord. No. 50-1992
+, § 1)
+
+===== Sec. 5.04.140. - Manager's registration required.
+(a)
+ Whenever required by the Colorado Beer Code or the Colorado Liquor Code, licensees
+ shall designate and register managers with the Aspen Local Licensing Authority by
+ filing an application with the City Clerk.
+ (b)
+ Upon receipt of a completed application to register a new manager, the City Clerk
+ shall refer the application to the City Police Department for a background investigation
+ of the proposed manager. If there is no probable cause to believe that the proposed
+ manager is not of good moral character and reputation, the City Clerk shall approve
+ the application forthwith. The City Clerk shall notify the authority of all such administrative
+ approvals of new managers at its next regularly scheduled meeting. If the City Clerk
+ is unable to administratively approve the registration of the new proposed manager,
+ he or she shall place the matter on the authority's agenda for its next regularly
+ scheduled meeting.
+ (Code 1971, § 4-14; 
+Ord. No. 50-1992
+, § 1)
+
+===== Sec. 5.04.150. - Standards for Optional Premises License.
+In addition to applicable requirements of the Colorado Liquor Code and regulations
+ adopted thereunder, the following standards for issuance of an Optional Premises License
+ or for an optional premises for a hotel and restaurant license are adopted:
+ (a)
+ Issuance of an optional premises or optional premises for a hotel and restaurant license
+ shall be limited to the following outdoor sports and recreational facilities:
+ (1)
+ Swimming pools,
+ (2)
+ Tennis courts,
+ (3)
+ Country clubs,
+ (4)
+ Golf courses,
+ (5)
+ Ski areas.
+ (b)
+ Each licensee shall demonstrate to the Local Licensing Authority a need for the optional
+ premises.
+ (c)
+ Submittal requirements. When submitting a request for the approval of an optional
+ premises, an applicant shall submit the following information:
+ (1)
+ A map or other drawing illustrating the outdoor sports or recreational facility boundaries
+ and the approximate location of each optional premises requested.
+ (2)
+ A legal description of the approximate area within which the optional premises shall
+ be located.
+ (3)
+ A description of the method which shall be used to identify the boundaries of the
+ optional premises when it is in use.
+ (4)
+ A description of the provisions which have been made for storing malt, vinous and
+ spirituous liquors in a secured area on or off the optional premises for the future
+ use on the optional premises.
+ (5)
+ A description of the provisions that will be made to ensure the liquor laws of the
+ State and City are being adhered to; including but not limited to, control of the
+ premises, checking identification and carrying of alcohol onto the premises.
+ (d)
+ Advance notification. Pursuant to C.R.S. § 44-47-135(6) and (7), as amended, no alcoholic
+ beverages may be served on the optional premises until the licensee has provided written
+ notice to the State and Local Licensing Authorities forty-eight (48) hours prior to
+ serving alcoholic beverages on the optional premises. Such notice must contain the
+ specific days and hours on which the optional premises are to be used. In this regard,
+ there is no limitation on the number of days which a licensee may specify in each
+ notice. However, no notice may specify any date of use which is more than one hundred
+ eighty (180) days from the notice date.
+ (e)
+ All optional premises licenses shall be valid for a period of one (1) year from the
+ date of issuance, unless revoked or suspended and must be renewed annually thereafter.
+ (f)
+ Due to the fact that an optional premises license or an optional premises for a hotel
+ and restaurant license may involve greater contact between customers drinking alcoholic
+ beverages and underage persons, the Local Licensing Authority shall apply the following
+ additional standards prior to the initial issuance of a license or renewal thereof:
+ (1)
+ The Local Licensing Authority may require the licensee to post in one (1) or more
+ prominent locations on the licensed premises, signs that are reasonably calculated
+ to prohibit underage drinking on the premises. The language of the notices may be
+ determined by the Local Licensing Authority.
+ (2)
+ The Local Licensing Authority shall determine whether advertisement for alcoholic
+ beverages or malt liquors should be controlled or, alternatively, whether they should
+ be prohibited entirely from the licensed premises.
+ (3)
+ An optional premises licensee shall have available for consumption on the premises
+ during business hours sandwiches and light snacks and nonalcoholic beverages.
+ (4)
+ The Local Licensing Authority may require that the licensee show evidence that all
+ managers and servers employed on the premises meet the educational requirements set
+ forth in 
+Section 5.08.080
+ above of this Code prior to the issuance or renewal of a license.
+ (5)
+ The Local Licensing Authority in determining whether to initially issue or renew a
+ license in accordance with this Section shall consider any evidence brought to its
+ attention that the operation of the premises has had or may have in the future, an
+ adverse effect upon the public health, safety or welfare. The Local Licensing Authority
+ may impose such additional requirements or conditions upon the licensee as it may
+ deem reasonably necessary to protect the public's health, safety and welfare.
+ (Code 1971, § 4-15; 
+Ord. No. 17-1993
+, § 2; 
+Ord. No. 1-2022
+, § 5, 2-8-2022)
+
+===== Sec. 5.04.160. - Special event permit.
+(a)
+ All applications for a special event permit pursuant to C.R.S. § 44-48-10 et seq.,
+ shall be filed with the City Clerk at least thirty (30) days prior to the date of
+ the special event.
+ (b)
+ Upon receipt of a completed application for a special event permit, the City Clerk
+ shall refer the application to the following City departments: Environmental Health
+ Department, City Police Department and Fire Protection District. If the City Clerk
+ determines that the applicant is eligible for a special event permit in accordance
+ with C.R.S. §§ 44-48-101 et seq., and the referral comments do not indicate that issuance
+ would be injurious to the public welfare by reason of the nature of the special event,
+ its location within the community or the failure of the applicant in a past event
+ to conduct such event in compliance with applicable laws and regulations, the City
+ Clerk shall grant the permit forthwith. The City Clerk shall notify the authority
+ of all such administrative approvals of special events permits at its next regularly
+ scheduled meeting. If the City Clerk is unable to administratively approve the special
+ events permit, he or she shall place the matter on the authority's agenda for its
+ next regularly scheduled meeting.
+ (Code 1971, § 4-20; 
+Ord. No. 50-1992
+, § 1; 
+Ord. No. 1-2022
+, § 5, 2-8-2022)
+
+===== Sec. 5.04.170. - License application fees.
+Each application for a license filed with the City Clerk shall be accompanied by an
+ application fee in an amount equal to that set forth at 
+Section 2.12.070
+ of this Code.
+ (Ord. No. 50-1992, § 1; Ord No. 17-1993, § 3; Ord No. 8-1994, § 3: Code 1971, § 4-21)
+Editor's note— 
+ This Subsection was incorrectly noted as former 4-12 in Ord. No. 17-1993.
+
+===== Sec. 5.04.180. - Annual license fees.
+Annual license fees shall be paid to the City as provided by state law. Annual license
+ fees shall be paid in advance and shall not be rebated or discounted on a proportionate
+ basis for any license in existence or issued for less than a year. The fees shall
+ be in addition to any annual license fees required to be paid to the state.
+ (Code 1971, § 4-22; 
+Ord. No. 50-1992
+, § 1)
+
+===== Sec. 5.04.190. - Retail liquor store or liquor-licensed drugstore tastings.
+A retail liquor store or liquor-licensed drugstore licensee who wishes to conduct
+ tastings may submit an application or application renewal to the Aspen Local Licensing
+ Authority (hereinafter the "LLA"). The LLA may reject the application if the applicant
+ fails to establish that he or she is able to conduct tastings without violating the
+ provisions of the Colorado Liquor Code, without violating Title 5, entitled "Alcoholic
+ Beverages," of this Code or without creating a public safety risk to the neighborhood.
+ The LLA may establish its own application procedure and may charge a reasonable application
+ fee.
+ Tastings shall be subject to the following limitations:
+ (a)
+ Tastings shall be conducted only by a person who has completed a server-training program
+ that meets the standards established by the Liquor Enforcement Division in the Department
+ of Revenue and who is either a retail liquor store licensee or a liquor-licensed drugstore
+ licensee or an employee of a licensee and only on a licensee's licensed premises.
+ (b)
+ The alcohol used in tastings shall be purchased through a licensed wholesaler, licensed
+ brewpub or winery licensed pursuant to C.R.S. § 44-47-403, at a cost that is not less
+ than the laid-in cost of such alcohol.
+ (c)
+ The size of an individual alcohol sample shall not exceed one (1) ounce of malt or
+ vinous liquor or one-half (½) of one (1) ounce of spirituous liquor.
+ (d)
+ Tastings shall not exceed a total of five (5) hours in duration per day, which need
+ not be consecutive.
+ (e)
+ Tastings shall be conducted only during the operating hours in which the licensee
+ on whose premises the tastings occur is permitted to sell alcohol beverages and in
+ no case earlier than 11:00 a.m. or later than 7:00 p.m.
+ (f)
+ The licensee shall prohibit patrons from leaving the licensed premises with an unconsumed
+ sample.
+ (g)
+ The licensee shall promptly remove all open and unconsumed alcohol beverage samples
+ from the licensed premises or shall destroy the samples immediately following the
+ completion of the tasting.
+ (h)
+ The licensee shall not serve a person who is under twenty-one (21) years of age or
+ who is visibly intoxicated.
+ (i)
+ The licensee shall not serve more than four (4) individual samples to a patron during
+ a tasting.
+ (j)
+ Alcohol samples shall be in open containers and shall be provided to a patron free
+ of charge.
+ (k)
+ Tastings may occur on no more than four (4) of the six (6) days from a Monday to the
+ following Saturday, not to exceed one hundred four (104) days per year.
+ (l)
+ No manufacturer of spirituous or vinous liquors shall induce a licensee through free
+ goods or financial or in-kind assistance to favor the manufacturer's products being
+ sampled at a tasting. The licensee shall bear the financial and all other responsibility
+ for a tasting.
+ (m)
+ A violation of this Code provision or of C.R.S. § 44-47-801, by a retail liquor store
+ or liquor-licensed drugstore licensee, whether by his or her employees, agents or
+ otherwise, shall be the responsibility of the retail liquor store or liquor-licensed
+ drugstore licensee who is conducting the tasting.
+ (n)
+ A retail liquor store or liquor-licensed drugstore licensee conducting a tasting shall
+ be subject to the same revocation, suspension and enforcement provisions as otherwise
+ apply to the licensee.
+ (o)
+ Nothing in this Code provision shall affect the ability of a Colorado winery licensed
+ pursuant to C.R.S. §§ 44-47-402 or 44-47-403, to conduct a tasting pursuant to the
+ authority of C.R.S. §§ 44-47-402(2) or 44-47-403(2)(e).
+ (
+Ord. No. 24-2004
+, § 1; 
+Ord. No. 1-2022
+, § 5, 2-8-2022)
+
+===== Chapter 5.08. - GENERAL REGULATIONS
+
+
+===== Sec. 5.08.010. - Sales prohibited.
+No alcoholic liquor and no fermented malt beverage shall be sold or served to any
+ intoxicated person or to any person under twenty-one (21) years of age.
+ (Code 1971, § 4-25; 
+Ord. No. 35-1978
+, § 1; 
+Ord. No. 1-2012
+§1)
+
+===== Sec. 5.08.020. - Consumption prohibited.
+(a)
+ No person under the age of twenty-one (21) shall be permitted to consume alcoholic
+ liquor on the licensed premises. No person under the age of eighteen (18) shall be
+ permitted to consume fermented malt beverages on the licensed premises.
+ (b)
+ No person licensed to sell fermented malt beverages shall allow the consumption or
+ display of alcoholic beverages on the licensed premises or serve any liquids for the
+ purpose of mixing with alcoholic liquor. The presence of alcoholic liquor on the premises
+ of such a licensee shall be prima facie evidence of possession of alcoholic liquor
+ for the purpose of sale; and the serving of any liquid for the purpose of mixing with
+ alcoholic liquors shall be prima facie evidence that alcoholic liquor is being permitted
+ to be consumed or displayed contrary to this Chapter.
+ (c)
+ No alcoholic liquor shall be consumed on any licensed premises unless the premises
+ is licensed to sell alcoholic liquor for consumption on the premises. No fermented
+ malt beverage shall be consumed on any licensed premises unless the premises is licensed
+ to sell fermented malt beverages for consumption on the premises.
+ (Code 1971, § 4-26; 
+Ord. No. 35-1978
+, § 1)
+
+===== Sec. 5.08.030. - Reserved.
+Editor's note— 
+ Ord. No. 1 2012, § 2, repealed former § 5.08.030, relative to the prohibition of employment
+ of persons under a certain age, which derived from Code 1971, § 4-27 and 
+Ord. No. 35-1978
+, § 1.
+
+===== Sec. 5.08.040. - Gambling.
+No gambling or any gambling device shall be permitted on any licensed premises.
+ (Code 1971, § 4-28; 
+Ord. No. 35-1978
+, § 1)
+
+===== Sec. 5.08.050. - Report of disturbances.
+All licensees shall immediately report to the Aspen Police Department any unlawful
+ or disorderly act, conduct or disturbance committed on the licensed premises. Repeated
+ failure to comply with the requirements of this Section shall constitute prima facie
+ evidence that the licensee has failed to conduct the licensed premises in a decent,
+ orderly and respectful manner as required by Regulation 47-105.1 of the Colorado Liquor
+ Code or C.R.S. § 44-47-105.
+ (Code 1971, § 4-28.1; 
+Ord. No. 8-1994
+, § 5; 
+Ord. No. 1-2022
+, § 5, 2-8-2022)
+
+===== Sec. 5.08.060. - Open containers.
+(a)
+ No person shall carry or have any open container of alcoholic liquor or fermented
+ malt beverage in any vehicle or on any street, sidewalk, alley or other public way
+ or public place or in any public place except in a licensed premises.
+ (b)
+ No person having legal possession of a public place shall allow the possession of
+ open containers in violation of the provisions of Paragraph (a) of this Section. The
+ furnishing of ice, glasses, containers or of any liquid for the purpose of mixing
+ with alcoholic liquors shall be prima facie evidence that open containers are being
+ allowed contrary to this Chapter.
+ (Code 1971, § 4-29; 
+Ord. No. 35-1978
+, § 1)
+Cross reference— 
+ Drinking liquor or possession of open containers on public property prohibited, 
+§ 15.04.180
+.
+
+===== Sec. 5.08.070. - Definitions.
+As used in this Chapter, unless the context otherwise requires:
+ (a)
+Manager
+ or 
+owner/operator
+ means any person who manages or is the 
+owner/operator
+ preparing, serving, selling or otherwise providing alcoholic beverages pursuant to
+ licenses issued therefor. The Manager or 
+owner/operator
+ shall not include persons who sell, serve or dispense alcoholic beverages in the
+ capacity of volunteer or persons employed as a clerk or checkout person in an establishment
+ licensed as a retail liquor store.
+ (b)
+Licensee
+ means a natural, legal person selling malt, vinous and spirituous beverages pursuant
+ to and authorized by a license issued pursuant to C.R.S. § 44-46-101 et seq. (Colorado
+ Beer Code) or C.R.S. § 44-47-101 et seq. (Colorado Liquor Code) or C.R.S. § 44-48-101
+ et seq. (Special Events Permits) by the City and the State.
+ (c)
+Server
+ means any person who is employed by a licensee to prepare, serve, sell or otherwise
+ provide alcoholic beverages pursuant to licensee's license. 
+Server
+ shall not include persons who sell, serve or dispense alcoholic beverages in the
+ capacity of volunteer or persons employed as a clerk or checkout person in an establishment
+ licensed as a retail liquor store.
+ (d)
+Optional premises
+ means premises located on an applicant's outdoor sports and recreational facility.
+ (e)
+Hotel and Restaurant License with Optional Premise
+ means premises specified in an application for a hotel and restaurant license with
+ related outdoor sports and recreational facilities, for the convenience of its guests
+ or general public located on or adjacent to the hotel or restaurant.
+ (f)
+Doorperson/Bouncer
+ - The informal title for one who acts as a gatekeeper, performs general security
+ duties, and maintains a positive working relationship with the police department for
+ a licensed establishment.
+ (Code 1971, § 4-29.1; 
+Ord. No. 23-1990
+, § 1; 
+Ord. No. 49-1992
+, § 1; 
+Ord. No 17-1993
+, § 1; 
+Ord. No. 1-2022
+, § 5, 2-8-2022)
+
+===== Sec. 5.08.080. - Education requirements.
+(a)
+ All managers or owner/operators registered with the State and the Local Licensing
+ Authority shall have a valid certificate evidencing successful completion of an educational
+ liquor seminar approved by the Local Licensing Authority. The certificate received
+ by persons who successfully complete the educational liquor seminar shall be valid
+ for a period of three (3) years.
+ (b)
+ After the effective date of this Section, persons who become new managers or owner/operators
+ registered with the State and the Local Licensing Authority are required to attend
+ a liquor seminar approved by the Local Licensing Authority within two (2) months of
+ registration and receive a Certificate of Completion.
+ (c)
+ Every licensee shall ensure that, at a minimum:
+ (1)
+ Seventy-five percent (75%) of all servers employed by the licensee shall have successfully
+ completed within six (6) months of the effective date of this Ordinance, and at all
+ times thereafter, an educational liquor seminar approved by the Local Licensing Authority.
+ (2)
+ Fifty percent (50%) of all door people/bouncers currently employed by the licensee
+ shall have successfully completed within six (6) months of the effective date of this
+ Ordinance and at all times thereafter, an educational "Bouncer/Doorperson" seminar
+ provided by the Aspen Police Department or an educational liquor seminar approved
+ by the Local Licensing Authority.
+ (3)
+ The certificate received by a participant who successfully completes either an educational
+ liquor seminar or a bouncer/doorperson seminar shall be valid for a period of three
+ (3) years.
+ (d)
+ Every agency offering a course of instruction approved by the Local Licensing Authority
+ shall issue a certificate to those enrollees who successfully complete the liquor
+ educational seminar. The certificate shall indicate the date of the completion of
+ the training and the date of the certificate expiration and shall be evidence at a
+ minimum that the person has been in actual attendance the required minimum number
+ of hours at the course and has achieved a reasonable mastery of the subject matter
+ presented. No agency approved by the City Council to provide manager or owner/operator
+ training shall issue a certificate unless the person has actually attended and achieved
+ a reasonable mastery of the materials.
+ (e)
+ The local licensing authority shall establish, by resolution, the general criteria
+ for courses and qualifications of instructors which shall satisfy the liquor educational
+ requirements of this Section. These requirements shall be available in the office
+ of the City Clerk. Any qualified person may submit to the Local Licensing Authority
+ a request that a particular seminar be deemed to meet the educational requirements.
+ The licensing authority or its designee may make such determination. A file of all
+ course requirements shall be available in the office of the City Clerk.
+ (f)
+ At the time a licensee files an application to renew or transfer a liquor license
+ or to change the location of the licensed premises or to change the corporate structure,
+ the licensee shall submit to the City Clerk information to prove that the requisite
+ percentage of servers, managers and/or owner/operators required to be certified under
+ this Chapter have certificates in full force and effect. All licensees shall maintain
+ a file of current certificates for all servers, managers and owners/operators employed
+ by said licensee and shall exhibit copies of said certificates when requested to do
+ so by the City Clerk, the Chief of Police, his employees or other appropriate officials
+ of the City. Failure to comply with this Section shall be considered a violation of
+ the conditions of the issuance of a license in addition to a violation of this Code
+ and may be punished accordingly.
+ (Code 1971, § 4-29.2; 
+Ord. No. 23-1990
+, § 1; 
+Ord. No. 49-1992,
+ § 1; 
+Ord. No. 53-2007
+)
+
+===== Sec. 5.08.090. - Reseal and removal of open vinous liquor container.
+A hotel or restaurant licensee or his or her employee, may permit a customer to reseal
+ and remove from the licensed premises one (1) opened container of partially consumed
+ vinous liquor purchased on the premises so long as the original container does not
+ contain more than seven hundred fifty (750) milliliters of vinous liquor.
+ (
+Ord. No. 24-2004
+ § 3)
+
+===== Chapter 5.12. - OCCUPATION TAX
+Footnotes: 
+ --- (
+3
+) ---
+Cross reference— 
+ Taxation generally, Title 23.
+
+===== Sec. 5.12.010. - Declaration of policy and purposes.
+The City Council hereby finds, determines and declares that considering the nature
+ of the business of selling at retail fermented malt beverages and alcoholic liquors
+ and the relation of such business to the municipal welfare, as well as the relation
+ thereof to the expenditures required of the City and a proper, just and equitable
+ distribution of tax burdens within the City and all other matters proper to be considered
+ in relation thereto, that the classification of such business as a separate occupation
+ within this Chapter is reasonable, proper, uniform and nondiscriminatory and that
+ the amount of tax hereby imposed is reasonable, proper, uniform and nondiscriminatory
+ and necessary for a just and proper distribution of tax burdens within the City.
+ (Code 1971, § 4-30; 
+Ord. No. 35-1978
+, § 1)
+
+===== Sec. 5.12.020. - Classification of operators.
+The business of selling at retail any fermented malt beverages and alcoholic liquor,
+ other than medicinal liquors, is hereby defined and separately classified for the
+ purposes of this Chapter as follows:
+ Class "A" Operators. All operators who are licensed to sell alcoholic liquors for
+ consumption on the premises either as hotels or restaurants or taverns shall be class
+ "A" operators.
+ Class "A-1" Operators. All operators who are licensed to sell alcoholic liquors for
+ consumption on the premises as hotel and restaurants and determined to be "modest
+ establishments" as hereinafter defined shall be class "A-1" operators.
+ Class "A-2" Operators. All operators who are licensed to sell alcoholic liquors for
+ consumption on the premises either as hotel and restaurants or taverns and determined
+ to be "dance cabarets" as hereinafter defined shall be class "A-2" operators.
+ Class "B" Operators. All operators licensed to sell beer and wine only by the drink
+ for consumption on the premises shall be class "B" operators.
+ Class "B-1" Operators. All operators who are licensed to sell beer and wine only for
+ consumption on the premises and determined to be "modest establishments" as hereinafter
+ defined shall be class "B-1" operators.
+ Class "C" Operators. All operators licensed as retail liquor stores or as drugstores
+ to sell in original containers for consumption off the premises shall be class "C"
+ operators.
+ Class "D" Operators. All operators licensed to sell alcoholic liquors as arts shall
+ be class "D" operators.
+ Class "E" Operators. All operators licensed to sell alcoholic liquors as clubs shall
+ be class "E" operators.
+ Class "F-1" Operators. All operators licensed to sell fermented malt beverages and
+ who sell the same for consumption on the premises shall be class "F-1" operators.
+ Class "F-2" Operators. All operators licensed to sell fermented malt beverages and
+ who sell the same solely in the original package or container for consumption off
+ the premises shall be class "F-2" operators.
+ Class "F-3" Operators. All operators licensed to sell fermented malt beverages and
+ who sell the same for consumption on the premises and in the original package or container
+ for consumption off premises shall be class "F-3" operators.
+ The words defined below shall have the meanings set forth below whenever they appear
+ in this Chapter.
+Dance cabaret
+ means an establishment licensed to sell alcoholic beverages providing either live
+ or recorded entertainment and space for patron dancing.
+Modest establishment
+ means an establishment with a hotel and restaurant or beer and wine liquor license
+ which has fifty (50) seats or less, not including outdoor seating and twenty percent
+ (20%) or less of its gross revenue derives from the sale of alcoholic beverages.
+ (Code 1971, § 4-31; 
+Ord. No. 35-1978
+, § 1; 
+Ord. No. 75-1981
+, § 1; 
+Ord. No. 6-1992
+, § 1)
+
+===== Sec. 5.12.030. - Tax levy and assessment.
+There is hereby levied and assessed an annual occupation tax upon the business of
+ selling fermented malt beverages and alcoholic liquors, except medicinal liquors,
+ in the City, as such occupation has been classified in 
+Section 5.12.020
+ above, as follows:
+ (a)
+ For all class "A" operators the sum of one thousand three hundred sixty-five dollars
+ ($1,365.00).
+ (b)
+ For all class "A-1" operators the sum of nine hundred ten dollars ($910.00).
+ (c)
+ For all class "A-2" operators the sum of one thousand seven hundred fifty dollars
+ ($1,750.00).
+ (d)
+ For all class "B" operators the sum of nine hundred ten dollars ($910.00).
+ (e)
+ For all class "B-1" operators the sum of six hundred ten dollars ($610.00).
+ (f)
+ For all class "C" operators the sum of nine hundred ten dollars ($910.00).
+ (g)
+ For all class "D" operators the sum of one hundred sixty-five dollars ($165.00).
+ (h)
+ For all class "E" operators the sum of three hundred fifty dollars ($350.00).
+ (i)
+ For all class "F-1" operators the sum of three hundred seventy-five dollars ($375.00).
+ (j)
+ For all class "F-2" operators the sum of three hundred seventy-five dollars ($375.00).
+ (k)
+ For all class "F-3" operators the sum of three hundred seventy-five dollars ($375.00).
+ For all class "A," "B," "D" and "E" operators with extended hours permits (8:00 p.m.
+ to midnight on Sundays and Christmas), there shall be an additional occupation tax
+ of two hundred seventy-five dollars ($275.00).
+ (Code 1971, § 4-32; 
+Ord. No. 35-1978
+, § 1; 
+Ord. No. 75-1981
+, § 2; 
+Ord. No. 50-1988
+, § 1; 
+Ord. No. 6-1992
+, § 2)
+
+===== Sec. 5.12.040. - Payment required prior to issuance of license.
+The tax prescribed in 
+Section 5.12.030
+ above shall be due and payable to the City Clerk at the time the City license shall
+ be issued and such license shall not be issued until the tax is paid in full.
+ (Code 1971, § 4-33; 
+Ord. No. 35-1978
+, § 1)
+
+===== Sec. 5.12.050. - Revenue receipt.
+Upon receipt of the tax, paid as required by this Chapter, it shall be the duty of
+ the Director of Finance to execute and deliver to the operator paying the tax, a revenue
+ receipt showing the name of the operator paying the tax, the date of payment, the
+ annual period for which such tax is paid and the place at which such operator conducts
+ business.
+ (Code 1971, § 4-34; 
+Ord. No. 35-1978
+, § 1)
+
+===== Sec. 5.12.060. - Posting of receipt required.
+The operator shall, at all times during the year, keep the receipt for the tax paid
+ in accordance with this Chapter posted in a conspicuous place in his or her place
+ of business.
+ (Code 1971, § 4-35; 
+Ord. No. 35-1978, § 1)
+
+===== Sec. 5.12.070. - No refund of tax.
+No refund of the tax required by this Chapter shall be made by reason of the discontinuance
+ of the business prior to the expiration of a license to sell fermented malt beverages
+ and alcoholic liquors.
+ (Code 1971, § 4-36; 
+Ord. No. 35-1978
+, § 1)
+
+===== Sec. 5.12.080. - Delinquency.
+Delinquency in payment shall not be a ground for suspension or revocation, nor shall
+ it be considered by the Council upon transfer or renewal.
+ (Code 1971, § 4-37; 
+Ord. No. 35-1978
+, § 1)
+
+===== Sec. 5.12.090. - Recovery of amount due by City.
+The City shall have the right to recover all sums due by the terms of this Chapter,
+ by judgment and execution thereon in a civil action, in any court of competent jurisdiction.
+ Such remedy shall be cumulative with all other remedies of this Chapter.
+ (Code 1971, § 4-38; 
+Ord. No. 35-1978
+, § 1)
+
+===== Chapter 5.16. - MARIJUANA LICENSING
+
+
+===== Sec. 5.16.010. - Short Title.
+This Chapter is to be known and may be cited as the "City of Aspen Marijuana Code."
+
+===== Sec. 5.16.020. - Declaration of policy and purpose.
+The City Council hereby declares that the purpose of this Chapter is to exercise the
+ authority of the City of Aspen to allow state-licensed medical marijuana establishments
+ and retail marijuana establishments to exist in the City of Aspen in accordance with
+ applicable state laws and regulations and in accordance with the local licensing requirements
+ and other restrictions set forth herein. The City Council intends that the City issue
+ local licenses as authorized by the Colorado Constitution, state law and regulations
+ and that the City's licensing requirements be consistent with those for state licenses
+ under state law and regulations, except those requirements that are left to local
+ discretion or are otherwise of local concern, as set forth in this Chapter.
+
+===== Sec. 5.16.030. - Colorado Medical Marijuana Code and Retail Marijuana Code and regulations adopted.
+Except where the provisions of this Chapter are inconsistent with or differ from the
+ laws, rules, and regulations adopted by reference in this Section, the provisions
+ of the Colorado Medical Marijuana Code, C.R.S. art. 43.3, tit. 44, as amended, and
+ the Colorado Retail Marijuana Code, C.R.S. art. 43.4, tit. 44, and the provisions
+ of Colorado Rules and Regulations adopted under the authorization granted by those
+ provisions are adopted and made a part of this Code as if set out in full. At least
+ one (1) copy of the Colorado Medical Marijuana Code, the Colorado Retail Marijuana
+ Code and all rules and regulations promulgated pursuant thereto shall be kept on file
+ in the office of the City Clerk and shall be available for inspection during regular
+ business hours.
+ (
+Ord. No. 1-2022
+, § 5, 2-8-2022)
+
+===== Sec. 5.16.040. - Definitions.
+Except where specifically defined in this Section, the definitions contained in the
+ state constitution, the Medical Marijuana Code, the Retail Marijuana Code, and the
+ rules and regulations promulgated thereunder shall apply to this Chapter. In addition,
+ the following definitions shall apply:
+Licensed Premises
+ means the premises specified in an application for a license pursuant to this Chapter
+ and either the Medical Marijuana Code or the Retail Marijuana Code, which are owned
+ or in lawful possession of the Licensee and within which the Licensee is authorized
+ to cultivate, manufacture, distribute, sell, or test marijuana in accordance with
+ the provisions of this Article, section 16 of article XVIII of the Colorado Constitution,
+ the Colorado Retail Marijuana Code and/or the Colorado Medical Marijuana Code.
+Licensee
+ means a person licensed or registered pursuant to the Colorado Retail Marijuana Code
+ or the Colorado Medical Marijuana Code and this Chapter.
+Medical Marijuana Code
+ shall mean C.R.S. art. 43.3 of tit. 44, and any rules or regulations promulgated
+ thereunder, as amended.
+Medical Marijuana Establishment
+ includes a medical marijuana center, a medical marijuana-infused product manufacturer,
+ or an optional premises cultivation operation.
+Open and public
+ means a place open to the general public, which includes a place to which the public
+ or a substantial number of the public has access without restriction, including but
+ not limited to highways, streets and sidewalks, transportation facilities, places
+ of amusement, parks, playgrounds, and the common areas of public buildings and facilities
+ that are generally open or accessible to members of the public without restriction.
+Openly
+ means not protected from unaided observation lawfully made from outside its perimeter
+ not involving physical intrusion.
+Operating fees
+ means fees that must be paid by a licensee for the costs as authorized in section
+ 16(5)(f) of article XVIII of the Colorado Constitution, or as may be more fully defined
+ in the Colorado Retail Marijuana Code, including but not limited to inspection, administration,
+ and enforcement of retail marijuana establishments authorized pursuant to this Article.
+Publicly
+ means an area that is open to general access without restriction.
+Retail Marijuana Code
+ shall mean C.R.S. art. 43.4 of tit. 44, and any rules or regulations promulgated
+ thereunder, as amended.
+Retail Marijuana Establishment
+ includes retail marijuana store, retail marijuana cultivation facility, retail marijuana
+ product manufacturing facility, and retail marijuana testing facility.
+State medical marijuana license pending
+ or 
+pending state medical marijuana license
+ means a complete application has been filed and accepted and all required fees paid
+ to the state licensing authority.
+ (
+Ord. No. 1-2022
+, § 5, 2-8-2022)
+
+===== Sec. 5.16.050. - Local Licensing Authority.
+The Local Licensing Authority established in 
+Section 5.04.040
+ of this Title, incorporated herein by this reference in its entirety, shall be the
+ local licensing authority for all marijuana licenses issued by the City of Aspen.
+ In addition to those powers and duties set out in 
+Section 5.04.040
+, the Authority shall have all the powers and duties as are set forth in this Article,
+ in the Colorado Retail Marijuana Code, the Colorado Medical Marijuana Code and subsection
+ 5(e) of section 16 of article XVIII of the Colorado Constitution
+
+===== Sec. 5.16.060. - City license required.
+On and after the effective date of this Chapter;
+ (a)
+ No person may operate a medical marijuana establishment, a retail marijuana establishment,
+ or a dually located medical marijuana establishment and a retail marijuana establishment
+ within the City without both a valid license issued by the Local Licensing Authority
+ and a valid license issued by the State Licensing Authority; provided, however, that
+ any Medical Marijuana Establishment legally operating with a state medical marijuana
+ license or with a state medical marijuana license pending and a local business license
+ within the City limits on the effective date of this Chapter may continue in operation
+ until final action on the state and Aspen Marijuana Code license applications, subject
+ to the following requirements:
+ (1)
+ The applicant applies for a medical marijuana license under this Chapter within thirty
+ (30) days of the effective date of this Chapter, and
+ (2)
+ Should the State or City marijuana license be denied for any reason, the applicant
+ agrees to cease operations within the City within thirty (30) days of receipt of notice
+ of denial or within thirty (30) days of the denial of any appeal.
+ (b)
+ A separate license shall be required for each specific business and for each geographic
+ location.
+
+===== Sec. 5.16.070. - Authority to issue City license; qualification; referral; appeal.
+(a)
+ An applicant for a City license under this Chapter shall apply therefor to the City
+ Clerk on forms provided by the City Clerk. The City Clerk is responsible for providing
+ application forms to prospective applicants, and for generally supervising the application
+ process up to the point that a completed application is submitted to the Local Licensing
+ Authority for a decision. Once an application is determined to be complete, the application
+ and all supporting documentation shall be forwarded to the Local Licensing Authority.
+ The Local Licensing Authority shall make a final decision on the application as provided
+ in this Chapter.
+ (b)
+ The Local Licensing Authority may issue any type of license authorized by the Retail
+ Marijuana Code or the Medical Marijuana Code, currently including the following:
+ Retail marijuana store license
+ Retail marijuana cultivation facility license
+ Retail marijuana product manufacturing facility license
+ Retail marijuana testing facility license
+ Medical marijuana center license
+ Optional premises cultivation license
+ Medical marijuana-infused products manufacturing license
+ (c)
+ In order to qualify for a City license under this Chapter, an applicant must meet
+ all conditions for the issuance of the parallel state license prescribed by the Medical
+ Marijuana Code and the Retail Marijuana Code and shall meet all requirements of this
+ Chapter, provided, however, that the fees for a City license are those prescribed
+ by 
+Section 5.16.140
+ of this Code.
+ (d)
+ Upon receipt of a properly completed application, together with all information required
+ in connection therewith, and the payment of the applicable fee as required by 
+Section 5.16.140
+, the City Clerk shall transmit copies of the application to:
+ (1)
+ The Police Department;
+ (2)
+ The Department of Community Development;
+ (3)
+ The Environmental Health Department; and
+ (4)
+ Any other person or agency that the Local Licensing Authority determines should properly
+ investigate and comment upon the application.
+ (e)
+ Upon receipt of a completed application the Police Department shall promptly obtain
+ and review a criminal background records search on the applicant. The Police Department
+ may use the background records search conducted by the state for any state marijuana
+ license application if it is available.
+ (f)
+ Within twenty (20) days of receipt of a completed application those City departments
+ and other referral agencies described in subsection (d) of this Section shall provide
+ the Local Licensing Authority with comments concerning the application.
+ (g)
+ An applicant shall cooperate with the Local Licensing Authority with respect to the
+ review and investigation of the application.
+ (h)
+ The Authority shall provide the State with written notice of its decision on each
+ license application.
+ (i)
+ The Authority shall promptly notify the applicant of its decision by giving written
+ notice to the applicant at applicant's current mailing address. In the event of a
+ denial or a conditional approval, the Authority will provide the applicant with a
+ written statement containing the reasons for denial or the conditions of the approval.
+ (j)
+ The Authority shall consider each application and either approve, deny or conditionally
+ approve an application within ninety (90) days of receipt or such additional time
+ as may be reasonably necessary, when, after considering the application, any application
+ forwarded to it by the State and from such other information as may otherwise be obtained
+ or requested by the Authority, the Authority determines that the application complies
+ with all of the requirements of this Article, including the following:
+ (1)
+ The application, including any required attachments and submissions, is complete and
+ signed by the applicant;
+ (2)
+ The applicant has paid the fees required by this Chapter;
+ (3)
+ The application does not contain a material falsehood or misrepresentation;
+ (4)
+ The location of the Retail Marijuana Establishment or Medical Marijuana Establishment
+ is proposed to be located on a premises permitted by the applicable zoning and the
+ land use code;
+ (5)
+ The location of the Retail Marijuana Establishment or Medical Marijuana Establishment
+ is not within five hundred (500) feet of any school; and
+ (6)
+ The applicant meets or otherwise will meet all the requirements of this Chapter, including
+ the requirements of the applicable state laws and regulations incorporated herein.
+ (k)
+ If the Local Licensing Authority approves conditionally or denies a license, the licensee
+ may appeal the conditional approval or denial to the district court pursuant to Rule
+ 106(a)(4) of the Colorado Rules of Civil Procedure. The licensee's failure to timely
+ appeal the decision is a waiver the licensee's right to contest the conditional approval
+ or denial of the application.
+
+===== Sec. 5.16.080. - State law procedure, public hearing required.
+(a)
+ Except as may be amended by this Chapter, provisions of the Medical Marijuana Code
+ and the Retail Marijuana Code governing procedures for applications, hearing and decisions
+ for state licenses shall apply for City licenses.
+ (b)
+ Public Hearing. Upon receipt of an application for a local license, except an application
+ for renewal, for transfer of ownership, for modification of premises or change of
+ location within the City, the Authority will schedule a public hearing upon the application.
+ When the Authority schedules a hearing, it shall post and publish public notice thereof
+ not less than ten (10) days prior to the hearing. The Authority shall give public
+ notice by the posting of notice in a conspicuous place on the premises for which application
+ has been made and by publication in a newspaper of general circulation in Pitkin County,
+ Colorado.
+
+===== Sec. 5.16.090. - Term and renewal of licenses.
+(a)
+ Each license issued pursuant to this Chapter shall be valid for twelve (12) months
+ from the date of issuance and may be renewed as provided in the applicable code, the
+ applicable administrative regulations, and this Chapter, provided, however, that a
+ license shall not be renewed if the Local Licensing Authority determines that the
+ licensed premises have been inactive, without good cause, for at least six (6) consecutive
+ months.
+ (b)
+ Upon receipt of a completed application for a license renewal, the City Clerk shall
+ refer the application to the following City departments: Environmental Health Department,
+ City Utility Department, City Police Department and the Aspen Fire Protection District.
+ If the referral comments received by the City Clerk do not adversely reflect upon
+ the applicant's license, the City Clerk may approve the renewal application forthwith.
+ The City Clerk shall notify the authority of all applications for renewals on the
+ first of each month.
+ (c)
+ The Local Licensing Authority may refuse to renew a license for good cause.
+ (d)
+ No license shall be renewed by the Local Licensing Authority until the licensee provides
+ verification that the license has been renewed by the State Licensing Authority.
+ (e)
+ Notwithstanding anything contained in this Chapter to the contrary, a licensee has
+ no vested right to the renewal of a license, and no property right in the renewal
+ of a license.
+ (f)
+ Notwithstanding the provisions of subparagraph (a), above, a licensee must maintain
+ possession of leased premises at all times that a license is active. If the licensee
+ loses possession of leased premises prior to the end of the license term, whether
+ through termination, abandonment or any other reason, the license shall be deemed
+ immediately suspended and all operations of the licensee pursuant to the license shall
+ immediately cease. The licensee may request that the suspension be lifted pursuant
+ to an application for change of location, pursuant to 
+Section 5.16.100
+, or transfer of ownership, pursuant to 
+Section 5.16.120
+, below. The application to lift the suspension for a change of location or transfer
+ of ownership may be submitted at any time during the remainder of the license term.
+ The licensee may also apply to lift the suspension upon a showing that the licensee
+ has regained possession of the premises.
+ (g)
+ The license of any licensee who has ceased operations for a period of in excess of
+ six (6) months shall be suspended. Such suspension may be lifted by the LLA for good
+ cause shown to the LLA pursuant to an application for relief. Good cause shall include
+ any closure pursuant to a general public health order. However, a closure of a business
+ for violation of a duly issued public health order shall not be deemed good cause.
+ In the event that a licensee is aware of an upcoming closure for longer than six (6)
+ months for construction, remodeling, maintenance or other purpose, the licensee may
+ provide the LLA with notice of such closure with a statement of anticipated reopening
+ date. If closure is based on activity that requires the receipt of a Certificate of
+ Occupancy (CO) prior to reopening, then the no suspension will occur if the business
+ is open within thirty (30) days of issuance of the CO. For any other reason for closure,
+ no suspension will occur pursuant to this Section if the business is reopened within
+ thirty (30) days of the anticipated reopening date, unless such time is extended by
+ the LLA. If any business is closed for a period of three (3) months immediately prior
+ to the renewal date of such license, such license renewal shall be reviewed by the
+ LLA.
+ (
+Ord. No. 1-2022
+, § 3, 2-8-2022)
+
+===== Sec. 5.16.100. - Change of location.
+Change of location of any license shall be governed by the standards and procedures
+ set forth in the Retail or Medical Marijuana Code and regulations adopted pursuant
+ thereto and shall be administered by the Authority in the same manner as the state
+ licensing authority administers changes of location. No change of location of a licensed
+ premises shall be approved by the Local Licensing Authority if the proposed new location
+ of the licensed premises is not a location that is permitted by City zoning or this
+ Chapter.
+
+===== Sec. 5.16.110. - Modification of premises.
+Modification of the premises of any license shall be governed by the standards and
+ procedures set forth in the Retail or Medical Marijuana Code and regulations adopted
+ pursuant thereto and shall be administered by the Authority in the same manner as
+ the state licensing authority administers modification of premises.
+
+===== Sec. 5.16.120. - Transfer of ownership.
+Transfer of ownership of any license shall be governed by the standards and procedures
+ set forth in the Retail or Medical Marijuana Code and regulations adopted pursuant
+ thereto and shall be administered by the Authority in the same manner as the state
+ licensing authority administers transfers of ownership.
+
+===== Sec. 5.16.130. - Manager and employee requirements.
+Manager and employee qualifications, registration and badging shall be governed by
+ the standards and procedures set forth in the Retail or Medical Marijuana Code and
+ regulations adopted pursuant thereto.
+
+===== Sec. 5.16.140. - License and application fees.
+An applicant for a new license shall pay to the City a non-refundable operating fee
+ when the application is filed. The purpose of the fee is to cover the direct and indirect
+ costs to the City of administering the local licensing mechanism established by this
+ Chapter and is in lieu of separate application and licensing fees. For applications
+ filed in 2013 or 2014 for the operating year 2014, the operating fees are as follows:
+ (a)
+ New medical marijuana business license:
+Type of License
+ | 
+Local Operating fee
+ | 
+ Type 1 Medical
+ Marijuana Center
+ | 
+ $2,000.00
+ | 
+ Type 2 Medical
+ Marijuana Center
+ | 
+ $2,000.00
+ | 
+ Type 3 Medical
+ Marijuana Center
+ | 
+ $2,000.00
+ | 
+ Optional Premises
+ Cultivation License
+ | 
+ $2,000.00
+ | 
+ Medical Marijuana-
+ Infused Products Manufacturers'
+ License
+ | 
+ $2,000.00
+ | 
+ (b)
+ Medical marijuana center applying for retail marijuana store license:
+Type of License
+ | 
+Local Operating fee
+ | 
+ Medical Marijuana
+ Center 1 Applying For
+ Retail Marijuana
+ Store License
+ | 
+ $2,000.00
+ | 
+ Medical Marijuana
+ Center 2 Applying For
+ Retail Marijuana
+ Store License
+ | 
+ $2,000.00
+ | 
+ Medical Marijuana
+ Center 3 Applying For
+ Retail Marijuana
+ Store License
+ | 
+ $2,000.00
+ | 
+ (c)
+ New retail marijuana establishment license:
+Type of License
+ | 
+Local Operating fee
+ | 
+ Retail Store
+ | 
+ $2,000.00
+ | 
+ Retail Marijuana
+ Cultivation Facility
+ | 
+ $2,000.00
+ | 
+ Retail Marijuana
+ Products
+ Manufacturing
+ | 
+ $2,000.00
+ | 
+ Retail Marijuana
+ Testing Facility
+ | 
+ $2,000.00
+ | 
+ (d)
+ Fees for the annual renewal of any license issued by the City shall be fifty percent
+ (50%) of the fee for the issuance of a new license as described above.
+ (e)
+ The following operating fees shall be paid to the City at the time the service is
+ requested:
+Service Requested
+ | 
+Fee
+ | 
+ Transfer of Ownership of
+ Business License or
+ Application
+ | 
+ $700.00
+ | 
+ Corporation or LLC Structure
+ Change (per person)
+ | 
+ $100.00
+ | 
+ Change of Location
+ | 
+ $500.00
+ | 
+ Modification of Premises
+ | 
+ $150.00
+ | 
+ (f)
+ The City is entitled to receive its share of the license application fees received
+ by the state licensing authority in addition to the fees set forth above.
+ (g)
+ As part of the annual budget process, the amount of fees charged by the City pursuant
+ to this Section shall be reviewed and, if necessary, adjusted to reflect the direct
+ and indirect costs incurred by the City in connection with the adoption, administration
+ and enforcement of this Chapter.
+ (h)
+ Beginning with the fiscal 2015 budget, the amount of the fees charged by the City
+ pursuant to this Section shall be fixed by City Council as part of its annual budget
+ process. If, for any reason, such fees are not fixed by City Council as part of its
+ annual budget process, the fees for the preceding year shall continue in full force
+ and effect until changed by City Council.
+
+===== Sec. 5.16.150. - Suspension or revocation of license.
+(a)
+ A license issued by the Local Licensing Authority may be suspended or revoked by the
+ Local Licensing Authority in accordance with the standards and procedures set forth
+ in the applicable code, the applicable administrative regulations and this Chapter.
+ (b)
+ In addition to the standards set forth in the applicable code and the applicable administrative
+ regulations, a violation of this Chapter, or of the terms and conditions of a license
+ issued by the Local Licensing Authority pursuant to this Chapter, may be grounds for
+ the suspension or revocation of a license issued by the Local Licensing Authority.
+ (c)
+ In connection with the suspension of a license, the Local Licensing Authority may
+ impose reasonable conditions.
+ (d)
+ In deciding whether a license should be suspended or revoked, and in deciding what
+ conditions to impose in the event of a suspension, if any, the Local Licensing Authority
+ shall consider:
+ (1)
+ The nature and seriousness of the violation;
+ (2)
+ Corrective action, if any, taken by the licensee;
+ (3)
+ Prior violation(s), if any, by the licensee;
+ (4)
+ The likelihood of recurrence;
+ (5)
+ All circumstances surrounding the violation;
+ (6)
+ Whether the violation was willful or deliberate;
+ (7)
+ The number of previous violations by the licensee;
+ (8)
+ Previous sanctions, if any, imposed against the licensee; and
+ (9)
+ Whether the owner or manager is the violator or has directed an employee or other
+ individual to violate the law.
+ (e)
+ If an offense is described in the applicable administrative regulations, the Licensing
+ Authority shall follow the provisions of such regulation in deciding the appropriate
+ sanction to be imposed upon the licensee.
+ (f)
+ The Authority may impose a civil penalty or fine in lieu of or in addition to a suspension,
+ as set forth in 
+Section 5.04.040
+.
+ (g)
+ A license issued by the Local Licensing Authority may be revoked if the Local Licensing
+ Authority determines that the licensed premises have been inactive, without good cause,
+ for at least one (1) year.
+ (h)
+ If the Local Licensing Authority suspends or revokes a license the licensee may appeal
+ the suspension or revocation to the district court pursuant to Rule 106(a)(4) of the
+ Colorado Rules of Civil Procedure. The licensee's failure to timely appeal the decision
+ is a waiver the licensee's right to contest the suspension or revocation of the license.
+ (i)
+ No fee previously paid by a licensee in connection with a license shall be refunded
+ if the licensee's license is suspended or revoked.
+
+===== Sec. 5.16.160. - Unlawful acts.
+The following acts are prohibited and unlawful and are punishable as set forth it
+Section 1.04.080
+ unless otherwise specified:
+ (a)
+ The possession, use or consumption of marijuana by any person under twenty-one (21)
+ years of age, unless such possession, use or consumption is authorized under C.R.S.
+ art. 43.3 of
+ tit. 44
+ , A first offense shall be punished by a fine not to exceed one hundred dollars ($100.00);
+ a second offense shall be punished by a fine of not more than two hundred fifty dollars
+ ($250.00), and any third or subsequent offense shall be punished as set forth in 
+Section 1.04.080
+.
+ (b)
+ The possession, use or consumption of marijuana openly and publicly by any person.
+ A first offense shall be punished by a fine not to exceed one hundred dollars ($100.00);
+ a second offense shall be punished by a fine of not more than two hundred fifty dollars
+ ($250.00), and any third or subsequent offense shall be punished as set forth in 
+Section 1.04.080
+.
+ (c)
+ The transfer of any amount of marijuana by any person twenty-one (21) years of age
+ or older to any person who is less than twenty-one (21) years of age.
+ (d)
+ Other than within licensed premises, the open and public display of marijuana or marijuana
+ products for sale, such as at a Saturday market.
+ (e)
+ The operation of any public or private club or business allowing the consumption of
+ marijuana on the premises.
+ (
+Ord. No. 1-2022
+, § 5, 2-8-2022)
+
+===== Sec. 5.16.170. - Effective date; applicability.
+This Chapter shall be effective thirty (30) days after final passage and shall govern
+ all applications submitted to the City for licensing of any retail or medical marijuana
+ establishment in the City under the Retail or Medical Marijuana Code on and after
+ that date.
+
+===== Sec. 5.16.180. - Transition Period.
+(a)
+ Prior to January 1, 2015, no retail marijuana establishment shall be licensed or otherwise
+ permitted in the City unless, as of October 1, 2013:
+ (1)
+ The applicant for licensing is currently operating in good standing a state licensed
+ medical marijuana business within the City or has a pending state medical marijuana
+ license application for premises within the City and has a City business license and
+ the applicant proposes to surrender the existing medical marijuana license upon receipt
+ of a retail marijuana license, thereby converting the existing medical marijuana establishment
+ into a retail marijuana establishment; or
+ (2)
+ The applicant for licensing is currently operating in good standing a licensed medical
+ marijuana business within the City or has a pending state application for a licensed
+ medical marijuana business within the City and has a City business license and the
+ applicant proposes to retain the existing medical marijuana license while locating
+ a retail marijuana establishment under common ownership at the same location to the
+ extent allowed by the Colorado Retail Marijuana Code and applicable state rules and
+ regulations.
+ (b)
+ Prior to January 1, 2015, any person who obtains a transfer of ownership of an existing
+ medical marijuana business that is duly licensed under both the Medical Marijuana
+ Code and this Chapter may qualify for retail licensing as allowed by subsection (a)
+ of this Section.
+ (c)
+ Prior to January 1, 2015, any person who obtains a change of location of an existing
+ medical marijuana business that is duly licensed under both the Medical Marijuana
+ Code and this Chapter may qualify for retail licensing as allowed by subsection (a)
+ of this Section.
+ (d)
+ On and after October 1, 2014, any person who otherwise qualifies for licensing under
+ applicable state and City laws may apply for licensing of a retail marijuana establishment
+ in the City, regardless of whether or not the applicant is the owner of an existing
+ medical marijuana business in the City; provided that such license shall not issue
+ any sooner than January 1, 2015.

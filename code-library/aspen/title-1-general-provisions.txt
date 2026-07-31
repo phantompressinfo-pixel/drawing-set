@@ -1,0 +1,476 @@
+# CITY OF ASPEN MUNICIPAL CODE — TITLE 1 - GENERAL PROVISIONS
+# Source: Municode (api.municode.com), Supp. No. 7 Update 1, codified through Ord. No. 06-2026 (enacted 2026-03-24)
+# Retrieved: 2026-07-22
+
+
+===== TITLE 1 -         GENERAL PROVISIONS        
+Footnotes: 
+ --- (
+1
+) ---
+Charter reference— 
+  Ordinances adopting general codification of existing ordinances, excepted from adoption
+ procedures, § 4.10; authority of City to have ordinances codified and maintained in current form, § 4.12.
+
+===== Chapter 1.04. - GENERAL PROVISIONS
+
+
+===== Sec. 1.04.010. - How code designated and cited.
+The ordinances embraced in this and the following Chapters and Sections shall constitute
+ and be designated the "Municipal Code of the City of Aspen, Colorado" and may be so
+ cited.
+ (Code 1971, § 1-1)
+State Law reference— 
+ Adopting Code of Ordinances, C.R.S. § 31-16-201 et seq.
+
+===== Sec. 1.04.020. - Definitions and rules of construction generally.
+In the construction of this Code and of all ordinances and resolutions passed by the
+ City Council, the following definitions and rules shall be observed, unless such construction
+ would be inconsistent with the manifest intent of the City Council:
+City.
+ The words "the City" or "this City" or "municipality" shall mean the City of Aspen,
+ in the County of Pitkin and State of Colorado. Such words shall extend to and include
+ its several officers, agents and employees.
+Code.
+ The words "this Code" shall mean the "Municipal Code of the City of Aspen, Colorado"
+ as designated in 
+Section 1.04.010
+ above.
+Computation of time.
+ In computing any period of time prescribed or allowed by this Code, the day of the
+ act, event or default from which the designated period of time begins to run shall
+ not be included. The last day of the period so computed shall be included, unless
+ it is a Saturday, a Sunday or a legal holiday, in which event the period runs until
+ the end of the next day which is not a Saturday, a Sunday or a legal holiday. When
+ the period of time prescribed or allowed is less than seven (7) days, intermediate
+ Saturdays, Sundays and legal holidays shall be excluded in the computation. A half-holiday
+ shall be considered as other days and not as a holiday. As used in this Section, "legal
+ holiday" includes New Year's Day, Lincoln's birthday, Washington's birthday, Memorial
+ Day, Independence Day, Colorado Day, Labor Day, Columbus Day, General Election Day,
+ Veterans Day, Thanksgiving Day, Christmas Day and any other day appointed as a holiday
+ by the President or the Congress of the United States or pursuant to Colorado Statute.
+Council.
+ Whenever the words Council, this Council, the Council or City Council are used, they
+ shall mean the City Council of the City of Aspen, Colorado.
+County.
+ The words 
+county
+, 
+the county
+ or 
+this County
+ shall mean Pitkin County, Colorado.
+C.R.S.
+ The initials 
+C.R.S.,
+ wherever used throughout this Code shall mean Colorado Revised Statutes.
+Day.
+ The word 
+day
+ shall be any twenty-four-hour period from midnight to midnight.
+Gender.
+ A word importing the masculine gender only shall extend and be applied to females
+ and to firms, partnerships and corporations as well as to males.
+Highway.
+ The term 
+highway
+ shall include any street, alley, highway, avenue or public place or square, bridge,
+ viaduct, tunnel, underpass, overpass and causeway in the City, dedicated or devoted
+ to public use.
+Joint authority.
+ Words purporting to give authority to three (3) or more officers or other persons
+ shall be construed as giving such authority to a majority of such officers or other
+ persons, unless it is otherwise declared.
+Land real estate
+ and
+real property.
+ The terms land, 
+real estate
+ and 
+real property
+ include lands, tenements, hereditaments, water rights, possessory rights and claims.
+Month.
+ The word 
+month
+ shall mean a calendar month.
+Number.
+ Any word importing the singular number shall include the plural and any word importing
+ the plural number shall include the singular.
+Oath.
+ The word 
+oath
+ shall be construed to include an affirmation in all cases in which, by law, an affirmation
+ may be substituted for an oath and in such cases, the words 
+swear
+ and 
+sworn
+ shall be equivalent to the words 
+affirm
+ and 
+affirmed.
+ Every mode of oral statement under oath or affirmation is embraced in the term 
+testify
+ and every written one in the term 
+depose.
+Official time.
+ Whenever the term 
+official time
+ or 
+time
+ is used it shall mean standard time or daylight saving time as may be in current
+ use within the City.
+Officers, boards, etc.
+ Whenever reference is made to any officer, board or commission, the same shall be
+ construed as if followed by the words "
+of the City of Aspen
+" Reference to such officer, board or commission shall be deemed to include his or
+ her authorized deputies, agents or representatives.
+Or/and.
+Or
+ may be read 
+and
+ and 
+and
+ may be read 
+or
+, if the sense requires it.
+Owner.
+ The word 
+owner
+ applied to a building or land shall include any part owner, joint owner, tenant in
+ common, joint tenant or lessee of the whole or of a part of such building or land.
+Person.
+ The word 
+person
+ shall extend and be applied to associations, corporations, firms, partnerships and
+ bodies politic and corporate as well as to individuals.
+Personal property.
+ The term 
+personal property
+ includes every description of money, goods, chattels, effects, evidence of rights
+ in action and all written instruments by which any pecuniary obligation, right or
+ title to property is created, acknowledged, transferred, increased, defeated, discharged
+ or diminished and every right or interest therein.
+Preceding, prior, following, subsequent.
+ The word 
+preceding
+ or 
+prior
+ means next before and the word 
+following
+ or 
+subsequent
+ means next after.
+Prohibitions.
+ Words prohibiting anything being done, except in accordance with a license or permit
+ or authority from an officer of the City authorized by ordinance or the Charter shall
+ be construed as expressly giving such officer power to license or permit or authorize
+ such thing to be done.
+Property.
+ The word 
+property
+ includes both real and personal property. The words public way or public thoroughfare
+ shall include streets, alleys, lanes, courts, boulevards, public square, mall, public
+ places and sidewalks.
+Quarter.
+ The word 
+quarter
+ shall mean any three-month period ending with the last day of March, June, September
+ and December.
+Roadway.
+ The word 
+roadway
+ shall mean that portion of a street improved, designed or ordinarily used for vehicular
+ traffic.
+Sidewalk.
+ The word 
+sidewalk
+ shall include any portion of the street between the curb or the lateral line of the
+ roadway and the adjacent property line, intended for the use of pedestrians.
+Signature or subscription.
+ The word 
+signature or subscription
+ shall include a mark when a person cannot write.
+State.
+ The words 
+the state
+ or 
+this state
+ shall be construed to mean the State of Colorado.
+Street.
+ The term 
+street
+ shall include any highway, alley, avenue or public place or square, bridge, viaduct,
+ underpass, overpass, tunnel or causeway in the City, dedicated or devoted to public
+ use.
+Tenant or occupant.
+ The word 
+tenant or occupant
+ applied to a building or land shall include any person who occupies the whole or
+ any part of such building or land whether alone or with others.
+Tense.
+ Words used in the past or present tense include the future as well as the past and
+ present.
+Written
+ or 
+in writing.
+ The words 
+written
+ or 
+in writing
+ shall be construed to include any representation of words, letters or figures, whether
+ by printing or otherwise.
+Year.
+ The word 
+year
+ shall mean a calendar year.
+ (Code 1962, §§ 1-1-4, 1-1-7; Code 1971, § 1-2)
+Charter reference— 
+ Definition and interpretation for words used in Charter, §
+§ 13.11
+ and 13.12.
+State Law reference— 
+ Similar provisions, C.R.S., Rules of Civil Procedure, Rule 6(a).
+
+===== Sec. 1.04.030. - Certain ordinances not affected by Code.
+Nothing in this Code or the ordinance adopting this Code shall be construed to repeal
+ or otherwise affect the validity of the following:
+ (a)
+ Any ordinance promising or guaranteeing the payment of money for the City, or authorizing
+ the issuance of any bonds of the City or any evidence of the City's indebtedness;
+ (b)
+ Any appropriation ordinance or ordinance providing for the levy of taxes or for an
+ annual budget or prescribing salaries for City officers and employees;
+ (c)
+ Any ordinance annexing territory to the City or discontinuing territory as a part
+ of the City;
+ (d)
+ Any ordinance granting any franchise; and all such ordinances are hereby recognized
+ as continuing in full force and effect to the same extent as if set out at length
+ herein.
+ (Code 1971, § 1-3)
+Charter reference— 
+ Franchises generally, 
+§ 11.1
+ et seq.
+Cross reference— 
+ Code does not effect ordinances regulating traffic on specific streets, 
+§ 24.04.010
+.
+
+===== Sec. 1.04.040. - Code does not affect prior offenses, contracts, etc.
+Nothing in this Code or the ordinance adopting this Code shall affect any offense
+ or act committed or done or any penalty or forfeiture incurred or any contract or
+ right established or accruing before the effective date of this Code.
+ (Code 1971, § 1-4)
+
+===== Sec. 1.04.050. - Catch-lines of Sections.
+The catch-lines of the several Sections of this Code, printed in boldface type, are
+ intended as mere catchwords to indicate the contents of the Section and shall not
+ be deemed or taken to be titles of such Sections, nor as any part of the Section,
+ nor, unless expressly so provided, shall they be so deemed when any of such Sections,
+ including the catch-lines, are amended or reenacted.
+ (Code 1971, § 1-5)
+
+===== Sec. 1.04.060. - Amendments or additions to Code.
+(a)
+ All ordinances passed subsequent to this Code which amend, repeal or in any way affect
+ this Code may be numbered in accordance with the numbering system of this Code and
+ printed for inclusion herein. When subsequent ordinances repeal any chapter, Section
+ or Subsection or any portion thereof, such repealed portion may be excluded from the
+ Code by omission from reprinted pages. The subsequent ordinances as numbered and printed
+ or omitted in the case of repeal, shall be prima facie evidence of such subsequent
+ ordinances until such time as this Code and subsequent ordinances numbered or omitted
+ are readopted as a new Code by the City Council.
+ (b)
+ Amendments to any of the provisions of this Code shall be made by amending such provisions
+ by specific reference to the Section number of this Code in the following language:
+ "That Section ___________(or Section ___________, Subsection ___________) of the Municipal
+ Code of the City of Aspen, Colorado, is hereby amended to read as follows:'The new
+ provisions shall then be set out in full as desired.'"
+ (c)
+ In the event a new Section not heretofore existing in the Code is to be added, the
+ following language shall be used: "That the Municipal Code of the City of Aspen, Colorado,
+ is hereby amended by adding a Section (or chapter) which said Section (or chapter)
+ reads as follows: 'The new Section shall then be set out in full as desired.'"
+ (Code 1971, § 1-6)
+Charter reference— 
+ Form of ordinances, 
+§ 4.9
+.
+
+===== Sec. 1.04.070. - Severability of parts of Code.
+It is hereby declared to be the intention of the City Council that the sections, paragraphs,
+ sentences, clauses and phrases of this Code are severable and, if any phrase, clause,
+ sentence, paragraph or section of this Code shall be declared unconstitutional by
+ the valid judgment or decree of any court of competent jurisdiction, such unconstitutionality
+ shall not affect any of the remaining phrases, clauses, sentences, paragraphs and
+ sections of this Code, since the same would have been enacted by the City Council
+ without the incorporation in this Code of any such unconstitutional phrase, clause,
+ sentence, paragraph or section.
+ (Code 1971, § 1-7)
+
+===== Sec. 1.04.080. - General penalty for violations of Code; continuing violations; default.
+(a)
+ Whenever in this Code or in any ordinance of the City an act is prohibited, is made
+ or declared to be unlawful or an offense or a misdemeanor, or whenever in such Code
+ or ordinance the doing of an act is required or the failure to do any act is declared
+ to be unlawful and no specific penalty is provided therefor, the violation of any
+ such provision of this Code or any such ordinance shall be punished by a fine of not
+ exceeding two thousand six hundred fifty dollars ($2,650.00) or imprisonment for a
+ period of up to one (1) year or both such fine and imprisonment at the discretion
+ of the court. Each day of any violation of this Code or of any ordinance shall constitute
+ a separate offense, unless otherwise provided. The limitation on municipal court fines
+ set forth shall be adjusted for inflation on January 1, 2014, and on January 1 of
+ each year thereafter; inflation means the annual percentage change in the United State
+ Department of Labor, Bureau of labor Statistics, consumer price index for Denver-Boulder,
+ all items, all urban consumers, or its successor index.
+ (b)
+ The Municipal Judge is empowered in his discretion to assess court costs in an amount
+ of up to fifty dollars ($50.00) against any defendant who pleads guilty or nolo contendere
+ or who enters into a plea agreement or who, after trial, is found guilty of an ordinance
+ violation.
+ (c)
+ The Municipal Judge is empowered to order a child under the age of eighteen (18) years
+ of age confined in a juvenile detention facility operated by the State Department
+ of Human Services or a temporary holding facility operated by or under contract with
+ the City for failure to comply with a lawful order of the Court, including an order
+ to pay a fine. Any confinement of a child for contempt of Municipal Court shall not
+ exceed forty-eight (48) hours.
+ (d)
+ A child under the age of eighteen (18), arrested for an alleged violation of a municipal
+ ordinance or provision of this Code, convicted of violating a municipal ordinance
+ or provision of this Code or probation condition imposed by the Municipal Court or
+ found in contempt of Court in connection with a violation or alleged violation of
+ a municipal ordinance or provision of this Code shall not be confined in a jail, lockup
+ or other place used for the confinement of adult offenders, but may be held in a juvenile
+ detention facility operated by or under contract with the State Department of Human
+ Services or a temporary holding facility operated or under contract with the City
+ which shall receive and provide care for such child. The Municipal Court imposing
+ penalties for violation of probation conditions imposed by such court or for contempt
+ of court in connection with a violation or alleged violation of a municipal ordinance
+ or provision of this Code may confine a juvenile pursuant to C.R.S. § 19-2-204, for
+ up to forty-eight (48) hours in a juvenile detention facility operated by or under
+ contract with the State Department of Human Services.
+ (e)
+ Whenever the judge of the Municipal Court imposes a fine for a nonviolent offense
+ of a municipal ordinance or provision of this Code, if the person who committed the
+ offense is unable to pay the fine imposed for the commission of such offense, in order
+ to guarantee the payment of such fine, the Municipal Judge may compel collection of
+ the fine by:
+ (1)
+ Requiring the person to post sufficient bond or collateral; or
+ (2)
+ Requiring the person to post one (1) or more postdated checks, drafts or orders for
+ the amount of the fine and court costs, if any; or
+ (3)
+ Entering a judgment in favor of the City and execute a lien based on such judgment
+ on any chattels, lands, tenements, moneys and real estate of the person in accordance
+ with C.R.S. art. 52 of tit. 13, for the purpose of collecting said fine and the costs
+ incurred in collecting said fine.
+ For purposes of this Subsection, 
+nonviolent offense
+ means a municipal ordinance or Code offense which does not involve the use or threat
+ of physical force on or to a person in the commission of the offense.
+ (Code 1971, § 1-8; 
+Ord. No. 15-76
+, § 1; 
+Ord. No. 12-1996
+, § 1; 
+Ord. No. 29-2013, 
+§ 1)
+State Constitution reference— 
+ Authority of home rule city to impose fines and penalties, Art. XX, Sec. 6H.
+
+===== Sec. 1.04.090. - Commitment for failure to pay fine.
+Every person against whom any fine or penalty shall be assessed under the laws of
+ the City, who shall refuse or neglect to pay the same when demanded upon execution
+ may be committed in default thereof to the City or county jail or such other suitable
+ place or enclosure as shall be provided by the City, under the direction of the proper
+ officer until such fine or penalty is fully paid and satisfied, the satisfaction to
+ be allowed at the rate of ten dollars ($10.00) per day of twenty-four (24) hours.
+ Any such person may be required to do any reasonable work. Provided, however, that
+ in the discretion of the Municipal Judge a stay of execution may be granted by the
+ Municipal Judge to enable the defendant to pay the fine or penalty at a later date
+ or in installments. In case the defendant shall not have met the terms of the stay
+ of execution, then the execution shall issue and the defendant shall be placed in
+ jail until the judgment is satisfied.
+ (Code 1962, § 1-17-16; Code 1971, § 1-9)
+
+===== Sec. 1.04.100. - Working of prisoners.
+Any person imprisoned under the provisions of this Chapter may be put to work for
+ the benefit of the City for the term of his imprisonment. No prisoner shall be required
+ to work on Sunday.
+ (Code 1962, § 1-6-3; Code 1971, § 1-10)
+
+===== Sec. 1.04.110. - Double fee for failure to obtain required licenses.
+When work or activity for which a permit or license is required by this Code or any
+ code adopted herein is commenced without first having acquired such permit or license,
+ the specified fee shall be doubled, but the payment of such double fee shall not relieve
+ any person from fully complying with all the requirements of this Code or any code
+ adopted herein, nor from any other prescribed penalties. Payment of such double fee
+ or any unpaid portion thereof may be compelled by civil action in any court of competent
+ jurisdiction. The acceptance of any portion less than the entire amount of such double
+ fee by any officer or employee of the City shall not constitute a waiver or release
+ of the balance thereof.
+ (Code 1962, § 1-6-5; Code 1971, § 1-11)
+
+===== Sec. 1.04.120. - Penalties not to excuse abatement of prohibited conditions.
+The application of any penalty under this Chapter shall not constitute the condoning
+ or legalizing of any prohibited condition or prevent the abatement or enforced removal
+ of such condition by any lawful means available to the City.
+ (Code 1962, § 1-6-6; Code 1971, § 1-12)
+
+===== Sec. 1.04.130. - Presumption of responsibility for certain violations.
+The occupant of any premises upon which a violation of any provision of this Code
+ or of any Code adopted hereby is apparent and the owner of any object or material
+ placed or remaining anywhere in violation of any provision of this Code or of any
+ Code adopted hereby shall be deemed prima facie responsible for the violation so evidenced
+ and subject to the penalty provided therefor.
+ (Code 1962, § 1-6-7; Code 1971, § 1-13)
+
+===== Sec. 1.04.140. - Application of Code by City officers or employees.
+Whenever in this Code or in any Code adopted herein it is provided that anything must
+ be done to the approval or permission of or subject to the direction of, any administrative
+ officer or employee of the City, this shall be construed to give such officer or employee
+ only the discretion of determining whether the rules and standards established by
+ this Code or by any Code adopted herein have been complied with; and no such provision
+ shall be construed as giving any administrative officer or employee discretionary
+ powers as to what such regulations or standards shall be or power to require conditions
+ not prescribed by this Code or by any Code adopted herein or to enforce the provisions
+ thereof in an arbitrary or discriminatory manner.
+ (Code 1962, § 1-1-7; Code 1971, § 1-14)
+
+===== Sec. 1.04.150. - Failure to appear in answer to summons.
+It shall be unlawful for any person upon whom a summons has been served for a violation
+ of a municipal ordinance to fail to appear in person or by counsel at the time and
+ place specified therein. Such failure to appear shall constitute a separate offense
+ and shall be punished by a fine of not exceeding three hundred dollars ($300.00) or
+ imprisonment for a period of not more than ninety (90) days or both such fine and
+ imprisonment at the discretion of the court.
+ (Code 1971, § 1-15; 
+Ord. No. 33-1973
+, § 1)
+
+===== Sec. 1.04.160. - Limitation of actions.
+Except as otherwise provided by ordinance applicable to specific offenses or circumstances,
+ no person shall be prosecuted, tried or punished for any criminal offense proscribed
+ by this Code unless the action is commenced within one year from the time the offense
+ is committed. The time limitation imposed by this Section shall be tolled if the offender
+ is absent from the City and the duration of such absence, not to exceed two (2) years,
+ shall be excluded from the computation of time within which any prosecution may be
+ initiated. When an offense is based on a series of acts performed at different times
+ or is a continuing offense, the period of limitation starts at the time when the last
+ act is committed or the continuing offense is abated.
+ (Code 1971, § 1-16; 
+Ord. No. 31-1975
+, § 1)
+
+===== Sec. 1.04.170. - Certification of delinquent charges.
+The City Clerk may cause any or all delinquent charges, assessments or taxes made
+ or levied by the City, pursuant to the terms of this Code or otherwise, to be certified
+ to the treasurer of the County to be collected and paid over by the Treasurer of the
+ County in the same manner as taxes are authorized to be by statute.
+ (Code 1971, § 1-17; 
+Ord. No. 29-1994
+, § 1)

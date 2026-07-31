@@ -1,0 +1,5 @@
+id,section,title,ifc_type,occupancy,design_phase,code_category,primary_responsibility,body
+12,,Special Piping and Storage Systems,,,,,,User note:About this chapter: Chapter 12 specifies the standards covering the installation of nonflammable medical gas piping systems and nonmedical oxygen piping systems.
+1201.1,Section 1201 General,Scope,,,,,,The provisions of this chapter shall govern the design and installation of piping and storage systems for nonflammable medical gas systems and nonmedical oxygen systems. All maintenance and operations of such systems shall be in accordance with the International Fire Code.
+1202.1,Section 1202 Medical Gases,Nonflammable Medical Gases,,,,,,"Nonflammable medical gas systems, inhalation anesthetic systems and vacuum piping systems shall be installed, tested and labeled in accordance with NFPA 99. Exceptions: This section shall not apply to portable systems or cylinder storage.Vacuum system exhaust terminations shall comply with the International Mechanical Code."
+1203.1,Section 1203 Oxygen Systems,Design and Installation,,,,,,Nonmedical oxygen systems shall be designed and installed in accordance with NFPA 51 and NFPA 55 .

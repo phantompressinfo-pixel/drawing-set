@@ -1,0 +1,149 @@
+# CITY OF ASPEN MUNICIPAL CODE — TITLE 28 - STORMWATER AND MUDFLOW
+# Source: Municode (api.municode.com), Supp. No. 7 Update 1, codified through Ord. No. 06-2026 (enacted 2026-03-24)
+# Retrieved: 2026-07-22
+
+
+===== TITLE 28 - STORMWATER AND MUDFLOW
+
+
+===== Chapter 28.01. - INTRODUCTION
+
+
+===== Sec. 28.01.010 - Introduction
+It is hereby determined that:
+ Construction and development activities, and their associated changes to land cover,
+ alter the hydrologic response of local watersheds and increase stormwater runoff rates
+ and volumes, which in turn increase flooding, stream channel erosion, and sediment
+ transport and deposition;
+ Construction and development activities also contribute to increased nonpoint source
+ pollution and degradation of receiving waters;
+ The impacts of development-related stormwater runoff quantity and quality can adversely
+ affect public safety, public and private property, drinking water supplies, recreation,
+ fish and other aquatic life, property values and other uses of lands and waters;
+ These adverse impacts can be controlled and minimized through the regulation of stormwater
+ runoff quantity and quality from new development and redevelopment, by the use of
+ both structural facilities as well as nonstructural measures;
+ Localities in the State of Colorado are required to comply with a number of both State
+ and Federal laws, regulations and permits which require a locality to address the
+ impacts of stormwater runoff quality and nonpoint source pollution these include the
+ Federal Water Pollution Control Act, the Federal Water Quality Act, and the Colorado
+ State Water Quality Standards;
+ Therefore, the City of Aspen establishes this set of stormwater management policies
+ to provide reasonable guidance for the regulation of stormwater runoff for the purpose
+ of protecting local water resources from degradation. It is determined that the regulation
+ of stormwater runoff discharges from construction and development activities and other
+ construction activities in order to control and minimize increases in stormwater runoff
+ rates and volumes, soil erosion, stream channel erosion, and nonpoint source pollution
+ associated with stormwater runoff is in the public interest and will prevent threats
+ to public health and safety.
+
+===== Sec. 28.01.020. - Purpose.
+The purpose of this Title is to protect, maintain and enhance the health, safety,
+ and welfare of the watersheds and public residing in watersheds within this jurisdiction
+ by establishing minimum requirements and procedures to control the adverse effects
+ mudflow and of increased effects of post-development stormwater runoff and nonpoint
+ source pollution associated with new development and redevelopment. It has been determined
+ that proper management of stormwater runoff and mudflow will minimize damage to public
+ and private property and infrastructure, safeguard the public health, safety, environment
+ and general welfare of the public, and protect water and aquatic resources.
+ This Title seeks to meet that purpose through the following objectives:
+ (a)
+ Minimize increases in stormwater runoff from any development in order to reduce flooding,
+ erosion, non-point source pollution and increases in stream temperature, and maintain
+ the integrity of stream channels and aquatic habitats;
+ (b)
+ Minimize increases in nonpoint source pollution caused by stormwater runoff from development
+ which would otherwise degrade local water quality;
+ (c)
+ Minimize the total annual volume of surface water runoff which flows from any specific
+ site during and following development to not exceed the pre-development hydrologic
+ regime to the maximum extent practicable; and
+ (d)
+ Reduce stormwater runoff rates and volumes, soil erosion and nonpoint source pollution,
+ wherever possible, through stormwater management controls and to ensure that these
+ management controls are properly maintained and pose no threat to public safety.
+ (e)
+ Minimize the impact of a mudflow event to the maximum extent practicable.
+
+===== Sec. 28.01.030. - Applicability.
+This Title shall be applicable to all construction or development activity, including
+ but not limited to subdivision, building permit, or site plan applications, unless
+ eligible for an exemption or granted a waiver by the City of Aspen. The Title also
+ applies to construction or development activities that are smaller than the minimum
+ applicability criteria if such activities are part of a larger common plan of development
+ that meets the following applicability criteria, even though multiple separate and
+ distinct construction or development activities may take place at different times
+ on different schedules. In addition, all plans must also be reviewed by City staff
+ to ensure that stormwater management measures and controls will be maintained during
+ and after development of the site.
+
+===== Sec. 28.01.040. - Compatibility with Other Permit and Code Requirements.
+This Title is not intended to interfere with, abrogate, or annul any other municipal
+ code, rule or regulation, stature, or other provision of law. The requirements of
+ this Title should be considered minimum requirements, and where any provision of this
+ Title imposes restrictions different from those imposed by any other ordinance, rule
+ or regulation, or other provision of law, whichever provisions are more restrictive
+ or impose higher protective standards for human health or the environment shall be
+ considered to take precedence.
+
+===== Chapter 28.02. - STORMWATER AND MUDFLOW DESIGN MANUAL
+
+
+===== Sec. 28.02.010. - Adoption of Urban Runoff Management Plan.
+Pursuant to the powers and authority conferred by the Charter of the City, there is
+ hereby adopted and incorporated herein by reference as if fully set forth those regulations
+ contained in the Urban Runoff Management Plan (Manual), as may be amended from time
+ to time by the City Engineer. At least one (1) copy of the aforementioned Manual shall
+ be available for public inspection at the Community Development Department and Engineering
+ Department.
+
+===== Sec. 28.02.020. - Use of Urban Runoff Management Plan
+The City of Aspen shall use the policies, criteria and information including specifications
+ and standards in the latest edition of the Urban Runoff Management Plan (Manual) for
+ the proper implementation of the requirements of this Title. The Manual may be updated
+ and expanded periodically, based on improvements in science, engineering, monitoring,
+ and local maintenance experience.
+ The Manual shall include a list of acceptable stormwater treatment practices, including
+ the specific design criteria for each stormwater practice. The Manual also includes
+ criteria for managing mudflows. The Manual may be updated and expanded from time to
+ time, at the discretion of the local review authority, based on improvements in engineering,
+ science, monitoring and local maintenance experience. Stormwater treatment practices
+ that are designed and constructed in accordance with these design and sizing criteria
+ shall be presumed to meet the minimum water quality performance standards.
+
+===== Sec. 28.02.030. - Applicability.
+The Urban Runoff Management Plan, as adopted pursuant to 
+Section 28.02.010
+, shall apply to all construction, development or redevelopment activity within the
+ City; provided, however, that the City Engineer may waive one (1) or more specific
+ provisions of the Urban Runoff Management Plan. Requests for waivers and any waivers
+ granted by the City Engineers shall be in writing.
+
+===== Chapter 28.03. - Stormwater Fees
+
+
+===== Sec. 28.03.010. - Definitions.
+For the purposes of this Chapter, certain words or phrases are defined as follows:
+ Development. The proposed development creates at least one-thousand (1,000) square
+ feet of new impervious area.
+ Redevelopment. The proposed development disturbs at least one-thousand (1,000) square
+ feet of the existing impervious area.
+
+===== Sec. 28.03.020. - Fee-in-Lieu of Detention.
+(a)
+ A stormwater fee-in-lieu of detention shall be established which shall be applied
+ and available as an alternative to the construction of on-site detention as required
+ by 
+Section 28.02.010
+ to all properties within the boundaries of the City of Aspen at the time of development
+ or redevelopment of the property. The basis of this fee is set forth in 
+Section 2.12.140
+.
+ (b)
+ A developer will not have the option to pay a fee-in-lieu of constructing a stormwater
+ detention facility if, in the opinion of the City Engineer, undetained runoff from
+ the development may materially adversely exacerbate an existing problem or may adversely
+ impact a downstream property.
+ (
+Ord. No. 15-2011 § 4
+)

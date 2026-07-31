@@ -1,0 +1,513 @@
+TITLE 4 CAMPAIGN CONTRIBUTIONS AND EXPENDITURES
+4.10: DEFINITIONS……………………………………………………………………………... 2
+
+4.20: CONTRIBUTION LIMITS; BANK ACCOUNT ................................................................ 5
+4.40: ORGANIZATIONAL FILINGS BY COUNTY ENTITIES................................................ 6
+4.50: PERIODIC DISCLOSURES OF CONTRIBUTIONS AND EXPENDITURES ................ 7
+4.60: CHANGES TO COMMITTEES; TERMINATION .......................................................... 10
+4.70: CALCULATION OF TIME; TIMELINESS...................................................................... 11
+4.80: PENALTIES ....................................................................................................................... 11
+4.90: SEVERABILITY ................................................................................................................ 12
+4.100: SAFETY CLAUSE ........................................................................................................... 12
+
+
+
+
+Pitkin County Code – Title 4 – Campaign Contributions and Expenditures                                                           Page 1
+TITLE 4        CAMPAIGN CONTRIBUTIONS AND EXPENDITURES
+
+SECTIONS:
+
+4.10    DEFINITIONS
+4.20    CONTRIBUTION LIMITS; BANK ACCOUNTS
+4.30    DISCLOSURE OF COORDINATED AND INDEPENDENT EXPENDITURES
+4.40    ORGANIZATIONAL FILINGS BY COUNTY ENTITIES
+4.50    PERIODIC DISCLOSURES OF CONTRIBUTIONS AND EXPENDITURES
+4.60    CHANGES TO COMMITTEES; TERMINATION
+4.70    CALCULATION OF TIME; TIMELINESS
+4.80    PENALTIES
+4.90    SEVERABILITY
+4.100   SAFETY CLAUSE
+
+4.10: DEFINITIONS
+
+   A. The following terms shall have the following meanings for purposes of the remaining
+      provisions of this Title 4:
+
+        1. “Appropriate officer” means the Clerk and Recorder.
+
+        2. “Board” means the Pitkin County Board of County Commissioners.
+
+        3. “Contribution” means the payment, pledge, or promise of payment of money or other
+           thing of value; or other obligation, loan or advance of money, whether or not legally
+           enforceable; or the provision of goods, materials, services or facilities; to any county
+           candidate, county candidate committee, county political committee or county issue
+           committee. “Contribution” includes a coordinated expenditure. “Contribution” does
+           not include:
+
+           a. An endorsement of a candidate or an issue by any person;
+
+           b. Interest earned at commercially reasonable rates on funds held in bank accounts;
+
+           c. The value of services rendered by natural persons volunteering their time to a
+              county candidate or county committee, without compensation.
+
+        4. ”Coordinated expenditure” means an expenditure:
+
+           a. Supporting or opposing the nomination, election or retention of a county
+              candidate in coordination, cooperation, consultation, or concert with - or at the
+              request or suggestion of - a county candidate; and
+
+           b. That is made or incurred by any person after one or more substantial discussion(s)
+              with a county candidate, in which the person making the expenditure or incurring
+
+Pitkin County Code – Title 4 – Campaign Contributions and Expenditures                       Page 2
+              the expense receives non-public information about the county candidate’s plans,
+              projects, activities or needs, and such non-public information is material to the
+              subject matter or purpose of the expenditure.
+
+       5. “County ballot issue” means a matter subject to the requirements of article X, section
+          20 of the state constitution that is referred by the Board for a vote of all county
+          electors.
+
+       6. “County ballot question” means a matter, other than a ballot issue, that is referred by
+          the Board to or initiated by electors of the county for a vote of all county electors.
+
+       7. “County candidate” means a person seeking nomination or election to, or retention in,
+          any county elective office. “County candidate” includes any county candidate
+          committee established or maintained under the authority of a county candidate, and
+          any agent, employee, board member, director, or officer of any county candidate or
+          county candidate committee.
+
+           a. A person becomes a county candidate upon:
+
+             i. The filing of nominating petitions with the Clerk and Recorder as provided in
+                Charter § 6.2., or otherwise publicly announcing an intention to seek
+                nomination or election to, or retention in, a county elective office; and
+
+            ii. Accepting a contribution from a person other than the person seeking
+                nomination or election to, or retention in, county elective office, or making an
+                expenditure in support of such nomination, election or retention.
+
+           b. A person remains a county candidate for purposes of this Title 4 so long as the
+              county candidate maintains a county candidate committee. A person who
+              maintains a county candidate committee after an election cycle, but who has not
+              publicly announced an intention to seek election to public office in the next or any
+              subsequent election cycle, is a county candidate for purposes of this Title 4.
+
+       8. “County candidate committee” means a person, including the county candidate, or
+          group of persons with the common purpose of receiving contributions or making
+          expenditures under the authority of a county candidate.
+
+           a. A county candidate who accepts contributions from persons other than himself or
+              herself must form a county candidate committee.
+
+           b. A contribution to a county candidate by a person other than the county candidate
+              shall be deemed a contribution to such person’s county candidate committee.
+
+           c. A county candidate shall have only one county candidate committee.
+
+
+
+Pitkin County Code – Title 4 – Campaign Contributions and Expenditures                      Page 3
+           d. A county candidate committee shall be considered open and active until
+              affirmatively closed by the county candidate or by action of the Clerk and
+              Recorder.
+
+       9. “County committees” means county candidate committees, county political
+          committees and county issue committees. “County committees” also includes county
+          political parties, but only to the extent they make contributions, coordinated
+          expenditures or independent expenditures to, on the behalf of, or in opposition to the
+          nomination, election or retention of county candidates.
+
+       10. “County entity” means county candidates, county candidate committees, county issue
+           committees and county political committees. “County entity” also includes county
+           political parties, but only to the extent they make contributions, coordinated
+           expenditures or independent expenditures to, on the behalf of, or in opposition to the
+           nomination, election or retention of county candidates.
+
+       11. “County issue committee” means any person, other than a natural person, and any
+           group of two or more persons, including natural persons, that have accepted or made
+           contributions or expenditures of one thousand five hundred dollars or more to support
+           or oppose any county ballot issue or county ballot question. A county issue
+           committee shall be considered open and active until affirmatively closed by such
+           committee or by action of the Clerk and Recorder.
+
+       12. “County political committee” means any person, other than a natural person, and any
+           group of two or more persons, including natural persons, that have accepted or made
+           contributions or expenditures of two hundred dollars or more to support or oppose the
+           nomination, election or retention of any county candidate. “County political
+           committee” does not include a county political party, county issue committee or
+           county candidate committee. A county political committee shall be considered open
+           and active until affirmatively closed by such committee or by action of the Clerk and
+           Recorder.
+
+       13. “County political party” means any group of registered electors who, by petition or
+           assembly, can confer its designation or nomination on a county candidate in the
+           manner provided by state law, as permitted by Section 6.2.4 of the Charter.
+
+       14. “Election cycle” means the period of time beginning thirty-one days following a
+           general election and ending thirty days before the next general election.
+
+       15. “Election year” means, with respect to any county entity, every even-numbered year
+           and any other year in which a county candidate, county ballot issue or county ballot
+           question appears on a ballot and is supported or opposed by the county entity in
+           question.
+
+       16. “Expenditure” means the payment, pledge, promise of payment of money or anything
+           of value, or other obligation, loan or advance of money, whether or not legally
+
+Pitkin County Code – Title 4 – Campaign Contributions and Expenditures                     Page 4
+           enforceable, or the provision of goods, materials, services or facilities, by any person,
+           for the purpose of influencing the nomination, election, retention or defeat of any
+           county candidate, or the passage or defeat of any county ballot issue or county ballot
+           question; provided, however, the following items shall not be considered an
+           “expenditure”:
+
+           a. Any news article, editorial endorsement, opinion or commentary writing, or
+              letters to the editor printed in a newspaper, magazine or other periodical;
+
+           b. Any editorial endorsement or opinion aired by a broadcast facility;
+
+           c. Spending by persons other than county entities in the regular course and scope of
+              their business or payments by a membership organization for any communication
+              solely to its members and their families.
+
+       17. “Independent expenditure” means an expenditure, other than a coordinated
+           expenditure, supporting or opposing the nomination, election or retention of a county
+           candidate.
+
+       18. “Major election” means the election in which a county candidate is elected to county
+           office or a county ballot issue or county ballot question is passed or defeated by the
+           electorate.
+
+       19. “Off-election year” means, with respect to any county entity, any year other than an
+           election year.
+
+       20. “Person” means any natural person, and any partnership, corporation, association,
+           firm, committee, governmental entity or other organization or group of persons
+           (however organized).
+
+       21. “Registered agent” means the natural person designated to receive mailings and
+           notices, and to address concerns and questions, regarding a county committee. A
+           county candidate may act as registered agent for a county candidate committee.
+
+       22. “Unexpended contributions” means the balance of funds on hand in any county
+           committee at the end of any election cycle.
+
+
+4.20: CONTRIBUTION LIMITS; BANK ACCOUNT
+
+   A. No person shall make a contribution in an amount which exceeds five hundred dollars in
+      the aggregate for any primary, general or special election to any county candidate or any
+      county political committee making coordinated expenditures.
+
+
+
+Pitkin County Code – Title 4 – Campaign Contributions and Expenditures                       Page 5
+   B. Nothing in this Title shall be construed to prohibit a county political party from making
+      contributions, independent expenditures or coordinated expenditures to or on behalf of
+      county candidates, provided that:
+
+       1. County political party contributions to county candidates, including coordinated
+          expenditures, shall not exceed the aggregate contribution limit applicable to all other
+          persons as set forth in Section 4.20(A);
+
+       2. All contributions, independent expenditures and coordinated expenditures made by a
+          county political party to, on the behalf of or in opposition to a county candidate, shall
+          be made from a segregated fund established for the sole purpose of making any such
+          contributions or expenditures. Such segregated fund shall be maintained at a bank
+          operating under federal or state charter, and all account activity of such segregated
+          fund shall be exclusively subject to the provisions of this Title and not those of state
+          law.
+
+       3. A county political party shall timely report and disclose all coordinated expenditures,
+          and all independent expenditures in excess of two hundred fifty dollars ($250.00), in
+          the manner and to the extent required in Section 4.30 of this Title.
+
+   C. All county committees shall deposit all contributions to and make all expenditures from a
+      segregated fund maintained exclusively for such purposes at a bank operating under
+      federal or state charter. Contributions shall be deposited into such segregated fund within
+      seven (7) days of receipt by the committee in question.
+
+4.30: DISCLOSURE OF COORDINATED AND INDEPENDENT EXPENDITURES
+
+   A. All persons making coordinated expenditures, and all persons making independent
+      expenditures in excess of two hundred fifty dollars, shall report the same to the Clerk and
+      Recorder no later than seven days after the date on which such expenditures are made;
+      provided, however, that reporting of such expenditures under this section must be
+      performed no later than twenty-four hours after the time of such expenditures if the
+      expenditure is made in the eight days preceding any election. The report to the Clerk and
+      Recorder required by this subsection shall be in a form approved by the Clerk and
+      Recorder and include the name and address of the person making the expenditure, the
+      amount of the expenditure, a detailed description of the use of the expenditure, and the
+      name of the county candidate whom the expenditure is intended to support or oppose.
+
+   B. Failure to comply with the provisions of this subsection shall have no effect on the
+      validity of any election, issue or bonds issued pursuant to law, except as provided in
+      Section 4.80.
+
+4.40: ORGANIZATIONAL FILINGS BY COUNTY ENTITIES
+
+
+
+
+Pitkin County Code – Title 4 – Campaign Contributions and Expenditures                       Page 6
+   A. County candidates: Not later than ten days after a person becomes a county candidate,
+      he or she shall file the following documents with and in forms approved by the Clerk and
+      Recorder:
+
+       1. A candidate affidavit specifying his or her name, residence and mailing addresses and
+          other contact information, the county elective office to or in which election or
+          retention is sought and the date of the election, and containing his or her sworn
+          attestation that he or she has reviewed and understands the provisions of this Title 4
+          and § 6.6 of the Charter;
+
+       2. A written designation of all county political committees affiliated with, or known to
+          be making expenditures in support of, the county candidate’s campaign.
+
+   B. County candidate committees: If a county candidate is required to form a county
+      candidate committee because he or she accepts contributions from persons other than the
+      county candidate, the county candidate shall file with and in a form approved by the
+      Clerk and Recorder a new committee registration statement, specifying the name,
+      physical address, mailing address and other contact information for the county candidate
+      committee and its registered agent, and the name and address of the financial institution
+      at which the segregated account required by section 4.20(C) is or will be maintained.
+
+   C. County political committees: Not later than ten days after one or more persons become a
+      county political committee, the natural person who will serve as its registered agent shall
+      file with and in forms approved by the Clerk and Recorder:
+
+       1. A new committee registration statement specifying the name, physical address,
+          mailing address and other contact information for the county political committee and
+          its registered agent, and the name and address of the financial institution at which the
+          segregated account required by section 4.20(C) is or will be maintained; and
+
+       2. An affidavit of organization demonstrating decision-making independence from any
+          county candidate or other county political committee. Any county political committee
+          not filing such an affidavit may not accept any contributions or make expenditures of
+          two hundred dollars or more, in the aggregate.
+
+   D. County issue committees: Not later than ten days after one or more persons become(s) a
+      county issue committee, the natural person who will serve as its registered agent shall file
+      with and in a form approved by the Clerk and Recorder a new committee registration
+      statement specifying the name, physical address, mailing address and other contact
+      information for the county issue committee and its registered agent, and the name and
+      address of the financial institution at which the segregated account required by section
+      4.20(C) is or will be maintained.
+
+4.50: PERIODIC DISCLOSURES OF CONTRIBUTIONS AND EXPENDITURES
+
+
+
+Pitkin County Code – Title 4 – Campaign Contributions and Expenditures                      Page 7
+   A. Content of Reports. Not later than five days after the end of each reporting period, a
+      county entity shall file with the Clerk and Recorder disclosure reports itemizing
+      contributions received and expenditures made by the county entity during the applicable
+      reporting period. The periodic disclosure reports shall be in a form approved by the
+      Clerk and Recorder and shall set forth:
+
+       1. The balance of funds on hand at the beginning of the reporting period, if any;
+
+       2. An itemization of all contributions received during the reporting period from persons
+          who have made contributions of twenty dollars or more during the reporting period,
+          which itemization shall include:
+
+           a. The contributor’s name and address;
+
+           b. The contributor’s occupation and employer, if the contributor has made
+              contributions of one hundred dollars or more during the reporting period;
+
+           c. The aggregate amount of all contributions made by such contributors in the
+              current and all prior reporting periods of the current election year.
+
+       3. The total amount of all contributions received during the current reporting period
+          from persons who have contributed less than twenty dollars during the election year,
+          stated in the aggregate;
+
+       4. An itemization of all loans received;
+
+       5. An itemization of loans wholly or partially repaid;
+
+       6. An itemization of contributions returned to contributors;
+
+       7. An itemization of all expenditures during the reporting period of twenty dollars or
+          more, which itemization shall include the name and address of the person to whom
+          the expenditure was paid, and a description of the purpose of the expenditure;
+
+       8. The sum of all individual expenditures during the reporting period of less than twenty
+          dollars, stated in the aggregate;
+
+       9. The balance of funds on hand at the end of the reporting period, if any;
+
+       10. A statement by the county entity whether the report constitutes a regular filing for the
+           most recent reporting period, and amended filing for a reporting period prior to the
+           most recent reporting period, or a termination report.
+
+   B. Reporting Periods and Filing Deadlines.
+
+
+Pitkin County Code – Title 4 – Campaign Contributions and Expenditures                       Page 8
+       1. Reporting Due Dates in Election Years. During election years, a county entity shall
+          file with the Clerk and Recorder periodic disclosure reports of contributions received
+          and expenditures made during the applicable reporting period not later than:
+
+           a. The twenty-first day and the Friday before, and the thirtieth day after, the primary
+              election;
+
+           b. The twenty-first day and the Friday before, and the thirtieth day after, the general
+              election;
+
+           c. The twenty-first day and the Friday before, and the thirtieth day after, a special
+              election, if the county entity supports or opposes the nomination, election or
+              retention of a county candidate who, or the passage of a county ballot issue or
+              county ballot question that, will appear on the ballot for the special election.
+
+       2. Reporting Due Date in Off-Election Years.
+
+           In off-election years, county entities shall file with the Clerk and Recorder periodic
+           disclosure reports of contributions received and expenditures made during the
+           applicable reporting period not later than the first day of the calendar month in which
+           the anniversary of the major election occurs.
+
+       3. Reporting Periods.
+
+           a. The reporting period for any disclosure report with a due date expressed in terms
+              of a day or number of days before an election in Section 4.50(B)(1) begins on the
+              day after the last day of the prior reporting period, and ends on the date that is five
+              calendar days before the date that the report is due.
+
+           b. The reporting period for any disclosure report with a due date expressed in terms
+              of a number of days after an election Section 4.50(B)(1) begins on the day after
+              the last day of the prior reporting period, and ends on the last day of the calendar
+              month in which the election was held.
+
+           c. The reporting period for any disclosure report due in an off-election year begins
+              on the first day of the calendar month following the month in which the major
+              election occurred, and ends on the date that is five days prior to the due date for
+              the disclosure report in the off-election year.
+
+
+
+
+Pitkin County Code – Title 4 – Campaign Contributions and Expenditures                        Page 9
+           d. Each year, the Clerk and Recorder shall publish a calendar of reporting periods
+              and periodic disclosure report due dates and make the same available on the
+              official county website and the Clerk and Recorder’s website devoted to county
+              elections, if any.
+
+4.60: CHANGES TO COMMITTEES; TERMINATION
+
+   A. Amendments. Changes to any information disclosed on a committee registration
+      statement shall be reported to the Clerk and Recorder within ten days.
+
+   B. Change of Office Sought. A county candidate who changes the office sought shall
+      terminate his or her existing county candidate committee and register a new candidate
+      committee within ten days of the change.
+
+   C. Termination of County Committee. A county committee may terminate if the following
+      conditions are met:
+
+       1. The county committee no longer intends to receive contributions or make
+          expenditures;
+
+       2. The county committee has a zero balance because it has no cash or assets on hand and
+          no outstanding debts or obligations; and
+
+       3. The county candidate or county committee files a termination report of contributions
+          and expenditures with the Clerk and Recorder.
+
+       4. A county committee may dispose of assets remaining in its possession before
+          termination in the same manner as allowed for the disposition of unexpended
+          contributions.
+
+   D. Unexpended Contributions.
+
+       1. Generally. Unexpended contributions of a county committee shall be reported as the
+          ending balance throughout the election cycle. Unexpended balances from the
+          disclosure report filed thirty days after the applicable election shall be reported as the
+          beginning balance in the next election cycle.
+
+       2. County candidate committees.
+
+           a. Unexpended contributions of a county candidate committee may be retained by
+              the county candidate committee for use in a subsequent election cycle for the
+              same county elective office.
+
+           b. Unexpended contributions of a county candidate committee may be transferred to
+              a new county candidate committee established by the same candidate for a
+
+Pitkin County Code – Title 4 – Campaign Contributions and Expenditures                       Page 10
+               different county elective office, provided that the existing county candidate
+               committee shall be affirmatively closed by the county candidate within ten days
+               of registering the new candidate committee.
+
+           c. Unexpended contributions held by a county candidate committee that wishes to
+              terminate may be:
+
+              i.   Donated to a charitable organization recognized by the Internal Revenue
+                   Service;
+
+            ii.    Returned to contributors;
+
+            iii.   For county candidates elected to county office, utilized for voter registration,
+                   political issue education, postsecondary educational scholarships, to
+                   communicate with constituents, or for expenses directly related to the
+                   officeholder’s official duties.
+
+       3. County political committees and county issue committees. County political
+          committees and county issue committees desiring to terminate may dispose of
+          unexpended contributions by returning them to contributors or donating them to a
+          charitable organization recognized by the Internal Revenue Service.
+
+4.70: CALCULATION OF TIME; TIMELINESS
+
+   A. In the event any due date for filing any statement or report required by this Title 4 falls on
+      a weekend or legal holiday, the due date is extended until the next business day.
+
+   B. All filings by county entities required by this Title 4 shall be deemed timely if made at or
+      before the regular close of business of the office of the Clerk and Recorder.
+
+
+4.80: PENALTIES
+
+   A. The County Clerk and Recorder shall publish the names of all county entities not in
+      compliance with the applicable provisions of this Title 4 no later than ten (10) days prior
+      to any election, if such lack of compliance is known to the Clerk and Recorder at such
+      time.
+
+   B. Any county candidate who knowingly or intentionally violates any provision of this
+      section, or who conspires with another to violate any provision of this section, shall, in
+      addition to any other penalties, be denied his/her right to take oath for the office to which
+      he/she was elected, unless he/she has already taken said oath, in which event the office
+      shall be deemed vacated and shall be filled as otherwise provided by this Charter.
+
+
+
+
+Pitkin County Code – Title 4 – Campaign Contributions and Expenditures                      Page 11
+    C. Any person who knowingly or intentionally violates a provision of this Title 4 relating to
+       a county entity is guilty of a misdemeanor and, upon conviction, shall be punished by a
+       fine not exceeding one hundred ($100.00) dollars, or by imprisonment in the County jail
+       for not more than ten (10) days, or both such fine and imprisonment.
+
+4.90: SEVERABILITY
+
+If any provision of this Title or the application thereof to any person or circumstance is
+determined to be invalid, such invalidity shall not affect other provisions or applications of this
+Title which can be given effect without the invalid provision or application and, to this end, the
+provisions of this Title are declared to be severable.
+
+4.100: SAFETY CLAUSE
+
+The Board of County Commissioners of Pitkin County hereby finds, determines and declares that
+this ordinance is necessary for the immediate preservation of the public peace, health and safety,
+and it shall become effective upon adoption.
+
+(Title 4 added ord. 013-2012)
+
+
+
+
+Pitkin County Code – Title 4 – Campaign Contributions and Expenditures                       Page 12
+
