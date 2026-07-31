@@ -25,6 +25,28 @@ ROOT = os.path.normpath(
                  "code-library", "us-building-codes")
 )
 
+AMENDED_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                            "..", "references", "locally-amended-sections.txt")
+
+
+def load_amended():
+    """{(code, section): [jurisdictions]} that Aspen/Pitkin amend locally."""
+    out = {}
+    try:
+        with open(AMENDED_FILE, encoding="utf-8") as fh:
+            for line in fh:
+                line = line.split("#", 1)[0].strip()
+                if not line:
+                    continue
+                parts = line.split()
+                if len(parts) != 3:
+                    continue
+                juris, code, section = parts
+                out.setdefault((code.lower(), section.lower()), []).append(juris)
+    except OSError:
+        pass
+    return out
+
 
 def corpus(jurisdiction=None, code=None, chapter=None):
     """Yield (path, jurisdiction, code_edition) for CSVs matching the filters."""
@@ -109,6 +131,8 @@ def main():
     pattern = re.compile(args.query, re.IGNORECASE) if args.query else None
     hits = shown = 0
     blind = [0]
+    amended = load_amended()
+    flagged = []
 
     for path, juris, edition in corpus(args.jurisdiction, args.code, args.chapter):
         chapter = os.path.basename(path)[:-4]
@@ -123,8 +147,16 @@ def main():
                 body = (row.get("body") or "").strip()
                 if not args.full and len(body) > 900:
                     body = body[:900] + " […]"
-                print(f"\n=== {juris}/{edition} §{row.get('id','?')} — "
+                sec_id = (row.get("id") or "").strip()
+                who = amended.get((edition.split("-")[0].lower(), sec_id.lower()))
+                print(f"\n=== {juris}/{edition} §{sec_id or '?'} — "
                       f"{row.get('title','')} ===")
+                if who:
+                    label = " and ".join(w.capitalize() for w in who)
+                    print(f"    *** AMENDED LOCALLY by {label} — the text below is "
+                          f"SUPERSEDED. ***\n"
+                          f"    *** Read the amendment before quoting this section. ***")
+                    flagged.append(f"{edition} §{sec_id} ({label})")
                 print(f"    {chapter} | {row.get('section','')}")
                 meta = " | ".join(f"{k}={row[k]}" for k in
                                   ("code_category", "primary_responsibility",
@@ -141,6 +173,14 @@ def main():
         print(f"    NOTE: {blind[0]} row(s) otherwise matched but have no metadata "
               f"on the filtered field, so they were excluded.\n"
               f"    Re-run without the metadata filter to see them.")
+    if flagged:
+        print(f"\n    !! {len(flagged)} result(s) are AMENDED locally and the text "
+              f"shown is superseded:")
+        for f in flagged:
+            print(f"       - {f}")
+        print("    Check code-library/aspen/title-8-buildings-and-building-regulations.txt"
+              "\n    or code-library/pitkin/title-11-building-construction.txt "
+              "before citing.")
 
 
 if __name__ == "__main__":

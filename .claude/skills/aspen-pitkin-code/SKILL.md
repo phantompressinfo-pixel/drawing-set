@@ -55,7 +55,17 @@ Colorado's 2021 IBC — the same edition Aspen adopted — plus IEBC 2021 and th
 
 **This skill still governs.** Always check Title 8 for an Aspen amendment before
 presenting model text as the requirement, and say which layer you are quoting.
-Note the model set covers IBC ch 1–18 and IRC ch 1–15 only.
+
+This is not a theoretical risk. **Aspen amends 46 IBC sections and Pitkin
+amends 20 IBC + 15 IRC sections**, listed in
+`.claude/skills/us-building-codes/references/locally-amended-sections.txt`.
+`codesearch.py` reads that list and stamps `*** AMENDED LOCALLY ***` on any
+result it covers. Heed the stamp — the model text shown is superseded.
+
+Example: model IBC §1015.2 requires guards along "aisles, stairs, ramps and
+landings"; Aspen's §1015.2 adds **"and adjacent to hot tubs, spas, and pools"**,
+and its §1015.3 adds Exception 9 (18 in. guards where the open side is under
+18 in. from the water's edge). Quoting the model text there would be wrong.
 
 ## What is stored
 
@@ -100,7 +110,9 @@ Note the model set covers IBC ch 1–18 and IRC ch 1–15 only.
 ## Fast facts (verify in the text before citing on a sheet)
 
 - **R-15** max height 25 ft §26.710.050(d)(7); allowable floor area sliding scale
-  §26.710.050(d)(10). R-15A is .060, R-15B is .070.
+  §26.710.050(d)(10) — a lot-area table, not a single ratio. The neighbouring
+  zone districts are at their own *sections*: **R-15A = §26.710.060,
+  R-15B = §26.710.070** (section numbers, not FAR values).
 - **Height** §26.575.020(f): 3:12–7:12 → 1/2 point eave-to-ridge; >7:12 → 1/3
   point; <3:12 → top-most portion. **No limit on ridge height** for pitched roofs.
   Measured from the lower of natural/finished grade; both must be depicted.
@@ -108,7 +120,13 @@ Note the model set covers IBC ch 1–18 and IRC ch 1–15 only.
 - **Three floor areas** §26.575.020(d)(2): Gross · Allowable (all exemptions) ·
   Mitigation (all exemptions **except** garage (d)(8) and subgrade (d)(9)).
 - **Subgrade** (d)(9): countable = gross × (exposed wall ÷ total wall).
-- **Garage** (d)(8): first 250 exempt, 251–500 at 50%, over 500 counts.
+- **Garage** (d)(8): three different rules — check the property type first.
+  - Single-family / two single-family / duplex, **outside R-15B**: first 250
+    exempt, 251–500 at 50%, over 500 counts (Table 26.575.020-2).
+  - **R-15B**: flat 500 sq ft maximum exemption **for the whole parcel**.
+  - Multi-family, parcels with >2 units, or units in a mixed-use building: flat
+    250 sq ft per residence, **no 50% tier** — everything above 250 counts.
+  - No residential units on the parcel: no exclusion at all.
 - **Attic** (d)(4): unfinished + necessity-only access = exempt; ≤30" clear height
   exempt regardless of access; whole-room rule if any portion counts.
 - **Demolition** §26.580.040: 40% threshold; wall + roof above finished grade

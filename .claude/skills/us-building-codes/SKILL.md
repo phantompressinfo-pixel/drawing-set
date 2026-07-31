@@ -19,10 +19,27 @@ This skill is the **model-code text underneath** — the full wording of a secti
 when the local code only names it, plus IEBC and ADA, which `code-library/`
 otherwise has no copy of.
 
-Typical division of labor: Aspen adopts the 2021 IBC and did *not* adopt the
-2021 IRC (`§8.16.010`), so a residential egress or guard question resolves to
-2021 IBC — and this dataset holds Colorado's 2021 IBC text for it. Check the
-Aspen library for an amendment to that section before quoting it as final.
+Typical division of labor: Aspen adopts the 2021 IBC (`§8.20.010`) and
+explicitly did *not* adopt the 2021 IRC — `§8.16.010` states it "will not be
+adopted", and `§101.4.11` as amended deletes every IRC reference. So a
+residential egress or guard question resolves to 2021 IBC, and this dataset
+holds Colorado's 2021 IBC text for it. Pitkin County *does* adopt the 2021 IRC
+(`§11.20.010`).
+
+### Locally amended sections are flagged automatically
+
+`references/locally-amended-sections.txt` lists every model section Aspen or
+Pitkin amends — **46 IBC sections for Aspen, 20 IBC + 15 IRC for Pitkin**.
+`codesearch.py` stamps `*** AMENDED LOCALLY ***` on any result it covers and
+repeats them in the summary.
+
+**When you see that stamp, the text shown is superseded — do not quote it.**
+Read the amendment in `code-library/aspen/title-8-…` or
+`code-library/pitkin/title-11-…` and cite that instead.
+
+The stamp is a floor, not a ceiling: it covers sections named in the adopting
+ordinances as of 2026-07-31. Re-extract it when either code is re-supplemented,
+and still check Title 8 / Title 11 for anything submittal-critical.
 
 ## What is stored
 
@@ -57,10 +74,11 @@ LLM-inferred metadata. Origin repo: `github.com/thexqin/us-building-codes-datase
   the dataset carries (verified against
   `code-library/pitkin/title-11-building-construction.txt`):
 
-  | Pitkin adopts | Appendices | Held locally? |
+  | Jurisdiction | Adopts appendices | Held locally? |
   | --- | --- | --- |
-  | IBC 2021 (§11.04.010) | C, E, I, J | **No** |
-  | IRC 2021 (§11.20.010) | AE, AF, AH, AK, AQ | **No** — except the AQ amendments |
+  | **Aspen** IBC 2021 (§8.20.010) | C, E, P | **No** |
+  | **Pitkin** IBC 2021 (§11.04.010) | C, E, I, J | **No** |
+  | **Pitkin** IRC 2021 (§11.20.010) | AE, AF, AH, AK, AQ | **No** — except the AQ amendments |
 
   Pitkin adopts these **by reference** ("as published by the International Code
   Council"), so title-11 contains only its *amendments*, not the appendix text.
