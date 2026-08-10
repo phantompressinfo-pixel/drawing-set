@@ -834,52 +834,57 @@
   <section>
     <h2>Sheet A5.00 &mdash; wall types</h2>
     <div class="col">
-      <p class="lede">This is where the comment cloud actually sits, and it is asking two separate questions of this
-        sheet: <em>which component is the air barrier</em>, and <em>where does the sealing happen</em>. Both are
-        answered per wall type, in the callouts and in the general notes column.</p>
-      <p style="margin-top:20px">The good news is that you have already specified the barrier &mdash; you just have
-        not named it. Every above-grade exterior type carries a <strong>self-adhered weather resistant barrier</strong>
-        and every below-grade type carries <strong>foundation waterproofing</strong>, both outboard of the structure.
-        Those are fully adhered membranes, which are a better air barrier than taped sheathing and are already in the
-        contract. So the designation writes itself:</p>
+      <p class="lede">The barrier callouts are in on W1, W3, W4, W10 and W11, and the new-to-existing termination
+        reads correctly. Four things are still open, and one of them is a regression.</p>
     </div>
-    <div class="strategy">
-      <div>
-        <span class="st-zone">W1 &middot; W2 &middot; W12</span>
-        <p class="st-mat">Foundation waterproofing</p>
-        <p class="st-why">Outboard face of the concrete. Already drawn on all three types.</p>
+    <div class="verdict">
+      <div class="v-ok">
+        <span class="v-h">Landed</span>
+        <span class="v-sub">No further work on these</span>
+        <ul>
+          <li><b>W3, W4</b>WRB called out as continuous and sealed at slab, top plate, all edges and penetrations.</li>
+          <li><b>W10, W11</b>Same, plus the termination and prime note at the existing substrate &mdash; the highest
+            risk joint on an addition, now covered.</li>
+          <li><b>W1</b>Foundation waterproofing named as the designated air barrier, with the form-tie, cold joint and
+            crawl slab lap instructions.</li>
+          <li><b>W13</b>New exterior wall type with 4&Prime; rigid, WRB callout already correct.</li>
+        </ul>
       </div>
-      <div>
-        <span class="st-zone">W3 &middot; W4 &middot; W10 &middot; W11</span>
-        <p class="st-mat">Self-adhered WRB</p>
-        <p class="st-why">Outboard of the nail base panel. Already drawn on all four types.</p>
+      <div class="v-fix">
+        <span class="v-h">Still open</span>
+        <span class="v-sub">Four items</span>
+        <ul>
+          <li><b>W2 lost its waterproofing &mdash; fix this one first</b>The FOUNDATION WATERPROOFING callout has been
+            replaced by the self-adhered WRB. A WRB is not a below-grade waterproofing product, and W2 sits against
+            drainage mat and backfill. Restore the waterproofing callout and designate <em>that</em> as the air
+            barrier, exactly as W1 now reads.</li>
+          <li><b>W1 R-value still wrong</b>Bottom of the type still reads R-13 + R-10 c.i. The assembly is an R-19
+            blanket only. Copied from W2.</li>
+          <li><b>W12 has no callout</b>Still needs the one-liner confirming both faces are outside the envelope.</li>
+          <li><b>No garage separation type</b>W13 went to the rigid insulation wall, so the separation becomes
+            <strong>W14</strong>. Drawing below is renumbered.</li>
+        </ul>
       </div>
-      <div>
-        <span class="st-zone">Roof</span>
-        <p class="st-mat">Self-adhered underlayment</p>
-        <p class="st-why">Over the deck, lapping onto the wall WRB. Required for ice damming anyway.</p>
-      </div>
-    </div>
-    <div class="col">
-      <p style="margin-top:22px">Three fully adhered membranes, all on the same side of the structure, lapped to each
-        other. That single sentence answers <em>&ldquo;pick one continuous barrier and stick to it&rdquo;</em> without
-        changing a single assembly. Everything else on the sheet &mdash; gypsum, closed-cell foam, the insulated nail
-        base panel, the XPS &mdash; contributes to airtightness but is <strong>not</strong> the designated barrier,
-        and the notes need to say so explicitly. The comment anticipates exactly this: <em>&ldquo;you may have all of
-        the above.&rdquo;</em></p>
     </div>
 
-    <h3 style="margin-top:44px">The missing wall type</h3>
     <div class="col">
-      <p style="margin-top:10px">There is no garage/dwelling separation type on the sheet. W1 through W12 cover
-        exterior, foundation and interior partitions, and none of them describes the wall between Garage&nbsp;102 and
-        Kitchen&nbsp;103 &mdash; which is why that plane is unmarked on the section. If it is currently tagged as a
-        generic interior partition, it is both an envelope failure and an IRC&nbsp;R302.6 failure. Add it as W13.</p>
+      <p style="margin-top:26px">The designation the notes now carry, in one line: <strong>foundation waterproofing
+        below grade, self-adhered WRB above grade, self-adhered underlayment over the roof deck</strong> &mdash; three
+        fully adhered membranes, all outboard of the structure, lapped to each other. Gypsum, spray foam, nail base
+        panel, XPS and the vinyl blanket contribute to airtightness but are not the barrier, which is what note 21
+        exists to say.</p>
+    </div>
+
+    <h3 style="margin-top:44px">W14 &mdash; the missing wall type</h3>
+    <div class="col">
+      <p style="margin-top:10px">Nothing on the sheet describes the wall between Garage&nbsp;102 and Kitchen&nbsp;103,
+        which is why that plane is unmarked on the section. If it is currently tagged as a generic interior partition
+        it fails both the envelope and IRC&nbsp;R302.6.</p>
     </div>
 
     <figure style="margin-top:22px">
       <div class="figframe">
-        <svg viewBox="0 0 780 500" role="img" aria-label="New wall type W13, typical garage to dwelling separation, drawn as a plan cut. Layers from the dwelling side outward: interior finish, two layers of gypsum board, closed-cell spray foam in the stud cavity, two-by wood framing, exterior sheathing, a self-adhered weather resistant barrier marked as the designated air barrier, an insulated nail base panel, and five-eighths inch Type X gypsum board on the garage side.">
+        <svg viewBox="0 0 780 500" role="img" aria-label="New wall type W14, typical garage to dwelling separation, drawn as a plan cut. Layers from the dwelling side outward: interior finish, two layers of gypsum board, closed-cell spray foam in the stud cavity, two-by wood framing, exterior sheathing, a self-adhered weather resistant barrier marked as the designated air barrier, an insulated nail base panel, and five-eighths inch Type X gypsum board on the garage side.">
           <defs>
             <pattern id="pgyp" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
               <line class="hx" x1="0" y1="0" x2="0" y2="6"/>
@@ -948,12 +953,12 @@
 
           <!-- title block -->
           <g class="ln"><path d="M40 462 H740 M40 462 V496 M110 462 V496 M740 462 V496 M40 496 H740 M40 479 H110"/></g>
-          <text class="t-tag" x="75" y="475" text-anchor="middle">W13</text>
+          <text class="t-tag" x="75" y="475" text-anchor="middle">W14</text>
           <text class="t-tag2" x="75" y="491" text-anchor="middle">A5.00</text>
           <text class="t-title" x="130" y="486">TYP. GARAGE / DWELLING SEPARATION</text>
         </svg>
       </div>
-      <figcaption>W13, drawn to match the conventions of sheet A5.00. The barrier stays on the same plane and the
+      <figcaption>W14, drawn to match the conventions of sheet A5.00. The barrier stays on the same plane and the
         same material as every other envelope wall, so the garage separation is not a special case &mdash; it is the
         envelope, turned to face the garage.</figcaption>
     </figure>
@@ -964,85 +969,59 @@
         SELF-CLOSING, SELF-LATCHING AND GASKETED.</span></p>
     </div>
 
-    <h3 style="margin-top:44px">Exact locations &mdash; one callout per wall type</h3>
-    <div class="col">
-      <p style="margin-top:10px">Every type on the sheet gets a line, including the interior partitions. Saying
-        &ldquo;not part of the envelope&rdquo; out loud is worth doing: it shows the reviewer you considered each
-        assembly and dismissed it deliberately rather than overlooking it.</p>
-    </div>
-    <div class="tablewrap">
-      <table class="route">
-        <thead><tr><th>Type</th><th>Point the leader at</th><th>Add this callout</th></tr></thead>
-        <tbody>
-          <tr><td class="k">W1</td><td class="cond">Foundation waterproofing</td><td class="loc">DESIGNATED AIR
-            BARRIER. SEAL FORM-TIE HOLES AND COLD JOINTS BEFORE BACKFILL. LAP TO FOOTING AND TO CRAWL SLAB VAPOR
-            RETARDER.</td></tr>
-          <tr class="flagrow"><td class="k">W1</td><td class="cond">Vinyl blanket, and the R-value note</td>
-            <td class="loc">VINYL BLANKET IS AIR-PERMEABLE INSULATION AND IS NOT THE AIR BARRIER. <span
-            class="missing">ALSO: THE R-VALUE NOTE READS R-13 + R-10 c.i. BUT THE ASSEMBLY IS AN R-19 BLANKET ONLY
-            &mdash; APPEARS COPIED FROM W2. CORRECT BEFORE RESUBMITTAL.</span></td></tr>
-          <tr><td class="k">W2</td><td class="cond">Foundation waterproofing</td><td class="loc">DESIGNATED AIR
-            BARRIER. THE XPS &ldquo;TAPE ALL SEAMS&rdquo; NOTE IS FOR DRAINAGE AND THERMAL PERFORMANCE, NOT AIR
-            SEALING.</td></tr>
-          <tr><td class="k">W3 W4</td><td class="cond">Self-adhered WRB</td><td class="loc">DESIGNATED AIR BARRIER.
-            LAP 3&Prime; MIN. SHINGLE FASHION. CONTINUOUS ACROSS RIM JOISTS. LAP DOWN OVER FOUNDATION WATERPROOFING AT
-            GRADE AND UP ONTO ROOF UNDERLAYMENT AT EAVES.</td></tr>
-          <tr><td class="k">W10 W11</td><td class="cond">Self-adhered WRB, at the new-to-existing edge</td>
-            <td class="loc">AS W3/W4, PLUS: TERMINATE AND SEAL TO EXISTING SUBSTRATE W/ LIQUID-APPLIED FLASHING AND
-            TERMINATION BAR. VERIFY AND PRIME EXISTING SUBSTRATE.</td></tr>
-          <tr><td class="k">W5 W6</td><td class="cond">Self-adhered membrane</td><td class="loc">VAPOR AND MOISTURE
-            CONTROL FOR SAUNA / STEAM SHOWER. NOT THE BUILDING AIR BARRIER. WHERE A TUB OR STEAM SHOWER OCCURS ON AN
-            EXTERIOR WALL, SEE GENERAL NOTE 27.</td></tr>
-          <tr><td class="k">W7 W8 W9</td><td class="cond">Assembly title</td><td class="loc">NOT PART OF THE BUILDING
-            THERMAL ENVELOPE. NO AIR BARRIER REQUIRED.</td></tr>
-          <tr class="flagrow"><td class="k">W12</td><td class="cond">Assembly title</td><td class="loc">BOTH FACES ARE
-            OUTSIDE THE THERMAL ENVELOPE; NO BARRIER OR INSULATION REQUIRED. <span class="missing">CONFIRM THIS TYPE IS
-            USED ONLY AS THE WELL RETAINING WALL &mdash; IF ANY FACE ABUTS CONDITIONED SPACE, USE W2.</span></td></tr>
-          <tr class="flagrow"><td class="k">W13</td><td class="cond">New type &mdash; see above</td><td class="loc">
-            GARAGE / DWELLING SEPARATION. NEW ASSEMBLY REQUIRED.</td></tr>
-        </tbody>
-      </table>
-    </div>
 
     <h3 style="margin-top:44px">General notes to append</h3>
     <div class="col">
-      <p style="margin-top:10px">These continue the existing Wall Partition General Notes column, which currently
-        ends at 19 and contains nothing about air sealing. Numbering picks up at 20 so nothing renumbers.</p>
+      <p style="margin-top:10px">Written to sheet-note length &mdash; telegraphic, no articles, no
+        &ldquo;shall be.&rdquo; These continue the existing column, which ends at 19 and says nothing about air
+        sealing, so nothing renumbers. Type them exactly as written.</p>
     </div>
     <div class="notes notes-plain">
       <div class="notes-h">Paste-ready &mdash; sheet A5.00, wall partition general notes</div>
       <ol start="20" style="counter-reset: n 19">
-        <li>THE CONTINUOUS AIR BARRIER FOR THIS PROJECT IS THE FULLY ADHERED MEMBRANE PLANE LOCATED OUTBOARD OF THE
-          STRUCTURE THROUGHOUT: FOUNDATION WATERPROOFING BELOW GRADE (W1, W2, W12), SELF-ADHERED WEATHER RESISTANT
-          BARRIER ABOVE GRADE (W3, W4, W10, W11, W13), AND SELF-ADHERED UNDERLAYMENT OVER THE ROOF SHEATHING. THESE
-          THREE MEMBRANES SHALL BE LAPPED AND SEALED TO ONE ANOTHER TO FORM ONE UNBROKEN PLANE. SEE AIR BARRIER
-          DIAGRAM, <span class="fill">[SHEET __]</span>.</li>
-        <li>GYPSUM BOARD, CLOSED CELL SPRAY FOAM, INSULATED NAIL BASE PANEL, RIGID FOUNDATION INSULATION AND VINYL
-          BLANKET CONTRIBUTE TO AIRTIGHTNESS BUT ARE NOT THE DESIGNATED AIR BARRIER. WHERE THEY CONFLICT W/ THE
-          DESIGNATED BARRIER, THE DESIGNATED BARRIER GOVERNS.</li>
-        <li>ALL LAPS IN THE DESIGNATED AIR BARRIER SHALL BE 3&Prime; MIN., INSTALLED SHINGLE FASHION. PRIME SUBSTRATES
-          AND OBSERVE MINIMUM APPLICATION TEMPERATURES PER MANUFACTURER. VERIFY COMPATIBILITY OF ALL TAPES, PRIMERS,
-          SEALANTS AND MEMBRANES W/ ONE ANOTHER AND W/ THEIR SUBSTRATES.</li>
-        <li>SEAL ALL PENETRATIONS OF THE DESIGNATED AIR BARRIER THE SAME DAY THEY ARE MADE, USING MANUFACTURER-APPROVED
-          TAPE, LIQUID FLASHING OR MEMBRANE COLLAR. NO UNSEALED PENETRATION SHALL REMAIN AT THE END OF A WORK DAY.</li>
-        <li>WHERE NEW CONSTRUCTION MEETS EXISTING (W10, W11), TERMINATE AND SEAL THE NEW AIR BARRIER TO THE EXISTING
-          SUBSTRATE W/ LIQUID-APPLIED FLASHING AND A TERMINATION BAR. VERIFY EXISTING SUBSTRATE CONDITION AND PRIME AS
-          REQUIRED.</li>
-        <li>AT ALL WINDOW AND DOOR ROUGH OPENINGS, LAP MEMBRANE FLASHING TO THE DESIGNATED AIR BARRIER ON ALL FOUR
-          SIDES &mdash; SILL PAN FIRST, JAMBS SECOND, HEAD LAST. SEAL SHIM SPACE AT JAMBS, HEAD AND SILL W/
-          LOW-EXPANSION FOAM OR BACKER ROD AND SEALANT.</li>
-        <li>INTERIOR PARTITIONS W5, W6, W7, W8 AND W9 ARE NOT PART OF THE BUILDING THERMAL ENVELOPE AND CARRY NO AIR
-          BARRIER REQUIREMENT. THE SELF-ADHERED MEMBRANE AT W5 AND W6 IS A VAPOR AND MOISTURE CONTROL LAYER FOR THE
-          SAUNA AND STEAM SHOWER, NOT THE BUILDING AIR BARRIER.</li>
-        <li>WHERE A TUB, SHOWER OR STEAM SHOWER OCCURS ON AN EXTERIOR WALL, PROVIDE A RIGID AIR BARRIER (SEALED GYPSUM
-          OR SEALED SHEATHING) ON THE STUD FACE AND INSTALL IT BEFORE FIXTURES ARE SET; INSULATE THE CAVITY FULL
-          DEPTH, PER 2021 IECC TABLE R402.4.1.1.</li>
-        <li>GARAGE / DWELLING SEPARATION: SEE W13. AIR SEALING SHALL BE PROVIDED BETWEEN THE GARAGE AND ALL
-          CONDITIONED SPACES PER 2021 IECC TABLE R402.4.1.1, AND FIRE SEPARATION PER IRC R302.6. SEAL ALL WIRING,
-          PIPING AND DUCT PENETRATIONS THROUGH THE SEPARATION, INCLUDING THE MECHANICAL CHASE.</li>
-        <li>THE DESIGNATED AIR BARRIER SHALL BE INSPECTED AND APPROVED PRIOR TO CONCEALMENT. BUILDING SHALL TEST AT
-          NOT MORE THAN 1.5 ACH50 PER 2021 IECC R402.4.1.2 AS AMENDED BY THE CITY OF ASPEN.</li>
+        <li>CONTINUOUS AIR BARRIER = FULLY ADHERED MEMBRANE PLANE, OUTBOARD OF STRUCTURE: FOUNDATION WATERPROOFING
+          BELOW GRADE (W1, W2, W12); SELF-ADHERED WRB ABOVE GRADE (W3, W4, W10, W11, W13, W14); SELF-ADHERED
+          UNDERLAYMENT OVER ROOF SHEATHING. LAP AND SEAL ALL THREE TO EACH OTHER. SEE
+          <span class="fill">[SHEET __]</span>.</li>
+        <li>GYPSUM, SPRAY FOAM, NAIL BASE PANEL, RIGID INSULATION AND VINYL BLANKET ARE NOT THE AIR BARRIER.
+          DESIGNATED BARRIER GOVERNS.</li>
+        <li>LAP AIR BARRIER 3&Prime; MIN., SHINGLE FASHION. PRIME SUBSTRATES. OBSERVE MIN. APPLICATION TEMP. VERIFY
+          TAPE, PRIMER, SEALANT AND MEMBRANE COMPATIBILITY.</li>
+        <li>SEAL ALL AIR BARRIER PENETRATIONS SAME DAY MADE W/ APPROVED TAPE, LIQUID FLASHING OR MEMBRANE COLLAR.</li>
+        <li>AT NEW-TO-EXISTING (W10, W11): TERMINATE AND SEAL AIR BARRIER TO EXISTING SUBSTRATE W/ LIQUID-APPLIED
+          FLASHING AND TERMINATION BAR. VERIFY AND PRIME EXISTING SUBSTRATE.</li>
+        <li>AT ALL WINDOW AND DOOR R.O.: LAP MEMBRANE FLASHING TO AIR BARRIER ALL 4 SIDES &mdash; SILL PAN, JAMBS,
+          HEAD. SEAL SHIM SPACE W/ LOW-EXPANSION FOAM OR BACKER ROD AND SEALANT.</li>
+        <li>W5, W6, W7, W8, W9 NOT IN THERMAL ENVELOPE &mdash; NO AIR BARRIER REQ'D. MEMBRANE AT W5, W6 IS VAPOR
+          CONTROL ONLY.</li>
+        <li>AT TUB, SHOWER OR STEAM SHOWER ON EXTERIOR WALL: RIGID AIR BARRIER ON STUD FACE BEFORE FIXTURES SET.
+          INSULATE CAVITY FULL DEPTH. IECC TABLE R402.4.1.1.</li>
+        <li>GARAGE/DWELLING SEPARATION: SEE W14. SEAL ALL WIRING, PIPING AND DUCT PENETRATIONS, INCL. MECHANICAL
+          CHASE. IECC TABLE R402.4.1.1; IRC R302.6.</li>
+        <li>INSPECT AIR BARRIER BEFORE CONCEALMENT. TEST 1.5 ACH50 MAX. PER IECC R402.4.1.2 AS AMENDED BY CITY OF
+          ASPEN.</li>
       </ol>
+    </div>
+
+    <h3 style="margin-top:44px">The four callouts still missing</h3>
+    <div class="col">
+      <p style="margin-top:10px">Same style &mdash; leader text only, nothing that repeats a general note.</p>
+    </div>
+    <div class="tablewrap">
+      <table class="route">
+        <thead><tr><th>Type</th><th>Point the leader at</th><th>Callout text</th></tr></thead>
+        <tbody>
+          <tr class="flagrow"><td class="k">W2</td><td class="cond">Restore the deleted layer, outboard face of
+            concrete</td><td class="loc">FOUNDATION WATERPROOFING, REF WATERPROOFING CONSULTANT &mdash; DESIGNATED AIR
+            BARRIER. SEAL FORM-TIE HOLES AND COLD JOINTS BEFORE BACKFILL.</td></tr>
+          <tr class="flagrow"><td class="k">W2</td><td class="cond">The WRB callout now in that position</td>
+            <td class="loc missing">DELETE &mdash; A WRB IS NOT A BELOW-GRADE WATERPROOFING PRODUCT.</td></tr>
+          <tr><td class="k">W12</td><td class="cond">Assembly title</td><td class="loc">BOTH FACES OUTSIDE THERMAL
+            ENVELOPE. NO AIR BARRIER OR INSULATION REQ'D.</td></tr>
+          <tr><td class="k">W1</td><td class="cond">R-value note under the type</td><td class="loc">R-19 &mdash;
+            <span class="missing">CURRENTLY READS R-13 + R-10 c.i., COPIED FROM W2.</span></td></tr>
+        </tbody>
+      </table>
     </div>
   </section>
 
@@ -1307,31 +1286,23 @@
     <div class="notes">
       <div class="notes-h">Paste-ready &mdash; air sealing sheet</div>
       <ol>
-        <li>THE CONTINUOUS AIR BARRIER IS DESIGNATED AND SHOWN ON THE AIR BARRIER DIAGRAM, THIS SHEET. THE BARRIER
-          SHALL BE CONTINUOUS AND UNBROKEN AT ALL TRANSITIONS BETWEEN ASSEMBLIES AND SHALL REMAIN IN CONTINUOUS
-          ALIGNMENT W/ THE THERMAL BARRIER (INSULATION) THROUGHOUT.</li>
-        <li>BUILDING SHALL BE TESTED AND VERIFIED AT NOT MORE THAN 1.5 AIR CHANGES PER HOUR AT 50 PASCALS PER 2021
-          IECC R402.4.1.2 AS AMENDED BY THE CITY OF ASPEN. TEST PER RESNET/ICC 380, ASTM E779 OR ASTM E1827 BY AN
-          APPROVED THIRD PARTY. SUBMIT WRITTEN REPORT TO THE BUILDING DEPARTMENT PRIOR TO FINAL INSPECTION.</li>
-        <li>CONTRACTOR SHALL PERFORM A PRELIMINARY (DIAGNOSTIC) BLOWER DOOR TEST AFTER THE AIR BARRIER IS COMPLETE
-          AND BEFORE IT IS CONCEALED BY INSULATION OR FINISHES, SO THAT LEAKAGE CAN BE LOCATED AND CORRECTED WHILE
-          STILL ACCESSIBLE.</li>
-        <li>AIR BARRIER SHALL BE INSPECTED AND APPROVED PRIOR TO CONCEALMENT. DO NOT BACKFILL AGAINST BELOW-GRADE
-          BARRIER OR COVER THE BURIED SLAB MEMBRANE UNTIL INSPECTED.</li>
-        <li>WHERE THE AIR BARRIER CHANGES PLANE OR MATERIAL, PROVIDE A TRANSITION MEMBRANE LAPPED 3&Prime; MIN. ONTO
-          EACH ADJOINING SURFACE, INSTALLED SHINGLE FASHION TO SHED WATER.</li>
-        <li>ALL SEALANTS, TAPES, PRIMERS AND MEMBRANES SHALL BE COMPATIBLE W/ THE SUBSTRATES AND W/ ONE ANOTHER, AND
-          SHALL BE INSTALLED PER MANUFACTURER'S WRITTEN INSTRUCTIONS INCLUDING MINIMUM APPLICATION TEMPERATURE AND
-          REQUIRED SURFACE PREPARATION. PRIME SUBSTRATES WHERE REQUIRED FOR COLD-WEATHER ADHESION.</li>
-        <li>PENETRATIONS THROUGH THE AIR BARRIER SHALL BE SEALED THE SAME DAY THEY ARE MADE. NO UNSEALED PENETRATION
-          SHALL BE LEFT AT THE END OF A WORK DAY.</li>
-        <li>AIR-PERMEABLE INSULATION SHALL NOT BE USED AS AN AIR SEALING MATERIAL. FIBERGLASS, MINERAL WOOL AND
-          CELLULOSE ARE NOT AIR BARRIERS.</li>
-        <li>THE GENERAL CONTRACTOR SHALL DESIGNATE A SINGLE PARTY RESPONSIBLE FOR AIR BARRIER CONTINUITY ACROSS ALL
-          TRADES, AND SHALL REVIEW THE AIR BARRIER DIAGRAM W/ EACH TRADE PRIOR TO THAT TRADE'S WORK.</li>
-        <li>AT SPA 005, COLD PLUNGE 007 AND SPA MECH 009, MAINTAIN AIR BARRIER CONTINUITY AND PROVIDE VAPOR CONTROL
-          AND MECHANICAL DEHUMIDIFICATION PER MECHANICAL DRAWINGS. THESE SPACES OPERATE AT ELEVATED HUMIDITY AND ANY
-          BARRIER GAP WILL CARRY MOISTURE INTO THE ASSEMBLY.</li>
+        <li>AIR BARRIER PER DIAGRAM, THIS SHEET. CONTINUOUS AND UNBROKEN AT ALL ASSEMBLY TRANSITIONS. MAINTAIN
+          CONTINUOUS ALIGNMENT W/ INSULATION.</li>
+        <li>TEST 1.5 ACH50 MAX. PER 2021 IECC R402.4.1.2 AS AMENDED BY CITY OF ASPEN. TEST PER RESNET/ICC 380, ASTM
+          E779 OR E1827 BY APPROVED THIRD PARTY. SUBMIT REPORT BEFORE FINAL.</li>
+        <li>PERFORM DIAGNOSTIC BLOWER DOOR TEST AFTER AIR BARRIER COMPLETE, BEFORE CONCEALMENT BY INSULATION OR
+          FINISHES, SO LEAKAGE CAN BE FOUND AND CORRECTED WHILE ACCESSIBLE.</li>
+        <li>INSPECT AIR BARRIER BEFORE CONCEALMENT. DO NOT BACKFILL BELOW-GRADE BARRIER OR COVER BURIED SLAB
+          MEMBRANE UNTIL INSPECTED.</li>
+        <li>AT ALL PLANE OR MATERIAL CHANGES: TRANSITION MEMBRANE, 3&Prime; MIN. LAP EACH SIDE, SHINGLE FASHION.</li>
+        <li>ALL SEALANTS, TAPES, PRIMERS AND MEMBRANES COMPATIBLE W/ SUBSTRATES AND EACH OTHER. INSTALL PER MFR.,
+          INCL. MIN. APPLICATION TEMP. AND SURFACE PREP. PRIME FOR COLD-WEATHER ADHESION.</li>
+        <li>SEAL AIR BARRIER PENETRATIONS SAME DAY MADE. NO UNSEALED PENETRATION AT END OF WORK DAY.</li>
+        <li>AIR-PERMEABLE INSULATION IS NOT AN AIR BARRIER. FIBERGLASS, MINERAL WOOL AND CELLULOSE DO NOT QUALIFY.</li>
+        <li>GC TO DESIGNATE SINGLE PARTY RESPONSIBLE FOR AIR BARRIER CONTINUITY ACROSS TRADES. REVIEW AIR BARRIER
+          DIAGRAM W/ EACH TRADE BEFORE THAT TRADE'S WORK.</li>
+        <li>AT SPA 005, COLD PLUNGE 007, SPA MECH 009: MAINTAIN BARRIER CONTINUITY. PROVIDE VAPOR CONTROL AND
+          MECHANICAL DEHUMIDIFICATION PER MECH. ELEVATED HUMIDITY &mdash; ANY GAP CARRIES MOISTURE INTO ASSEMBLY.</li>
       </ol>
     </div>
   </section>
