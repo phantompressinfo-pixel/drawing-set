@@ -219,6 +219,30 @@
   .seal { fill: var(--barrier); }
   .ghost { fill: none; stroke: var(--faint); stroke-width: 1.1; }
 
+  /* ── DETAIL ROUTING ─────────────────────────────────────────────── */
+  table.route { min-width: 800px; }
+  .route td { font-size: 14px; }
+  .route .k { font-family: var(--f-data); font-size: 13px; font-weight: 700; color: var(--barrier); width: 66px; text-align: center; }
+  .route .cond { width: 40%; }
+  .route .need { width: 20%; font-family: var(--f-title); font-size: 10.5px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
+  .need-y { color: var(--barrier); }
+  .need-n { color: var(--graphite); }
+  .route .loc { width: 28%; font-family: var(--f-data); font-size: 12.2px; color: var(--graphite); }
+  .missing { color: var(--barrier); font-weight: 700; }
+
+  /* ── DETAIL CARDS ───────────────────────────────────────────────── */
+  .detcard { border: 1.5px solid var(--ink); margin-top: 22px; }
+  .det-h { padding: 14px 20px; background: var(--sunk); border-bottom: 1.5px solid var(--ink); display: flex; flex-wrap: wrap; gap: 10px 18px; align-items: baseline; }
+  .det-n { font-family: var(--f-title); font-size: 15px; font-weight: 700; letter-spacing: .02em; }
+  .det-k { font-family: var(--f-data); font-size: 11.5px; color: var(--barrier); letter-spacing: .06em; }
+  .det-w { font-family: var(--f-data); font-size: 11.5px; color: var(--graphite); letter-spacing: .04em; margin-left: auto; }
+  .det-b { padding: 18px 20px 20px; }
+  .det-b > p { font-size: 14.5px; color: var(--graphite); max-width: 78ch; }
+  .det-b ol { margin: 14px 0 0; padding: 0; list-style: none; counter-reset: d; }
+  .det-b ol li { counter-increment: d; position: relative; padding: 11px 0 11px 32px; border-top: 1px solid var(--rule); font-size: 14.5px; line-height: 1.5; color: var(--graphite); max-width: 84ch; }
+  .det-b ol li::before { content: counter(d); position: absolute; left: 0; top: 13px; font-family: var(--f-data); font-size: 12px; font-weight: 700; color: var(--barrier); }
+  .det-b ol li b { display: block; font-family: var(--f-title); font-size: 14px; color: var(--ink); margin-bottom: 2px; }
+
   /* ── NOTES ──────────────────────────────────────────────────────── */
   .notes { border: 1.5px solid var(--ink); }
   .notes-h { padding: 12px 18px; background: var(--sunk); border-bottom: 1.5px solid var(--ink); font-family: var(--f-title); font-size: 9.5px; font-weight: 700; letter-spacing: .15em; text-transform: uppercase; }
@@ -564,7 +588,7 @@
             <text class="t-dat"  x="1010" y="247">MAIN LEVEL</text>
             <text class="t-dat2" x="1010" y="261">99'-7 3/4"</text>
             <text class="t-dat"  x="1010" y="342">BASEMENT</text>
-            <text class="t-dat2" x="1010" y="356">89'-4"</text>
+            <text class="t-dat2" x="1010" y="356">85'-4"</text>
             <text class="t-dat"  x="1010" y="397">CRAWL SPACE</text>
             <text class="t-dat2" x="1010" y="411">77'-10 3/4"</text>
           </g>
@@ -643,6 +667,155 @@
           Ducts, wiring and lighting sit inside the barrier.</span></span>
       </li>
     </ul>
+  </section>
+
+  <section>
+    <h2>Do you need a detail for every keynote?</h2>
+    <div class="col">
+      <p class="lede">No. The reviewer's line about better detail is an incentive, not a requirement &mdash; and they
+        offered their own sample details precisely so you would not have to draw the generic ones.</p>
+      <p style="margin-top:20px">The working rule: <strong>draw a detail wherever the barrier changes plane or
+        changes material. Everywhere else a keynote on the section is enough.</strong> A reviewer rejects undrawn
+        transitions, not undrawn straight runs &mdash; nobody needs a detail to believe that a taped sheathing barrier
+        continues up a flat wall. By that test only <strong>five of the eight keynotes need a detail at all</strong>,
+        and four of those are already on your sheets. What is genuinely missing is the grade transition, the garage
+        separation, the mechanical chase and a window rough opening &mdash; and everything but the chase can be lifted
+        from the reviewer's own samples.</p>
+    </div>
+    <div class="tablewrap">
+      <table class="route">
+        <thead>
+          <tr><th>Keynote</th><th>Condition at the barrier</th><th>Detail required</th><th>Where it lives</th></tr>
+        </thead>
+        <tbody>
+          <tr><td class="k">1</td><td class="cond">Crawl slab vapor retarder turns up and seals to the foundation
+            wall &mdash; material change</td><td class="need need-y">Yes</td><td class="loc">Your wall section &mdash;
+            Image 2</td></tr>
+          <tr><td class="k">2</td><td class="cond">Below-grade concrete wall, straight vertical run</td>
+            <td class="need need-n">Keynote only</td><td class="loc">Already visible &mdash; Image 2</td></tr>
+          <tr><td class="k">3</td><td class="cond">Foundation waterproofing hands off to wall sheathing at grade
+            &mdash; material change</td><td class="need need-y">Yes</td><td class="loc missing">Not yet drawn</td></tr>
+          <tr><td class="k">4</td><td class="cond">Reentrant corner &mdash; buried slab membrane turns up the main
+            house wall &mdash; plane change</td><td class="need need-y">Yes</td><td class="loc">6/A6.01 &mdash;
+            Image 1</td></tr>
+          <tr><td class="k">5</td><td class="cond">Buried wing roof slab, straight horizontal run</td>
+            <td class="need need-n">Keynote only</td><td class="loc">Covered by 6/A6.01</td></tr>
+          <tr><td class="k">6</td><td class="cond">Taped sheathing runs past the Main and Upper rim joists &mdash; no
+            change of plane</td><td class="need need-n">Keynote only</td><td class="loc">Typical wall section</td></tr>
+          <tr><td class="k">7</td><td class="cond">Lower gable roof dies into the two-story wall &mdash; plane
+            change</td><td class="need need-y">Yes</td><td class="loc">Image 3 &mdash; not yet developed</td></tr>
+          <tr><td class="k">8</td><td class="cond">Roof deck foam laps onto wall sheathing tape at the eave &mdash;
+            material change</td><td class="need need-y">Yes</td><td class="loc">Image 3 &mdash; not yet
+            developed</td></tr>
+          <tr class="flagrow"><td class="k">&mdash;</td><td class="cond">Garage / dwelling separation as a sealed
+            plane</td><td class="need need-y">Yes</td><td class="loc missing">Not yet drawn &mdash; use the city's
+            sample</td></tr>
+          <tr class="flagrow"><td class="k">&mdash;</td><td class="cond">Mechanical chase crossing the
+            separation</td><td class="need need-y">Yes</td><td class="loc missing">Not yet drawn</td></tr>
+          <tr><td class="k">&mdash;</td><td class="cond">Window and door rough opening &mdash; membrane lapped to the
+            sheathing barrier</td><td class="need need-y">Yes</td><td class="loc">Use the city's sample
+            detail</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col">
+      <p style="margin-top:22px">For the generic conditions &mdash; grade transition, garage separation, window and
+        door openings, sealed boxes and penetrations &mdash; take the reviewer's sample details verbatim rather than
+        drawing your own. Reviewers rarely comment on their own details, and there is nothing project-specific about a
+        window rough opening that is worth the drafting hours. The mechanical chase is the exception: it is particular
+        to this building and nobody else's detail will describe it.</p>
+    </div>
+
+    <h3 style="margin-top:44px">What to add to the three details you have</h3>
+    <div class="col">
+      <p style="margin-top:10px">All three are drawn as construction assemblies. None of them currently shows an air
+        barrier. In each case the addition is the same shape: one heavy continuous line, the membrane or tape that
+        carries it across the transition, and a sequencing note saying when it gets installed and inspected.</p>
+    </div>
+
+    <div class="detcard">
+      <div class="det-h">
+        <span class="det-n">6/A6.01 &mdash; buried slab to wall</span>
+        <span class="det-k">KEYNOTE 4</span>
+        <span class="det-w">The one that fails the blower door</span>
+      </div>
+      <div class="det-b">
+        <p>This is the reentrant corner: the exterior slab build-up on the left, the wall rising on the right, and a
+          90&deg; inside corner between them that is permanently buried once the overburden goes on.</p>
+        <ol>
+          <li><b>The barrier line.</b> One heavy continuous line from the slab waterproofing, through the corner, up
+            the wall face, lapped onto the wall sheathing barrier. No break, no dotted segment.</li>
+          <li><b>Cant strip or fillet at the inside corner, with reinforcing fabric.</b> Self-adhered membranes bridge
+            a hard 90&deg; and crack there under movement. This is the most common failure at this exact condition and
+            the cheapest thing on the page to fix.</li>
+          <li><b>Transition membrane callout.</b> Lapped 3&Prime; minimum onto both the slab waterproofing and the wall
+            barrier, shingle fashion.</li>
+          <li><b>Termination bar and sealant.</b> Where the membrane laps up the wall.</li>
+          <li><b>Protection board.</b> Placed over the membrane before any overburden goes on.</li>
+          <li><b>Insulation continuity through the turn.</b> Show the rigid insulation over the slab meeting the wall
+            insulation with no gap. If the two do not touch at this corner, the barrier stops following the thermal
+            barrier and you have handed the reviewer the exact objection the comment names.</li>
+          <li><b>Sequencing note:</b> INSTALL AND INSPECT AIR BARRIER AT THIS CORNER PRIOR TO PLACING OVERBURDEN.
+            NOT ACCESSIBLE AFTER BACKFILL.</li>
+        </ol>
+      </div>
+    </div>
+
+    <div class="detcard">
+      <div class="det-h">
+        <span class="det-n">West wall section at grid 10</span>
+        <span class="det-k">KEYNOTES 1, 2, 5</span>
+        <span class="det-w">Carries three keynotes on one drawing</span>
+      </div>
+      <div class="det-b">
+        <p>Full height from grade to footing, so it can carry the whole below-grade run in a single detail &mdash;
+          which is worth saying to the reviewer explicitly in the keynote text.</p>
+        <ol>
+          <li><b>The barrier line, full height.</b> From the slab membrane at the top, down the exterior face of the
+            foundation wall, to the footing, then across the crawl slab. Label the exterior waterproofing as the air
+            barrier, not just as damp-proofing &mdash; the reviewer needs to see that you assigned it that role.</li>
+          <li><b>Draw the vapor retarder turn-up.</b> Class I, lapped 12&Prime; at seams and taped, turned up
+            6&Prime; minimum onto the wall, mechanically fastened with a termination bar and sealed. The turn-up is
+            the part that gets skipped in the field, so it has to exist on paper.</li>
+          <li><b>Seal the cold joint at the wall-to-footing junction.</b> Waterstop or sealant, called out.</li>
+          <li><b>Form-tie holes and cold joints.</b> Note that both are sealed before backfill.</li>
+          <li><b>Verify insulation continuity.</b> The rigid insulation appears at the crawl level; confirm it runs
+            unbroken from the crawl slab up to the underside of the Main Level floor. A gap at the basement level
+            while the barrier runs full height is precisely the misalignment the comment warns about.</li>
+          <li><b>Add one explanatory note:</b> CONCRETE FOUNDATION WALL IS THE AIR BARRIER; INSULATION IS INBOARD AND
+            IN CONTINUOUS CONTACT. This is a standard assembly, but saying so pre-empts the reviewer asking why the
+            two layers are not the same layer.</li>
+          <li><b>Show the hand-off at the top of the wall.</b> Where the below-grade waterproofing terminates and the slab
+            membrane above takes over.</li>
+        </ol>
+      </div>
+    </div>
+
+    <div class="detcard">
+      <div class="det-h">
+        <span class="det-n">Roof-to-wall detail</span>
+        <span class="det-k">KEYNOTES 7, 8</span>
+        <span class="det-w">Needs assembly layers first</span>
+      </div>
+      <div class="det-b">
+        <p>As it stands this one is framing geometry only &mdash; members, a bearing point and a scope box, with no
+          sheathing, insulation or membrane layers drawn. There is nothing yet for a barrier line to attach to, so
+          develop the assembly before adding air sealing information. Once it is built out:</p>
+        <ol>
+          <li><b>Closed-cell foam shown continuous.</b> At the underside of the roof sheathing, at full specified thickness,
+            with no gap at the rafter bearing.</li>
+          <li><b>Draw the actual overlap at the eave.</b> The foam has to physically lap onto the taped wall
+            sheathing &mdash; two lines approaching each other and stopping is what gets built as a gap. Dimension the
+            lap.</li>
+          <li><b>Show the wall barrier running behind the abutting roof.</b> At the gable-into-wall condition, add the
+            sequencing note: INSTALL AND TAPE WALL SHEATHING AIR BARRIER BEFORE FRAMING ABUTTING ROOF. This one
+            gets built wrong more often than any other transition on the job, because by the time anyone notices, the
+            roof is on.</li>
+          <li><b>Insulation continuity around the corner.</b> From the wall cavity to the roof deck, drawn touching.</li>
+          <li><b>Keynote bubbles 7 and 8.</b> Placed on the detail so it reads back to the section.</li>
+        </ol>
+      </div>
+    </div>
   </section>
 
   <section>
