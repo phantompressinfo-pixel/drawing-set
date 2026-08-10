@@ -205,6 +205,20 @@
   .crit:first-child { margin-top: 0; }
   .flagrow td { background: var(--barrier-w); }
 
+  /* ── MARKUP REVIEW ──────────────────────────────────────────────── */
+  .verdict { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5px; background: var(--rule); border: 1.5px solid var(--ink); }
+  .verdict > div { background: var(--paper); padding: 20px 22px 22px; }
+  .v-h { font-family: var(--f-title); font-size: 9.5px; font-weight: 700; letter-spacing: .16em; text-transform: uppercase; display: block; margin-bottom: 4px; }
+  .v-ok  .v-h { color: var(--reference); }
+  .v-fix .v-h { color: var(--barrier); }
+  .v-sub { font-size: 13.5px; color: var(--graphite); display: block; margin-bottom: 12px; }
+  .verdict ul { list-style: none; margin: 0; padding: 0; }
+  .verdict li { padding: 12px 0; border-top: 1px solid var(--rule); font-size: 14.5px; line-height: 1.5; color: var(--graphite); }
+  .verdict li b { font-family: var(--f-title); font-size: 14px; display: block; margin-bottom: 3px; color: var(--ink); }
+  @media (max-width: 820px) { .verdict { grid-template-columns: 1fr; } }
+  .seal { fill: var(--barrier); }
+  .ghost { fill: none; stroke: var(--faint); stroke-width: 1.1; }
+
   /* ── NOTES ──────────────────────────────────────────────────────── */
   .notes { border: 1.5px solid var(--ink); }
   .notes-h { padding: 12px 18px; background: var(--sunk); border-bottom: 1.5px solid var(--ink); font-family: var(--f-title); font-size: 9.5px; font-weight: 700; letter-spacing: .15em; text-transform: uppercase; }
@@ -282,13 +296,167 @@
   </section>
 
   <section>
-    <h2>Figure 1 &mdash; Barrier traced on the longitudinal section</h2>
+    <h2>Review of your two traced sections</h2>
     <div class="col">
-      <p>This is the drawing the comment is asking for. Overlay the heavy line on your section at
-        <span class="ref">A4.10</span>, carry the same overlay onto the companion section, and key the eight bubbles to
-        the details already on your sealing sheet. The trace reads bottom&#8209;up and west&#8209;to&#8209;east, the
-        order a hand would follow tracing it without lifting the pen &mdash; which is exactly the test the reviewer
-        will apply.</p>
+      <p class="lede">The longitudinal section is right. The transverse section has the barrier on the wrong side of
+        the garage, and that is the one thing on these two sheets a reviewer will reject.</p>
+    </div>
+    <div class="verdict">
+      <div class="v-ok">
+        <span class="v-h">Correct as traced</span>
+        <span class="v-sub">Longitudinal section &mdash; leave it alone</span>
+        <ul>
+          <li><b>Crawl space brought inside</b>Barrier at the crawl slab and foundation walls, nothing at the basement
+            floor. This is the call that makes 1.5&nbsp;ACH50 reachable.</li>
+          <li><b>Barrier at the roof deck</b>Follows the clipped gable over Bedrooms 4&ndash;6 rather than the ceiling
+            plane, so ducts and lighting sit inside it.</li>
+          <li><b>The reentrant corner at grid 8/9</b>Down the west wall, across the top of the buried wing slab, back
+            up the main house wall. Traced, not shortcut.</li>
+          <li><b>The valley at the Primary Bedroom gable</b>Where the lower gable dies into the two-story wall, the
+            line goes down into the valley and back up. Most markups skip that and jump the gap.</li>
+          <li><b>It closes</b>One loop, no lifted pen. That is the test the reviewer applies.</li>
+        </ul>
+      </div>
+      <div class="v-fix">
+        <span class="v-h">Change before resubmittal</span>
+        <span class="v-sub">Transverse section &mdash; garage bay</span>
+        <ul>
+          <li><b>The garage is inside the barrier</b>The line runs over the garage roof, down the outboard garage wall
+            and along the garage slab. That puts Garage&nbsp;102 &mdash; and its overhead doors &mdash; inside the
+            thermal envelope and inside the tested volume. See Figure&nbsp;3.</li>
+          <li><b>The separation itself has no line on it</b>The wall between Garage&nbsp;102 and Kitchen&nbsp;103 is
+            the plane the comment names, and it is currently unmarked.</li>
+          <li><b>The mechanical chase is an unsealed bypass</b>The chase crosses from the garage side down into the
+            basement. Whatever runs in it penetrates the barrier and needs a sealed detail and a keynote.</li>
+          <li><b>The overhead door threshold</b>Where the barrier turns from wall to slab at T.O.&nbsp;THRESHOLD
+            <span class="ref">99'-11"</span>, call out the transition explicitly &mdash; it is a leak point whichever
+            side of the wall the garage ends up on.</li>
+        </ul>
+      </div>
+    </div>
+
+    <figure>
+      <div class="figframe">
+        <svg viewBox="0 0 980 400" role="img" aria-label="Two transverse sections at the garage compared. At left, as currently traced, the air barrier wraps over the garage roof and along the garage slab, placing the garage and its overhead doors inside the thermal envelope. At right, the recommended fix runs the barrier straight down the garage-to-dwelling common wall to the crawl slab, leaving the garage outside.">
+
+          <text class="t-opt" x="20" y="26">A &mdash; AS TRACED</text>
+          <text class="t-opt" x="520" y="26">B &mdash; RECOMMENDED</text>
+
+          <!-- ══════════ PANEL A ══════════ -->
+          <rect class="earth" x="20"  y="205" width="20"  height="170"/>
+          <rect class="earth" x="40"  y="210" width="215" height="165"/>
+          <rect class="earth" x="460" y="205" width="30"  height="170"/>
+          <rect class="earth" x="20"  y="357" width="470" height="18"/>
+
+          <path class="poche" d="M40 130 L110 80 L178 80 L250 128 L250 141 L178 93 L110 93 L40 143 Z"/>
+          <rect class="poche" x="40"  y="143" width="9"   height="57"/>
+          <rect class="poche" x="250" y="128" width="11"  height="229"/>
+          <rect class="poche" x="40"  y="200" width="221" height="10"/>
+          <rect class="poche" x="261" y="128" width="199" height="12"/>
+          <rect class="poche" x="261" y="200" width="199" height="10"/>
+          <rect class="poche" x="261" y="290" width="199" height="10"/>
+          <rect class="poche" x="261" y="345" width="199" height="12"/>
+          <rect class="poche" x="449" y="140" width="11"  height="217"/>
+
+          <!-- overhead door -->
+          <g class="ln"><path d="M44 150 H49 M44 162 H49 M44 174 H49 M44 186 H49"/></g>
+          <text class="t-room" x="88" y="176" transform="rotate(-90 88 176)">OVERHEAD DOORS</text>
+
+          <!-- mechanical chase -->
+          <rect class="ln" x="238" y="228" width="42" height="18"/>
+          <text class="t-room" x="200" y="222">MECH CHASE</text>
+
+          <g class="t-room">
+            <text x="155" y="172">GARAGE 102</text>
+            <text x="358" y="172">KITCHEN 103</text>
+            <text x="358" y="268">SPA / STEAM</text>
+            <text x="358" y="330">CRAWL</text>
+          </g>
+
+          <path class="barrier" d="M40 198 L40 130 L110 80 L178 80 L250 128 L460 128 L460 350 L255 350 L255 198 Z"/>
+          <g class="brk">
+            <path d="M39 145 l10 10 M49 145 l-10 10"/>
+            <path d="M39 181 l10 10 M49 181 l-10 10"/>
+          </g>
+          <text class="t-note" x="20" y="386">Garage volume and overhead doors fall inside the tested envelope.</text>
+
+          <!-- ══════════ PANEL B ══════════ -->
+          <rect class="earth" x="520" y="205" width="20"  height="170"/>
+          <rect class="earth" x="540" y="210" width="215" height="165"/>
+          <rect class="earth" x="960" y="205" width="20"  height="170"/>
+          <rect class="earth" x="520" y="357" width="460" height="18"/>
+
+          <path class="poche" d="M540 130 L610 80 L678 80 L750 128 L750 141 L678 93 L610 93 L540 143 Z"/>
+          <rect class="poche" x="540" y="143" width="9"   height="57"/>
+          <rect class="poche" x="750" y="128" width="11"  height="229"/>
+          <rect class="poche" x="540" y="200" width="221" height="10"/>
+          <rect class="poche" x="761" y="128" width="199" height="12"/>
+          <rect class="poche" x="761" y="200" width="189" height="10"/>
+          <rect class="poche" x="761" y="290" width="189" height="10"/>
+          <rect class="poche" x="761" y="345" width="199" height="12"/>
+          <rect class="poche" x="949" y="140" width="11"  height="217"/>
+
+          <g class="ln"><path d="M544 150 H549 M544 162 H549 M544 174 H549 M544 186 H549"/></g>
+
+          <rect class="ln" x="738" y="228" width="42" height="18"/>
+
+          <g class="t-room">
+            <text x="655" y="172">GARAGE 102</text>
+            <text x="655" y="188">OUTSIDE ENVELOPE</text>
+            <text x="858" y="172">KITCHEN 103</text>
+            <text x="858" y="268">SPA / STEAM</text>
+            <text x="858" y="330">CRAWL</text>
+          </g>
+
+          <path class="barrier" d="M750 128 L750 350 L960 350 L960 128 Z"/>
+
+          <!-- seal points -->
+          <g>
+            <circle class="seal" cx="755" cy="134" r="5"/>
+            <circle class="seal" cx="755" cy="205" r="5"/>
+            <circle class="seal" cx="755" cy="237" r="5"/>
+            <circle class="seal" cx="755" cy="350" r="5"/>
+          </g>
+          <g class="lead">
+            <path d="M762 134 H812"/><path d="M762 205 H812"/><path d="M762 237 H812"/>
+          </g>
+          <g class="t-note">
+            <text x="818" y="137">TOP PLATE</text>
+            <text x="818" y="208">SLAB</text>
+            <text x="818" y="240">CHASE</text>
+          </g>
+          <text class="t-ok" x="520" y="386">One plane, sealed at slab, top plate and every penetration.</text>
+        </svg>
+      </div>
+      <figcaption>Figure 3. The barrier does not wrap the garage &mdash; it runs down the garage-to-dwelling common
+        wall and continues as the foundation wall below, so the garage sits outside the envelope while the separation
+        itself becomes the sealed plane the comment asks for.</figcaption>
+    </figure>
+
+    <div class="col">
+      <h3>Why the garage has to come out</h3>
+      <p style="margin-top:10px">Table&nbsp;R402.4.1.1 carries a dedicated <em>garage separation</em> row, which
+        presumes the garage is outside the conditioned space; the reviewer's own sentence pairs &ldquo;the thermal
+        envelope AND the garage/dwelling separation&rdquo; as two things, not one. As traced, the drawing answers
+        neither cleanly: the barrier encloses a space with no insulation following it, which is the exact alignment
+        failure the comment warns about.</p>
+      <p style="margin-top:16px">The practical argument is blunter. A blower door test per RESNET/ICC&nbsp;380
+        measures the enclosed conditioned volume. Sectional overhead doors seal against a rubber gasket on a concrete
+        slab &mdash; they are among the leakiest assemblies in any house, and no amount of taping fixes that. Leaving
+        the garage inside adds its volume and its doors to a test you must pass at 1.5&nbsp;ACH50.</p>
+      <p style="margin-top:16px">If the garage is genuinely intended to be heated and inside the envelope, that is a
+        defensible design, but then say so explicitly on the sheet and carry it through: insulated overhead doors with
+        listed U-factors, the garage envelope insulated to the same standard, and the garage volume included in the
+        test. Confirm which it is before this goes back &mdash; it changes the drawing either way.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Figure 1 &mdash; Keynote reference for the longitudinal trace</h2>
+    <div class="col">
+      <p>Your line already follows this. What is still missing on the sheet is the labelling: eight keynote bubbles at
+        the transitions, keyed to the details on your sealing sheet. A traced line proves continuity; a keyed line
+        proves you know <em>why</em> it is continuous, and that is the difference between one review round and two.</p>
     </div>
 
     <figure>
@@ -646,9 +814,11 @@
             <td class="c-proj">SEAL ALL PENETRATIONS OF THE DESIGNATED BARRIER W/ NON-HARDENING SEALANT, MEMBRANE
               COLLAR OR FIRE-RATED SEALANT AS APPLICABLE &mdash; INCLUDING FP-1 DIRECT VENT AND ROOF CAP, PLUMBING
               VENTS, DRYER AND RANGE EXHAUST, MAKEUP AIR, AND ELECTRICAL/SERVICE ENTRIES. FIREPLACE CHASE SEALED AT
-              ROOF DECK PENETRATION. STAIR SHAFT AT <span class="ref">001&nbsp;/&nbsp;110&nbsp;/&nbsp;201</span> IS
-              ENTIRELY WITHIN THE ENVELOPE; WHERE ANY SHAFT WALL IS ALSO AN EXTERIOR WALL, INSTALL AND TAPE THE
-              BARRIER BEFORE STAIR FRAMING. <span class="fill">[__/A9.1]</span></td>
+              ROOF DECK PENETRATION. THE MECHANICAL CHASE CROSSING THE GARAGE/DWELLING SEPARATION SHALL BE SEALED AT
+              THE BARRIER PLANE AND ALL CONTAINED SERVICES INDIVIDUALLY SEALED &mdash; SEE TRANSVERSE SECTION. STAIR
+              SHAFT AT <span class="ref">001&nbsp;/&nbsp;110&nbsp;/&nbsp;201</span> IS ENTIRELY WITHIN THE ENVELOPE;
+              WHERE ANY SHAFT WALL IS ALSO AN EXTERIOR WALL, INSTALL AND TAPE THE BARRIER BEFORE STAIR FRAMING.
+              <span class="fill">[__/A9.1]</span></td>
           </tr>
           <tr>
             <td class="c-comp">Narrow cavities</td>
@@ -662,11 +832,12 @@
             <td class="c-comp">Garage separation</td>
             <td class="c-code"><span class="crit">Air barrier</span>Air sealing shall be provided between the garage
               and conditioned spaces.</td>
-            <td class="c-proj">NOT CUT BY EITHER SECTION SHOWN &mdash; SEE <span class="fill">[SHEET __]</span> FOR THE
-              GARAGE/DWELLING SEPARATION DIAGRAM. GARAGE SIDE OF ALL COMMON WALLS AND CEILINGS SHEATHED W/ GYPSUM
-              BOARD, SEALED CONTINUOUSLY AT SLAB, PERIMETER, TOP PLATE, AND ALL PENETRATIONS. DOOR TO DWELLING TO BE
-              GASKETED AND SELF-CLOSING. SEAL ALL WIRING, PIPING AND DUCT PENETRATIONS THROUGH THE SEPARATION.
-              <span class="fill">[__/A9.1]</span></td>
+            <td class="c-proj">GARAGE 102 IS OUTSIDE THE THERMAL ENVELOPE. THE AIR BARRIER RUNS CONTINUOUSLY DOWN THE
+              GARAGE/DWELLING COMMON WALL AND CONTINUES AS THE FOUNDATION WALL BELOW &mdash; SEE TRANSVERSE SECTION
+              <span class="fill">[SHEET __]</span>. GARAGE SIDE OF ALL COMMON WALLS AND CEILINGS SHEATHED W/ GYPSUM
+              BOARD PER IRC R302.6, SEALED CONTINUOUSLY AT SLAB, PERIMETER, TOP PLATE, AND ALL PENETRATIONS. DOOR TO
+              DWELLING TO BE GASKETED AND SELF-CLOSING. SEAL ALL WIRING, PIPING AND DUCT PENETRATIONS THROUGH THE
+              SEPARATION, INCLUDING THE MECHANICAL CHASE. <span class="fill">[__/A9.1]</span></td>
           </tr>
           <tr>
             <td class="c-comp">Recessed lighting</td>
@@ -769,25 +940,30 @@
     <div class="open">
       <div>
         <span class="tag tag-block">Blocking</span>
-        <div class="open-b"><b>The garage separation is not on either section</b>The comment names it explicitly
-          &mdash; <em>&ldquo;this includes the thermal envelope AND the garage/dwelling separation.&rdquo;</em>
-          Neither section you sent cuts the garage, so as drawn this comment is only half answered. Add a partial
-          section or a plan-view diagram showing that separation as its own continuous plane, sealed at slab,
-          perimeter, top plate and every penetration.</div>
+        <div class="open-b"><b>Move the barrier off the garage</b>Retrace the transverse section per Figure&nbsp;3: no
+          line on the garage roof or the outboard garage wall, one line straight down the common wall to the crawl
+          slab. Then keynote the separation as its own sealed plane &mdash; slab, top plate, mechanical chase,
+          gasketed self-closing door.</div>
+      </div>
+      <div>
+        <span class="tag tag-block">Blocking</span>
+        <div class="open-b"><b>Detail the mechanical chase</b>It crosses the barrier plane between the garage side and
+          the basement, and it is the kind of bypass that is invisible at final inspection and fatal at the blower
+          door. It needs a sealed detail, a keynote on the section, and a line in the shafts and penetrations row.</div>
       </div>
       <div>
         <span class="tag tag-conf">Confirm</span>
-        <div class="open-b"><b>Crawl space in or out</b>Everything above assumes the crawl is unvented and inside the
-          envelope, which is the right call at a &minus;15&deg;F design temperature and keeps the barrier on the
-          foundation walls. If it is actually vented, the barrier has to move to the underside of the basement floor
-          and wrap every penetration through it &mdash; a materially harder path to 1.5&nbsp;ACH50, and roughly half
-          this document changes.</div>
+        <div class="open-b"><b>Is the garage heated?</b>If it is genuinely intended to be conditioned, the design is
+          defensible but the drawing has to commit: insulated overhead doors with listed U-factors, garage envelope
+          insulated to the same standard as the house, and the garage volume counted in the 1.5&nbsp;ACH50 test. If
+          it is not, Figure&nbsp;3 Panel&nbsp;B is the correction. Either way this has to be stated on the sheet, not
+          left for the reviewer to infer.</div>
       </div>
       <div>
         <span class="tag tag-conf">Confirm</span>
-        <div class="open-b"><b>Unvented attic</b>Figure 2 assumes closed-cell foam at the roof deck. If the roof is
-          framed and vented instead, the barrier moves to the ceiling plane and you owe the five details in Panel A
-          plus a sealed, insulated attic hatch.</div>
+        <div class="open-b"><b>Unvented attic</b>Figure 2 assumes closed-cell foam at the roof deck, which is what
+          your longitudinal trace shows. If any portion of the roof is framed and vented instead, the barrier moves to
+          the ceiling plane there and you owe the five details in Panel A plus a sealed, insulated attic hatch.</div>
       </div>
       <div>
         <span class="tag tag-conf">Confirm</span>
