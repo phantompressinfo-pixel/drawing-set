@@ -1238,7 +1238,152 @@
         then two notes.</p>
     </div>
 
-    <h3 style="margin-top:40px">Draw first</h3>
+    <figure style="margin-top:30px">
+      <div class="figframe">
+        <svg viewBox="0 0 1160 780" role="img" aria-label="Annotated reentrant corner detail at grid 8. A terrace roof assembly on the left — pavers, protection course, roof membrane, tapered rigid insulation, vapor retarder and structural slab — meets a vertical exterior wall on the right. A single continuous air barrier runs along the roof membrane, over a cant strip at the inside corner, and turns up the wall to lap onto the self-adhered weather resistant barrier behind the siding, terminating in a bar and sealant above the pavers.">
+          <defs>
+            <pattern id="rcgyp" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+              <line class="hx" x1="0" y1="0" x2="0" y2="6"/>
+            </pattern>
+            <pattern id="rcfoam" width="7" height="7" patternUnits="userSpaceOnUse">
+              <circle class="hd" cx="2" cy="2" r="1"/><circle class="hd" cx="5.5" cy="5.5" r="1"/>
+            </pattern>
+            <pattern id="rcshe" width="5" height="5" patternUnits="userSpaceOnUse">
+              <path class="hx" d="M0 0 L5 5 M5 0 L0 5"/>
+            </pattern>
+            <pattern id="rcnbp" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)">
+              <line class="hx" x1="0" y1="0" x2="0" y2="7"/>
+            </pattern>
+            <pattern id="rcrig" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+              <line class="hx" x1="0" y1="0" x2="0" y2="9"/><line class="hx" x1="4.5" y1="0" x2="4.5" y2="9"/>
+            </pattern>
+            <pattern id="rcconc" width="15" height="15" patternUnits="userSpaceOnUse">
+              <circle class="hd" cx="3" cy="4" r="1.1"/><circle class="hd" cx="10" cy="10" r="0.9"/>
+              <path class="hx" d="M11 2 l2.4 2 l-2.4 1.2 z"/><circle class="hd" cx="6" cy="12.5" r="0.8"/>
+            </pattern>
+          </defs>
+
+          <!-- grid 8 -->
+          <line class="gridln" x1="700" y1="46" x2="700" y2="644"/>
+          <circle class="gridc" cx="700" cy="28" r="16"/>
+          <text class="t-grid" x="700" y="33">8</text>
+
+          <!-- ROOF ASSEMBLY -->
+          <rect class="ly" x="290" y="250" width="334" height="24" fill="none"/>
+          <path class="ln" d="M356 250 V274 M422 250 V274 M488 250 V274 M554 250 V274"/>
+          <rect class="ly" x="290" y="274" width="334" height="12" fill="url(#rcshe)"/>
+          <rect class="ly" x="290" y="292" width="334" height="54" fill="url(#rcrig)"/>
+          <rect class="ly" x="290" y="346" width="334" height="6"  fill="none"/>
+          <rect class="ly" x="290" y="352" width="337" height="66" fill="url(#rcconc)"/>
+
+          <!-- WALL -->
+          <rect class="ly" x="600" y="70"  width="13"  height="86"  fill="none"/>
+          <path class="ln" d="M600 92 H613 M600 114 H613 M600 136 H613"/>
+          <rect class="ly" x="613" y="70"  width="9"   height="86"  fill="none"/>
+          <rect class="ly" x="627" y="70"  width="28"  height="550" fill="url(#rcnbp)"/>
+          <rect class="ly" x="655" y="70"  width="9"   height="550" fill="url(#rcshe)"/>
+          <rect class="ly" x="664" y="70"  width="68"  height="550" fill="url(#rcfoam)"/>
+          <rect class="ly" x="732" y="70"  width="16"  height="550" fill="url(#rcgyp)"/>
+          <rect class="ly" x="748" y="70"  width="13"  height="550" fill="none"/>
+          <g class="ln"><rect x="664" y="300" width="68" height="120" fill="var(--paper)"/>
+            <path d="M664 300 L732 420 M732 300 L664 420"/></g>
+
+          <!-- cant + termination bar -->
+          <path d="M594 292 H624 V262 Z" fill="var(--graphite)" opacity=".4" stroke="var(--graphite)" stroke-width="1"/>
+          <rect class="ly" x="616" y="170" width="14" height="14" fill="var(--graphite)"/>
+
+          <!-- break lines -->
+          <path class="ln" d="M290 250 V262 L282 268 L298 276 L290 282 V418"/>
+          <path class="ln" d="M627 70 H700 L706 62 L714 78 L720 70 H761"/>
+          <path class="ln" d="M627 620 H700 L706 612 L714 628 L720 620 H761"/>
+
+          <!-- ══ AIR BARRIER ══ -->
+          <path class="barrier" d="M290 289 H594 L624 259 V70" stroke-width="4.5"/>
+
+          <!-- space labels -->
+          <text class="t-side" x="300" y="112">EXT. &mdash; TERRACE</text>
+          <text class="t-side" x="300" y="466">CONDITIONED &mdash; WING BELOW</text>
+          <text class="t-side" x="766" y="600">INT.</text>
+
+          <!-- keynote -->
+          <path class="lead" d="M556 214 L604 268"/>
+          <circle class="knc" cx="544" cy="204" r="15" stroke-width="2.4"/>
+          <text class="t-kn" x="544" y="209">4</text>
+
+          <!-- LEFT LEADERS -->
+          <g class="lead-g">
+            <path d="M276 114 L400 262"/><path d="M276 156 L358 280"/>
+            <path d="M276 286 L378 316"/><path d="M276 341 L424 349"/>
+            <path d="M276 396 L400 385"/>
+          </g>
+          <path class="lead" d="M276 208 L338 289"/>
+
+          <g class="t-cal" text-anchor="end">
+            <text x="268" y="118">PAVERS ON PEDESTALS PER LANDSCAPE</text>
+            <text x="268" y="160">PROTECTION BOARD / DRAINAGE COURSE</text>
+            <text x="268" y="278">RIGID INSULATION, TAPERED,</text>
+            <text x="268" y="292">R-__ MIN. SLOPE TO DRAIN</text>
+            <text x="268" y="345">VAPOR RETARDER ON SLAB</text>
+            <text x="268" y="400">STRUCTURAL SLAB, REF STRUCT</text>
+          </g>
+          <g class="t-cal-b" text-anchor="end">
+            <text x="268" y="198">ROOF MEMBRANE, REF WATERPROOFING</text>
+            <text x="268" y="212">CONSULTANT &mdash; DESIGNATED AIR</text>
+            <text x="268" y="226">BARRIER. CONTINUOUS</text>
+          </g>
+
+          <!-- RIGHT LEADERS -->
+          <g class="lead-g">
+            <path d="M606 120 H770"/><path d="M624 178 H770"/>
+            <path d="M612 322 L770 352"/><path d="M700 520 H770"/>
+          </g>
+          <g class="lead">
+            <path d="M624 236 H770"/><path d="M610 278 L770 296"/><path d="M624 452 H770"/>
+          </g>
+
+          <g class="t-cal">
+            <text x="780" y="110">VERTICAL WOOD SIDING AND 1/2&quot; FURRING &mdash;</text>
+            <text x="780" y="124">HOLD 2&quot; MIN. ABOVE PAVERS</text>
+            <text x="780" y="182">TERMINATION BAR AND SEALANT, 8&quot; MIN.</text>
+            <text x="780" y="196">ABOVE FINISHED PAVER SURFACE</text>
+            <text x="780" y="356">ROOF INSULATION BUTT TIGHT TO NAIL</text>
+            <text x="780" y="370">BASE PANEL &mdash; NO GAP</text>
+            <text x="780" y="516">EXTERIOR WALL ASSEMBLY,</text>
+            <text x="780" y="530">SEE W__ / A5.00</text>
+          </g>
+          <g class="t-cal-b">
+            <text x="780" y="226">TRANSITION MEMBRANE &mdash; LAP 3&quot; MIN.</text>
+            <text x="780" y="240">ONTO ROOF MEMBRANE AND WALL WRB,</text>
+            <text x="780" y="254">SHINGLE FASHION</text>
+            <text x="780" y="286">CANT STRIP OR FILLET W/ REINFORCING</text>
+            <text x="780" y="300">FABRIC. MEMBRANE SHALL NOT BRIDGE</text>
+            <text x="780" y="314">A HARD 90&deg;</text>
+            <text x="780" y="448">SELF-ADHERED WEATHER RESISTANT</text>
+            <text x="780" y="462">BARRIER &mdash; DESIGNATED AIR BARRIER.</text>
+            <text x="780" y="476">CONTINUOUS</text>
+          </g>
+
+          <!-- notes -->
+          <g class="t-cal">
+            <text x="40" y="672">1.  AIR BARRIER AT THIS CORNER SHALL BE INSTALLED AND INSPECTED PRIOR TO PROTECTION BOARD,</text>
+            <text x="66" y="686">INSULATION AND PAVERS. NOT ACCESSIBLE AFTER COMPLETION.</text>
+            <text x="40" y="704">2.  SEE GENERAL NOTES 20&ndash;22, SHEET A5.00, FOR AIR BARRIER DESIGNATION AND LAP REQUIREMENTS.</text>
+          </g>
+
+          <!-- title block -->
+          <g class="ln"><path d="M40 726 H1120 M40 726 V768 M110 726 V768 M1120 726 V768 M40 768 H1120 M40 747 H110"/></g>
+          <text class="t-tag"  x="75" y="742" text-anchor="middle">6</text>
+          <text class="t-tag2" x="75" y="762" text-anchor="middle">A6.01</text>
+          <text class="t-title" x="130" y="748">REENTRANT CORNER AT TERRACE SLAB &mdash; GRID 8</text>
+          <text class="t-side" x="760" y="749">SCALE  1&quot; = 1'-0&quot;</text>
+        </svg>
+      </div>
+      <figcaption>Detail 6/A6.01 annotated. Layer thicknesses and the terrace build-up are schematic &mdash; adjust
+        to your actual assembly &mdash; but the barrier path, the cant and the lap sequence are the parts that have to
+        read exactly this way.</figcaption>
+    </figure>
+
+    <h3 style="margin-top:44px">Draw first</h3>
     <div class="detcard" style="margin-top:14px">
       <div class="det-b" style="padding-top:8px">
         <ol>
