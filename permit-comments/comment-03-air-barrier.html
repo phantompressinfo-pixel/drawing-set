@@ -1490,78 +1490,335 @@
 
     <figure style="margin-top:24px">
       <div class="figframe">
-        <svg viewBox="0 0 1160 620" role="img" aria-label="Basic detail of the mechanical chase at the garage to dwelling separation. A vertical air barrier plane divides the chase on the left from conditioned space on the right. A sheet metal duct, a pipe and a conduit cross the barrier, each sealed at the crossing with a collar and fire-rated sealant.">
+        <svg viewBox="0 0 1200 640" role="img" aria-label="Mechanical chase at the garage to dwelling separation. The chase is an open void between the garage foundation wall and the basement wall. Foundation waterproofing on the chase face of the basement wall is the designated air barrier, and each service crossing from the chase into the basement is sealed individually.">
           <defs>
-            <pattern id="mcgyp" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
-              <line class="hx" x1="0" y1="0" x2="0" y2="6"/></pattern>
-            <pattern id="mcfoam" width="7" height="7" patternUnits="userSpaceOnUse">
-              <circle class="hd" cx="2" cy="2" r="1"/><circle class="hd" cx="5.5" cy="5.5" r="1"/></pattern>
-            <pattern id="mcshe" width="5" height="5" patternUnits="userSpaceOnUse">
-              <path class="hx" d="M0 0 L5 5 M5 0 L0 5"/></pattern>
-            <pattern id="mcnbp" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)">
-              <line class="hx" x1="0" y1="0" x2="0" y2="7"/></pattern>
+            <pattern id="mgyp" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line class="hx" x1="0" y1="0" x2="0" y2="6"/></pattern>
+            <pattern id="mfoam" width="7" height="7" patternUnits="userSpaceOnUse"><circle class="hd" cx="2" cy="2" r="1"/><circle class="hd" cx="5.5" cy="5.5" r="1"/></pattern>
+            <pattern id="mshx" width="5" height="5" patternUnits="userSpaceOnUse"><path class="hx" d="M0 0 L5 5 M5 0 L0 5"/></pattern>
+            <pattern id="mnbp" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)"><line class="hx" x1="0" y1="0" x2="0" y2="7"/></pattern>
+            <pattern id="mconc" width="15" height="15" patternUnits="userSpaceOnUse"><circle class="hd" cx="3" cy="4" r="1.1"/><circle class="hd" cx="10" cy="10" r="0.9"/><path class="hx" d="M11 2 l2.4 2 l-2.4 1.2 z"/><circle class="hd" cx="6" cy="12.5" r="0.8"/></pattern>
+            <pattern id="mgrav" width="14" height="12" patternUnits="userSpaceOnUse"><circle class="hx" cx="4" cy="4" r="2.6"/><circle class="hx" cx="11" cy="9" r="2"/></pattern>
           </defs>
-
-          <rect class="ly" x="500" y="70" width="16" height="360" fill="url(#mcgyp)"/>
-          <rect class="ly" x="516" y="70" width="28" height="360" fill="url(#mcnbp)"/>
-          <rect class="ly" x="549" y="70" width="9"  height="360" fill="url(#mcshe)"/>
-          <rect class="ly" x="558" y="70" width="68" height="360" fill="url(#mcfoam)"/>
-          <rect class="ly" x="626" y="70" width="16" height="360" fill="url(#mcgyp)"/>
-          <rect class="ly" x="642" y="70" width="12" height="360" fill="none"/>
-
-          <path class="ln" d="M500 70 H654 L660 62 L668 78 L674 70 H700"/>
-          <path class="ln" d="M500 430 H654 L660 422 L668 438 L674 430 H700"/>
-
-          <g class="ln">
-            <rect x="320" y="122" width="460" height="46"/>
-            <rect x="320" y="238" width="460" height="22"/>
-            <rect x="320" y="328" width="460" height="14"/>
-          </g>
-
-          <path class="barrier" d="M546 70 V430" stroke-width="4.5"/>
-          <g>
-            <rect class="knc" x="536" y="114" width="20" height="62" rx="3"/>
-            <rect class="knc" x="536" y="230" width="20" height="38" rx="3"/>
-            <rect class="knc" x="536" y="320" width="20" height="30" rx="3"/>
-          </g>
-
-          <text class="t-side" x="400" y="96" text-anchor="middle">MECHANICAL CHASE</text>
-          <text class="t-side" x="400" y="110" text-anchor="middle">OUTSIDE AIR BARRIER</text>
-          <text class="t-side" x="690" y="462">CONDITIONED</text>
-
-          <g class="lead-g"><path d="M310 200 L420 160"/><path d="M310 282 L420 254"/></g>
-          <g class="lead"><path d="M546 96 H790"/><path d="M556 350 L790 380"/></g>
-
-          <g class="t-cal" text-anchor="end">
-            <text x="300" y="196">SHEET METAL DUCT, 26 GA MIN.</text>
-            <text x="300" y="210">NO OPENINGS INTO GARAGE &mdash; IRC R302.5.2</text>
-            <text x="300" y="286">PIPING AND CONDUIT</text>
-          </g>
-          <g class="t-cal-b">
-            <text x="800" y="90">SELF-ADHERED WRB &mdash; DESIGNATED AIR BARRIER,</text>
-            <text x="800" y="104">CONTINUOUS AROUND CHASE. SEE W14 / A5.00</text>
-            <text x="800" y="372">SEAL EACH SERVICE TO THE AIR BARRIER W/</text>
-            <text x="800" y="386">MEMBRANE COLLAR AND FIRE-RATED SEALANT.</text>
-            <text x="800" y="400">SEAL EACH PIPE AND CONDUIT INDIVIDUALLY</text>
-            <text x="800" y="414">&mdash; DO NOT SEAL SLEEVE ONLY</text>
-          </g>
-
-          <g class="t-cal">
-            <text x="40" y="500">1.  CHASE IS OUTSIDE THE AIR BARRIER. EVERY SERVICE LEAVING THE CHASE PENETRATES THE BARRIER.</text>
-            <text x="40" y="518">2.  PENETRATIONS THROUGH THE GARAGE / DWELLING SEPARATION SHALL BE FIRE-SEALED PER IRC R302.11.</text>
-            <text x="40" y="536">3.  SEAL SAME DAY MADE. SEE GENERAL NOTES 20&ndash;23, SHEET A5.00.</text>
-          </g>
-
-          <g class="ln"><path d="M40 556 H1120 M40 556 V598 M110 556 V598 M1120 556 V598 M40 598 H1120 M40 577 H110"/></g>
-          <text class="t-tag"  x="75" y="572" text-anchor="middle">10</text>
-          <text class="t-tag2" x="75" y="592" text-anchor="middle">A6.__</text>
-          <text class="t-title" x="130" y="578">MECHANICAL CHASE AT GARAGE / DWELLING SEPARATION</text>
-          <text class="t-side" x="800" y="579">SCALE  1 1/2&quot; = 1'-0&quot;</text>
+          <rect class="ly" x="300" y="200" width="190" height="40" fill="url(#mconc)"/>
+          <rect class="ly" x="420" y="240" width="70" height="200" fill="url(#mconc)"/>
+          <rect class="ly" x="620" y="120" width="76" height="320" fill="url(#mconc)"/>
+          <rect class="ly" x="696" y="170" width="164" height="30" fill="url(#mconc)"/>
+          <rect class="ly" x="380" y="440" width="330" height="46" fill="url(#mconc)"/>
+          <path class="ln" d="M300 200 H280 M860 170 H880 M696 200 H860"/>
+          <g class="ln"><rect x="490" y="216" width="330" height="32"/><rect x="490" y="316" width="330" height="20"/></g>
+          <path class="barrier" d="M617 120 V440" stroke-width="4.5"/>
+          <g><rect class="knc" x="607" y="210" width="20" height="44" rx="3"/><rect class="knc" x="607" y="310" width="20" height="32" rx="3"/></g>
+          <text class="t-side" x="555" y="382" text-anchor="middle">MECHANICAL CHASE</text>
+          <text class="t-side" x="555" y="396" text-anchor="middle">OUTSIDE AIR BARRIER</text>
+          <text class="t-side" x="330" y="186">GARAGE</text>
+          <text class="t-side" x="730" y="252">BASEMENT</text>
+          <g class="lead"><path d="M617 150 L888 170"/><path d="M627 340 L760 452 L888 452"/></g>
+          <g class="lead-g"><path d="M380 226 L292 250"/><path d="M455 326 L292 330"/><path d="M540 232 L292 150"/><path d="M690 462 L888 500"/></g>
+          <g class="t-cal-b"><text x="900" y="160">FOUNDATION WATERPROOFING ON CHASE FACE</text><text x="900" y="174">&mdash; DESIGNATED AIR BARRIER, CONTINUOUS</text>
+            <text x="900" y="442">SEAL EACH SERVICE TO THE BARRIER W/</text><text x="900" y="456">MEMBRANE COLLAR AND FIRE-RATED SEALANT.</text><text x="900" y="470">SEAL EACH ONE INDIVIDUALLY</text></g>
+          <g class="t-cal"><text x="280" y="122" text-anchor="end">SHEET METAL DUCT, 26 GA MIN. NO</text><text x="280" y="136" text-anchor="end">OPENINGS INTO GARAGE &mdash; IRC R302.5.2</text>
+            <text x="280" y="254" text-anchor="end">GARAGE SLAB AND FOUNDATION WALL</text>
+            <text x="280" y="334" text-anchor="end">PIPING AND CONDUIT</text>
+            <text x="900" y="504">CONTINUOUS FOOTING, REF STRUCT</text></g>
+          
+          <g class="t-cal"><text x="40" y="520">1.  CHASE IS AN OPEN VOID OUTSIDE THE AIR BARRIER. EVERY SERVICE LEAVING IT PENETRATES THE BARRIER.</text><text x="40" y="538">2.  PENETRATIONS THROUGH THE GARAGE / DWELLING SEPARATION SHALL BE FIRE-SEALED PER IRC R302.11.</text><text x="40" y="556">3.  SEAL SAME DAY MADE. SEE GENERAL NOTES 20&ndash;23, SHEET A5.00.</text></g>
+          <g class="ln"><path d="M40 582 H1160 M40 582 V624 M110 582 V624 M1160 582 V624 M40 624 H1160 M40 603 H110"/></g>
+          <text class="t-tag" x="75" y="598" text-anchor="middle">10</text>
+          <text class="t-tag2" x="75" y="618" text-anchor="middle">A6.__</text>
+          <text class="t-title" x="130" y="604">MECHANICAL CHASE AT GARAGE / DWELLING SEPARATION</text>
+          <text class="t-side" x="860" y="605">SCALE  1 1/2&quot; = 1&#39;-0&quot;</text>
         </svg>
       </div>
       <figcaption>Keynote 10, basic. The chase sits outside the barrier, so the only work is sealing each service
         where it crosses &mdash; collar and fire-rated sealant, individually, not a single seal around a sleeve.</figcaption>
     </figure>
+  </section>
+
+  <section>
+    <h2>Details 1, 2 &amp; 5, 3, 6, 7, 8 and 9</h2>
+    <div class="col">
+      <p class="lede">Basic, in the same conventions as 6/A6.01 and W14 &mdash; the barrier line, the callouts that
+        carry the air sealing information, and one or two notes each. Geometry is schematic against your crops; adjust
+        layer thicknesses and bearing conditions to what is actually drawn.</p>
+    </div>
+
+    <figure style="margin-top:32px"><div class="figframe"><svg viewBox="0 0 1200 600" role="img" aria-label="Crawl space slab at foundation wall. A Class I vapor retarder beneath the crawl slab turns up the interior face of the concrete foundation wall; foundation waterproofing runs down the exterior face, and the concrete wall carries continuity between the two.">
+          <defs>
+            <pattern id="agyp" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line class="hx" x1="0" y1="0" x2="0" y2="6"/></pattern>
+            <pattern id="afoam" width="7" height="7" patternUnits="userSpaceOnUse"><circle class="hd" cx="2" cy="2" r="1"/><circle class="hd" cx="5.5" cy="5.5" r="1"/></pattern>
+            <pattern id="ashx" width="5" height="5" patternUnits="userSpaceOnUse"><path class="hx" d="M0 0 L5 5 M5 0 L0 5"/></pattern>
+            <pattern id="anbp" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)"><line class="hx" x1="0" y1="0" x2="0" y2="7"/></pattern>
+            <pattern id="aconc" width="15" height="15" patternUnits="userSpaceOnUse"><circle class="hd" cx="3" cy="4" r="1.1"/><circle class="hd" cx="10" cy="10" r="0.9"/><path class="hx" d="M11 2 l2.4 2 l-2.4 1.2 z"/><circle class="hd" cx="6" cy="12.5" r="0.8"/></pattern>
+            <pattern id="agrav" width="14" height="12" patternUnits="userSpaceOnUse"><circle class="hx" cx="4" cy="4" r="2.6"/><circle class="hx" cx="11" cy="9" r="2"/></pattern>
+          </defs>
+          <rect class="ly" x="300" y="60" width="80" height="340" fill="url(#agrav)" opacity=".5"/>
+          <rect class="ly" x="384" y="60" width="76" height="340" fill="url(#aconc)"/>
+          <rect class="ly" x="340" y="400" width="200" height="66" fill="url(#aconc)"/>
+          <rect class="ly" x="460" y="300" width="340" height="40" fill="url(#aconc)"/>
+          <rect class="ly" x="460" y="340" width="340" height="42" fill="url(#agrav)"/>
+          <path class="ln" d="M800 300 H820 L828 292 L836 308 L844 300 H860 M800 382 H820 L828 374 L836 390 L844 382 H860"/>
+          <path class="barrier" d="M381 60 V400" stroke-width="4.5"/>
+          <path class="barrier" d="M800 296 H472 V214" stroke-width="4.5"/>
+          <rect class="ly" x="466" y="208" width="13" height="12" fill="var(--graphite)"/>
+          <text class="t-side" x="306" y="440">EXT.</text>
+          <text class="t-side" x="600" y="270">CRAWL SPACE</text>
+          <g class="lead"><path d="M292 130 L381 152"/><path d="M472 250 L888 196"/></g>
+          <g class="lead-g"><path d="M292 244 L420 258"/><path d="M292 428 L400 430"/><path d="M640 318 L888 300"/><path d="M640 362 L888 380"/></g>
+          <g class="t-cal-b"><text x="280" y="114" text-anchor="end">FOUNDATION WATERPROOFING &mdash;</text><text x="280" y="128" text-anchor="end">DESIGNATED AIR BARRIER BELOW GRADE</text>
+            <text x="900" y="178">CLASS I VAPOR RETARDER &mdash; LAP 12&quot; MIN.,</text><text x="900" y="192">TAPE JOINTS. TURN UP 6&quot; MIN. AND SEAL</text><text x="900" y="206">TO WALL W/ TERMINATION BAR</text></g>
+          <g class="t-cal"><text x="280" y="214" text-anchor="end">CONCRETE FOUNDATION WALL, REF STRUCT</text><text x="280" y="228" text-anchor="end">&mdash; CARRIES CONTINUITY BETWEEN THE</text><text x="280" y="242" text-anchor="end">WATERPROOFING AND THE VAPOR RETARDER</text>
+            <text x="280" y="424" text-anchor="end">FOOTING, REF STRUCT &mdash; SEAL COLD</text><text x="280" y="438" text-anchor="end">JOINT AT WALL</text>
+            <text x="900" y="304">CRAWL SPACE SLAB</text><text x="900" y="384">COMPACTED GRAVEL BASE</text></g>
+          
+          <g class="t-cal"><text x="40" y="498">1.  CRAWL SPACE IS UNVENTED AND WITHIN THE THERMAL ENVELOPE.</text><text x="40" y="516">2.  SEE GENERAL NOTES 20&ndash;23, SHEET A5.00.</text></g>
+          <g class="ln"><path d="M40 542 H1160 M40 542 V584 M110 542 V584 M1160 542 V584 M40 584 H1160 M40 563 H110"/></g>
+          <text class="t-tag" x="75" y="558" text-anchor="middle">1</text>
+          <text class="t-tag2" x="75" y="578" text-anchor="middle">A6.__</text>
+          <text class="t-title" x="130" y="564">CRAWL SPACE SLAB AT FOUNDATION WALL</text>
+          <text class="t-side" x="860" y="565">SCALE  1 1/2&quot; = 1&#39;-0&quot;</text>
+        </svg></div>
+      <figcaption>Detail 1. The vapor retarder and the foundation waterproofing sit on opposite faces of the wall &mdash; the concrete is what carries continuity between them. Say that in the callout so a reviewer tracing the line does not read it as a break.</figcaption></figure>
+
+    <figure style="margin-top:32px"><div class="figframe"><svg viewBox="0 0 1200 600" role="img" aria-label="Below-grade foundation wall at footing and slab. Foundation waterproofing on the exterior face is the designated air barrier, sealed at form-tie holes and at the cold joint to the footing, with the interior slab vapor retarder turned up and sealed to the wall.">
+          <defs>
+            <pattern id="cgyp" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line class="hx" x1="0" y1="0" x2="0" y2="6"/></pattern>
+            <pattern id="cfoam" width="7" height="7" patternUnits="userSpaceOnUse"><circle class="hd" cx="2" cy="2" r="1"/><circle class="hd" cx="5.5" cy="5.5" r="1"/></pattern>
+            <pattern id="cshx" width="5" height="5" patternUnits="userSpaceOnUse"><path class="hx" d="M0 0 L5 5 M5 0 L0 5"/></pattern>
+            <pattern id="cnbp" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)"><line class="hx" x1="0" y1="0" x2="0" y2="7"/></pattern>
+            <pattern id="cconc" width="15" height="15" patternUnits="userSpaceOnUse"><circle class="hd" cx="3" cy="4" r="1.1"/><circle class="hd" cx="10" cy="10" r="0.9"/><path class="hx" d="M11 2 l2.4 2 l-2.4 1.2 z"/><circle class="hd" cx="6" cy="12.5" r="0.8"/></pattern>
+            <pattern id="cgrav" width="14" height="12" patternUnits="userSpaceOnUse"><circle class="hx" cx="4" cy="4" r="2.6"/><circle class="hx" cx="11" cy="9" r="2"/></pattern>
+          </defs>
+          <rect class="ly" x="300" y="60" width="60" height="360" fill="url(#cgrav)" opacity=".5"/>
+          <rect class="ly" x="366" y="60" width="10" height="360" fill="url(#cshx)"/>
+          <rect class="ly" x="384" y="60" width="76" height="360" fill="url(#cconc)"/>
+          <rect class="ly" x="340" y="420" width="220" height="66" fill="url(#cconc)"/>
+          <rect class="ly" x="460" y="330" width="340" height="46" fill="url(#cconc)"/>
+          <rect class="ly" x="460" y="376" width="340" height="44" fill="url(#cgrav)"/>
+          <path class="ln" d="M800 330 H820 L828 322 L836 338 L844 330 H860 M800 420 H820 L828 412 L836 428 L844 420 H860"/>
+          <path class="barrier" d="M381 60 V420" stroke-width="4.5"/>
+          <path class="barrier" d="M800 326 H472 V240" stroke-width="4.5"/>
+          <rect class="ly" x="466" y="234" width="13" height="12" fill="var(--graphite)"/>
+          <text class="t-side" x="306" y="450">EXT.</text>
+          <text class="t-side" x="620" y="300">BASEMENT</text>
+          <g class="lead"><path d="M292 130 L381 150"/><path d="M292 262 L381 268"/><path d="M472 268 L888 218"/></g>
+          <g class="lead-g"><path d="M292 366 L370 340"/><path d="M620 350 L888 330"/><path d="M292 450 L420 450"/></g>
+          <g class="t-cal-b"><text x="280" y="114" text-anchor="end">FOUNDATION WATERPROOFING &mdash;</text><text x="280" y="128" text-anchor="end">DESIGNATED AIR BARRIER BELOW GRADE</text>
+            <text x="280" y="232" text-anchor="end">SEAL ALL FORM-TIE HOLES AND COLD</text><text x="280" y="246" text-anchor="end">JOINTS BEFORE BACKFILL. NO OTHER</text><text x="280" y="260" text-anchor="end">SEALING OF THIS WALL IS REQUIRED</text>
+            <text x="900" y="190">BASEMENT SLAB W/ CLASS I VAPOR RETARDER</text><text x="900" y="204">TURNED UP 6&quot; MIN. AND SEALED TO WALL</text></g>
+          <g class="t-cal"><text x="280" y="350" text-anchor="end">DRAINAGE COMPOSITE AND BACKFILL</text><text x="280" y="364" text-anchor="end">PER CIVIL</text>
+            <text x="900" y="334">CONCRETE FOUNDATION WALL, REF STRUCT</text>
+            <text x="280" y="446" text-anchor="end">FOOTING, REF STRUCT &mdash; SEAL COLD</text><text x="280" y="460" text-anchor="end">JOINT AT WALL</text></g>
+          
+          <g class="t-cal"><text x="40" y="498">1.  THE CONCRETE WALL IS ITSELF AIR-IMPERMEABLE; THE WATERPROOFING IS THE DESIGNATED AND DRAWN BARRIER.</text><text x="40" y="516">2.  SEE GENERAL NOTES 20&ndash;23, SHEET A5.00.</text></g>
+          <g class="ln"><path d="M40 542 H1160 M40 542 V584 M110 542 V584 M1160 542 V584 M40 584 H1160 M40 563 H110"/></g>
+          <text class="t-tag" x="75" y="558" text-anchor="middle">3</text>
+          <text class="t-tag2" x="75" y="578" text-anchor="middle">A6.__</text>
+          <text class="t-title" x="130" y="564">BELOW-GRADE WALL AT FOOTING AND SLAB</text>
+          <text class="t-side" x="860" y="565">SCALE  1 1/2&quot; = 1&#39;-0&quot;</text>
+        </svg></div>
+      <figcaption>Detail 3. Mostly a wall you do not have to do anything to: the concrete is already air-impermeable, so the work is sealing form-tie holes and the cold joint before backfill. Saying &ldquo;no other sealing of this wall is required&rdquo; is worth the line &mdash; it tells the contractor where not to spend money.</figcaption></figure>
+
+    <figure style="margin-top:32px"><div class="figframe"><svg viewBox="0 0 1200 700" role="img" aria-label="Green roof edge at foundation wall. Monolithic Membrane 6125 on the structural slab turns down at the slab edge and laps onto the foundation waterproofing running down the exterior face of the wall below.">
+          <defs>
+            <pattern id="bgyp" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line class="hx" x1="0" y1="0" x2="0" y2="6"/></pattern>
+            <pattern id="bfoam" width="7" height="7" patternUnits="userSpaceOnUse"><circle class="hd" cx="2" cy="2" r="1"/><circle class="hd" cx="5.5" cy="5.5" r="1"/></pattern>
+            <pattern id="bshx" width="5" height="5" patternUnits="userSpaceOnUse"><path class="hx" d="M0 0 L5 5 M5 0 L0 5"/></pattern>
+            <pattern id="bnbp" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)"><line class="hx" x1="0" y1="0" x2="0" y2="7"/></pattern>
+            <pattern id="bconc" width="15" height="15" patternUnits="userSpaceOnUse"><circle class="hd" cx="3" cy="4" r="1.1"/><circle class="hd" cx="10" cy="10" r="0.9"/><path class="hx" d="M11 2 l2.4 2 l-2.4 1.2 z"/><circle class="hd" cx="6" cy="12.5" r="0.8"/></pattern>
+            <pattern id="bgrav" width="14" height="12" patternUnits="userSpaceOnUse"><circle class="hx" cx="4" cy="4" r="2.6"/><circle class="hx" cx="11" cy="9" r="2"/></pattern>
+          </defs>
+          <rect class="ly" x="300" y="150" width="58" height="400" fill="url(#bgrav)" opacity=".5"/>
+          <rect class="ly" x="364" y="98" width="436" height="46" fill="url(#bgyp)" opacity=".55"/>
+          <rect class="ly" x="364" y="154" width="436" height="66" fill="url(#bconc)"/>
+          <rect class="ly" x="364" y="220" width="436" height="62" fill="url(#bfoam)"/>
+          <rect class="ly" x="364" y="282" width="436" height="9" fill="none"/>
+          <rect class="ly" x="364" y="291" width="76" height="259" fill="url(#bconc)"/>
+          <path class="ln" d="M800 98 H820 L828 90 L836 106 L844 98 H860 M800 291 H820 L828 283 L836 299 L844 291 H860"/>
+          <path class="ln" d="M440 291 H800"/>
+          <path class="barrier" d="M800 148 H380 L361 166 V550" stroke-width="4.5"/>
+          <text class="t-side" x="300" y="578">EXT. &mdash; BACKFILL</text>
+          <text class="t-side" x="500" y="330">CONDITIONED &mdash; WING BELOW</text>
+          <g class="lead"><path d="M292 400 L361 400"/><path d="M600 148 H888"/></g>
+          <g class="lead-g"><path d="M292 112 L500 120"/><path d="M640 186 H888"/><path d="M640 250 H888"/><path d="M410 460 L888 460"/></g>
+          <g class="t-cal-b"><text x="280" y="384" text-anchor="end">FOUNDATION WATERPROOFING &mdash;</text><text x="280" y="398" text-anchor="end">DESIGNATED AIR BARRIER BELOW GRADE.</text><text x="280" y="412" text-anchor="end">SEAL FORM-TIE HOLES AND COLD JOINTS</text>
+            <text x="900" y="134">MM6125 &mdash; DESIGNATED AIR BARRIER. TURN</text><text x="900" y="148">DOWN AT EDGE AND LAP 3&quot; MIN. ONTO THE</text><text x="900" y="162">FOUNDATION WATERPROOFING BELOW</text></g>
+          <g class="t-cal"><text x="280" y="116" text-anchor="end">GREEN ROOF ASSEMBLY ABOVE &mdash;</text><text x="280" y="130" text-anchor="end">SEE 6/A6.01</text>
+            <text x="900" y="190">8&quot; CONCRETE SLAB, SEE STRUCTURAL</text>
+            <text x="900" y="246">CLOSED CELL SPRAY FOAM TO MIN. R-50</text><text x="900" y="260">AT UNDERSIDE OF SLAB</text>
+            <text x="900" y="464">CONCRETE FOUNDATION WALL, REF STRUCT</text></g>
+          
+          <g class="t-cal"><text x="40" y="598">1.  ROOF MEMBRANE AND FOUNDATION WATERPROOFING ARE LAPPED AT THIS EDGE TO FORM ONE CONTINUOUS PLANE.</text><text x="40" y="616">2.  INSTALL AND INSPECT BEFORE BACKFILL AND BEFORE PLACING GROWING MEDIUM.</text></g>
+          <g class="ln"><path d="M40 642 H1160 M40 642 V684 M110 642 V684 M1160 642 V684 M40 684 H1160 M40 663 H110"/></g>
+          <text class="t-tag" x="75" y="658" text-anchor="middle">2 &amp; 5</text>
+          <text class="t-tag2" x="75" y="678" text-anchor="middle">A6.__</text>
+          <text class="t-title" x="130" y="664">GREEN ROOF EDGE AT FOUNDATION WALL</text>
+          <text class="t-side" x="860" y="665">SCALE  1 1/2&quot; = 1&#39;-0&quot;</text>
+        </svg></div>
+      <figcaption>Details 2 and 5 on one drawing. This is where the green roof membrane hands off to the below-grade waterproofing, so it resolves both keynotes at once.</figcaption></figure>
+
+    <figure style="margin-top:32px"><div class="figframe"><svg viewBox="0 0 1200 700" role="img" aria-label="Above-grade wall at eave. Self-adhered underlayment on the roof deck turns down at the wall and laps onto the self-adhered weather resistant barrier, which continues down the wall past the rim joists.">
+          <defs>
+            <pattern id="dgyp" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line class="hx" x1="0" y1="0" x2="0" y2="6"/></pattern>
+            <pattern id="dfoam" width="7" height="7" patternUnits="userSpaceOnUse"><circle class="hd" cx="2" cy="2" r="1"/><circle class="hd" cx="5.5" cy="5.5" r="1"/></pattern>
+            <pattern id="dshx" width="5" height="5" patternUnits="userSpaceOnUse"><path class="hx" d="M0 0 L5 5 M5 0 L0 5"/></pattern>
+            <pattern id="dnbp" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)"><line class="hx" x1="0" y1="0" x2="0" y2="7"/></pattern>
+            <pattern id="dconc" width="15" height="15" patternUnits="userSpaceOnUse"><circle class="hd" cx="3" cy="4" r="1.1"/><circle class="hd" cx="10" cy="10" r="0.9"/><path class="hx" d="M11 2 l2.4 2 l-2.4 1.2 z"/><circle class="hd" cx="6" cy="12.5" r="0.8"/></pattern>
+            <pattern id="dgrav" width="14" height="12" patternUnits="userSpaceOnUse"><circle class="hx" cx="4" cy="4" r="2.6"/><circle class="hx" cx="11" cy="9" r="2"/></pattern>
+          </defs>
+          <path class="ly" d="M330 336 L860 120 L860 140 L330 356 Z" fill="none"/>
+          <path class="ly" d="M330 358 L860 142 L860 158 L330 374 Z" fill="url(#dshx)"/>
+          <path class="ly" d="M330 376 L860 160 L860 232 L330 448 Z" fill="url(#dfoam)"/>
+          <path class="ln" d="M330 336 V448 M330 448 L560 356"/>
+          <rect class="ly" x="560" y="300" width="14" height="250" fill="none"/>
+          <rect class="ly" x="574" y="300" width="9" height="250" fill="none"/>
+          <rect class="ly" x="589" y="300" width="28" height="250" fill="url(#dnbp)"/>
+          <rect class="ly" x="617" y="300" width="9" height="250" fill="url(#dshx)"/>
+          <rect class="ly" x="626" y="300" width="60" height="250" fill="url(#dfoam)"/>
+          <rect class="ly" x="686" y="300" width="16" height="250" fill="url(#dgyp)"/>
+          <path class="ln" d="M560 550 H702 L708 542 L716 558 L722 550 H750"/>
+          <path class="barrier" d="M860 130 L600 236 L586 262 V550" stroke-width="4.5"/>
+          <text class="t-side" x="330" y="480">EXT.</text>
+          <text class="t-side" x="730" y="480">INT.</text>
+          <g class="lead"><path d="M700 190 L888 150"/><path d="M586 420 L888 400"/></g>
+          <g class="lead-g"><path d="M292 300 L400 350"/><path d="M292 420 L440 420"/><path d="M700 300 L888 288"/><path d="M660 480 L888 480"/></g>
+          <g class="t-cal-b"><text x="900" y="130">LAP ROOF UNDERLAYMENT ONTO WALL WRB</text><text x="900" y="144">3&quot; MIN. AT EAVE. DIMENSION THE LAP &mdash; TWO</text><text x="900" y="158">LINES STOPPING SHORT GETS BUILT AS A GAP</text>
+            <text x="900" y="382">SELF-ADHERED WRB &mdash; DESIGNATED AIR</text><text x="900" y="396">BARRIER, CONTINUOUS PAST ALL RIM JOISTS</text></g>
+          <g class="t-cal"><text x="280" y="292" text-anchor="end">ROOFING AND SELF-ADHERED UNDERLAYMENT</text><text x="280" y="306" text-anchor="end">&mdash; SEE 8/A6.__</text>
+            <text x="280" y="414" text-anchor="end">SOFFIT SHALL NOT BE VENTED &mdash;</text><text x="280" y="428" text-anchor="end">UNVENTED ROOF ASSEMBLY</text>
+            <text x="900" y="292">CLOSED CELL SPRAY FOAM AT UNDERSIDE OF</text><text x="900" y="306">DECK AND IN WALL CAVITY</text>
+            <text x="900" y="484">EXTERIOR WALL ASSEMBLY, SEE W__ / A5.00</text></g>
+          
+          <g class="t-cal"><text x="40" y="598">1.  THE OVERHANG IS OUTSIDE THE AIR BARRIER. THE BARRIER TURNS DOWN AT THE WALL, NOT AT THE FASCIA.</text><text x="40" y="616">2.  SEE GENERAL NOTES 20&ndash;23, SHEET A5.00.</text></g>
+          <g class="ln"><path d="M40 642 H1160 M40 642 V684 M110 642 V684 M1160 642 V684 M40 684 H1160 M40 663 H110"/></g>
+          <text class="t-tag" x="75" y="658" text-anchor="middle">6</text>
+          <text class="t-tag2" x="75" y="678" text-anchor="middle">A6.__</text>
+          <text class="t-title" x="130" y="664">ABOVE-GRADE WALL AT EAVE</text>
+          <text class="t-side" x="860" y="665">SCALE  1 1/2&quot; = 1&#39;-0&quot;</text>
+        </svg></div>
+      <figcaption>Detail 6. The overhang is outside the barrier &mdash; the line turns down at the wall, not at the fascia. Dimension the lap; two lines stopping near each other is what gets built as a gap.</figcaption></figure>
+
+    <figure style="margin-top:32px"><div class="figframe"><svg viewBox="0 0 1200 700" role="img" aria-label="Roof to wall. The wall weather resistant barrier runs continuously behind the abutting roof and the roof underlayment turns up the wall and laps onto it, with step and counterflashing over.">
+          <defs>
+            <pattern id="egyp" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line class="hx" x1="0" y1="0" x2="0" y2="6"/></pattern>
+            <pattern id="efoam" width="7" height="7" patternUnits="userSpaceOnUse"><circle class="hd" cx="2" cy="2" r="1"/><circle class="hd" cx="5.5" cy="5.5" r="1"/></pattern>
+            <pattern id="eshx" width="5" height="5" patternUnits="userSpaceOnUse"><path class="hx" d="M0 0 L5 5 M5 0 L0 5"/></pattern>
+            <pattern id="enbp" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)"><line class="hx" x1="0" y1="0" x2="0" y2="7"/></pattern>
+            <pattern id="econc" width="15" height="15" patternUnits="userSpaceOnUse"><circle class="hd" cx="3" cy="4" r="1.1"/><circle class="hd" cx="10" cy="10" r="0.9"/><path class="hx" d="M11 2 l2.4 2 l-2.4 1.2 z"/><circle class="hd" cx="6" cy="12.5" r="0.8"/></pattern>
+            <pattern id="egrav" width="14" height="12" patternUnits="userSpaceOnUse"><circle class="hx" cx="4" cy="4" r="2.6"/><circle class="hx" cx="11" cy="9" r="2"/></pattern>
+          </defs>
+          <rect class="ly" x="600" y="60" width="14" height="470" fill="none"/>
+          <rect class="ly" x="614" y="60" width="9" height="470" fill="none"/>
+          <rect class="ly" x="629" y="60" width="28" height="470" fill="url(#enbp)"/>
+          <rect class="ly" x="657" y="60" width="9" height="470" fill="url(#eshx)"/>
+          <rect class="ly" x="666" y="60" width="60" height="470" fill="url(#efoam)"/>
+          <rect class="ly" x="726" y="60" width="16" height="470" fill="url(#egyp)"/>
+          <path class="ln" d="M600 60 H742 L748 52 L756 68 L764 60 H790 M600 530 H742 L748 522 L756 538 L764 530 H790"/>
+          <path class="ly" d="M320 420 L600 280 L600 300 L320 440 Z" fill="none"/>
+          <path class="ly" d="M320 442 L600 302 L600 318 L320 458 Z" fill="url(#eshx)"/>
+          <path class="ly" d="M320 460 L600 320 L600 400 L320 540 Z" fill="url(#efoam)"/>
+          <path class="ln" d="M320 420 V540"/>
+          <path class="barrier" d="M626 60 V530" stroke-width="4.5"/>
+          <path class="barrier" d="M320 426 L588 292 L604 216" stroke-width="4.5"/>
+          <path class="ln" d="M604 210 L640 210 L640 224 L610 224"/>
+          <text class="t-side" x="330" y="368">ROOF BELOW</text>
+          <text class="t-side" x="756" y="300">INT.</text>
+          <g class="lead"><path d="M292 250 L430 356"/><path d="M626 130 L888 118"/></g>
+          <g class="lead-g"><path d="M620 214 L888 210"/><path d="M292 470 L400 500"/><path d="M700 400 L888 400"/></g>
+          <g class="t-cal-b"><text x="280" y="222" text-anchor="end">TURN ROOF UNDERLAYMENT UP WALL</text><text x="280" y="236" text-anchor="end">8&quot; MIN. AND LAP ONTO WALL WRB</text>
+            <text x="900" y="102">SELF-ADHERED WRB CONTINUOUS BEHIND THE</text><text x="900" y="116">ABUTTING ROOF &mdash; DESIGNATED AIR BARRIER</text></g>
+          <g class="t-cal"><text x="900" y="214">STEP AND COUNTERFLASHING PER ROOFING</text>
+            <text x="280" y="494" text-anchor="end">ROOF ASSEMBLY &mdash; SEE 8/A6.__</text>
+            <text x="900" y="404">EXTERIOR WALL ASSEMBLY, SEE W__ / A5.00</text></g>
+          
+          <g class="t-cal"><text x="40" y="580">1.  INSTALL AND SEAL WALL WRB BEFORE FRAMING THE ABUTTING ROOF. THIS SEQUENCE IS NOT OPTIONAL &mdash; ONCE THE</text><text x="40" y="598">     ROOF IS ON, THE BARRIER BEHIND IT CANNOT BE COMPLETED OR INSPECTED.</text><text x="40" y="616">2.  SEE GENERAL NOTES 20&ndash;23, SHEET A5.00.</text></g>
+          <g class="ln"><path d="M40 642 H1160 M40 642 V684 M110 642 V684 M1160 642 V684 M40 684 H1160 M40 663 H110"/></g>
+          <text class="t-tag" x="75" y="658" text-anchor="middle">7</text>
+          <text class="t-tag2" x="75" y="678" text-anchor="middle">A6.__</text>
+          <text class="t-title" x="130" y="664">ROOF TO WALL</text>
+          <text class="t-side" x="860" y="665">SCALE  1 1/2&quot; = 1&#39;-0&quot;</text>
+        </svg></div>
+      <figcaption>Detail 7. The whole detail is a sequencing instruction. Once the abutting roof is framed, the barrier behind it can neither be completed nor inspected, so the note has to be on the drawing where the framer will see it.</figcaption></figure>
+
+    <figure style="margin-top:32px"><div class="figframe"><svg viewBox="0 0 1200 620" role="img" aria-label="Roof at ridge, unvented. Self-adhered underlayment over the roof sheathing runs unbroken over the ridge as the designated air barrier, with closed cell spray foam in full contact with the underside of the deck and no ridge vent.">
+          <defs>
+            <pattern id="ggyp" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line class="hx" x1="0" y1="0" x2="0" y2="6"/></pattern>
+            <pattern id="gfoam" width="7" height="7" patternUnits="userSpaceOnUse"><circle class="hd" cx="2" cy="2" r="1"/><circle class="hd" cx="5.5" cy="5.5" r="1"/></pattern>
+            <pattern id="gshx" width="5" height="5" patternUnits="userSpaceOnUse"><path class="hx" d="M0 0 L5 5 M5 0 L0 5"/></pattern>
+            <pattern id="gnbp" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)"><line class="hx" x1="0" y1="0" x2="0" y2="7"/></pattern>
+            <pattern id="gconc" width="15" height="15" patternUnits="userSpaceOnUse"><circle class="hd" cx="3" cy="4" r="1.1"/><circle class="hd" cx="10" cy="10" r="0.9"/><path class="hx" d="M11 2 l2.4 2 l-2.4 1.2 z"/><circle class="hd" cx="6" cy="12.5" r="0.8"/></pattern>
+            <pattern id="ggrav" width="14" height="12" patternUnits="userSpaceOnUse"><circle class="hx" cx="4" cy="4" r="2.6"/><circle class="hx" cx="11" cy="9" r="2"/></pattern>
+          </defs>
+          <path class="ly" d="M330 330 L600 190 L870 330 L870 348 L600 208 L330 348 Z" fill="none"/>
+          <path class="ly" d="M330 352 L600 212 L870 352 L870 368 L600 228 L330 368 Z" fill="url(#gshx)"/>
+          <path class="ly" d="M330 372 L600 232 L870 372 L870 450 L600 310 L330 450 Z" fill="url(#gfoam)"/>
+          <path class="ln" d="M330 450 V500 M870 450 V500 M330 500 H870"/>
+          <rect class="ly" x="582" y="204" width="36" height="110" fill="none"/>
+          <path class="barrier" d="M330 336 L600 196 L870 336" stroke-width="4.5"/>
+          <text class="t-side" x="600" y="478" text-anchor="middle">CONDITIONED ATTIC &mdash; UNVENTED</text>
+          <g class="lead"><path d="M420 292 L292 220"/></g>
+          <g class="lead-g"><path d="M430 282 L292 160"/><path d="M414 306 L292 268"/><path d="M700 288 L888 226"/><path d="M600 250 L888 152"/><path d="M760 396 L888 420"/></g>
+          <g class="t-cal-b"><text x="280" y="206" text-anchor="end">SELF-ADHERED UNDERLAYMENT OVER ROOF</text><text x="280" y="220" text-anchor="end">SHEATHING &mdash; DESIGNATED AIR BARRIER.</text><text x="280" y="234" text-anchor="end">CONTINUOUS OVER RIDGE</text></g>
+          <g class="t-cal"><text x="280" y="154" text-anchor="end">ROOFING PER SPEC. SEE R1 / A5.__</text>
+            <text x="280" y="272" text-anchor="end">ROOF SHEATHING, REF STRUCT</text>
+            <text x="900" y="156">RIDGE BEAM, REF STRUCT</text>
+            <text x="900" y="216">CLOSED CELL SPRAY FOAM AT UNDERSIDE OF</text><text x="900" y="230">DECK, R-__ MIN. IN FULL CONTACT WITH THE</text><text x="900" y="244">SHEATHING &mdash; NO GAP</text>
+            <text x="900" y="414">UNVENTED ATTIC ASSEMBLY PER IRC R806.5</text><text x="900" y="428">&mdash; NO RIDGE OR SOFFIT VENTS</text></g>
+          
+          <g class="t-cal"><text x="40" y="518">1.  AIR BARRIER IS CONTINUOUS OVER THE RIDGE. NO VENTING OCCURS IN THIS ASSEMBLY.</text><text x="40" y="536">2.  SEAL ALL FASTENER AND ACCESSORY PENETRATIONS THROUGH THE UNDERLAYMENT.</text></g>
+          <g class="ln"><path d="M40 562 H1160 M40 562 V604 M110 562 V604 M1160 562 V604 M40 604 H1160 M40 583 H110"/></g>
+          <text class="t-tag" x="75" y="578" text-anchor="middle">8</text>
+          <text class="t-tag2" x="75" y="598" text-anchor="middle">A6.__</text>
+          <text class="t-title" x="130" y="584">ROOF AT RIDGE &mdash; UNVENTED</text>
+          <text class="t-side" x="860" y="585">SCALE  1 1/2&quot; = 1&#39;-0&quot;</text>
+        </svg></div>
+      <figcaption>Detail 8. The one thing this drawing has to prove is that the underlayment runs unbroken over the ridge &mdash; which is only possible because the assembly is unvented. State that on the detail.</figcaption></figure>
+
+    <figure style="margin-top:32px"><div class="figframe"><svg viewBox="0 0 1200 620" role="img" aria-label="Garage to dwelling separation at the slab. The self-adhered weather resistant barrier runs down the common wall, laps over the sill and is sealed to the garage slab, with Type X gypsum on the garage side sealed at its base.">
+          <defs>
+            <pattern id="hgyp" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line class="hx" x1="0" y1="0" x2="0" y2="6"/></pattern>
+            <pattern id="hfoam" width="7" height="7" patternUnits="userSpaceOnUse"><circle class="hd" cx="2" cy="2" r="1"/><circle class="hd" cx="5.5" cy="5.5" r="1"/></pattern>
+            <pattern id="hshx" width="5" height="5" patternUnits="userSpaceOnUse"><path class="hx" d="M0 0 L5 5 M5 0 L0 5"/></pattern>
+            <pattern id="hnbp" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)"><line class="hx" x1="0" y1="0" x2="0" y2="7"/></pattern>
+            <pattern id="hconc" width="15" height="15" patternUnits="userSpaceOnUse"><circle class="hd" cx="3" cy="4" r="1.1"/><circle class="hd" cx="10" cy="10" r="0.9"/><path class="hx" d="M11 2 l2.4 2 l-2.4 1.2 z"/><circle class="hd" cx="6" cy="12.5" r="0.8"/></pattern>
+            <pattern id="hgrav" width="14" height="12" patternUnits="userSpaceOnUse"><circle class="hx" cx="4" cy="4" r="2.6"/><circle class="hx" cx="11" cy="9" r="2"/></pattern>
+          </defs>
+          <rect class="ly" x="480" y="70" width="16" height="290" fill="url(#hgyp)"/>
+          <rect class="ly" x="496" y="70" width="28" height="290" fill="url(#hnbp)"/>
+          <rect class="ly" x="529" y="70" width="9" height="290" fill="url(#hshx)"/>
+          <rect class="ly" x="538" y="70" width="60" height="276" fill="url(#hfoam)"/>
+          <rect class="ly" x="538" y="346" width="60" height="14" fill="none"/>
+          <rect class="ly" x="598" y="70" width="16" height="290" fill="url(#hgyp)"/>
+          <path class="ln" d="M480 70 H614 L620 62 L628 78 L636 70 H660"/>
+          <rect class="ly" x="330" y="368" width="166" height="56" fill="url(#hconc)"/>
+          <rect class="ly" x="496" y="352" width="118" height="72" fill="url(#hconc)"/>
+          <rect class="ly" x="614" y="352" width="246" height="32" fill="url(#hconc)"/>
+          <path class="ln" d="M330 424 H860 M860 384 V424 M614 384 H860"/>
+          <path class="barrier" d="M526 70 V360 H498" stroke-width="4.5"/>
+          <text class="t-side" x="336" y="330">GARAGE</text>
+          <text class="t-side" x="700" y="330">DWELLING</text>
+          <g class="lead"><path d="M526 180 L888 168"/><path d="M506 362 L700 452 L888 452"/></g>
+          <g class="lead-g"><path d="M488 130 L292 130"/><path d="M510 246 L292 246"/><path d="M560 344 L420 470 L292 470"/><path d="M410 396 L292 396"/></g>
+          <g class="t-cal-b"><text x="900" y="158">SELF-ADHERED WRB &mdash; DESIGNATED AIR</text><text x="900" y="172">BARRIER. SEE W14 / A5.00</text>
+            <text x="900" y="442">LAP WRB DOWN OVER SILL AND SEAL</text><text x="900" y="456">CONTINUOUSLY TO SLAB</text></g>
+          <g class="t-cal"><text x="280" y="112" text-anchor="end">5/8&quot; TYPE X GYPSUM BOARD AT GARAGE SIDE</text><text x="280" y="126" text-anchor="end">PER IRC R302.6. SEAL AT BASE W/ A</text><text x="280" y="140" text-anchor="end">CONTINUOUS SEALANT BEAD</text>
+            <text x="280" y="250" text-anchor="end">INSULATED NAIL BASE PANEL, R-12 MIN</text>
+            <text x="280" y="474" text-anchor="end">SILL PLATE W/ SILL SEAL GASKET</text>
+            <text x="280" y="392" text-anchor="end">GARAGE SLAB &mdash; SLOPE TO DRAIN</text></g>
+          
+          <g class="t-cal"><text x="40" y="518">1.  NO DOOR OR OTHER OPENING OCCURS IN THIS SEPARATION.</text><text x="40" y="536">2.  SEAL ALL WIRING, PIPING AND DUCT PENETRATIONS &mdash; SEE 10/A6.__.</text></g>
+          <g class="ln"><path d="M40 562 H1160 M40 562 V604 M110 562 V604 M1160 562 V604 M40 604 H1160 M40 583 H110"/></g>
+          <text class="t-tag" x="75" y="578" text-anchor="middle">9</text>
+          <text class="t-tag2" x="75" y="598" text-anchor="middle">A6.__</text>
+          <text class="t-title" x="130" y="584">GARAGE / DWELLING SEPARATION AT SLAB</text>
+          <text class="t-side" x="860" y="585">SCALE  1 1/2&quot; = 1&#39;-0&quot;</text>
+        </svg></div>
+      <figcaption>Detail 9. Bottom of the separation, where the barrier turns out of the wall and seals to the garage slab.</figcaption></figure>
+
+    <div class="col">
+      <p style="margin-top:26px">Blanks to fill: <span class="fill">R-__</span> on the roof foam,
+        <span class="fill">W__</span> on the wall tags, the <span class="fill">A6.__</span> sheet numbers, and
+        <span class="fill">R1 / A5.__</span> on detail 8.</p>
+    </div>
   </section>
 
   <section>
