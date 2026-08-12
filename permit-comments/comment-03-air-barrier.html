@@ -15,6 +15,7 @@
     --barrier-w: #FBEDEB;
     --earth:     #E7E4DA;
     --poche:     #DEDFDA;
+    --foamfill:  #CBE0F3;
 
     --f-title: ui-sans-serif, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     --f-body:  "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
@@ -36,6 +37,7 @@
       --barrier-w: #2C1B1A;
       --earth:     #23262B;
       --poche:     #2E3238;
+      --foamfill:  #23394F;
     }
   }
   :root[data-theme="dark"] {
@@ -51,6 +53,7 @@
     --barrier-w: #2C1B1A;
     --earth:     #23262B;
     --poche:     #2E3238;
+    --foamfill:  #23394F;
   }
 
   * { box-sizing: border-box; }
@@ -221,6 +224,8 @@
 
   /* ── WALL TYPE DRAWING ──────────────────────────────────────────── */
   .lead-g { fill: none; stroke: var(--graphite); stroke-width: .9; }
+  .foam { fill: var(--foamfill); stroke: var(--graphite); stroke-width: 1; }
+  .sealdot { fill: var(--barrier); stroke: none; }
   .hx { stroke: var(--graphite); stroke-width: .55; fill: none; }
   .hd { fill: var(--graphite); opacity: .75; }
   .ly { stroke: var(--graphite); stroke-width: 1; }
@@ -1969,6 +1974,217 @@
         outstanding list, and the partition-to-exterior-wall intersection is a real condition in this house &mdash;
         the stair shaft and every interior wall that lands on an exterior wall &mdash; that none of the ten keynotes
         currently reaches.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Switching to the foam method</h2>
+    <div class="col">
+      <p class="lede">Decision noted &mdash; the designation moves to closed-cell spray foam with sealed framing
+        junctions. Two things follow: the notes on A5.00 have to be rewritten, and the details that cross framing
+        change. The ones that cross only concrete or membrane do not.</p>
+    </div>
+
+    <h3 style="margin-top:36px">Notes 20 and 21, rewritten</h3>
+    <div class="col">
+      <p style="margin-top:10px">The important move is that note 20 now names the material <em>by zone</em>. No
+        building uses one material from footing to ridge, and the reviewer is not asking for that &mdash; they are
+        asking that there be no ambiguity about which layer does the job in each zone, and that the zones lap to each
+        other. Your detail&nbsp;4 already shows exactly this handoff.</p>
+    </div>
+    <div class="notes notes-plain" style="margin-top:20px">
+      <div class="notes-h">Replace notes 20&ndash;21 &mdash; sheet A5.00</div>
+      <ol start="20" style="counter-reset: n 19">
+        <li>CONTINUOUS AIR BARRIER, BY ZONE: FRAMED WALLS AND ROOFS &mdash; CLOSED CELL SPRAY FOAM IN ALL CAVITIES W/
+          SEALANT AT ALL FRAMING JUNCTIONS NOT ENCAPSULATED BY FOAM. BELOW GRADE &mdash; FOUNDATION WATERPROOFING.
+          GREEN ROOF &mdash; MONOLITHIC MEMBRANE 6125 ON STRUCTURAL SLAB. AT MEMBRANE-TO-FRAMING TRANSITIONS &mdash;
+          SELF-ADHERED WRB, LAPPED TO BOTH. EACH ZONE SHALL BE LAPPED AND SEALED TO THE NEXT TO FORM ONE UNBROKEN
+          PLANE. SEE <span class="fill">[SHEET G2.07]</span>.</li>
+        <li>GYPSUM, NAIL BASE PANEL, RIGID INSULATION AND VINYL BLANKET PROVIDE SUPPLEMENTARY AIR SEALING BUT ARE NOT
+          THE DESIGNATED BARRIER. WHERE THEY CONFLICT W/ THE DESIGNATED BARRIER, THE DESIGNATED BARRIER GOVERNS.</li>
+      </ol>
+      <ol start="32" style="counter-reset: n 31">
+        <li>CLOSED CELL SPRAY FOAM SERVING AS THE AIR BARRIER SHALL BE 1-1/2&Prime; MIN. THICKNESS AND IN CONTINUOUS
+          CONTACT W/ THE SHEATHING OR ROOF DECK. NO GAPS, VOIDS, SHRINKAGE OR SEPARATION AT FRAMING.</li>
+        <li>APPLY FOAM AT HARD-TO-REACH CAVITIES BEFORE THEY ARE CLOSED UP, OR PROVIDE ACCESS HOLES. AIR BARRIER
+          INSPECTION SHALL OCCUR BEFORE CONCEALMENT.</li>
+      </ol>
+    </div>
+    <div class="col">
+      <p style="margin-top:22px">Note 32 matters more than it looks. Closed-cell foam only qualifies as an air
+        barrier material above a minimum thickness, and it only works if it stays bonded to the sheathing. Both are
+        field variables, and neither is currently stated anywhere in the set.</p>
+    </div>
+
+    <h3 style="margin-top:44px">Your four details &mdash; what to add</h3>
+
+    <div class="detcard">
+      <div class="det-h"><span class="det-n">1/G2.09 &mdash; crawl space slab</span><span class="det-k">KEYNOTE 1</span><span class="det-w">One real gap</span></div>
+      <div class="det-b">
+        <p>The title says crawl space slab, but the only callout on the drawing is the wall waterproofing. The slab
+          half of the condition is not described at all.</p>
+        <ol>
+          <li><b>The slab vapor retarder is missing entirely.</b> CLASS I VAPOR RETARDER UNDER SLAB &mdash; LAP
+            12&Prime; MIN., TAPE JOINTS, TURN UP 6&Prime; MIN. AND SEAL TO WALL W/ TERMINATION BAR. Without it the
+            detail does not answer its own title.</li>
+          <li><b>Draw the barrier as a line, not just a note.</b> Right now the waterproofing reads as a thin dashed
+            line indistinguishable from everything else. Give it the same heavy line you used on the diagrams so it
+            can be traced.</li>
+          <li><b>Add the continuity sentence.</b> CONCRETE WALL CARRIES CONTINUITY BETWEEN THE SLAB VAPOR RETARDER
+            AND THE EXTERIOR WATERPROOFING. The two are on opposite faces; without this a reviewer reads a break.</li>
+          <li><b>SEAL FORM-TIE HOLES AND COLD JOINTS BEFORE BACKFILL.</b></li>
+          <li><b>Label the drain and the insulation.</b> PERIMETER DRAIN, REF CIVIL &mdash; it is drawn but unnamed.
+            And VINYL BLANKET INSULATION, R-19 MIN., TAPE ALL JOINTS, SEE W1/A5.00.</li>
+          <li><b>Note:</b> CRAWL SPACE IS UNVENTED AND WITHIN THE THERMAL ENVELOPE.</li>
+        </ol>
+      </div>
+    </div>
+
+    <div class="detcard">
+      <div class="det-h"><span class="det-n">3/G2.09 &mdash; eave + sill plate</span><span class="det-k">KEYNOTES 3, 6</span><span class="det-w">Missing the handoff</span></div>
+      <div class="det-b">
+        <p>The foam and plate seals read well. What is missing is the thing keynote 3 actually is &mdash; the point
+          where the below-grade barrier hands off to the above-grade barrier.</p>
+        <ol>
+          <li><b>GASKET SILL PLATE TO FOUNDATION.</b> On the city's sheet, not on yours. This is the joint between
+            concrete and framing and it is the whole keynote 3 condition.</li>
+          <li><b>SEAL FOAM AND SILL GASKET TO FOUNDATION WATERPROOFING &mdash; TRANSITION FROM BELOW-GRADE BARRIER TO
+            ABOVE-GRADE BARRIER.</b> Say it explicitly. This is the single most important line on the detail and it
+            is the one a reviewer will look for.</li>
+          <li><b>SPRAY FOAM CONTINUOUS FROM ROOF DECK INTO WALL CAVITY AT TOP PLATE.</b> The plate seals imply it;
+            the note confirms it.</li>
+          <li><b>SOFFIT SHALL NOT BE VENTED &mdash; UNVENTED ROOF ASSEMBLY.</b> With foam at the deck there is no
+            vent path, and a vented soffit contradicts the assembly.</li>
+          <li><b>R-values on both the wall and roof foam</b>, and a note that the overhang is outside the barrier.</li>
+        </ol>
+      </div>
+    </div>
+
+    <div class="detcard">
+      <div class="det-h"><span class="det-n">Detail 8 &mdash; ridge</span><span class="det-k">KEYNOTE 8</span><span class="det-w">Needs the code citation</span></div>
+      <div class="det-b">
+        <p>Geometry is right and the foam reads. Four additions, one of which is what makes the assembly legal.</p>
+        <ol>
+          <li><b>AIR-IMPERMEABLE INSULATION IN DIRECT CONTACT W/ THE UNDERSIDE OF THE STRUCTURAL ROOF SHEATHING PER
+            IRC R806.5.</b> That citation is what permits an unvented attic, and closed-cell foam is exactly what
+            satisfies it. Cite it and the assembly stops being a question.</li>
+          <li><b>SPRAY FOAM CONTINUOUS AT RIDGE BEAM &mdash; APPLY BEFORE THE BEAM IS CLOSED IN OR PROVIDE ACCESS.</b>
+            The pocket beside a ridge beam is the classic void in a foamed roof, and your drawing shows exactly that
+            geometry.</li>
+          <li><b>CLOSED CELL SPRAY FOAM, R-__ MIN.</b> &mdash; no R-value is stated.</li>
+          <li><b>NO RIDGE OR SOFFIT VENTS OCCUR IN THIS ASSEMBLY.</b> Stating the absence is worth more than leaving
+            it to be inferred from a drawing with no vent on it.</li>
+        </ol>
+      </div>
+    </div>
+
+    <div class="detcard">
+      <div class="det-h"><span class="det-n">4/G2.09 &mdash; return corner at green roof</span><span class="det-k">KEYNOTE 4</span><span class="det-w">Nearly done</span></div>
+      <div class="det-b">
+        <p>The most complete of the four. It also happens to be the detail that proves note 20 has to name materials
+          by zone &mdash; you have a membrane, a foam and a WRB all meeting in one corner, and it works.</p>
+        <ol>
+          <li><b>Label the MM6125 itself.</b> It appears in the transition note but the membrane on the slab is not
+            called out. MONOLITHIC MEMBRANE 6125 (.215&Prime;) &mdash; AIR BARRIER AT GREEN ROOF.</li>
+          <li><b>Label the green roof build-up</b> &mdash; GREEN ROOF ASSEMBLY, SEE <span class="fill">__/__</span>.
+            Right now the hatched area is unnamed.</li>
+          <li><b>CLOSED CELL SPRAY FOAM AT UNDERSIDE OF SLAB, R-50 MIN.</b> The slab over the conditioned basement
+            needs its insulation shown, and it is the thermal half of this corner.</li>
+          <li><b>One sentence resolving the three materials:</b> AIR BARRIER IS CONTINUOUS THROUGH THIS CORNER &mdash;
+            MM6125 AT SLAB, TRANSITION MEMBRANE TO WALL WRB, WALL WRB LAPPED TO SPRAY FOAM AT SILL. Without it a
+            reviewer sees three barrier callouts and no statement of how they connect.</li>
+        </ol>
+      </div>
+    </div>
+
+    <h3 style="margin-top:44px">Redrawn for the foam method</h3>
+    <div class="col">
+      <p style="margin-top:10px">Details 7 and 9 are the two I drew that genuinely change &mdash; both cross framing,
+        so the barrier moves from a membrane outboard of the studs into the cavities, and the sealant dots become the
+        detail. Redrawn in your line-and-note style.</p>
+      <p style="margin-top:16px"><strong>Details 2&nbsp;&amp;&nbsp;5 and 10 do not change.</strong> They cross only
+        concrete, membrane and waterproofing &mdash; no framing &mdash; so the foam designation has no effect on them.
+        Leave them as drawn.</p>
+    </div>
+
+    <figure style="margin-top:26px"><div class="figframe"><svg viewBox="0 0 1200 720" role="img" aria-label="Roof to wall, air sealing by the spray foam method. The wall stud cavities are foamed continuously past the abutting roof, which must be done before the roof is framed. Sealant occurs between double plates and where the abutting roof sheathing meets the wall framing.">
+          <path class="foam" d="M604 70 V530 H666 V70 Z"/>
+          <g class="ln" fill="none">
+            <path d="M590 70 V530 M604 70 V530 M666 70 V530 M680 70 V530"/>
+            <path d="M590 70 H680 M590 530 H680"/>
+            <path d="M590 60 H680 L686 52 L694 68 L702 60 H730 M590 540 H680 L686 532 L694 548 L702 540 H730"/>
+          </g>
+          <path class="foam" d="M330 470 L590 340 L590 400 L330 530 Z"/>
+          <g class="ln" fill="none">
+            <path d="M320 424 L590 290 M320 442 L590 308 M330 470 L590 340 M330 530 L590 400"/>
+            <path d="M320 424 L330 470 M320 442 L330 530"/>
+            <path d="M590 290 V400"/>
+          </g>
+          <path class="ln" fill="none" d="M580 296 L580 340 L604 340"/>
+          <circle class="sealdot" cx="597" cy="300" r="5"/><circle class="sealdot" cx="597" cy="322" r="5"/><circle class="sealdot" cx="597" cy="344" r="5"/>
+          <circle class="sealdot" cx="597" cy="108" r="5"/><circle class="sealdot" cx="597" cy="130" r="5"/>
+          <text class="t-side" x="340" y="380">ROOF BELOW</text>
+          <text class="t-side" x="700" y="300">INT.</text>
+          <g class="lead-g">
+            <path d="M292 214 L580 300"/><path d="M292 470 L420 490"/>
+            <path d="M636 200 L888 130"/><path d="M636 440 L888 440"/><path d="M604 118 L888 90"/>
+          </g>
+          <g class="t-cal-b"><text x="280" y="194" text-anchor="end">SPRAY FOAM WALL CAVITIES BEHIND THE</text><text x="280" y="208" text-anchor="end">ABUTTING ROOF BEFORE THE ROOF IS</text><text x="280" y="222" text-anchor="end">FRAMED &mdash; NOT ACCESSIBLE AFTER</text>
+            <text x="900" y="110">SEAL FULL LENGTH OF DOUBLE PLATES AND</text><text x="900" y="124">STUD PACKS</text></g>
+          <g class="t-cal"><text x="280" y="474" text-anchor="end">SPRAY FOAM ROOF CAVITIES CONTINUOUS</text><text x="280" y="488" text-anchor="end">TO WALL. STEP AND COUNTERFLASHING</text><text x="280" y="502" text-anchor="end">PER ROOFING</text>
+            <text x="900" y="80">SEAL ABUTTING ROOF SHEATHING TO WALL</text><text x="900" y="94">FRAMING AT INTERSECTION</text>
+            <text x="900" y="436">SPRAY FOAM ALL CAVITIES, R-34 MIN.</text><text x="900" y="450">IN CONTINUOUS CONTACT W/ SHEATHING</text></g>
+          
+          <g class="t-cal"><text x="40" y="600">1.  FOAM THE WALL CAVITIES BEHIND THE ABUTTING ROOF BEFORE FRAMING THE ROOF, OR PROVIDE ACCESS HOLES.</text><text x="40" y="618">     THIS SEQUENCE IS NOT OPTIONAL &mdash; ONCE THE ROOF IS ON, THOSE CAVITIES CANNOT BE FOAMED OR INSPECTED.</text><text x="40" y="636">2.  SEE GENERAL NOTES 20&ndash;23 AND 30&ndash;31, SHEET A5.00.</text></g>
+          <g class="ln"><path d="M40 662 H1160 M40 662 V704 M110 662 V704 M1160 662 V704 M40 704 H1160 M40 683 H110"/></g>
+          <text class="t-tag" x="75" y="678" text-anchor="middle">7</text>
+          <text class="t-tag2" x="75" y="698" text-anchor="middle">G2.__</text>
+          <text class="t-title" x="130" y="684">ROOF TO WALL &mdash; (AIR SEALING)</text>
+          <text class="t-side" x="880" y="685">SCALE  3/4&quot; = 1&#39;-0&quot;</text>
+        </svg></div>
+      <figcaption>Detail 7, foam method. The whole detail is one sequencing instruction: the wall cavities behind the
+        abutting roof have to be foamed before the roof is framed, because after that they cannot be reached or
+        inspected.</figcaption></figure>
+
+    <figure style="margin-top:32px"><div class="figframe"><svg viewBox="0 0 1200 620" role="img" aria-label="Garage to dwelling separation at the slab, air sealing by the spray foam method. Closed cell spray foam fills the stud cavities, with a gasket under the sill plate, sealant from the bottom plate to the slab, and sealant along the full length of the double plates.">
+          <path class="foam" d="M604 70 V360 H666 V70 Z"/>
+          <g class="ln" fill="none">
+            <path d="M590 70 V376 M604 70 V360 M666 70 V360 M680 70 V376"/>
+            <path d="M590 70 H680"/>
+            <path d="M604 360 H666 M604 376 H666"/>
+            <path d="M590 60 H680 L686 52 L694 68 L702 60 H730"/>
+          </g>
+          <g class="ln" fill="none">
+            <path d="M340 384 H590 M340 384 V440 M340 440 H900 M900 384 V440 M680 384 H900"/>
+            <path d="M590 376 H680"/>
+          </g>
+          <circle class="sealdot" cx="597" cy="108" r="5"/><circle class="sealdot" cx="597" cy="130" r="5"/><circle class="sealdot" cx="597" cy="368" r="5"/><circle class="sealdot" cx="597" cy="382" r="5"/><circle class="sealdot" cx="673" cy="382" r="5"/>
+          <text class="t-side" x="360" y="350">GARAGE</text>
+          <text class="t-side" x="720" y="350">DWELLING</text>
+          <text class="t-side" x="600" y="416">SLAB</text>
+          <g class="lead-g">
+            <path d="M292 130 L588 120"/><path d="M292 250 L602 250"/>
+            <path d="M636 372 L888 300"/><path d="M636 386 L800 470 L888 470"/><path d="M682 230 L888 200"/>
+          </g>
+          <g class="t-cal-b"><text x="280" y="110" text-anchor="end">SEAL FULL LENGTH OF DOUBLE PLATES</text><text x="280" y="124" text-anchor="end">AND STUD PACKS. SEAL STUDS TO PLATES</text><text x="280" y="138" text-anchor="end">WHERE NOT COVERED W/ SPRAY FOAM</text>
+            <text x="900" y="286">GASKET SILL PLATE TO SLAB</text>
+            <text x="900" y="464">SEAL BOTTOM PLATE TO SLAB, FULL LENGTH</text><text x="900" y="478">BOTH SIDES</text></g>
+          <g class="t-cal"><text x="280" y="254" text-anchor="end">SPRAY FOAM ALL CAVITIES, R-34 MIN.</text>
+            <text x="900" y="196">5/8&quot; TYPE X GYPSUM AT GARAGE SIDE PER</text><text x="900" y="210">IRC R302.6 &mdash; SEAL AT BASE</text></g>
+          
+          <g class="t-cal"><text x="40" y="518">1.  NO DOOR OR OTHER OPENING OCCURS IN THIS SEPARATION.</text><text x="40" y="536">2.  SEAL ALL WIRING, PIPING AND DUCT PENETRATIONS &mdash; SEE 10/G2.__.</text></g>
+          <g class="ln"><path d="M40 562 H1160 M40 562 V604 M110 562 V604 M1160 562 V604 M40 604 H1160 M40 583 H110"/></g>
+          <text class="t-tag" x="75" y="578" text-anchor="middle">9</text>
+          <text class="t-tag2" x="75" y="598" text-anchor="middle">G2.__</text>
+          <text class="t-title" x="130" y="584">GARAGE / DWELLING SEPARATION AT SLAB &mdash; (AIR SEALING)</text>
+          <text class="t-side" x="880" y="585">SCALE  1&quot; = 1&#39;-0&quot;</text>
+        </svg></div>
+      <figcaption>Detail 9, foam method. With the barrier in the cavity, the separation depends on a gasket under the
+        sill, a sealed bottom plate and sealed double plates &mdash; three beads rather than one membrane.</figcaption></figure>
+
+    <div class="col">
+      <p style="margin-top:26px">Send the rest when you have them &mdash; 2, 5 and 10 I would expect to pass as drawn,
+        so the ones worth a look are anything that crosses framing.</p>
     </div>
   </section>
 
