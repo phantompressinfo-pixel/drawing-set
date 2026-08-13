@@ -1,0 +1,820 @@
+<title>Energy Code Sheet — Aspen</title>
+
+<style>
+  /* ── LIGHT ("PLOT") ─────────────────────────────────────────────── */
+  :root {
+    --paper:     #FCFCFA;
+    --surface:   #F3F3EF;
+    --sunk:      #EDEDE7;
+    --ink:       #191B1E;
+    --graphite:  #5C6167;
+    --faint:     #C6C8C3;
+    --rule:      #E0E0D9;
+    --reference: #1F5EA8;
+    --barrier:   #C22A22;
+    --barrier-w: #FBEDEB;
+    --earth:     #E7E4DA;
+    --poche:     #DEDFDA;
+    --foamfill:  #CBE0F3;
+
+    --f-title: ui-sans-serif, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    --f-body:  "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+    --f-data:  ui-monospace, SFMono-Regular, "SF Mono", "Cascadia Mono", Menlo, Consolas, "Liberation Mono", monospace;
+  }
+
+  /* ── DARK ("MODEL SPACE") ───────────────────────────────────────── */
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper:     #131519;
+      --surface:   #1A1D22;
+      --sunk:      #202429;
+      --ink:       #E9E7E2;
+      --graphite:  #9BA2AA;
+      --faint:     #3B4048;
+      --rule:      #292D33;
+      --reference: #74AEEC;
+      --barrier:   #FF6E5F;
+      --barrier-w: #2C1B1A;
+      --earth:     #23262B;
+      --poche:     #2E3238;
+      --foamfill:  #23394F;
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper:     #131519;
+    --surface:   #1A1D22;
+    --sunk:      #202429;
+    --ink:       #E9E7E2;
+    --graphite:  #9BA2AA;
+    --faint:     #3B4048;
+    --rule:      #292D33;
+    --reference: #74AEEC;
+    --barrier:   #FF6E5F;
+    --barrier-w: #2C1B1A;
+    --earth:     #23262B;
+    --poche:     #2E3238;
+    --foamfill:  #23394F;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--f-body);
+    font-size: 16.5px;
+    line-height: 1.62;
+    margin: 0;
+    padding: 0 24px 96px;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .sheet { max-width: 1120px; margin: 0 auto; }
+  .col   { max-width: 72ch; }
+
+  /* ── TITLE BLOCK ────────────────────────────────────────────────── */
+  .titleblock {
+    border: 1.5px solid var(--ink);
+    margin: 40px 0 52px;
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  .tb-main { padding: 24px 26px 22px; border-bottom: 1.5px solid var(--ink); }
+  .tb-eyebrow {
+    font-family: var(--f-title); font-size: 11px; font-weight: 700;
+    letter-spacing: .18em; text-transform: uppercase; color: var(--barrier);
+    margin: 0 0 10px;
+  }
+  .tb-main h1 {
+    font-family: var(--f-title); font-size: clamp(24px, 3.6vw, 38px);
+    font-weight: 700; letter-spacing: -.015em; line-height: 1.1;
+    margin: 0; text-wrap: balance;
+  }
+  .tb-sub { font-size: 16px; color: var(--graphite); margin: 12px 0 0; max-width: 62ch; }
+  .tb-fields { display: grid; grid-template-columns: repeat(4, 1fr); }
+  .tb-fields div { padding: 12px 16px 14px; border-right: 1px solid var(--rule); }
+  .tb-fields div:last-child { border-right: 0; }
+  .tb-k {
+    font-family: var(--f-title); font-size: 9.5px; font-weight: 700;
+    letter-spacing: .16em; text-transform: uppercase; color: var(--graphite);
+    display: block; margin-bottom: 4px;
+  }
+  .tb-v { font-family: var(--f-data); font-size: 13px; color: var(--ink); }
+  @media (max-width: 700px) {
+    .tb-fields { grid-template-columns: repeat(2, 1fr); }
+    .tb-fields div:nth-child(2) { border-right: 0; }
+  }
+
+  /* ── SECTION HEADS ──────────────────────────────────────────────── */
+  h2 {
+    font-family: var(--f-title); font-size: 13px; font-weight: 700;
+    letter-spacing: .17em; text-transform: uppercase;
+    margin: 0; padding-bottom: 9px;
+    border-bottom: 1.5px solid var(--ink);
+  }
+  section { margin-top: 60px; }
+  section > * + * { margin-top: 20px; }
+  h3 {
+    font-family: var(--f-title); font-size: 15px; font-weight: 700;
+    letter-spacing: -.005em; margin: 0;
+  }
+  p { margin: 0; }
+  .lede { font-size: 18px; line-height: 1.55; }
+
+  strong { font-weight: 700; }
+  code, .mono { font-family: var(--f-data); font-size: .88em; }
+  .ref { color: var(--reference); font-family: var(--f-data); font-size: .86em; white-space: nowrap; }
+  .fill { color: var(--barrier); font-family: var(--f-data); font-size: .86em; }
+
+  /* ── STRATEGY CARDS ─────────────────────────────────────────────── */
+  .strategy { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5px; background: var(--rule); border: 1.5px solid var(--ink); }
+  .strategy > div { background: var(--paper); padding: 18px 20px 20px; }
+  .st-zone {
+    font-family: var(--f-title); font-size: 9.5px; font-weight: 700;
+    letter-spacing: .16em; text-transform: uppercase; color: var(--graphite);
+  }
+  .st-mat { font-family: var(--f-title); font-size: 17px; font-weight: 700; margin: 6px 0 8px; line-height: 1.2; }
+  .st-why { font-size: 14.5px; line-height: 1.5; color: var(--graphite); }
+  @media (max-width: 760px) { .strategy { grid-template-columns: 1fr; } }
+
+  /* ── FIGURES ────────────────────────────────────────────────────── */
+  figure { margin: 0; }
+  .figframe { border: 1.5px solid var(--ink); background: var(--surface); padding: 14px; overflow-x: auto; }
+  .figframe svg { display: block; width: 100%; min-width: 720px; height: auto; }
+  figcaption {
+    font-size: 14px; color: var(--graphite); margin-top: 12px;
+    padding-left: 14px; border-left: 2px solid var(--faint); max-width: 76ch;
+  }
+
+  .ln     { fill: none; stroke: var(--graphite); stroke-width: 1.1; }
+  .poche  { fill: var(--poche); stroke: var(--graphite); stroke-width: 1; }
+  .earth  { fill: var(--earth); stroke: none; }
+  .grade  { fill: none; stroke: var(--graphite); stroke-width: 1.6; }
+  .datum  { fill: none; stroke: var(--reference); stroke-width: 1; stroke-dasharray: 9 3 2 3; opacity: .85; }
+  .gridln { fill: none; stroke: var(--faint); stroke-width: .9; stroke-dasharray: 7 4 2 4; }
+  .gridc  { fill: none; stroke: var(--reference); stroke-width: 1.2; }
+  .barrier{ fill: none; stroke: var(--barrier); stroke-width: 4; stroke-linejoin: round; stroke-linecap: round; }
+  .lead   { fill: none; stroke: var(--barrier); stroke-width: .9; }
+  .knc    { fill: var(--paper); stroke: var(--barrier); stroke-width: 1.7; }
+  .brk    { fill: none; stroke: var(--barrier); stroke-width: 2; }
+
+  text { font-family: var(--f-data); }
+  .t-room { fill: var(--graphite); font-size: 9.5px; letter-spacing: .05em; text-anchor: middle; }
+  .t-kn   { fill: var(--barrier); font-size: 12px; font-weight: 700; text-anchor: middle; }
+  .t-grid { fill: var(--reference); font-size: 11px; font-weight: 700; text-anchor: middle; }
+  .t-dat  { fill: var(--reference); font-size: 10px; letter-spacing: .04em; }
+  .t-dat2 { fill: var(--reference); font-size: 9.5px; opacity: .8; }
+  .t-lbl  { fill: var(--graphite); font-size: 10px; letter-spacing: .1em; }
+  .t-opt  { fill: var(--ink); font-family: var(--f-title); font-size: 12.5px; font-weight: 700; letter-spacing: .04em; }
+  .t-note { fill: var(--barrier); font-size: 10.5px; }
+  .t-ok   { fill: var(--graphite); font-size: 10.5px; }
+
+  /* ── KEYNOTE LEGEND ─────────────────────────────────────────────── */
+  .keynotes { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 0; border: 1.5px solid var(--ink); }
+  .keynotes li { display: grid; grid-template-columns: 34px 1fr; gap: 12px; padding: 15px 18px; border-bottom: 1px solid var(--rule); align-items: start; }
+  .keynotes li:nth-child(odd) { border-right: 1px solid var(--rule); }
+  .keynotes li:nth-last-child(-n+2) { border-bottom: 0; }
+  .kn-num {
+    width: 26px; height: 26px; border-radius: 50%;
+    border: 1.7px solid var(--barrier); color: var(--barrier);
+    font-family: var(--f-data); font-size: 12.5px; font-weight: 700;
+    display: grid; place-items: center; margin-top: 1px;
+  }
+  .kn-h { font-family: var(--f-title); font-size: 13.5px; font-weight: 700; display: block; margin-bottom: 3px; }
+  .kn-b { font-size: 14.5px; line-height: 1.48; color: var(--graphite); }
+  .kn-risk { border-left: 3px solid var(--barrier); }
+  @media (max-width: 820px) {
+    .keynotes { grid-template-columns: 1fr; }
+    .keynotes li:nth-child(odd) { border-right: 0; }
+    .keynotes li:nth-last-child(2) { border-bottom: 1px solid var(--rule); }
+  }
+
+  /* ── TABLE ──────────────────────────────────────────────────────── */
+  .tablewrap { overflow-x: auto; border: 1.5px solid var(--ink); }
+  table { border-collapse: collapse; width: 100%; min-width: 860px; font-size: 13.5px; }
+  thead th {
+    font-family: var(--f-title); font-size: 9.5px; font-weight: 700;
+    letter-spacing: .15em; text-transform: uppercase; text-align: left;
+    padding: 12px 16px; background: var(--sunk); border-bottom: 1.5px solid var(--ink);
+    vertical-align: bottom;
+  }
+  tbody td { padding: 14px 16px; border-bottom: 1px solid var(--rule); vertical-align: top; line-height: 1.5; }
+  tbody tr:last-child td { border-bottom: 0; }
+  tbody tr:nth-child(even) { background: var(--surface); }
+  .c-comp { width: 15%; font-family: var(--f-title); font-weight: 700; font-size: 13px; }
+  .c-code { width: 38%; color: var(--graphite); font-size: 13px; }
+  .c-proj { width: 47%; font-family: var(--f-data); font-size: 12.2px; line-height: 1.55; }
+  .crit { font-family: var(--f-title); font-size: 9px; font-weight: 700; letter-spacing: .13em; color: var(--ink); display: block; margin-top: 8px; }
+  .crit:first-child { margin-top: 0; }
+  .flagrow td { background: var(--barrier-w); }
+
+  /* ── MARKUP REVIEW ──────────────────────────────────────────────── */
+  .verdict { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5px; background: var(--rule); border: 1.5px solid var(--ink); }
+  .verdict > div { background: var(--paper); padding: 20px 22px 22px; }
+  .v-h { font-family: var(--f-title); font-size: 9.5px; font-weight: 700; letter-spacing: .16em; text-transform: uppercase; display: block; margin-bottom: 4px; }
+  .v-ok  .v-h { color: var(--reference); }
+  .v-fix .v-h { color: var(--barrier); }
+  .v-sub { font-size: 13.5px; color: var(--graphite); display: block; margin-bottom: 12px; }
+  .verdict ul { list-style: none; margin: 0; padding: 0; }
+  .verdict li { padding: 12px 0; border-top: 1px solid var(--rule); font-size: 14.5px; line-height: 1.5; color: var(--graphite); }
+  .verdict li b { font-family: var(--f-title); font-size: 14px; display: block; margin-bottom: 3px; color: var(--ink); }
+  @media (max-width: 820px) { .verdict { grid-template-columns: 1fr; } }
+  .seal { fill: var(--barrier); }
+  .ghost { fill: none; stroke: var(--faint); stroke-width: 1.1; }
+
+  /* ── WALL TYPE DRAWING ──────────────────────────────────────────── */
+  .lead-g { fill: none; stroke: var(--graphite); stroke-width: .9; }
+  .foam { fill: var(--foamfill); stroke: var(--graphite); stroke-width: 1; }
+  .sealdot { fill: var(--barrier); stroke: none; }
+  .hx { stroke: var(--graphite); stroke-width: .55; fill: none; }
+  .hd { fill: var(--graphite); opacity: .75; }
+  .ly { stroke: var(--graphite); stroke-width: 1; }
+  .t-cal   { fill: var(--graphite); font-size: 10px; letter-spacing: .02em; }
+  .t-cal-b { fill: var(--barrier); font-size: 10px; font-weight: 700; letter-spacing: .02em; }
+  .t-side  { fill: var(--graphite); font-size: 10px; letter-spacing: .08em; }
+  .t-tag   { fill: var(--ink); font-size: 14px; font-weight: 700; }
+  .t-tag2  { fill: var(--graphite); font-size: 9.5px; }
+  .t-title { fill: var(--ink); font-family: var(--f-title); font-size: 14px; font-weight: 700; letter-spacing: .04em; }
+
+  /* ── DETAIL ROUTING ─────────────────────────────────────────────── */
+  table.route { min-width: 800px; }
+  .route td { font-size: 14px; }
+  .route .k { font-family: var(--f-data); font-size: 13px; font-weight: 700; color: var(--barrier); width: 66px; text-align: center; }
+  .route .cond { width: 40%; }
+  .route .need { width: 20%; font-family: var(--f-title); font-size: 10.5px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
+  .need-y { color: var(--barrier); }
+  .need-n { color: var(--graphite); }
+  .route .loc { width: 28%; font-family: var(--f-data); font-size: 12.2px; color: var(--graphite); }
+  .missing { color: var(--barrier); font-weight: 700; }
+
+  /* ── DETAIL CARDS ───────────────────────────────────────────────── */
+  .detcard { border: 1.5px solid var(--ink); margin-top: 22px; }
+  .det-h { padding: 14px 20px; background: var(--sunk); border-bottom: 1.5px solid var(--ink); display: flex; flex-wrap: wrap; gap: 10px 18px; align-items: baseline; }
+  .det-n { font-family: var(--f-title); font-size: 15px; font-weight: 700; letter-spacing: .02em; }
+  .det-k { font-family: var(--f-data); font-size: 11.5px; color: var(--barrier); letter-spacing: .06em; }
+  .det-w { font-family: var(--f-data); font-size: 11.5px; color: var(--graphite); letter-spacing: .04em; margin-left: auto; }
+  .det-b { padding: 18px 20px 20px; }
+  .det-b > p { font-size: 14.5px; color: var(--graphite); max-width: 78ch; }
+  .det-b ol { margin: 14px 0 0; padding: 0; list-style: none; counter-reset: d; }
+  .det-b ol li { counter-increment: d; position: relative; padding: 11px 0 11px 32px; border-top: 1px solid var(--rule); font-size: 14.5px; line-height: 1.5; color: var(--graphite); max-width: 84ch; }
+  .det-b ol li::before { content: counter(d); position: absolute; left: 0; top: 13px; font-family: var(--f-data); font-size: 12px; font-weight: 700; color: var(--barrier); }
+  .det-b ol li b { display: block; font-family: var(--f-title); font-size: 14px; color: var(--ink); margin-bottom: 2px; }
+
+  /* ── NOTES ──────────────────────────────────────────────────────── */
+  .notes { border: 1.5px solid var(--ink); }
+  .notes-h { padding: 12px 18px; background: var(--sunk); border-bottom: 1.5px solid var(--ink); font-family: var(--f-title); font-size: 9.5px; font-weight: 700; letter-spacing: .15em; text-transform: uppercase; }
+  .notes ol { margin: 0; padding: 8px 18px 16px 18px; list-style: none; counter-reset: n; }
+  .notes li { counter-increment: n; position: relative; padding: 11px 0 11px 62px; border-bottom: 1px solid var(--rule); font-family: var(--f-data); font-size: 12.4px; line-height: 1.55; }
+  .notes li:last-child { border-bottom: 0; }
+  .notes li::before { content: "AS-" counter(n, decimal-leading-zero); position: absolute; left: 0; top: 11px; color: var(--barrier); font-weight: 700; }
+  .notes-plain li { padding-left: 44px; }
+  .notes-plain li::before { content: counter(n) "."; }
+
+  /* ── OPEN ITEMS ─────────────────────────────────────────────────── */
+  .open { display: grid; gap: 1.5px; background: var(--rule); border: 1.5px solid var(--ink); }
+  .open > div { background: var(--paper); padding: 18px 20px; display: grid; grid-template-columns: 92px 1fr; gap: 18px; align-items: start; }
+  .tag {
+    font-family: var(--f-title); font-size: 9px; font-weight: 700; letter-spacing: .12em;
+    text-transform: uppercase; padding: 4px 0; text-align: center;
+    border: 1.3px solid currentColor; border-radius: 2px;
+  }
+  .tag-block { color: var(--barrier); }
+  .tag-conf  { color: var(--reference); }
+  .open-b { font-size: 15px; line-height: 1.55; max-width: 74ch; }
+  .open-b b { font-family: var(--f-title); font-size: 14.5px; display: block; margin-bottom: 3px; color: var(--ink); }
+  @media (max-width: 620px) { .open > div { grid-template-columns: 1fr; gap: 10px; } .tag { justify-self: start; padding: 4px 12px; } }
+
+  hr.sheetend { border: 0; border-top: 1.5px solid var(--ink); margin: 64px 0 16px; }
+  .foot { font-family: var(--f-data); font-size: 11.5px; color: var(--graphite); letter-spacing: .03em; }
+</style>
+<style>
+  /* ── DETAIL STYLE, MATCHED TO THE SET ───────────────────────────── */
+  .abd   { fill: none; stroke: var(--ink); stroke-width: 2.4; stroke-dasharray: 11 6; }
+  .dln   { fill: none; stroke: var(--ink); stroke-width: 1; }
+  .dhv   { fill: none; stroke: var(--ink); stroke-width: 1.8; }
+  .dfoam { fill: var(--foamfill); stroke: var(--ink); stroke-width: 1; }
+  .dpo   { fill: var(--poche); stroke: var(--ink); stroke-width: 1; }
+  .dea   { fill: var(--earth); stroke: none; }
+  .dlead { fill: none; stroke: var(--ink); stroke-width: .8; }
+  .t-d   { fill: var(--ink); font-family: var(--f-data); font-size: 11.5px; letter-spacing: .01em; }
+  .t-dt  { fill: var(--ink); font-family: var(--f-title); font-size: 20px; font-weight: 400; letter-spacing: .01em; }
+  .t-ds  { fill: var(--graphite); font-family: var(--f-data); font-size: 11px; }
+  .t-dn  { fill: var(--ink); font-family: var(--f-data); font-size: 11.5px; }
+  .t-dl  { fill: var(--ink); font-family: var(--f-data); font-size: 11.5px; letter-spacing: .06em; }
+  /* sheet-plan diagram */
+  .sp-b  { fill: var(--sunk); stroke: var(--ink); stroke-width: 1.1; }
+  .sp-d  { fill: none; stroke: var(--graphite); stroke-width: .9; stroke-dasharray: 5 4; }
+  .sp-h  { fill: var(--ink); font-family: var(--f-data); font-size: 11.5px; font-weight: 700; letter-spacing: .05em; }
+  .sp-t  { fill: var(--graphite); font-family: var(--f-data); font-size: 10.5px; }
+  .sp-n  { fill: var(--reference); font-family: var(--f-data); font-size: 11px; font-weight: 700; }
+  .newblk .sp-b { fill: var(--barrier-w); stroke: var(--barrier); stroke-width: 1.6; }
+</style>
+
+<div class="sheet">
+
+  <header class="titleblock">
+    <div class="tb-main">
+      <p class="tb-eyebrow">Comment 3 &middot; Air barrier &middot; Sheet plan and first-pass QA/QC</p>
+      <h1>The Energy Code Sheet</h1>
+      <p class="tb-sub">A layout you can build for this project and reuse on the next one, and a detail-by-detail
+        review of the seven you have drawn &mdash; each one redrawn with the notes it is missing.</p>
+    </div>
+    <div class="tb-fields">
+      <div><span class="tb-k">Zone</span><span class="tb-v">CZ 7 &middot; Pitkin County</span></div>
+      <div><span class="tb-k">Method</span><span class="tb-v">Closed cell spray foam</span></div>
+      <div><span class="tb-k">Target</span><span class="tb-v">&le; 1.5 ACH50</span></div>
+      <div><span class="tb-k">Details</span><span class="tb-v">7 drawn &middot; 5 owed</span></div>
+    </div>
+  </header>
+
+  <section>
+    <h2>Start here</h2>
+    <div class="col">
+      <p class="lede">The sheet SPM sent you is a good template and a bad fit in exactly two places. It is built on
+        the 2024 IRC and a housewrap or drywall air barrier. Aspen is on the 2021 I-codes, and your barrier is spray
+        foam. Everything else on it transfers directly &mdash; and the part worth copying is not the details, it is
+        the <em>structure</em>: one sheet where a reviewer can find the climate zone, the compliance path, the
+        R-values, the barrier method, the line-type key, the ventilation numbers and the envelope traced on a plan,
+        without opening another sheet.</p>
+      <p style="margin-top:16px">That sheet is what you are missing. You have the sections and you have the details.
+        What you do not have is the page that ties them to the code, and that is the page a plans examiner reads
+        first.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>The sheet plan</h2>
+    <div class="col">
+      <p style="margin-top:10px">Same organization as the template, with the blocks changed to match your project
+        and your method. Red-outlined blocks are the ones that have no equivalent anywhere in your set today.</p>
+    </div>
+    <figure style="margin-top:26px"><div class="figframe"><svg viewBox="0 0 1200 820" role="img" aria-label="Proposed layout for sheet G2.07, the energy code sheet. Across the top, four note blocks: Aspen and IRC general notes; 2021 IECC code notes with the climate zone, compliance pathway and building components table; air barrier method with the thermal envelope key below it; and mechanical ventilation with the blower door and duct testing block below it. Across the bottom, the keynote legend and detail index at the left, three small thermal envelope plans in the middle, and the thermal envelope section with the Table R402.4.1.1 compliance schedule at the right.">
+      
+      <rect class="dln" x="18" y="18" width="1164" height="784" fill="var(--paper)"/>
+      <rect class="dln" x="30" y="30" width="1140" height="760" fill="none"/>
+      <text class="t-dt" x="600" y="62" text-anchor="middle" style="font-size:26px">ENERGY CODE SHEET</text>
+      <path class="dln" d="M436 70 H764"/>
+      <text class="t-ds" x="600" y="88" text-anchor="middle">SCALE: AS INDICATED</text>
+
+      <g><rect class="sp-b" x="44" y="104" width="268" height="250"/><path class="dln" d="M44 126 H312"/><text class="sp-h" x="178" y="119" text-anchor="middle">2021 IRC / CITY OF ASPEN NOTES</text><text class="sp-t" x="52" y="142">Code: 2021 I-Codes, City of Aspen</text><text class="sp-t" x="52" y="156">Ord. #1 Series 2023. Local amendments</text><text class="sp-t" x="52" y="170">govern where more restrictive.</text><text class="sp-t" x="52" y="184">2. Smoke / CO alarms  R314, R315</text><text class="sp-t" x="52" y="198">3. Garage separation  R302.5, R302.6</text><text class="sp-t" x="52" y="212">4. Winter design temp  − 15°F</text><text class="sp-t" x="52" y="226">5. Emergency escape + rescue  R310</text><text class="sp-t" x="52" y="240">6. Safety glazing  R308.4</text><text class="sp-t" x="52" y="254">7. REMP — exterior energy + fireplaces</text><text class="sp-t" x="52" y="268">8. Unvented roof assemblies  R806.5</text><text class="sp-t" x="52" y="282">9. Contractor to verify field conditions</text><text class="sp-t" x="52" y="296">10. Air barrier scope — notes 20–23</text><text class="sp-t" x="52" y="310">     and 30–33, sheet A5.00</text></g>
+
+      <g><rect class="sp-b" x="322" y="104" width="274" height="250"/><path class="dln" d="M322 126 H596"/><text class="sp-h" x="459" y="119" text-anchor="middle">2021 IECC CODE NOTES</text><text class="sp-t" x="330" y="142">Climate Zone:   7,  Pitkin County, CO</text><text class="sp-t" x="330" y="156">Compliance Pathway:</text><text class="sp-t" x="330" y="170">   □ Prescriptive  R402.1.2</text><text class="sp-t" x="330" y="184">   □ UA Alternative (ResCheck)  R402.1.5</text><text class="sp-t" x="330" y="198">   □ Simulated Performance  R405</text><text class="sp-t" x="330" y="212">   □ ERI  R406</text><text class="sp-t" x="330" y="226"></text><text class="sp-t" x="330" y="240">Building Components   R-Value / U</text><text class="sp-t" x="330" y="254">   Ceilings / roof  R402.1.2 . . . . . R-60</text><text class="sp-t" x="330" y="268">   Wood frame wall . . . R-30 or 20+5ci</text><text class="sp-t" x="330" y="282">   Floor over unconditioned . . . R-38</text><text class="sp-t" x="330" y="296">   Below grade wall . . . . . . 15ci / 19</text><text class="sp-t" x="330" y="310">   Slab on grade . . . . R-10, 4 ft. vert.</text><text class="sp-t" x="330" y="324">   Crawl space wall . . . . . . 15ci / 19</text><text class="sp-t" x="330" y="338">   Windows . . . . . . . . . . . U-0.26</text><text class="sp-t" x="330" y="352">   Doors / Skylights . . U-0.26 / U-0.55</text></g>
+
+      <g class="newblk"><rect class="sp-b" x="606" y="104" width="268" height="132"/><path class="dln" d="M606 126 H874"/><text class="sp-h" x="740" y="119" text-anchor="middle">AIR BARRIER METHOD</text><text class="sp-t" x="614" y="142">Designated barrier is named BY ZONE:</text><text class="sp-t" x="614" y="156">   ☑ Framed walls + roofs — closed cell</text><text class="sp-t" x="614" y="170">        spray foam, all cavities, + sealant</text><text class="sp-t" x="614" y="184">   ☑ Below grade — foundation waterproofing</text><text class="sp-t" x="614" y="198">   ☑ Green roof — MM6125 on struct. slab</text><text class="sp-t" x="614" y="212">   ☑ Transitions — self-adhered WRB lapped</text><text class="sp-t" x="614" y="226">Note: see Table R402.4.1.1, this sheet</text></g>
+
+      <g class="newblk"><rect class="sp-b" x="606" y="244" width="268" height="110"/><path class="dln" d="M606 266 H874"/><text class="sp-h" x="740" y="259" text-anchor="middle">THERMAL ENVELOPE KEY</text><text class="sp-t" x="614" y="282">Designated air barrier  — — — — —</text><text class="sp-t" x="614" y="296">Insulated assembly      ░░░░░░░░░</text><text class="sp-t" x="614" y="310">Barrier transition / lap  ● ● ● ● ●</text><text class="sp-t" x="614" y="324">Keynote tag  □ n     Detail tag  ○ n</text></g>
+
+      <g><rect class="sp-b" x="884" y="104" width="272" height="132"/><path class="dln" d="M884 126 H1156"/><text class="sp-h" x="1020" y="119" text-anchor="middle">MECHANICAL VENTILATION</text><text class="sp-t" x="892" y="142">Method + fan efficacy, 2021 IRC M1505</text><text class="sp-t" x="892" y="156">and 2021 IECC R403.6:</text><text class="sp-t" x="892" y="170">   □ Exhaust only    □ Supply only</text><text class="sp-t" x="892" y="184">   ☑ Balanced  (ERV / HRV)</text><text class="sp-t" x="892" y="198">Make: ______  Model: ______</text><text class="sp-t" x="892" y="212">cfm: ____  watts: ____  cfm/watt: ____</text><text class="sp-t" x="892" y="226">HVAC + ducts:  ☑ inside thermal envelope</text></g>
+
+      <g class="newblk"><rect class="sp-b" x="884" y="244" width="272" height="110"/><path class="dln" d="M884 266 H1156"/><text class="sp-h" x="1020" y="259" text-anchor="middle">ENVELOPE + DUCT TESTING</text><text class="sp-t" x="892" y="282">Blower door  R402.4.1.2, Aspen amendment:</text><text class="sp-t" x="892" y="296">   ≤ 1.5 ACH50.  Test per ANSI / RESNET</text><text class="sp-t" x="892" y="310">   / ICC 380 by an approved third party.</text><text class="sp-t" x="892" y="324">Duct testing  R403.3.5  — not required</text><text class="sp-t" x="892" y="338">   where all ducts are inside the envelope.</text></g>
+
+      <g><rect class="sp-b" x="44" y="368" width="268" height="424"/><path class="dln" d="M44 390 H312"/><text class="sp-h" x="178" y="383" text-anchor="middle">KEYNOTE LEGEND + DETAIL INDEX</text><text class="sp-t" x="52" y="406">1  Crawl slab at foundation  . . 1/G2.09</text><text class="sp-t" x="52" y="420">2  Green roof edge at fdn . . . 2/G2.09</text><text class="sp-t" x="52" y="434">3  Sill plate at foundation . . 5/G2.09</text><text class="sp-t" x="52" y="448">4  Return corner at green roof  3/G2.09</text><text class="sp-t" x="52" y="462">5  Roof at ridge  . . . . . . . 4/G2.09</text><text class="sp-t" x="52" y="476">6  Eave at exterior wall . . .  5/G2.09</text><text class="sp-t" x="52" y="490">7  Low slope / membrane roof .  8/G2.09</text><text class="sp-t" x="52" y="504">8  Roof to wall, abutting roof  6/G2.09</text><text class="sp-t" x="52" y="518">9  Garage / dwelling sep. . . . 7/G2.09</text><text class="sp-t" x="52" y="532">10 Mechanical chase at sep. . . 7/G2.09</text><text class="sp-t" x="52" y="546">11 Window + door rough opening  9/G2.09</text><text class="sp-t" x="52" y="560">12 Partition at exterior wall  10/G2.09</text><text class="sp-t" x="52" y="574"></text><text class="sp-t" x="52" y="588">Renumber so every keynote resolves</text><text class="sp-t" x="52" y="602">to a detail and every detail gets</text><text class="sp-t" x="52" y="616">called out. The sections call out</text><text class="sp-t" x="52" y="630">6/G2.09 and no detail 6 exists.</text></g>
+
+      <g><rect class="sp-d" x="322" y="368" width="274" height="132"/><text class="sp-h" x="459" y="430" text-anchor="middle">THERMAL ENVELOPE PLAN — LOWER</text><text class="sp-t" x="459" y="448" text-anchor="middle">1/8&quot; = 1&#39;-0&quot;</text></g>
+      <g><rect class="sp-d" x="322" y="512" width="274" height="132"/><text class="sp-h" x="459" y="574" text-anchor="middle">THERMAL ENVELOPE PLAN — MAIN</text><text class="sp-t" x="459" y="592" text-anchor="middle">1/8&quot; = 1&#39;-0&quot;</text></g>
+      <g><rect class="sp-d" x="322" y="656" width="274" height="136"/><text class="sp-h" x="459" y="720" text-anchor="middle">THERMAL ENVELOPE PLAN — UPPER</text><text class="sp-t" x="459" y="738" text-anchor="middle">1/8&quot; = 1&#39;-0&quot;</text></g>
+      <g><rect class="sp-d" x="606" y="368" width="268" height="200"/><text class="sp-h" x="740" y="464" text-anchor="middle">THERMAL ENVELOPE SECTION</text><text class="sp-t" x="740" y="482" text-anchor="middle">1/4&quot; = 1&#39;-0&quot;</text></g>
+      <g class="newblk"><rect class="sp-b" x="606" y="580" width="550" height="212"/><path class="dln" d="M606 602 H1156"/><text class="sp-h" x="881" y="595" text-anchor="middle">TABLE R402.4.1.1 — AIR BARRIER AND INSULATION INSTALLATION</text><text class="sp-t" x="614" y="618">All 16 rows, each with its criteria and the detail or note that satisfies it.</text><text class="sp-t" x="614" y="632">This is the table the reviewer reads first. Rows with nothing behind them are</text><text class="sp-t" x="614" y="646">the ones that generate the next round of comments — recessed lighting, plumbing</text><text class="sp-t" x="614" y="660">and wiring, shower and tub on an exterior wall, electrical boxes, register boots</text><text class="sp-t" x="614" y="674">and narrow cavities are all rows your seven details do not currently reach.</text></g>
+      <g><rect class="sp-d" x="884" y="368" width="272" height="200"/><text class="sp-h" x="1020" y="464" text-anchor="middle">SHEET INDEX + REVISION</text><text class="sp-t" x="1020" y="482" text-anchor="middle"></text></g>
+      <text class="sp-n" x="600" y="812" text-anchor="middle">RED BLOCKS ARE THE ONES YOUR SET DOES NOT HAVE YET</text>
+    </svg></div>
+      <figcaption>Proposed G2.07. The template puts everything a reviewer needs to check compliance in the top band and everything they need to check continuity in the bottom band. Keep that split.</figcaption></figure>
+    <div class="col">
+      <p style="margin-top:22px"><b>Three changes from the template you have to make, not optional:</b></p>
+    </div>
+    <div class="detcard">
+      <div class="det-h"><span class="det-n">Climate zone and code year</span><span class="det-w">Both are wrong on the template</span></div>
+      <div class="det-b"><ol><li><b>Aspen is Climate Zone 7, not 5B.</b> Pitkin County reads as Zone 7 in IECC Table R301.1, which is why the reviewer&#39;s window comment asked for <span class="mono">U-0.26</span> and not <span class="mono">U-0.30</span>. Zone 7 also drives ceiling R-60, floor R-38 and a −15&deg;F winter design temperature. If you copy 5B off the template every R-value under it is wrong.</li><li><b>The code year is 2021, not 2024.</b> Aspen adopted the 2021 I-codes under Ordinance #1, Series 2023, with local amendments. The template says 2024 IRC. Change every reference, and add a line saying local amendments govern where more restrictive &mdash; that is what makes the 1.5 ACH50 number defensible on the sheet.</li><li><b>The air barrier method block has no box for what you are doing.</b> The template offers exterior sheathing, housewrap, sealed drywall, or aerobarrier. None of those is your answer. Replace the block with the by-zone designation you already committed to in note 20 &mdash; foam in framed assemblies, waterproofing below grade, MM6125 at the green roof, self-adhered membrane at the transitions. That block <em>is</em> the answer to the reviewer&#39;s &ldquo;pick one and stick to it.&rdquo;</li></ol></div>
+    </div>
+    <div class="detcard">
+      <div class="det-h"><span class="det-n">Blocks the template does not have</span><span class="det-w">Add these</span></div>
+      <div class="det-b"><ol><li><b>Envelope and duct testing.</b> The template has no blower door block at all, because most jurisdictions take the IECC default. Aspen does not &mdash; you are at 1.5 ACH50 and that number needs to be printed with its test standard and who performs it. Add duct testing per R403.3.5 and note it is waived where all ducts are inside the envelope, which yours are.</li><li><b>Keynote legend and detail index.</b> Your sections carry keynotes 1 through 10 in squares and detail bubbles in circles, and nowhere in the set does a legend say what any of them mean. This is the single biggest coordination gap in what you sent, and it is covered in the next section.</li><li><b>Table R402.4.1.1.</b> Put the whole 16-row schedule on the sheet with the detail or note that satisfies each row. It is the checklist the reviewer is working from. Filling it in yourself is how you find out which rows you have not covered &mdash; and there are seven of them.</li></ol></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Numbering &mdash; fix this before anything else</h2>
+    <div class="col">
+      <p class="lede">This is the first-pass finding that matters most, because it is the one that gets the whole
+        submittal kicked back without anyone looking at your details. Right now the sections and the detail sheet
+        do not agree with each other.</p>
+    </div>
+    <div class="detcard">
+      <div class="det-h"><span class="det-n">The bubbles point at a sheet that is not the detail sheet</span><span class="det-w">Sheet number conflict</span></div>
+      <div class="det-b"><ol><li><b>The sections call out <span class="mono">G2.09</span>. The details are titled <span class="mono">G2.08</span>.</b> Your longitudinal and garage sections carry bubbles reading 2/G2.09, 3/G2.09, 4/G2.09, 5/G2.09, 6/G2.09 and 7/G2.09, and the note on the section says <span class="mono">SEE DETAILS ON SHEET (G2.09)</span>. Every detail on the detail sheet is tagged <span class="mono">G2.08</span> in its title bubble. One of the two is wrong.</li><li><b>And one bubble in the same section says <span class="mono">G2.08</span>.</b> The crawl space bubble at the bottom of both sections reads 1/G2.08 while its neighbours read G2.09. So it is not even consistently wrong &mdash; it is mixed, which reads as a set that was not checked.</li><li><b>The fix:</b> sections stay on G2.08, details move to G2.09, and every detail title bubble gets <span class="mono">G2.09</span> under the number. Then the note on the section is already correct.</li></ol></div>
+    </div>
+    <div class="detcard">
+      <div class="det-h"><span class="det-n">Detail 6 is called out and does not exist</span><span class="det-w">Missing drawing</span></div>
+      <div class="det-b"><ol><li><b>The garage section calls out 6/G2.09 at the garage roof.</b> There is no detail 6 on the sheet. The details that exist are numbered 1, 2, 3, 4, 5, 7 and 8. Six is a hole.</li><li><b>The detail that <em>should</em> be there is the roof-to-wall at an abutting roof</b> &mdash; where the lower roof lands against a wall that keeps going up. That condition occurs at the garage and again at the family room. It matters because the wall cavities behind the abutting roof can neither be foamed nor inspected once that roof is framed, so the foam has to go in first. That sequencing note is the entire reason the detail exists.</li><li><b>Alternatively</b>, renumber the bubble to point at detail 8 if the garage roof really is the membrane assembly. But then detail 8 is called out by a bubble that says 6, which is the same problem in a different place. Draw the detail.</li></ol></div>
+    </div>
+    <div class="detcard">
+      <div class="det-h"><span class="det-n">Keynotes and detail numbers are two systems that do not line up</span><span class="det-w">Structural confusion</span></div>
+      <div class="det-b">
+        <p>Your sections use square tags 1 through 10 and circle tags 1 through 8, and they mean different things.
+          Detail 8 on the detail sheet carries a square <span class="mono">9</span> inside the drawing. Detail 3
+          carries a square <span class="mono">4</span>. A reviewer tracing keynote 9 has to guess that it lives in
+          detail 8.</p><ol><li><b>Either collapse them into one system</b> &mdash; keynote <i>n</i> is drawn at detail <i>n</i>, full stop &mdash; which is cleaner and is what the keynote legend block on the new sheet assumes.</li><li><b>Or keep both and publish the crosswalk</b> in the legend, so keynote 9 explicitly reads <span class="mono">GARAGE / DWELLING SEPARATION . . . 7/G2.09</span>.</li><li><b>Either way the legend has to exist.</b> Ten numbered flags with no legend anywhere in the set is a comment by itself.</li></ol></div>
+    </div>
+    <div class="detcard">
+      <div class="det-h"><span class="det-n">Smaller cross-reference items</span><span class="det-w">Check while you are in there</span></div>
+      <div class="det-b"><ol><li><b><span class="mono">GROUND AS INSULATION</span> on the longitudinal section</b> is carried over from the template, where it describes a slab on grade. Your lower level is a conditioned crawl with a slab, an under-slab vapor retarder and insulated perimeter walls. Relabel it, or a reviewer reads the two as contradicting each other.</li><li><b>Detail 4 is drawn at 3&quot; = 1&#39;-0&quot; and the rest at 1&quot; = 1&#39;-0&quot;.</b> That is fine and normal, but check the printed scale actually matches the geometry &mdash; on the sheet you sent it reads closer to the others than a 3&times; blow-up should.</li><li><b>Detail 8 is titled MEMBRANE ROOF</b> but the roof assembly you handed me for it, R1/A5.02, is a standing seam metal roof over an insulated nail base panel. Those are two different drawings. Confirm which roof the keynote is pointing at &mdash; the redrawn version below is the membrane one, with the note set for it.</li><li><b>The air barrier is red on the sections and blue foam on the details.</b> Neither is explained anywhere. The thermal envelope key block on the new sheet fixes this, but the key has to appear on <em>both</em> sheets, not just the code sheet.</li></ol></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>The seven details, redrawn</h2>
+    <div class="col">
+      <p class="lede">Each one below is your detail with the missing notes placed on it. The geometry is simplified
+        &mdash; the point is what the notes say and what they point at, not the linework. Notes you already have are
+        carried over verbatim so you can see what is new.</p>
+    </div>
+
+    <figure style="margin-top:26px"><div class="figframe"><svg viewBox="0 0 1200 786" role="img" aria-label="Typical crawl space slab at the foundation wall, air sealing. Foundation waterproofing on the exterior face is the designated barrier below grade; a Class I vapor retarder runs under the crawl space slab and turns up the inside face of the wall, and the concrete wall itself carries continuity between the two.">
+      
+      <path class="dea" d="M500 190 H546 V510 H500 Z"/>
+      <path class="dea" d="M688 424 H1160 V470 H688 Z"/>
+      <g class="dln" fill="none">
+        <rect x="546" y="190" width="18" height="270"/>
+        <rect class="dpo" x="566" y="120" width="100" height="340"/>
+        <rect class="dpo" x="520" y="460" width="192" height="50"/>
+        <rect x="666" y="120" width="22" height="280" fill="var(--foamfill)"/>
+        <rect class="dpo" x="688" y="400" width="472" height="24"/>
+        <path d="M500 190 H546 M500 510 H1160 M688 424 H1160 M712 470 H1160"/>
+        <circle cx="556" cy="486" r="14"/><path d="M548 486 H564 M556 478 V494"/>
+        <path d="M566 116 l100 8 M566 124 l100 -8"/>
+      </g>
+      <path class="abd" d="M564 190 V460"/>
+      <path class="abd" d="M1160 424 H674 V344"/>
+      <text class="t-dl" x="506" y="176">EXT.</text><text class="t-dl" x="1046" y="386">INT. &mdash; CRAWL</text>
+      <path class="dlead" d="M442 226 H426 L556 226"/><path class="dln" fill="var(--ink)" d="M556 226 L545 230 L545 222 Z"/><path class="dlead" d="M442 274 H434 L564 274"/><path class="dln" fill="var(--ink)" d="M564 274 L553 278 L553 270 Z"/><path class="dlead" d="M442 324 H436 L566 320"/><path class="dln" fill="var(--ink)" d="M566 320 L555.1282221093047 324.3364092859633 L554.882184703009 316.34019358135015 Z"/><path class="dlead" d="M442 364 H486 L616 356"/><path class="dln" fill="var(--ink)" d="M616 356 L605.2664585065218 360.6680924377931 L604.7750803551751 352.6831974784102 Z"/><path class="dlead" d="M442 406 H546 L676 380"/><path class="dln" fill="var(--ink)" d="M676 380 L665.9980771079527 386.07960018928367 L664.4291480268471 378.23495478375634 Z"/>
+      <path class="dlead" d="M442 440 H630 L760 412"/><path class="dln" fill="var(--ink)" d="M760 412 L750.0888247108704 418.2264439600905 L748.4043761033098 410.40578971070147 Z"/><path class="dlead" d="M442 480 H730 L860 425"/><path class="dln" fill="var(--ink)" d="M860 425 L851.4279202015925 432.9699089034779 L848.3108002748991 425.60217089492943 Z"/><path class="dlead" d="M442 512 H830 L960 448"/><path class="dln" fill="var(--ink)" d="M960 448 L951.8978586640646 456.4472069805663 L948.3643864630435 449.26984157224194 Z"/><path class="dlead" d="M442 540 H496 L556 486"/><path class="dln" fill="var(--ink)" d="M556 486 L550.499623317771 496.3317886328356 L545.1479054647914 490.38543546285825 Z"/>
+      <g><text class="t-d" x="430" y="212" text-anchor="end">2&quot; RIGID INSULATION, R-10 MIN. CONTINUOUS</text><text class="t-d" x="430" y="226" text-anchor="end">TO FOOTING &mdash; SEE W1/A5.00</text>
+        <text class="t-d" x="430" y="260" text-anchor="end">FOUNDATION WATERPROOFING &mdash; DESIGNATED</text><text class="t-d" x="430" y="274" text-anchor="end">AIR BARRIER BELOW GRADE</text>
+        <text class="t-d" x="430" y="310" text-anchor="end">SEAL FORM TIE HOLES AND COLD JOINTS</text><text class="t-d" x="430" y="324" text-anchor="end">BEFORE BACKFILL</text>
+        <text class="t-d" x="430" y="364" text-anchor="end">CONCRETE FOUNDATION WALL, REF STRUCT</text>
+        <text class="t-d" x="430" y="392" text-anchor="end">VINYL BLANKET INSULATION, R-19 MIN.</text><text class="t-d" x="430" y="406" text-anchor="end">TAPE ALL JOINTS &mdash; SEE W1/A5.00</text>
+        <text class="t-d" x="430" y="440" text-anchor="end">4&quot; CONCRETE CRAWL SPACE SLAB, REF STRUCT</text>
+        <text class="t-d" x="430" y="466" text-anchor="end">CLASS I VAPOR RETARDER UNDER SLAB &mdash;</text><text class="t-d" x="430" y="480" text-anchor="end">LAP AND TAPE ALL JOINTS</text>
+        <text class="t-d" x="430" y="512" text-anchor="end">GRAVEL CAPILLARY BREAK</text>
+        <text class="t-d" x="430" y="540" text-anchor="end">PERIMETER DRAIN, REF CIVIL</text></g>
+      <g class="t-dn"><text x="46" y="580">1.  THE CONCRETE FOUNDATION WALL IS THE CONTINUITY BETWEEN THE EXTERIOR WATERPROOFING AND THE</text><text x="46" y="598">     UNDER-SLAB VAPOR RETARDER. CONCRETE IS AIR-IMPERMEABLE; NO WRAP IS REQUIRED ACROSS THE FOOTING.</text><text x="46" y="616">2.  SEAL VAPOR RETARDER TO WALL W/ BACKER ROD AND SEALANT, 6&quot; MIN. ABOVE SLAB.</text><text x="46" y="634">3.  CRAWL SPACE IS CONDITIONED AND UNVENTED PER IRC R408.3. NO FOUNDATION VENTS OCCUR.</text><text x="46" y="652">4.  INSTALL AND INSPECT WATERPROOFING BEFORE BACKFILL.</text><text x="46" y="670">5.  SEE GENERAL NOTES 20&ndash;23 AND 30&ndash;33, SHEET A5.00.</text></g>
+      
+      <circle class="dln" cx="70" cy="730" r="26"/><path class="dln" d="M46 730 H96"/>
+      <text class="t-dl" x="70" y="722" text-anchor="middle">1</text>
+      <text class="t-ds" x="70" y="748" text-anchor="middle">G2.09</text>
+      <text class="t-dt" x="112" y="728">TYP. CRAWL SPACE SLAB AT FOUNDATION WALL - (AIR SEALING)</text>
+      <text class="t-ds" x="112" y="750">SCALE  1&quot; = 1&#39;-0&quot;</text>
+      <path class="dln" d="M108 736 H1170"/>
+    </svg></div>
+      <figcaption>Detail 1 as it should read. Four callouts and three notes are new.</figcaption></figure>
+    <div class="detcard">
+      <div class="det-h"><span class="det-n">1 &mdash; crawl space slab at foundation wall</span><span class="det-w">Four callouts missing</span></div>
+      <div class="det-b"><ol><li><b>Nothing is called out for the insulation.</b> The wall has a vinyl blanket and 2&quot; of rigid on the exterior face per W1/A5.00, and neither appears on the detail. Add <span class="mono">VINYL BLANKET INSULATION, R-19 MIN. TAPE ALL JOINTS &mdash; SEE W1/A5.00</span> and <span class="mono">2&quot; RIGID INSULATION, R-10 MIN. CONTINUOUS TO FOOTING</span>. Table R402.1.2 wants R-15 continuous or R-19 cavity at a crawl space wall in Zone 7, so the two together are what makes the row pass.</li><li><b>The perimeter drain is drawn and unnamed.</b> <span class="mono">PERIMETER DRAIN, REF CIVIL</span>.</li><li><b>The slab has no callout.</b> <span class="mono">4&quot; CONCRETE CRAWL SPACE SLAB, REF STRUCT</span>, and name the gravel below it as a capillary break.</li><li><b>The vapor retarder leader points only at the turn-up.</b> It reads as if the note describes the vertical leg. Point it at the horizontal run under the slab, or add a second arrowhead &mdash; the note covers both.</li><li><b>The note that closes the argument is not there.</b> The waterproofing is on the outside face and the vapor retarder is on the inside face. Those are two different planes with a concrete wall between them, and unless you say the concrete is the continuity, a reviewer reads a break. Note 1 on the redraw says it explicitly.</li><li><b>Add the crawl space status.</b> <span class="mono">CRAWL SPACE IS CONDITIONED AND UNVENTED PER IRC R408.3. NO FOUNDATION VENTS OCCUR.</span> Without it, the reviewer has to assume vented, and a vented crawl puts your insulation in the wrong plane.</li></ol></div>
+    </div>
+
+    <figure style="margin-top:26px"><div class="figframe"><svg viewBox="0 0 1200 802" role="img" aria-label="Green roof edge at the foundation wall, air sealing. Monolithic Membrane 6125 on the structural slab turns down at the slab edge and laps onto the foundation waterproofing on the wall below, forming one continuous plane.">
+      
+      <path class="dea" d="M520 270 H592 V560 H520 Z"/>
+      <g class="dln" fill="none">
+        <rect x="596" y="110" width="564" height="36" fill="var(--earth)"/>
+        <rect x="596" y="146" width="564" height="18"/>
+        <rect class="dpo" x="596" y="170" width="564" height="52"/>
+        <rect x="688" y="222" width="472" height="58" fill="var(--foamfill)"/>
+        <rect class="dpo" x="596" y="222" width="92" height="338"/>
+        <path d="M520 270 H592 M520 560 H1160 M688 280 H1160"/>
+      </g>
+      <path class="dhv" d="M1160 168 H596 L594 170 V300"/>
+      <path class="abd" d="M592 276 V560"/>
+      <g class="dln"><path d="M594 296 h-10 v-26 h10"/></g>
+      <text class="t-dl" x="524" y="256">EXT.</text><text class="t-dl" x="1054" y="316">INT. &mdash; CONDITIONED</text>
+      <path class="dlead" d="M442 124 H770 L900 128"/><path class="dln" fill="var(--ink)" d="M900 128 L888.882184703009 131.6598064186499 L889.1282221093047 123.66359071403667 Z"/><path class="dlead" d="M442 168 H770 L900 154"/><path class="dln" fill="var(--ink)" d="M900 154 L889.4915302560562 159.15480975794625 L888.6349446582965 151.2008006358927 Z"/><path class="dlead" d="M442 228 H670 L800 168"/><path class="dln" fill="var(--ink)" d="M800 168 L791.688679480342 176.24147749008102 L788.336214060648 168.97780241407742 Z"/><path class="dlead" d="M442 262 H630 L760 196"/><path class="dln" fill="var(--ink)" d="M760 196 L752.0024349772689 204.54628303458225 L748.3808960990511 197.4129488805168 Z"/><path class="dlead" d="M442 314 H630 L760 252"/><path class="dln" fill="var(--ink)" d="M760 252 L751.7932496062887 260.3456124985119 L748.3494694072355 253.12478304888432 Z"/>
+      <path class="dlead" d="M442 376 H449 L594 288"/><path class="dln" fill="var(--ink)" d="M594 288 L586.6716070959436 297.1265906801925 L582.5210128847967 290.2875434004617 Z"/><path class="dlead" d="M442 428 H452 L592 360"/><path class="dln" fill="var(--ink)" d="M592 360 L583.8530261066118 368.40397622441003 L580.3577944047164 361.20791095580205 Z"/><path class="dlead" d="M442 462 H480 L640 430"/><path class="dln" fill="var(--ink)" d="M640 430 L629.9980771079527 436.07960018928367 L628.4291480268471 428.23495478375634 Z"/>
+      <g><text class="t-d" x="430" y="124" text-anchor="end">VEGETATION AND GROWING MEDIUM, PER LANDSCAPE</text>
+        <text class="t-d" x="430" y="154" text-anchor="end">GARDENDRAIN GR25, ROOT BARRIER AND</text><text class="t-d" x="430" y="168" text-anchor="end">FILTER FABRIC</text>
+        <text class="t-d" x="430" y="200" text-anchor="end">MONOLITHIC MEMBRANE 6125 (.215&quot;) &mdash;</text><text class="t-d" x="430" y="214" text-anchor="end">DESIGNATED AIR BARRIER AT GREEN ROOF,</text><text class="t-d" x="430" y="228" text-anchor="end">FULLY ADHERED TO SLAB</text>
+        <text class="t-d" x="430" y="262" text-anchor="end">8&quot; CONCRETE STRUCTURAL SLAB, REF STRUCT</text>
+        <text class="t-d" x="430" y="300" text-anchor="end">CLOSED CELL SPRAY FOAM AT UNDERSIDE OF</text><text class="t-d" x="430" y="314" text-anchor="end">SLAB, R-50 MIN.</text>
+        <text class="t-d" x="430" y="348" text-anchor="end">TURN MEMBRANE DOWN AT EDGE AND LAP</text><text class="t-d" x="430" y="362" text-anchor="end">3&quot; MIN. ONTO THE FOUNDATION WATER-</text><text class="t-d" x="430" y="376" text-anchor="end">PROOFING BELOW, SHINGLE FASHION</text>
+        <text class="t-d" x="430" y="414" text-anchor="end">FOUNDATION WATERPROOFING &mdash; DESIGNATED</text><text class="t-d" x="430" y="428" text-anchor="end">AIR BARRIER BELOW GRADE</text>
+        <text class="t-d" x="430" y="462" text-anchor="end">CONCRETE FOUNDATION WALL, REF STRUCT</text></g>
+      <g class="t-dn"><text x="46" y="596">1.  MEMBRANE AND FOUNDATION WATERPROOFING ARE LAPPED AT THIS EDGE TO FORM ONE CONTINUOUS PLANE.</text><text x="46" y="614">2.  MEMBRANE SHALL NOT BRIDGE A HARD 90&deg;. CANT STRIP OR FILLET W/ REINFORCING FABRIC AT ALL CORNERS.</text><text x="46" y="632">3.  SEAL FORM TIE HOLES AND COLD JOINTS BEFORE BACKFILL.</text><text x="46" y="650">4.  INSTALL AND INSPECT BEFORE BACKFILL AND BEFORE PLACING DRAINAGE COURSE AND GROWING MEDIUM.</text><text x="46" y="668">5.  SEE 3/G2.09 FOR THE RETURN CORNER WHERE THIS EDGE MEETS A FRAMED WALL.</text><text x="46" y="686">6.  SEE GENERAL NOTES 20&ndash;23 AND 30&ndash;33, SHEET A5.00.</text></g>
+      
+      <circle class="dln" cx="70" cy="746" r="26"/><path class="dln" d="M46 746 H96"/>
+      <text class="t-dl" x="70" y="738" text-anchor="middle">2</text>
+      <text class="t-ds" x="70" y="764" text-anchor="middle">G2.09</text>
+      <text class="t-dt" x="112" y="744">GREEN ROOF EDGE AT FOUNDATION WALL - (AIR SEALING)</text>
+      <text class="t-ds" x="112" y="766">SCALE  1&quot; = 1&#39;-0&quot;</text>
+      <path class="dln" d="M108 752 H1170"/>
+    </svg></div>
+      <figcaption>Detail 2. The membrane finally has its own name, and the green roof build-up above it is drawn.</figcaption></figure>
+    <div class="detcard">
+      <div class="det-h"><span class="det-n">2 &mdash; green roof edge at foundation wall</span><span class="det-w">The membrane is never named</span></div>
+      <div class="det-b"><ol><li><b>MM6125 appears in a note about lapping and nowhere as a callout.</b> The membrane on the slab has no label of its own. Add <span class="mono">MONOLITHIC MEMBRANE 6125 (.215&quot;) &mdash; DESIGNATED AIR BARRIER AT GREEN ROOF, FULLY ADHERED TO SLAB</span>. Right now the drawing shows a line and asks the reviewer to infer what it is.</li><li><b>Nothing above the membrane is drawn.</b> The Hydrotech build-up &mdash; vegetation, growing medium, GardenDrain GR25, root barrier, filter fabric &mdash; is what makes this a green roof rather than a terrace, and it is also what protects the barrier. Draw it and call it out.</li><li><b>The foam has no R-value.</b> <span class="mono">CLOSED CELL SPRAY FOAM AT UNDERSIDE OF SLAB, R-50 MIN.</span></li><li><b>Two notes are doing three jobs.</b> The turn-down note currently also names the 8&quot; slab. Split them &mdash; the slab gets its own callout with a structural reference.</li><li><b>Add the sequencing note.</b> <span class="mono">INSTALL AND INSPECT BEFORE BACKFILL AND BEFORE PLACING DRAINAGE COURSE AND GROWING MEDIUM.</span> Once the medium is on, nobody is inspecting that lap again.</li><li><b>Add the corner note.</b> <span class="mono">MEMBRANE SHALL NOT BRIDGE A HARD 90&deg;. CANT STRIP OR FILLET W/ REINFORCING FABRIC.</span> You have it on detail 3 and not here, and it is the same membrane.</li></ol></div>
+    </div>
+
+    <figure style="margin-top:26px"><div class="figframe"><svg viewBox="0 0 1200 800" role="img" aria-label="Return corner where the green roof meets a framed wall. The wall weather resistant barrier runs down to a termination bar eight inches above the growing medium, and a transition membrane laps it onto the roof membrane below.">
+      
+      <g class="dln" fill="none">
+        <rect x="520" y="252" width="292" height="36" fill="var(--earth)"/>
+        <rect x="520" y="288" width="292" height="16"/>
+        <rect class="dpo" x="520" y="306" width="640" height="52"/>
+        <rect x="812" y="120" width="8" height="186"/>
+        <rect x="820" y="120" width="60" height="164" fill="var(--foamfill)"/>
+        <rect x="880" y="120" width="12" height="186" fill="none"/>
+        <path d="M520 252 H660 M520 410 H1160"/>
+      </g>
+      <path class="dfoam" d="M520 358 H1160 V410 H520 Z"/>
+      <g class="dln"><rect x="820" y="284" width="60" height="22" fill="var(--paper)"/><path d="M820 284 L880 306 M880 284 L820 306"/></g>
+      <g class="dln" fill="none"><rect x="660" y="252" width="152" height="36" fill="var(--paper)"/>
+        <circle cx="682" cy="270" r="4"/><circle cx="710" cy="278" r="3"/><circle cx="742" cy="266" r="4"/><circle cx="776" cy="276" r="3"/></g>
+      <path class="dhv" d="M520 304 H812"/>
+      <path class="dhv" d="M810 196 V302 H700"/>
+      <path class="abd" d="M810 120 V196"/>
+      <g class="dln"><path d="M804 190 H818 M804 196 H818"/></g>
+      <text class="t-dl" x="524" y="238">EXT. &mdash; GREEN ROOF</text><text class="t-dl" x="918" y="200">INT.</text>
+      <text class="t-dl" x="960" y="450">CONDITIONED SPACE BELOW</text>
+      <path class="dlead" d="M442 150 H720 L850 154"/><path class="dln" fill="var(--ink)" d="M850 154 L838.882184703009 157.6598064186499 L839.1282221093047 149.66359071403667 Z"/><path class="dlead" d="M442 206 H680 L810 192"/><path class="dln" fill="var(--ink)" d="M810 192 L799.4915302560562 197.15480975794625 L798.6349446582965 189.2008006358927 Z"/><path class="dlead" d="M442 258 H680 L810 250"/><path class="dln" fill="var(--ink)" d="M810 250 L799.2664585065218 254.6680924377931 L798.7750803551751 246.68319747841016 Z"/><path class="dlead" d="M442 292 H610 L740 268"/><path class="dln" fill="var(--ink)" d="M740 268 L729.908985933565 273.930550995566 L728.4566060979162 266.06349355246823 Z"/><path class="dlead" d="M442 320 H716 L846 296"/><path class="dln" fill="var(--ink)" d="M846 296 L835.908985933565 301.930550995566 L834.4566060979162 294.06349355246823 Z"/>
+      <path class="dlead" d="M442 376 H642 L812 302"/><path class="dln" fill="var(--ink)" d="M812 302 L803.5105988131638 310.05791955091047 L800.3176347073145 302.7227317401754 Z"/><path class="dlead" d="M442 416 H470 L620 304"/><path class="dln" fill="var(--ink)" d="M620 304 L613.5790744870841 313.78630244564226 L608.7927606272066 307.3760606690207 Z"/><path class="dlead" d="M442 450 H550 L700 332"/><path class="dln" fill="var(--ink)" d="M700 332 L693.8276368214083 341.94494508740826 L688.8813627631821 335.65730857271393 Z"/><path class="dlead" d="M442 484 H770 L900 384"/><path class="dln" fill="var(--ink)" d="M900 384 L893.7199791632481 393.877314325765 L888.8422930764507 387.5363224129282 Z"/>
+      <g><text class="t-d" x="430" y="136" text-anchor="end">SPRAY FOAM ALL CAVITIES, R-30 MIN. &mdash;</text><text class="t-d" x="430" y="150" text-anchor="end">SEE W_/A5.00</text>
+        <text class="t-d" x="430" y="192" text-anchor="end">TERMINATION BAR AND SEALANT, 8&quot; MIN.</text><text class="t-d" x="430" y="206" text-anchor="end">ABOVE GROWING MEDIUM</text>
+        <text class="t-d" x="430" y="244" text-anchor="end">SELF-ADHERED WRB &mdash; DESIGNATED AIR</text><text class="t-d" x="430" y="258" text-anchor="end">BARRIER AT FRAMED WALL, CONTINUOUS</text>
+        <text class="t-d" x="430" y="278" text-anchor="end">VEGETATION-FREE ZONE 12&quot; MIN. GRAVEL</text><text class="t-d" x="430" y="292" text-anchor="end">BORDER AT ALL WALLS</text>
+        <text class="t-d" x="430" y="306" text-anchor="end">GASKET SILL PLATE TO SLAB. SEAL PLATE</text><text class="t-d" x="430" y="320" text-anchor="end">TO SLAB, FULL LENGTH</text>
+        <text class="t-d" x="430" y="348" text-anchor="end">TRANSITION MEMBRANE, LAP 3&quot; MIN. ONTO</text><text class="t-d" x="430" y="362" text-anchor="end">MM6125 AND ONTO THE WALL WRB,</text><text class="t-d" x="430" y="376" text-anchor="end">SHINGLE FASHION</text>
+        <text class="t-d" x="430" y="402" text-anchor="end">MONOLITHIC MEMBRANE 6125 (.215&quot;) &mdash;</text><text class="t-d" x="430" y="416" text-anchor="end">AIR BARRIER AT GREEN ROOF</text>
+        <text class="t-d" x="430" y="450" text-anchor="end">8&quot; CONCRETE SLAB, REF STRUCT</text>
+        <text class="t-d" x="430" y="484" text-anchor="end">CLOSED CELL SPRAY FOAM AT UNDERSIDE OF</text><text class="t-d" x="430" y="498" text-anchor="end">SLAB, R-50 MIN.</text>
+      </g>
+      <g class="t-dn"><text x="46" y="570">1.  THE AIR BARRIER IS CONTINUOUS THROUGH THIS CORNER: MM6125 AT THE SLAB, TRANSITION MEMBRANE TO</text><text x="46" y="588">     THE WALL WRB, WALL WRB LAPPED TO THE SPRAY FOAM AT THE GASKETED SILL PLATE.</text><text x="46" y="606">2.  MEMBRANE SHALL NOT BRIDGE A HARD 90&deg;. CANT STRIP OR FILLET W/ REINFORCING FABRIC.</text><text x="46" y="624">3.  THE GRAVEL BORDER KEEPS ROOTS OFF THE TERMINATION AND KEEPS IT INSPECTABLE.</text><text x="46" y="642">4.  SEAL BETWEEN DOUBLE PLATES AND AT ALL FRAMING JUNCTIONS NOT ENCAPSULATED BY FOAM.</text><text x="46" y="660">5.  SEE GENERAL NOTES 20&ndash;23 AND 30&ndash;33, SHEET A5.00.</text></g>
+      
+      <circle class="dln" cx="70" cy="740" r="26"/><path class="dln" d="M46 740 H96"/>
+      <text class="t-dl" x="70" y="732" text-anchor="middle">3</text>
+      <text class="t-ds" x="70" y="758" text-anchor="middle">G2.09</text>
+      <text class="t-dt" x="112" y="738">RETURN CORNER AT GREEN ROOF - (AIR SEALING)</text>
+      <text class="t-ds" x="112" y="760">SCALE  1&quot; = 1&#39;-0&quot;</text>
+      <path class="dln" d="M108 746 H1170"/>
+    </svg></div>
+      <figcaption>Detail 3. Your best-noted detail. The changes are small and mostly about leaders.</figcaption></figure>
+    <div class="detcard">
+      <div class="det-h"><span class="det-n">3 &mdash; return corner at green roof</span><span class="det-w">Well noted &mdash; four small things</span></div>
+      <div class="det-b"><ol><li><b>The MM6125 on the slab still has no callout here either.</b> It is named inside the transition-membrane note. Give it its own leader, same as detail 2.</li><li><b>The vegetation-free zone leader points at the concrete wall.</b> It should point at the gravel border on the roof surface next to the wall &mdash; that is the thing being described. As drawn it reads as describing the foundation.</li><li><b>Four leaders converge at the sill</b> and cross each other, so it is not clear which note belongs to which joint. Fan them, or move two to the other side.</li><li><b>No R-values anywhere on the detail.</b> The wall foam and the slab foam both need one.</li><li><b>Add the summary note</b> tying the three materials into one plane: MM6125 at the slab, transition membrane to the wall WRB, wall WRB lapped to the spray foam at the gasketed sill. Three barrier callouts without that sentence read as three separate claims, and this detail is the one place in the set where the whole by-zone argument is visible in a single drawing. Make it say so.</li></ol></div>
+    </div>
+
+    <figure style="margin-top:26px"><div class="figframe"><svg viewBox="0 0 1200 718" role="img" aria-label="Typical roof at the ridge, air sealing. Closed cell spray foam is applied to the underside of the roof sheathing with no gap or separation and runs continuously past the ridge beam, so the ridge is unvented.">
+      
+      <path class="dfoam" d="M540 340 L830 150 L1120 340 L1120 420 L830 230 L540 420 Z"/>
+      <g class="dln" fill="none">
+        <path d="M528 348 L830 150 L1132 348"/>
+        <path d="M524 334 L830 136 L1136 334"/>
+        <path d="M520 318 L830 122 L1140 318"/>
+        <path d="M540 340 L830 150 L1120 340"/>
+        <path d="M540 420 L830 230 L1120 420"/>
+        <path d="M540 340 V420 M1120 340 V420"/>
+      </g>
+      <g class="dln" fill="none"><rect x="812" y="196" width="36" height="150" fill="var(--paper)"/>
+        <path d="M812 196 L848 346 M848 196 L812 346"/></g>
+      <path class="abd" d="M540 424 L830 234 L1120 424"/>
+      <text class="t-dl" x="700" y="470" text-anchor="middle">CONDITIONED ATTIC (UNVENTED)</text>
+      <path class="dlead" d="M442 228 H570 L700 228"/><path class="dln" fill="var(--ink)" d="M700 228 L689 232 L689 224 Z"/><path class="dlead" d="M442 262 H670 L800 236"/><path class="dln" fill="var(--ink)" d="M800 236 L789.9980771079527 242.07960018928372 L788.4291480268471 234.23495478375634 Z"/><path class="dlead" d="M442 296 H698 L828 264"/><path class="dln" fill="var(--ink)" d="M828 264 L818.2749125202072 270.5132690340855 L816.3627601432279 262.7451500026074 Z"/><path class="dlead" d="M442 344 H530 L660 300"/><path class="dln" fill="var(--ink)" d="M660 300 L650.8630090319688 307.31542179577616 L648.2982396374338 299.7376940391953 Z"/><path class="dlead" d="M442 400 H630 L760 462"/><path class="dln" fill="var(--ink)" d="M760 462 L748.3494694072355 460.87521695111565 L751.7932496062887 453.6543875014881 Z"/>
+      <g><text class="t-d" x="430" y="214" text-anchor="end">ROOFING, UNDERLAYMENT AND SHEATHING &mdash;</text><text class="t-d" x="430" y="228" text-anchor="end">SEE ROOF ASSEMBLY, A5.02</text>
+        <text class="t-d" x="430" y="262" text-anchor="end">SPRAY FOAM CONTINUOUS AT RIDGE BEAM</text>
+        <text class="t-d" x="430" y="296" text-anchor="end">RIDGE BEAM, REF STRUCT</text>
+        <text class="t-d" x="430" y="330" text-anchor="end">CLOSED CELL SPRAY FOAM AT UNDERSIDE OF</text><text class="t-d" x="430" y="344" text-anchor="end">SHEATHING &mdash; NO GAP OR SEPARATION</text>
+        <text class="t-d" x="430" y="400" text-anchor="end">CONDITIONED ATTIC (UNVENTED)</text></g>
+      <g class="t-dn"><text x="46" y="512">1.  UNVENTED ROOF ASSEMBLY PER IRC R806.5. AIR-IMPERMEABLE INSULATION IN DIRECT CONTACT W/ THE UNDERSIDE</text><text x="46" y="530">     OF THE STRUCTURAL ROOF SHEATHING. NO RIDGE, SOFFIT OR GABLE VENT OCCURS IN THIS ASSEMBLY.</text><text x="46" y="548">2.  APPLY FOAM AT THE RIDGE BEAM BEFORE IT IS CLOSED IN, OR PROVIDE ACCESS HOLES TO ALLOW SPRAYING.</text><text x="46" y="566">3.  FOAM 1-1/2&quot; MIN. FOR AIR BARRIER, FULL DEPTH FOR R-VALUE. NO GAPS, VOIDS OR SHRINKAGE AT FRAMING.</text><text x="46" y="584">4.  INSPECT FOAM BEFORE ANY CEILING FINISH IS INSTALLED.</text><text x="46" y="602">5.  SEE GENERAL NOTES 20&ndash;23 AND 30&ndash;33, SHEET A5.00.</text></g>
+      
+      <circle class="dln" cx="70" cy="662" r="26"/><path class="dln" d="M46 662 H96"/>
+      <text class="t-dl" x="70" y="654" text-anchor="middle">4</text>
+      <text class="t-ds" x="70" y="680" text-anchor="middle">G2.09</text>
+      <text class="t-dt" x="112" y="660">TYP. ROOF AT RIDGE - (AIR SEALING)</text>
+      <text class="t-ds" x="112" y="682">SCALE  3&quot; = 1&#39;-0&quot;</text>
+      <path class="dln" d="M108 668 H1170"/>
+    </svg></div>
+      <figcaption>Detail 4. Three callouts, five notes, and the code citation that makes the unvented attic legal.</figcaption></figure>
+    <div class="detcard">
+      <div class="det-h"><span class="det-n">4 &mdash; roof at ridge</span><span class="det-w">Missing the code citation</span></div>
+      <div class="det-b"><ol><li><b>Nothing above the sheathing is drawn or named.</b> The detail starts at the foam. Add <span class="mono">ROOFING, UNDERLAYMENT AND SHEATHING &mdash; SEE ROOF ASSEMBLY, A5.02</span> so the detail connects to the assembly sheet.</li><li><b>The ridge beam is not called out</b>, which is odd given that a note describes foaming around it.</li><li><b>IRC R806.5 is not cited.</b> <span class="mono">CONDITIONED ATTIC (UNVENTED)</span> is a claim; R806.5 is the permission. Spell out the condition it turns on: air-impermeable insulation in direct contact with the underside of the structural roof sheathing. That sentence is the whole reason a closed-cell foam roof passes.</li><li><b>Say there are no vents.</b> <span class="mono">NO RIDGE, SOFFIT OR GABLE VENT OCCURS IN THIS ASSEMBLY.</span> A reviewer looking at an unvented attic will look for the vents you did not draw; tell them there are none.</li><li><b>No R-value and no thickness.</b> Zone 7 wants R-60 at the ceiling. Add the assembly R-value and the 1-1/2&quot; minimum for the air barrier function &mdash; those are two different numbers doing two different jobs.</li><li><b>Add the inspection note.</b> Foam gets inspected before the ceiling closes, or it does not get inspected.</li></ol></div>
+    </div>
+
+    <figure style="margin-top:26px"><div class="figframe"><svg viewBox="0 0 1200 958" role="img" aria-label="Typical eave and sill plate, air sealing. Spray foam fills the rafter and stud cavities, the self-adhered weather resistant barrier runs outboard of the framing, and at the base the foam and sill gasket lap onto the foundation waterproofing.">
+      
+      <path class="dea" d="M520 660 H796 V730 H520 Z"/>
+      <path class="dfoam" d="M816 300 H896 V600 H816 Z"/>
+      <path class="dfoam" d="M816 190 L1160 110 V186 L816 266 Z"/>
+      <g class="dln" fill="none">
+        <path d="M556 252 L1160 110 M560 266 L1160 124 M816 190 L1160 110"/>
+        <path d="M548 240 H562 V282 H548 Z"/>
+        <path d="M562 282 H804"/>
+        <rect x="804" y="286" width="12" height="314"/>
+        <rect x="896" y="300" width="12" height="300"/>
+        <path d="M816 300 H896 M816 600 H908 M804 600 H816"/>
+        <rect class="dpo" x="796" y="622" width="112" height="108"/>
+        <path d="M520 660 H796 M520 730 H1160"/>
+        <path d="M816 418 H1160 M816 430 H1160"/>
+      </g>
+      <g class="dln"><rect x="816" y="272" width="80" height="28" fill="var(--paper)"/><path d="M816 272 L896 300 M896 272 L816 300"/></g>
+      <g class="dln"><rect x="816" y="430" width="80" height="50" fill="var(--paper)"/><path d="M816 430 L896 480 M896 430 L816 480"/></g>
+      <g class="dln"><rect x="816" y="578" width="80" height="22" fill="var(--paper)"/><path d="M816 578 L896 600 M896 578 L816 600"/></g>
+      <path class="abd" d="M802 250 V622"/>
+      <path class="abd" d="M794 660 V730"/>
+      <g class="dln"><path d="M796 628 h-10 v-20 h10"/></g>
+      <text class="t-dl" x="524" y="330">EXT.</text><text class="t-dl" x="960" y="360">INT.</text>
+      <path class="dlead" d="M442 200 H750 L880 204"/><path class="dln" fill="var(--ink)" d="M880 204 L868.882184703009 207.6598064186499 L869.1282221093047 199.66359071403667 Z"/><path class="dlead" d="M442 266 H560 L690 282"/><path class="dln" fill="var(--ink)" d="M690 282 L678.5937580745772 284.6263368288792 L679.5709996853229 276.6862487415701 Z"/><path class="dlead" d="M442 300 H716 L846 288"/><path class="dln" fill="var(--ink)" d="M846 288 L835.4142342276705 292.9941528824594 L834.6788988339342 285.0280194503156 Z"/><path class="dlead" d="M442 348 H676 L806 340"/><path class="dln" fill="var(--ink)" d="M806 340 L795.2664585065218 344.6680924377931 L794.7750803551751 336.6831974784102 Z"/><path class="dlead" d="M442 396 H726 L856 380"/><path class="dln" fill="var(--ink)" d="M856 380 L845.5709996853229 385.3137512584299 L844.5937580745772 377.3736631711208 Z"/>
+      <path class="dlead" d="M442 452 H726 L856 452"/><path class="dln" fill="var(--ink)" d="M856 452 L845 456 L845 448 Z"/><path class="dlead" d="M442 500 H722 L852 478"/><path class="dln" fill="var(--ink)" d="M852 478 L841.8216434747327 483.77936488245433 L840.4867770451893 475.8915177987896 Z"/><path class="dlead" d="M442 554 H722 L852 610"/><path class="dln" fill="var(--ink)" d="M852 610 L840.3149656419123 609.3217876067857 L843.4799568102455 601.9744866802977 Z"/><path class="dlead" d="M442 620 H656 L806 664"/><path class="dln" fill="var(--ink)" d="M806 664 L794.3188469300455 664.7420666791428 L796.5706354736512 657.0655148259417 Z"/>
+      <g><text class="t-d" x="430" y="186" text-anchor="end">SPRAY FOAM HARD TO REACH CAVITIES</text><text class="t-d" x="430" y="200" text-anchor="end">BEFORE THEY ARE CLOSED IN</text>
+        <text class="t-d" x="430" y="252" text-anchor="end">SOFFIT SHALL NOT BE VENTED &mdash;</text><text class="t-d" x="430" y="266" text-anchor="end">UNVENTED ROOF ASSEMBLY</text>
+        <text class="t-d" x="430" y="300" text-anchor="end">SEAL BETWEEN DOUBLE PLATES, FULL LENGTH</text>
+        <text class="t-d" x="430" y="334" text-anchor="end">SELF-ADHERED WRB, CONTINUOUS &mdash; LAP TO</text><text class="t-d" x="430" y="348" text-anchor="end">SPRAY FOAM AT PLATES AND AT SILL</text>
+        <text class="t-d" x="430" y="382" text-anchor="end">SPRAY FOAM ALL CAVITIES, R-30 MIN. &mdash;</text><text class="t-d" x="430" y="396" text-anchor="end">SEE W_/A5.00</text>
+        <text class="t-d" x="430" y="452" text-anchor="end">SPRAY FOAM RIM JOIST, FULL DEPTH</text>
+        <text class="t-d" x="430" y="486" text-anchor="end">SEAL BETWEEN PLATE AND FLOOR SHEATHING,</text><text class="t-d" x="430" y="500" text-anchor="end">FULL LENGTH</text>
+        <text class="t-d" x="430" y="540" text-anchor="end">GASKET SILL PLATE TO FOUNDATION. SEAL</text><text class="t-d" x="430" y="554" text-anchor="end">PLATE TO SUBFLOOR, FULL LENGTH</text>
+        <text class="t-d" x="430" y="592" text-anchor="end">SEAL FOAM AND SILL GASKET TO FOUNDATION</text><text class="t-d" x="430" y="606" text-anchor="end">WATERPROOFING &mdash; TRANSITION FROM THE</text><text class="t-d" x="430" y="620" text-anchor="end">BELOW-GRADE TO THE ABOVE-GRADE BARRIER</text></g>
+      <g class="t-dn"><text x="46" y="770">1.  THIS DETAIL CARRIES THREE OF THE FOUR BARRIER HANDOFFS IN THE HOUSE: ROOF FOAM TO WALL FOAM AT THE</text><text x="46" y="788">     TOP PLATE, WALL FOAM TO WRB, AND WRB TO FOUNDATION WATERPROOFING AT THE SILL.</text><text x="46" y="806">2.  APPLY FOAM AT HARD TO REACH CAVITIES BEFORE THEY ARE CLOSED UP, OR PROVIDE ACCESS HOLES.</text><text x="46" y="824">3.  SEAL FULL LENGTH OF DOUBLE PLATES AND STUD PACKS. SEAL STUDS TO PLATES WHERE NOT COVERED BY FOAM.</text><text x="46" y="842">4.  UNVENTED ROOF ASSEMBLY PER IRC R806.5. NO SOFFIT VENT, RIDGE VENT OR GABLE VENT OCCURS.</text><text x="46" y="860">5.  SEE GENERAL NOTES 20&ndash;23 AND 30&ndash;33, SHEET A5.00.</text></g>
+      
+      <circle class="dln" cx="70" cy="902" r="26"/><path class="dln" d="M46 902 H96"/>
+      <text class="t-dl" x="70" y="894" text-anchor="middle">5</text>
+      <text class="t-ds" x="70" y="920" text-anchor="middle">G2.09</text>
+      <text class="t-dt" x="112" y="900">TYP. EAVE + SILL PLATE - (AIR SEALING)</text>
+      <text class="t-ds" x="112" y="922">SCALE  1&quot; = 1&#39;-0&quot;</text>
+      <path class="dln" d="M108 908 H1170"/>
+    </svg></div>
+      <figcaption>Detail 5. This is the detail that carries the most weight in the set, and it is missing the note that makes it matter.</figcaption></figure>
+    <div class="detcard">
+      <div class="det-h"><span class="det-n">5 &mdash; typical eave and sill plate</span><span class="det-w">The handoff has no callout</span></div>
+      <div class="det-b"><ol><li><b>The barrier handoff at the sill is not noted.</b> This is the joint between concrete and framing &mdash; the one place the below-grade barrier becomes the above-grade barrier &mdash; and the detail currently shows the sill without saying what happens at it. Add <span class="mono">SEAL FOAM AND SILL GASKET TO FOUNDATION WATERPROOFING &mdash; TRANSITION FROM THE BELOW-GRADE TO THE ABOVE-GRADE BARRIER.</span> That transition <em>is</em> keynote 3.</li><li><b>The sill gasket is missing.</b> You have <span class="mono">GASKET SILL PLATE TO FOUNDATION</span> on detail 3 and not on this one, and this is the typical condition.</li><li><b>The soffit note is not there.</b> <span class="mono">SOFFIT SHALL NOT BE VENTED &mdash; UNVENTED ROOF ASSEMBLY.</span> An eave detail with no soffit note is the first place a reviewer looks for a vent.</li><li><b>The WRB is not called out.</b> The wall has a self-adhered barrier and this detail never names it, so the drawing does not show where the foam hands off to the membrane.</li><li><b>No assembly references and no R-values.</b> Add <span class="mono">SEE W_/A5.00</span> on the wall and the roof assembly reference at the rafters.</li><li><b>Which line is the barrier?</b> On detail 1 the dashed line is clearly the barrier. Here the dashed vertical reads more like a grid line. Same convention on every detail, and put it in the key.</li></ol></div>
+    </div>
+
+    <figure style="margin-top:26px"><div class="figframe"><svg viewBox="0 0 1200 952" role="img" aria-label="Garage to dwelling separation with the mechanical chase between the two walls. The dwelling side wall is the designated air barrier; a sheet metal duct and a pipe cross it from the chase and each is sealed individually.">
+      
+      <path class="dfoam" d="M590 130 H666 V576 H590 Z"/>
+      <path class="dfoam" d="M790 130 H866 V576 H790 Z"/>
+      <g class="dln" fill="none">
+        <rect x="574" y="130" width="16" height="446"/>
+        <rect x="866" y="130" width="16" height="446"/>
+        <path d="M590 130 H666 M590 576 H666 M790 130 H866 M790 576 H866"/>
+        <rect class="dpo" x="520" y="600" width="640" height="46"/>
+        <rect class="dpo" x="560" y="646" width="120" height="60"/>
+        <path d="M520 646 H560 M680 646 H1160 M574 124 l308 12 M574 136 l308 -12"/>
+      </g>
+      <g class="dln" fill="none"><rect x="700" y="250" width="300" height="56" fill="var(--paper)"/>
+        <path d="M700 258 H1000 M700 298 H1000"/></g>
+      <g class="dln" fill="none"><path d="M700 400 H1000"/><circle cx="716" cy="400" r="11" fill="var(--paper)"/></g>
+      <g class="dln"><rect x="790" y="244" width="76" height="68" fill="var(--paper)"/><path d="M790 244 L866 312 M866 244 L790 312"/></g>
+      <g class="dln"><rect x="790" y="382" width="76" height="36" fill="var(--paper)"/><path d="M790 382 L866 418 M866 382 L790 418"/></g>
+      <g class="dln"><rect x="590" y="554" width="76" height="22" fill="var(--paper)"/><path d="M590 554 L666 576 M666 554 L590 576"/></g><g class="dln"><rect x="790" y="554" width="76" height="22" fill="var(--paper)"/><path d="M790 554 L866 576 M866 554 L790 576"/></g>
+      <path class="abd" d="M788 130 V576"/>
+      <text class="t-dl" x="504" y="470">GARAGE</text><text class="t-dl" x="912" y="470">DWELLING</text>
+      <text class="t-dl" x="728" y="474">CHASE</text>
+      <path class="dlead" d="M442 160 H474 L604 160"/><path class="dln" fill="var(--ink)" d="M604 160 L593 164 L593 156 Z"/><path class="dlead" d="M442 210 H590 L720 210"/><path class="dln" fill="var(--ink)" d="M720 210 L709 214 L709 206 Z"/><path class="dlead" d="M442 268 H810 L940 268"/><path class="dln" fill="var(--ink)" d="M940 268 L929 272 L929 264 Z"/><path class="dlead" d="M442 324 H670 L800 292"/><path class="dln" fill="var(--ink)" d="M800 292 L790.2749125202072 298.5132690340855 L788.3627601432279 290.7451500026074 Z"/><path class="dlead" d="M442 358 H452 L582 340"/><path class="dln" fill="var(--ink)" d="M582 340 L571.6525636994714 345.4708831102942 L570.5553392316687 337.54648417616335 Z"/>
+      <path class="dlead" d="M442 400 H668 L798 400"/><path class="dln" fill="var(--ink)" d="M798 400 L787 404 L787 396 Z"/><path class="dlead" d="M442 468 H698 L828 452"/><path class="dln" fill="var(--ink)" d="M828 452 L817.5709996853229 457.3137512584299 L816.5937580745772 449.3736631711208 Z"/><path class="dlead" d="M442 522 H698 L828 588"/><path class="dln" fill="var(--ink)" d="M828 588 L816.3808960990511 586.5870511194832 L820.0024349772689 579.4537169654177 Z"/><path class="dlead" d="M442 556 H474 L604 592"/><path class="dln" fill="var(--ink)" d="M604 592 L592.3314534274277 592.9192501747135 L594.4664860912783 585.2094099996974 Z"/>
+      <g><text class="t-d" x="430" y="146" text-anchor="end">SEAL FULL LENGTH OF DOUBLE PLATES AND</text><text class="t-d" x="430" y="160" text-anchor="end">STUD PACKS, BOTH WALLS</text>
+        <text class="t-d" x="430" y="210" text-anchor="end">MECHANICAL CHASE &mdash; OPEN VOID BETWEEN WALLS</text>
+        <text class="t-d" x="430" y="254" text-anchor="end">SHEET METAL DUCT, 26 GA MIN. NO OPENINGS</text><text class="t-d" x="430" y="268" text-anchor="end">INTO GARAGE &mdash; IRC R302.5.2</text>
+        <text class="t-d" x="430" y="296" text-anchor="end">SEAL EACH SERVICE TO THE BARRIER W/</text><text class="t-d" x="430" y="310" text-anchor="end">MEMBRANE COLLAR AND FIRE-RATED SEALANT.</text><text class="t-d" x="430" y="324" text-anchor="end">SEAL EACH ONE INDIVIDUALLY</text>
+        <text class="t-d" x="430" y="344" text-anchor="end">5/8&quot; TYPE X GYPSUM BOARD AT GARAGE SIDE</text><text class="t-d" x="430" y="358" text-anchor="end">PER IRC R302.6 &mdash; SEAL AT BASE</text>
+        <text class="t-d" x="430" y="400" text-anchor="end">PIPE PENETRATION, SEALED &mdash; IRC R302.11</text>
+        <text class="t-d" x="430" y="440" text-anchor="end">DWELLING-SIDE WALL IS THE DESIGNATED AIR</text><text class="t-d" x="430" y="454" text-anchor="end">BARRIER. SPRAY FOAM ALL CAVITIES, R-30</text><text class="t-d" x="430" y="468" text-anchor="end">MIN. &mdash; SEE W14/A5.00</text>
+        <text class="t-d" x="430" y="508" text-anchor="end">SEAL BOTTOM PLATE TO SLAB, FULL LENGTH</text><text class="t-d" x="430" y="522" text-anchor="end">BOTH SIDES</text>
+        <text class="t-d" x="430" y="556" text-anchor="end">GASKET SILL PLATE TO SLAB</text></g>
+      <g class="t-dn"><text x="46" y="746">1.  NO DOOR OR OTHER OPENING OCCURS IN THIS SEPARATION.</text><text x="46" y="764">2.  ALL PENETRATIONS OF THE SEPARATION SHALL BE FIRE-SEALED PER IRC R302.11.</text><text x="46" y="782">3.  DUCTS IN THE GARAGE AND DUCTS PENETRATING THE SEPARATION SHALL BE 26 GA MIN. SHEET METAL W/ NO</text><text x="46" y="800">     OPENINGS INTO THE GARAGE &mdash; IRC R302.5.2.</text><text x="46" y="818">4.  THE GARAGE IS OUTSIDE THE THERMAL ENVELOPE. THE DWELLING-SIDE WALL CARRIES BOTH THE AIR BARRIER</text><text x="46" y="836">     AND THE INSULATION; THE GARAGE-SIDE WALL IS FIRE SEPARATION ONLY.</text><text x="46" y="854">5.  SEE GENERAL NOTES 20&ndash;23 AND 30&ndash;33, SHEET A5.00.</text></g>
+      
+      <circle class="dln" cx="70" cy="896" r="26"/><path class="dln" d="M46 896 H96"/>
+      <text class="t-dl" x="70" y="888" text-anchor="middle">7</text>
+      <text class="t-ds" x="70" y="914" text-anchor="middle">G2.09</text>
+      <text class="t-dt" x="112" y="894">GARAGE / DWELLING SEPARATION + CHASE - (AIR SEALING)</text>
+      <text class="t-ds" x="112" y="916">SCALE  1&quot; = 1&#39;-0&quot;</text>
+      <path class="dln" d="M108 902 H1170"/>
+    </svg></div>
+      <figcaption>Details 7 and 10 combined. Combining them is right &mdash; the gap between the two walls is the chase.</figcaption></figure>
+    <div class="detcard">
+      <div class="det-h"><span class="det-n">7 &mdash; garage / dwelling separation with the chase</span><span class="det-w">Missing most of keynote 10</span></div>
+      <div class="det-b"><ol><li><b>Say which wall carries the barrier.</b> Foam is drawn in both walls, so the drawing offers two candidate planes and the reviewer will ask which one is designated. The dwelling-side wall is the envelope; the garage-side wall is fire separation. Label them, or the continuity argument has a fork in it.</li><li><b>The chase is not labelled and nothing crosses it.</b> Add the void label and show at least one duct and one pipe running from the chase into the dwelling. That crossing is the entire content of keynote 10, and combining the two details means it has to come with it.</li><li><b>Seal each service individually.</b> <span class="mono">SEAL EACH SERVICE TO THE BARRIER W/ MEMBRANE COLLAR AND FIRE-RATED SEALANT. SEAL EACH ONE INDIVIDUALLY</span> &mdash; not one seal around a shared sleeve, which is how it gets built if the drawing does not say otherwise.</li><li><b>The 5/8&quot; Type X gypsum is still not on the detail.</b> This has been flagged twice now. It is a code requirement on the exact plane the detail is about &mdash; IRC R302.6 &mdash; and the sealed base is also what makes the air barrier continuous at the floor. It does two jobs and it is drawn as neither.</li><li><b>The duct needs its code line.</b> <span class="mono">SHEET METAL DUCT, 26 GA MIN. NO OPENINGS INTO GARAGE &mdash; IRC R302.5.2.</span></li><li><b>Two notes under the drawing.</b> <span class="mono">NO DOOR OR OTHER OPENING OCCURS IN THIS SEPARATION.</span> and <span class="mono">PENETRATIONS SHALL BE FIRE-SEALED PER IRC R302.11.</span> The first closes the question before it is asked.</li><li><b>Housekeeping.</b> R-value on the foam, a W14/A5.00 reference, and retire keynote 10 from the legend once the details are merged &mdash; otherwise the legend points at a detail that no longer exists on its own.</li></ol></div>
+    </div>
+
+    <figure style="margin-top:26px"><div class="figframe"><svg viewBox="0 0 1200 622" role="img" aria-label="Low slope membrane roof over the existing framing. The designated air barrier is closed cell spray foam filling the existing rafter bays in continuous contact with the underside of the existing sheathing.">
+      
+      <g class="dln" fill="none">
+        <rect x="640" y="130" width="510" height="12"/>
+        <rect x="640" y="142" width="510" height="14"/>
+        <rect x="640" y="156" width="510" height="56"/>
+        <rect x="640" y="212" width="510" height="22"/>
+        <path d="M640 130 V112 M1150 130 V112"/>
+      </g>
+      <path class="dfoam" d="M640 234 H1150 V390 H640 Z"/>
+      <g class="dln" fill="none">
+        <rect x="720" y="234" width="46" height="156" fill="var(--paper)"/><path d="M720 234 L766 390 M766 234 L720 390"/>
+        <rect x="960" y="234" width="46" height="156" fill="var(--paper)"/><path d="M960 234 L1006 390 M1006 234 L960 390"/>
+        <path d="M640 390 H1150"/>
+      </g>
+      <path class="abd" d="M640 236 H1150"/>
+      <g class="dln"><path d="M1174 130 V390"/><path d="M1168 130 H1180 M1168 390 H1180"/></g>
+      <text class="t-dl" x="1164" y="260" text-anchor="middle" transform="rotate(-90 1164 260)">TOTAL ASSEMBLY R-60 MIN</text>
+      <path class="dlead" d="M442 135 H630 L760 135"/><path class="dln" fill="var(--ink)" d="M760 135 L749 139 L749 131 Z"/><path class="dlead" d="M442 174 H670 L800 147"/><path class="dln" fill="var(--ink)" d="M800 147 L790.0432496899242 153.15330181795153 L788.4164281566592 145.32045739852728 Z"/><path class="dlead" d="M442 216 H730 L860 182"/><path class="dln" fill="var(--ink)" d="M860 182 L850.3700617280817 188.6531412790533 L848.3458397729335 180.9134690976043 Z"/><path class="dlead" d="M442 268 H770 L900 222"/><path class="dln" fill="var(--ink)" d="M900 222 L890.9643695989823 229.4402542467449 L888.2957403954715 221.8984760629099 Z"/><path class="dlead" d="M442 324 H570 L700 310"/><path class="dln" fill="var(--ink)" d="M700 310 L689.4915302560562 315.1548097579462 L688.6349446582965 307.2008006358927 Z"/><path class="dlead" d="M442 362 H590 L720 360"/><path class="dln" fill="var(--ink)" d="M720 360 L709.062832724282 364.1687374567083 L708.9397703639364 356.1696840342422 Z"/>
+      <g><text class="t-d" x="430" y="135" text-anchor="end">ROOF MEMBRANE PER WATERPROOFING CONSULTANT</text>
+        <text class="t-d" x="430" y="160" text-anchor="end">COVER BOARD, MECHANICALLY FASTENED OR</text><text class="t-d" x="430" y="174" text-anchor="end">FULLY ADHERED PER MANUFACTURER</text>
+        <text class="t-d" x="430" y="202" text-anchor="end">RIGID / TAPERED INSULATION ABOVE DECK,</text><text class="t-d" x="430" y="216" text-anchor="end">R-__ MIN. STAGGER ALL BOARD JOINTS</text>
+        <text class="t-d" x="430" y="240" text-anchor="end">EXISTING ROOF SHEATHING, REF STRUCT &mdash;</text><text class="t-d" x="430" y="254" text-anchor="end">TAPE ALL SEAMS BEFORE INSULATION IS SET.</text><text class="t-d" x="430" y="268" text-anchor="end">THIS IS A FREE SECOND PLANE WHILE OPEN</text>
+        <text class="t-d" x="430" y="296" text-anchor="end">CLOSED CELL SPRAY FOAM, FULL DEPTH OF ALL</text><text class="t-d" x="430" y="310" text-anchor="end">EXISTING RAFTER BAYS &mdash; DESIGNATED AIR</text><text class="t-d" x="430" y="324" text-anchor="end">BARRIER, IN CONTINUOUS CONTACT W/ SHEATHING</text>
+        <text class="t-d" x="430" y="362" text-anchor="end">EXISTING ROOF FRAMING, REF STRUCT</text></g>
+      <g class="t-dn"><text x="46" y="434">1.  UNVENTED ROOF ASSEMBLY PER IRC R806.5. AIR-IMPERMEABLE INSULATION IN DIRECT CONTACT W/ THE UNDERSIDE</text><text x="46" y="452">     OF THE STRUCTURAL ROOF SHEATHING. NO ROOF VENTS OCCUR IN THIS ASSEMBLY.</text><text x="46" y="470">2.  APPLY FOAM AT HARD TO REACH BAYS BEFORE THEY ARE CLOSED UP, OR PROVIDE ACCESS HOLES.</text><text x="46" y="488">3.  FOAM IS APPLIED FROM BELOW. CEILING SHALL BE OPEN WHEN THE FOAM CREW ARRIVES.</text><text x="46" y="506">4.  INSPECT FOAM BEFORE ANY CEILING FINISH IS INSTALLED.</text><text x="46" y="524">5.  SEE GENERAL NOTES 20&ndash;23 AND 30&ndash;33, SHEET A5.00.</text></g>
+      
+      <circle class="dln" cx="70" cy="566" r="26"/><path class="dln" d="M46 566 H96"/>
+      <text class="t-dl" x="70" y="558" text-anchor="middle">8</text>
+      <text class="t-ds" x="70" y="584" text-anchor="middle">G2.09</text>
+      <text class="t-dt" x="112" y="564">LOW SLOPE / MEMBRANE ROOF - (AIR SEALING)</text>
+      <text class="t-ds" x="112" y="586">SCALE  1&quot; = 1&#39;-0&quot;</text>
+      <path class="dln" d="M108 572 H1170"/>
+    </svg></div>
+      <figcaption>Detail 8 as a membrane roof. Confirm this is the right assembly before you draw it &mdash; see the note below.</figcaption></figure>
+    <div class="detcard">
+      <div class="det-h"><span class="det-n">8 &mdash; low slope / membrane roof</span><span class="det-w">One note is doing all the work</span></div>
+      <div class="det-b"><ol><li><b>Confirm which roof this is.</b> The title says MEMBRANE ROOF; the assembly you gave me for it, R1/A5.02, is standing seam metal over an insulated nail base panel. If it is the metal assembly, the top four callouts change to standing seam, VersaShield underlayment, 15/32&quot; plywood and nail base panel &mdash; the foam callout and all five notes stay exactly as drawn.</li><li><b>Nothing above the sheathing is named.</b> One callout on the foam is the whole detail right now. Every layer above it needs a leader, or this is a diagram rather than a detail.</li><li><b>Tape the existing sheathing seams.</b> Whatever goes on top installs from above, which means the existing deck is exposed and reachable right now. Taping it costs almost nothing and gives you a continuous second plane at the exact interface between the two insulation layers. It is the cheapest redundancy in the whole set and it disappears the day the roofers show up.</li><li><b>R-values.</b> One for the insulation above deck and one for the total assembly. And check them against R1/A5.02, where R-60 currently appears twice &mdash; once on the panel and once as the total &mdash; which cannot both be true.</li><li><b>Sequencing.</b> The foam goes in from below, so the ceiling has to be open when the foam crew arrives. That is a fact about the job, not the drawing, and it belongs on the drawing.</li><li><b>R806.5 again.</b> Same unvented citation as detail 4.</li></ol></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Table R402.4.1.1 &mdash; what your seven details actually cover</h2>
+    <div class="col">
+      <p class="lede">This is the schedule that belongs on the new sheet, filled in against what you have today.
+        Seven of the sixteen rows have nothing behind them. Four have nothing at all.</p>
+    </div>
+    <div class="tablewrap">
+      <table class="route">
+        <thead><tr><th>#</th><th>Component</th><th>Criteria</th><th>What you have</th></tr></thead>
+        <tbody><tr><td class="k">1</td><td class="cond">General requirements</td><td class="loc">A continuous air barrier shall be installed. Breaks and joints sealed.</td><td class="loc">Notes 20&ndash;21 + all 7 details</td></tr><tr class="flagrow"><td class="k">2</td><td class="cond">Ceiling / attic</td><td class="loc">Air barrier in any dropped ceiling or soffit aligned with insulation. Attic access sealed.</td><td class="loc">Details 4, 8 cover the roof plane. <b>No detail and no note for the attic access hatch, or for dropped ceilings and soffits.</b></td></tr><tr class="flagrow"><td class="k">3</td><td class="cond">Walls</td><td class="loc">Junction of foundation and sill plate sealed. Junction of top plate and ceiling sealed. Knee walls sealed.</td><td class="loc">Detail 5 covers sill and top plate. <b>No knee wall condition is drawn</b> &mdash; the upper floor has them.</td></tr><tr class="flagrow"><td class="k">4</td><td class="cond">Windows, skylights and doors</td><td class="loc">Space between framing and window / door jambs sealed.</td><td class="loc"><b>Nothing. No rough opening detail exists on the sheet.</b></td></tr><tr><td class="k">5</td><td class="cond">Rim joists</td><td class="loc">Rim joists air sealed.</td><td class="loc">Detail 5</td></tr><tr class="flagrow"><td class="k">6</td><td class="cond">Floors, incl. cantilevers and floors over garage</td><td class="loc">Air barrier installed at any exposed edge of insulation.</td><td class="loc">Detail 1 covers the crawl slab. <b>No cantilever detail</b> and the floor over the crawl at the wing is only shown in section.</td></tr><tr><td class="k">7</td><td class="cond">Crawl space walls</td><td class="loc">Exposed earth covered with a Class I vapor retarder with overlapping taped joints.</td><td class="loc">Detail 1</td></tr><tr class="flagrow"><td class="k">8</td><td class="cond">Shafts, penetrations</td><td class="loc">Duct shafts, utility penetrations and flue shafts sealed.</td><td class="loc">Detail 7 as redrawn covers the chase. <b>Flue shafts are not addressed and this house has fireplaces.</b></td></tr><tr class="flagrow"><td class="k">9</td><td class="cond">Narrow cavities</td><td class="loc">Batts cut to fit, or narrow cavities filled with insulation that conforms on installation.</td><td class="loc">Spray foam satisfies this by definition. <b>Say so in a note</b> &mdash; do not leave the row blank.</td></tr><tr><td class="k">10</td><td class="cond">Garage separation</td><td class="loc">Air sealing provided between the garage and conditioned spaces.</td><td class="loc">Detail 7</td></tr><tr class="flagrow"><td class="k">11</td><td class="cond">Recessed lighting</td><td class="loc">Recessed light fixtures IC-rated and sealed to the drywall, or gasketed.</td><td class="loc"><b>Nothing.</b> A house this size will have a hundred cans in the ceiling plane.</td></tr><tr class="flagrow"><td class="k">12</td><td class="cond">Plumbing and wiring</td><td class="loc">Insulation placed to fill the cavity. Air barrier separating interior from exterior.</td><td class="loc">Foam covers it, but <b>no note says how the insulator handles pipes and wire runs in an exterior cavity.</b></td></tr><tr class="flagrow"><td class="k">13</td><td class="cond">Shower / tub on exterior wall</td><td class="loc">Air barrier installed separating showers and tubs from the exterior wall.</td><td class="loc"><b>Nothing &mdash; and you have several.</b> Primary bath, VIP bath, shower 108D, plus the steam and spa rooms.</td></tr><tr class="flagrow"><td class="k">14</td><td class="cond">Electrical / phone box on exterior walls</td><td class="loc">Air barrier behind boxes, or air-sealed boxes installed.</td><td class="loc"><b>Nothing.</b></td></tr><tr class="flagrow"><td class="k">15</td><td class="cond">HVAC register boots</td><td class="loc">Boots sealed to the subfloor, wall covering or ceiling they penetrate.</td><td class="loc"><b>Nothing.</b></td></tr><tr class="flagrow"><td class="k">16</td><td class="cond">Concealed sprinklers</td><td class="loc">Only when inspected and code approved. Shall not be caulked.</td><td class="loc">Note only, if the house is sprinklered.</td></tr></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2>The details you still owe</h2>
+    <div class="col">
+      <p style="margin-top:10px">Four of these come straight off the city&#39;s own spray foam sheet, which means
+        you can lift them rather than draw them &mdash; the comment already invited you to.</p>
+    </div>
+    <div class="tablewrap">
+      <table class="route">
+        <thead><tr><th>New</th><th>Detail</th><th>Why it is needed</th><th>Source</th></tr></thead>
+        <tbody>
+          <tr class="flagrow"><td class="k">6</td><td class="cond">Roof to wall at abutting roof</td>
+            <td class="loc">Already called out by a bubble on your section and does not exist. Carries the note that
+              the wall cavities behind the abutting roof must be foamed before that roof is framed.</td>
+            <td class="loc">Draw</td></tr>
+          <tr class="flagrow"><td class="k">9</td><td class="cond">Window and door rough opening</td>
+            <td class="loc">Table row 4. Nothing in your set covers it, and it is the most repeated air sealing
+              condition in the house.</td>
+            <td class="loc">City sheet, &ldquo;Window Jamb with Wood Trim&rdquo; &mdash; lift verbatim</td></tr>
+          <tr class="flagrow"><td class="k">10</td><td class="cond">Interior partition meeting exterior wall</td>
+            <td class="loc">Sheathing as draft stop where a partition lands on an exterior wall. Happens at the stair
+              shaft and at every interior wall in the house. Table row 1 and 3.</td>
+            <td class="loc">City sheet, &ldquo;Dwelling Separation Wall Intersection&rdquo; &mdash; lift verbatim</td></tr>
+          <tr class="flagrow"><td class="k">11</td><td class="cond">Framing junction isometric</td>
+            <td class="loc">The whole sealant scope in one drawing &mdash; double plates, stud packs, plate to
+              sheathing. Pairs with note 30 and answers Table row 1 in one picture.</td>
+            <td class="loc">City sheet isometric &mdash; lift verbatim</td></tr>
+          <tr class="flagrow"><td class="k">12</td><td class="cond">Shower / tub and recessed can at exterior wall</td>
+            <td class="loc">Table rows 11 and 13. You have several tubs and showers on exterior walls and a ceiling
+              plane full of cans. Both are classic blower-door failures and neither is drawn.</td>
+            <td class="loc">Draw &mdash; one small detail can cover both</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col">
+      <p style="margin-top:22px">Rows 12, 14, 15 and 16 of the table &mdash; plumbing and wiring, electrical boxes,
+        register boots, sprinklers &mdash; do not need details. They need four sheet notes. Add them to the 30-series
+        on A5.00 and reference the notes from the table, and those rows are closed.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Do it in this order</h2>
+    <div class="verdict">
+      <div>
+        <p class="v-h v-fix">Before resubmittal</p>
+        <ul>
+          <li><b>Fix the sheet numbers.</b> Details to G2.09, every title bubble updated, the mixed 1/G2.08 bubble
+            corrected. Half an hour, and it is the thing most likely to get the set bounced.</li>
+          <li><b>Publish the keynote legend.</b> Ten flags with no legend is a comment by itself.</li>
+          <li><b>Draw detail 6</b> or renumber the bubble that calls it.</li>
+          <li><b>Add the missing callouts</b> on details 1, 2, 4, 5 and 8 &mdash; each is a handful of leaders.</li>
+          <li><b>Finish detail 7</b> with the chase, the two services, the Type X gypsum and the two notes.</li>
+        </ul>
+      </div>
+      <div>
+        <p class="v-h v-ok">Then, to close the comment</p>
+        <ul>
+          <li><b>Build G2.07</b> to the plan above. Climate Zone 7, 2021 codes, by-zone barrier block, testing
+            block, envelope key.</li>
+          <li><b>Put Table R402.4.1.1 on it</b> with the detail or note against every row.</li>
+          <li><b>Lift the three city details</b> &mdash; window jamb, partition intersection, framing isometric.
+            They are the reviewer&#39;s own drawings.</li>
+          <li><b>Add the four sheet notes</b> for wiring, boxes, register boots and sprinklers.</li>
+          <li><b>Trace the envelope on each floor plan</b> at 1/8&quot; with the detail bubbles on it. That is the
+            drawing that shows continuity in plan, and right now you only show it in section.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+</div>
