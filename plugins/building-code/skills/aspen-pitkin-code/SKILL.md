@@ -44,9 +44,24 @@ catalog and reviewer comments, and the IBC/IRC jurisdictional split. Files 06–
 are the code text.
 
 **These carry no project numbers by design** — the numbers change every project;
-the method does not. Use them as the generic layer; use
-`${CLAUDE_PLUGIN_ROOT}/skills/aspen-pitkin-code/references/case-log-844-roaring-fork.md` only for that specific project's
-continuity.
+the method does not.
+
+## Nothing in this plugin is project-specific, and nothing should become so
+
+This skill ships to every project the office runs. It therefore holds **rules and
+method only**. No lot areas, no floor-area totals, no permit numbers, no prior
+resolutions, no sheet numbering from a past job.
+
+Per-project records live outside the plugin, in that project's own files —
+in this office's source repo, under `projects/<project>/`. Read one only when
+working on **that** project, and never carry a figure, an assembly, or a
+resolution from one project into another. Two jobs in the same zone district
+still have different lot areas, different nonconformities, and different prior
+approvals; a number reused across projects is a wrong number on a sheet.
+
+When a past project's pattern is genuinely general — a recurring reviewer
+comment, an error worth checking for every time — the place for it is
+`zoning-submittal.md`, stated generically, not a project record quoted verbatim.
 
 ## Need the model code text itself? Use the `us-building-codes` skill
 

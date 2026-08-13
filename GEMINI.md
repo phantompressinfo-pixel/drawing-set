@@ -19,7 +19,7 @@ the local files below and quote the exact section with its citation.
 | `plugins/building-code/skills/aspen-pitkin-code/references/zoning-submittal.md` | **The playbook.** For each of the four calc packages (Height Over Topography, Allowable Floor Area, Mitigation Floor Area/GMQS, Demolition): required sheet content, exact chart formats matched to the City's Model Zoning Submission, every equation, code citations for sheet notes, element-by-element rules (skylights, glass roofs, chimneys, dormers, patios, light wells, attics, stairs, garages), recurring reviewer comments and how to answer them, and pre-submittal self-checks. |
 | `gem-package/knowledge-files/01`–`05` | **The portable method, with no project numbers in it**: how to answer, the steps and where to measure for each calculation package, blank chart templates for every sheet, the mistake catalog and reviewer comments, and the IBC/IRC jurisdictional split. Start here. |
 | `gem-package/SETUP-README.md` | How to stand this up as a shared Gemini Gem for a whole office. |
-| `plugins/building-code/skills/aspen-pitkin-code/references/case-log-844-roaring-fork.md` | **The case log** for 844 Roaring Fork Rd (permit 0065-2026-BRES): 26-item catalog of real errors and their fixes, all 17 City reviewer comments with resolutions, the 10-point working method, and final project numbers. |
+| `projects/844-roaring-fork/case-log.md` | **The case log** for 844 Roaring Fork Rd (permit 0065-2026-BRES): 26-item catalog of real errors and their fixes, all 17 City reviewer comments with resolutions, the 10-point working method, and final project numbers. |
 
 ## How to answer a code question
 
@@ -35,7 +35,7 @@ the local files below and quote the exact section with its citation.
    (sum every column yourself), and flag wrong citations, non-closing totals,
    and cross-sheet contradictions.
 5. Building or checking any zoning submittal sheet? Read
-   `zoning-submittal.md` first, and skim the case-log error catalog — the same
+   `zoning-submittal.md` first, and skim that project’s case log if you are working on it — the same
    mistakes recur on every project.
 6. Municode deep link:
    `https://library.municode.com/co/aspen/codes/municipal_code?nodeId=<nodeId>`
