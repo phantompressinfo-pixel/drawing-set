@@ -1,0 +1,8 @@
+prompts.db
+*.db
+renders/
+*.jsonl
+.env
+venv/
+__pycache__/
+*.pyc
