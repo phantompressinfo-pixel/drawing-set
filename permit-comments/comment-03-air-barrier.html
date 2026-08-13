@@ -320,14 +320,14 @@
   <section>
     <h2>Where it stands</h2>
     <div class="col">
-      <p class="lede">Drawn and done: <strong>1, 3&nbsp;&amp;&nbsp;6, 4, 8, 9</strong>. Not yet drawn:
-        <strong>2&nbsp;&amp;&nbsp;5, 7, 10</strong> &mdash; below, in your conventions. Four of the drawn ones have
-        small gaps worth closing before this goes back.</p>
+      <p class="lede">Drawn and done: <strong>1, 3&nbsp;&amp;&nbsp;6, 4, 9&nbsp;+&nbsp;10 combined</strong>. Not yet drawn:
+        <strong>2&nbsp;&amp;&nbsp;5, 7, 8</strong> &mdash; below, in your conventions. Each of the drawn ones has
+        something small left, and the R1 roof assembly has one number that needs settling.</p>
     </div>
   </section>
 
   <section>
-    <h2>Checks on the four you have drawn</h2>
+    <h2>Checks on what you have drawn</h2>
 
     <div class="detcard">
       <div class="det-h"><span class="det-n">1 &mdash; crawl space slab</span><span class="det-w">Two additions</span></div>
@@ -383,15 +383,57 @@
     </div>
 
     <div class="detcard">
-      <div class="det-h"><span class="det-n">9 &mdash; garage / dwelling separation</span><span class="det-w">Missing the fire separation</span></div>
+      <div class="det-h"><span class="det-n">9 + 10 &mdash; garage separation with chase</span><span class="det-w">Combining them is right</span></div>
+      <div class="det-b">
+        <p>Combining these is the correct call &mdash; the gap between the two walls <em>is</em> the chase, so one
+          drawing covers both keynotes. But merging them means keynote 10's content has to come with it, and right
+          now none of it is on the drawing.</p>
+        <ol>
+          <li><b>Say which wall carries the barrier.</b> Foam is drawn in both walls, so the drawing offers two
+            candidate planes and the reviewer will ask which one is designated. The dwelling-side wall is the envelope
+            boundary; the garage-side wall is fire separation. Label them, or the continuity argument has a fork in
+            it.</li>
+          <li><b>The chase is not labelled</b> and nothing crosses it. Add the void label and show at least one duct
+            and one pipe running from the chase into the dwelling &mdash; that crossing is the entire content of
+            keynote 10.</li>
+          <li><b>Seal the services one at a time.</b> Where the duct and the pipe cross the designated wall, call out
+            <span class="mono">SEAL EACH SERVICE TO THE BARRIER W/ MEMBRANE COLLAR AND FIRE-RATED SEALANT. SEAL EACH
+            ONE INDIVIDUALLY</span> &mdash; not a single seal around a shared sleeve, which is how these get built if
+            the drawing does not say otherwise.</li>
+          <li><b>Call the duct out on the drawing.</b> <span class="mono">SHEET METAL DUCT, 26 GA MIN. NO OPENINGS
+            INTO GARAGE &mdash; IRC R302.5.2.</span> Any duct passing through or serving the garage side has to be
+            sheet metal with no register in the garage, and this is the detail that shows it.</li>
+          <li><b>The gypsum is still missing.</b> Add <span class="mono">5/8&quot; TYPE X GYPSUM BOARD AT GARAGE SIDE
+            PER IRC R302.6 &mdash; SEAL AT BASE.</span> Flagged last round and still absent. It is a code requirement
+            on the exact plane this detail is about, and the sealed base is also what makes the air barrier
+            continuous at the floor.</li>
+          <li><b>Two notes under the drawing.</b> <span class="mono">NO DOOR OR OTHER OPENING OCCURS IN THIS
+            SEPARATION.</span> and <span class="mono">PENETRATIONS SHALL BE FIRE-SEALED PER IRC R302.11.</span> The
+            first one closes off the question before the reviewer asks it.</li>
+          <li><b>Housekeeping.</b> R-value on the foam in each wall, and a real detail tag in place of
+            <span class="mono">G2.__</span> once the sheet number is set. The combined detail should be renumbered as
+            one &mdash; pick 9 and retire 10 from the keynote legend, or the legend will point at a detail that no
+            longer exists on its own.</li>
+        </ol>
+      </div>
+    </div>
+
+    <div class="detcard">
+      <div class="det-h"><span class="det-n">R1 / A5.02 &mdash; roof assembly</span><span class="det-w">One number does not add up</span></div>
       <div class="det-b">
         <ol>
-          <li><b>No callout for the gypsum.</b> 5/8&quot; TYPE X GYPSUM BOARD AT GARAGE SIDE PER IRC R302.6 &mdash;
-            SEAL AT BASE. This is a code requirement on the plane the detail is about, and its absence is the first
-            thing a reviewer will notice.</li>
-          <li><b>Add the two notes:</b> NO DOOR OR OTHER OPENING OCCURS IN THIS SEPARATION, and SEAL ALL WIRING,
-            PIPING AND DUCT PENETRATIONS &mdash; SEE 10/G2.__.</li>
-          <li><b>R-value on the foam</b>, and the detail tag still reads <span class="mono">213</span>.</li>
+          <li><b>The R-60 appears twice and cannot be both.</b> The nail base panel is called <span class="mono">R-60
+            MIN</span> and the spray foam is called out to bring the <em>total assembly</em> to <span class="mono">R-60
+            MIN</span>, with an R-60 dimension across the whole build-up. If the panel alone is R-60 the foam is
+            redundant; if the total is R-60 the panel is something less. Fix whichever is wrong before a reviewer
+            runs the UA calculation and finds the assembly claiming R-120.</li>
+          <li><b>There is a free win here while the roof is open.</b> The nail base panel installs from above, so the
+            existing roof sheathing is exposed and accessible right now. Taping its seams before the panel goes on
+            costs almost nothing and gives you a continuous plane at the exact interface between the two insulation
+            layers &mdash; a far better backup than anything you can add later. It is on the detail below.</li>
+          <li><b>Confirm the foam is applied from below.</b> With the existing sheathing staying in place, the rafter
+            bays can only be reached from the interior, which means the ceiling has to be open when the foam crew
+            arrives. That is a sequencing fact worth stating on the sheet.</li>
         </ol>
       </div>
     </div>
@@ -473,45 +515,48 @@
       <figcaption>Detail 7. The drawing exists to carry note 1: once the abutting roof is framed, the wall cavities
         behind it can neither be foamed nor inspected.</figcaption></figure>
 
-    <figure style="margin-top:30px"><div class="figframe"><svg viewBox="0 0 1200 700" role="img" aria-label="Mechanical chase at the garage to dwelling separation. The chase is an open void between the garage foundation wall and the basement wall; foundation waterproofing on the chase face of the basement wall is the air barrier and each service crossing into the basement is sealed individually.">
-      <defs>
-      <pattern id="mc" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="3" cy="4" r="1" fill="var(--graphite)"/><circle cx="11" cy="11" r=".8" fill="var(--graphite)"/><path d="M12 2 l2.2 2 l-2.2 1.1 z" fill="none" stroke="var(--graphite)" stroke-width=".55"/></pattern>
-      <pattern id="me" width="18" height="18" patternUnits="userSpaceOnUse"><path d="M0 0 H18 M0 9 H18 M4 0 V9 M13 9 V18" fill="none" stroke="var(--graphite)" stroke-width=".55"/></pattern>
-      <pattern id="mg" width="15" height="13" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r="2.6" fill="none" stroke="var(--graphite)" stroke-width=".55"/><circle cx="11" cy="10" r="2" fill="none" stroke="var(--graphite)" stroke-width=".55"/></pattern>
-    </defs>
-      <rect x="640" y="180" width="160" height="42" fill="url(#mc)"/>
-      <rect x="730" y="222" width="70" height="230" fill="url(#mc)"/>
-      <rect x="900" y="120" width="78" height="332" fill="url(#mc)"/>
-      <rect x="978" y="152" width="172" height="32" fill="url(#mc)"/>
-      <rect x="700" y="452" width="340" height="52" fill="url(#mc)"/>
-      <g class="dln" fill="none"><rect x="640" y="180" width="160" height="42"/><rect x="730" y="222" width="70" height="230"/>
-        <rect x="900" y="120" width="78" height="332"/><rect x="978" y="152" width="172" height="32"/><rect x="700" y="452" width="340" height="52"/>
-        <rect x="800" y="196" width="350" height="34"/><rect x="800" y="300" width="350" height="20"/>
-        <path d="M978 184 H1150"/></g>
-      <path class="abd" d="M896 120 V452"/>
-      <g class="dln"><rect x="888" y="190" width="18" height="46" fill="none"/><path d="M888 190 L906 236 M906 190 L888 236"/></g><g class="dln"><rect x="888" y="296" width="18" height="28" fill="none"/><path d="M888 296 L906 324 M906 296 L888 324"/></g>
-      <g class="t-dl"><text x="646" y="168">GARAGE</text><text x="1010" y="256">BASEMENT</text>
-        <text x="848" y="384" text-anchor="middle">MECH.</text><text x="848" y="400" text-anchor="middle">CHASE</text></g>
-      <path class="dlead" d="M442 140 H730 L860 213"/><path class="dln" fill="var(--ink)" d="M860 213 L848.4502340332643 211.10186773020547 L852.3672278338298 204.1263993182397 Z"/><path class="dlead" d="M442 232 H634 L764 260"/><path class="dln" fill="var(--ink)" d="M764 260 L752.4043761033098 261.59421028929853 L754.0888247108704 253.77355603990952 Z"/><path class="dlead" d="M442 300 H730 L860 310"/><path class="dln" fill="var(--ink)" d="M860 310 L848.7256146639437 313.1445564542742 L849.3391866550215 305.1681205702616 Z"/><path class="dlead" d="M442 392 H766 L896 392"/><path class="dln" fill="var(--ink)" d="M896 392 L885 396 L885 388 Z"/><path class="dlead" d="M442 460 H764 L894 300"/><path class="dln" fill="var(--ink)" d="M894 300 L890.1679371244259 311.0596245016568 L883.9590251234958 306.0148835009011 Z"/><path class="dlead" d="M442 500 H750 L880 478"/><path class="dln" fill="var(--ink)" d="M880 478 L869.8216434747327 483.77936488245433 L868.4867770451893 475.8915177987896 Z"/>
-      <g><text class="t-d" x="430" y="136" text-anchor="end">SHEET METAL DUCT, 26 GA MIN. NO OPENINGS</text><text class="t-d" x="430" y="150" text-anchor="end">INTO GARAGE &mdash; IRC R302.5.2</text>
-        <text class="t-d" x="430" y="228" text-anchor="end">GARAGE SLAB AND FOUNDATION WALL</text>
-        <text class="t-d" x="430" y="296" text-anchor="end">PIPING AND CONDUIT</text>
-        <text class="t-d" x="430" y="378" text-anchor="end">FOUNDATION WATERPROOFING ON CHASE FACE</text><text class="t-d" x="430" y="392" text-anchor="end">&mdash; DESIGNATED AIR BARRIER, CONTINUOUS</text>
-        <text class="t-d" x="430" y="442" text-anchor="end">SEAL EACH SERVICE TO THE BARRIER W/</text><text class="t-d" x="430" y="456" text-anchor="end">MEMBRANE COLLAR AND FIRE-RATED SEALANT.</text><text class="t-d" x="430" y="470" text-anchor="end">SEAL EACH ONE INDIVIDUALLY</text>
-        <text class="t-d" x="430" y="496" text-anchor="end">CONTINUOUS FOOTING, REF STRUCT</text></g>
-      <g class="t-dn"><text x="46" y="562">1.  CHASE IS AN OPEN VOID OUTSIDE THE AIR BARRIER. EVERY SERVICE LEAVING IT PENETRATES THE BARRIER.</text>
-        <text x="46" y="580">2.  PENETRATIONS THROUGH THE GARAGE / DWELLING SEPARATION SHALL BE FIRE-SEALED PER IRC R302.11.</text>
-        <text x="46" y="598">3.  SEAL SAME DAY MADE. SEE GENERAL NOTES 20&ndash;23 AND 30&ndash;33, SHEET A5.00.</text></g>
+    <figure style="margin-top:30px"><div class="figframe"><svg viewBox="0 0 1200 660" role="img" aria-label="Typical existing roof air sealing, drawn from wall type R1. Standing seam metal over underlayment, new plywood and an insulated nail base panel, on the existing roof sheathing and framing, with closed cell spray foam in the existing rafter bays as the designated air barrier in continuous contact with the underside of the existing sheathing.">
       
-      <circle class="dln" cx="70" cy="646" r="26"/><path class="dln" d="M46 646 H96"/>
-      <text class="t-dl" x="70" y="638" text-anchor="middle">10</text>
-      <text class="t-ds" x="70" y="664" text-anchor="middle">G2.__</text>
-      <text class="t-dt" x="112" y="644">MECHANICAL CHASE AT GARAGE / DWELLING SEPARATION - (AIR SEALING)</text>
-      <text class="t-ds" x="112" y="666">SCALE  1&quot; = 1&#39;-0&quot;</text>
-      <path class="dln" d="M108 652 H1170"/>
+      <g class="dln" fill="none">
+        <path d="M810 106 V130 M816 106 V130 M810 106 A3 3 0 0 1 816 106 M1030 106 V130 M1036 106 V130 M1030 106 A3 3 0 0 1 1036 106"/>
+        <path d="M690 130 V106 M1140 130 V106"/>
+        <rect x="690" y="130" width="450" height="22"/>
+        <rect x="690" y="152" width="450" height="12"/>
+        <rect x="690" y="164" width="450" height="24"/>
+        <rect x="690" y="188" width="450" height="84"/>
+        <rect x="690" y="272" width="450" height="22"/>
+      </g>
+      <path class="dfoam" d="M690 294 H1140 V440 H690 Z"/>
+      <g class="dln" fill="none">
+        <rect x="750" y="294" width="48" height="146" fill="var(--paper)"/><path d="M750 294 L798 440 M798 294 L750 440"/>
+        <rect x="990" y="294" width="48" height="146" fill="var(--paper)"/><path d="M990 294 L1038 440 M1038 294 L990 440"/>
+      </g>
+      <path class="abd" d="M690 296 H1140"/>
+      <g class="dln"><path d="M1162 130 V440"/><path d="M1156 130 H1168 M1156 440 H1168"/></g>
+      <text class="t-dl" x="1152" y="285" text-anchor="middle" transform="rotate(-90 1152 285)">TOTAL ASSEMBLY R-60 MIN</text>
+      <path class="dlead" d="M442 138 H560 L690 141"/><path class="dln" fill="var(--ink)" d="M690 141 L678.9106447015882 144.74515674779926 L679.0952109478864 136.74728607488092 Z"/><path class="dlead" d="M442 186 H560 L690 158"/><path class="dln" fill="var(--ink)" d="M690 158 L680.0888247108704 164.22644396009048 L678.4043761033098 156.40578971070147 Z"/><path class="dlead" d="M442 220 H560 L690 176"/><path class="dln" fill="var(--ink)" d="M690 176 L680.8630090319688 183.31542179577616 L678.2982396374338 175.73769403919528 Z"/><path class="dlead" d="M442 258 H560 L690 230"/><path class="dln" fill="var(--ink)" d="M690 230 L680.0888247108704 236.22644396009048 L678.4043761033098 228.40578971070147 Z"/><path class="dlead" d="M442 310 H560 L690 283"/><path class="dln" fill="var(--ink)" d="M690 283 L680.0432496899242 289.1533018179515 L678.4164281566592 281.3204573985273 Z"/><path class="dlead" d="M442 376 H560 L690 330"/><path class="dln" fill="var(--ink)" d="M690 330 L680.9643695989823 337.44025424674487 L678.2957403954715 329.89847606290994 Z"/><path class="dlead" d="M442 414 H620 L750 400"/><path class="dln" fill="var(--ink)" d="M750 400 L739.4915302560562 405.1548097579462 L738.6349446582965 397.2008006358927 Z"/>
+      <g><text class="t-d" x="430" y="124" text-anchor="end">NEW CMG ULTRA-CLAD PVDF COATED STEEL</text><text class="t-d" x="430" y="138" text-anchor="end">STANDING SEAM ROOFING</text>
+        <text class="t-d" x="430" y="172" text-anchor="end">NEW VERSASHIELD FIRE-RESISTANT ROOF</text><text class="t-d" x="430" y="186" text-anchor="end">DECK PROTECTION UNDERLAYMENT</text>
+        <text class="t-d" x="430" y="220" text-anchor="end">NEW 15/32&quot; MIN PLYWOOD SHEATHING</text>
+        <text class="t-d" x="430" y="258" text-anchor="end">NEW INSULATED NAIL BASE PANEL, R-__ MIN</text>
+        <text class="t-d" x="430" y="296" text-anchor="end">EXISTING ROOF SHEATHING, REF STRUCT &mdash; TAPE</text><text class="t-d" x="430" y="310" text-anchor="end">ALL SEAMS BEFORE NAIL BASE PANEL</text>
+        <text class="t-d" x="430" y="348" text-anchor="end">NEW CLOSED CELL SPRAY FOAM, FULL DEPTH OF ALL</text><text class="t-d" x="430" y="362" text-anchor="end">EXISTING RAFTER BAYS &mdash; DESIGNATED AIR BARRIER,</text><text class="t-d" x="430" y="376" text-anchor="end">IN CONTINUOUS CONTACT W/ EXISTING SHEATHING</text>
+        <text class="t-d" x="430" y="414" text-anchor="end">EXISTING ROOF FRAMING, REF STRUCT</text></g>
+      <g class="t-dn"><text x="46" y="500">1.  UNVENTED ROOF ASSEMBLY PER IRC R806.5. AIR-IMPERMEABLE INSULATION IN DIRECT CONTACT W/ THE UNDERSIDE</text>
+        <text x="70" y="518">OF THE STRUCTURAL ROOF SHEATHING. NO RIDGE OR SOFFIT VENTS OCCUR IN THIS ASSEMBLY.</text>
+        <text x="46" y="536">2.  APPLY FOAM AT HARD TO REACH BAYS BEFORE THEY ARE CLOSED UP, OR PROVIDE ACCESS HOLES.</text>
+        <text x="46" y="554">3.  FOAM TO BE INSPECTED BEFORE ANY CEILING FINISH IS INSTALLED.</text>
+        <text x="46" y="572">4.  SEE GENERAL NOTES 20&ndash;23 AND 30&ndash;33, SHEET A5.00.</text></g>
+      
+      <circle class="dln" cx="70" cy="624" r="26"/><path class="dln" d="M46 624 H96"/>
+      <text class="t-dl" x="70" y="616" text-anchor="middle">8</text>
+      <text class="t-ds" x="70" y="642" text-anchor="middle">G2.__</text>
+      <text class="t-dt" x="112" y="622">TYP. EXISTING ROOF - (AIR SEALING)</text>
+      <text class="t-ds" x="112" y="644">SCALE  1 1/2&quot; = 1&#39;-0&quot;</text>
+      <path class="dln" d="M108 630 H1170"/>
     </svg></div>
-      <figcaption>Detail 10. The chase is an open void outside the barrier, so the only work is sealing each service
-        where it crosses into the basement.</figcaption></figure>
+      <figcaption>Detail 8, drawn from R1. The barrier is the foam in the existing rafter bays; the dashed line sits
+        at the underside of the existing sheathing because that is the surface the foam has to stay bonded to.</figcaption></figure>
   </section>
 
   <section>
@@ -762,7 +807,7 @@
   <section>
     <h2>Then it is finished</h2>
     <div class="open">
-      <div><span class="tag tag-block">Draw</span><div class="open-b"><b>Details 2 &amp; 5, 7 and 10</b>Above.</div></div>
+      <div><span class="tag tag-block">Draw</span><div class="open-b"><b>Details 2 &amp; 5, 7 and 8</b>Above.</div></div>
       <div><span class="tag tag-conf">Fix</span><div class="open-b"><b>The four checks</b>Sill gasket and handoff on
         3, the vegetation-free-zone leader and MM6125 label on 4, the Type X gypsum on 9, the vapor retarder leader on
         1.</div></div>
