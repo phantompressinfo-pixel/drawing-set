@@ -1,9 +1,13 @@
 import json, re, html, os, time, urllib.request, ssl
 
-CA = "/root/.ccr/ca-bundle.crt"
-ctx = ssl.create_default_context(cafile=CA)
+# Only trust the proxy CA when it is actually present; elsewhere use the system
+# store, so this runs outside the container it was written in.
+CA = os.environ.get("CLAUDE_CA_BUNDLE", "/root/.ccr/ca-bundle.crt")
+ctx = ssl.create_default_context(cafile=CA if os.path.exists(CA) else None)
 JOB, PROD = 491032, 18107
-OUT = "/home/user/drawing-set/code-library/aspen"
+# tools/ -> code-library/ -> aspen/, resolved from this file's own location.
+OUT = os.path.normpath(
+    os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "aspen"))
 os.makedirs(OUT, exist_ok=True)
 
 def get(url, tries=4):

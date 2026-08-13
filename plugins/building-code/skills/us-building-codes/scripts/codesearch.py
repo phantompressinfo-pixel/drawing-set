@@ -20,8 +20,11 @@ import sys
 
 csv.field_size_limit(10_000_000)
 
+# scripts/ -> us-building-codes/ -> skills/ -> the plugin root, which is where
+# code-library/ sits. Resolved from __file__ so the plugin works from whatever
+# directory Claude Code installs it into.
 ROOT = os.path.normpath(
-    os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "..", "..",
+    os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "..",
                  "code-library", "us-building-codes")
 )
 
@@ -209,8 +212,9 @@ def main():
               f"shown is superseded:")
         for f in flagged:
             print(f"       - {f}")
-        print("    Check code-library/aspen/title-8-buildings-and-building-regulations.txt"
-              "\n    or code-library/pitkin/title-11-building-construction.txt "
+        local = os.path.join(os.path.dirname(ROOT))
+        print(f"    Check {local}/aspen/title-8-buildings-and-building-regulations.txt"
+              f"\n    or {local}/pitkin/title-11-building-construction.txt "
               "before citing.")
     if dpo_hits:
         print(f"\n    !! {len(dpo_hits)} result(s) are Colorado-amended and are NOT "

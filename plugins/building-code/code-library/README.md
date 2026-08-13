@@ -11,7 +11,7 @@ instantly without web access.
 
 Retrieved 2026-07-22. Codes get amended — for submittal-critical items, verify
 currency against the official sources above. Refresh instructions live in
-`.claude/skills/aspen-pitkin-code/SKILL.md`.
+`skills/aspen-pitkin-code/SKILL.md`.
 
 Note: Aspen text came from Municode's API; figures (e.g., height measurement
 diagrams in §26.575.020) are images on Municode and are not captured — view

@@ -1,14 +1,22 @@
 #!/bin/bash
 set -u
-OUT=/home/user/drawing-set/code-library/pitkin
-PDF=/tmp/claude-0/-home-user-drawing-set/031e023b-add5-5506-be7d-63e1feca92b0/scratchpad/pitkin-pdf
+# tools/ -> code-library/ -> pitkin/. Resolved from the script's own location so
+# this runs from any checkout or plugin install path.
+HERE=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+OUT="$HERE/../pitkin"
+PDF="$OUT/pdf"
 mkdir -p "$OUT" "$PDF"
 UA="Mozilla/5.0 (X11; Linux x86_64)"
+
+# Only pass --cacert behind a proxy that needs it; elsewhere the system store works.
+CACERT=()
+[ -r "${CLAUDE_CA_BUNDLE:-/root/.ccr/ca-bundle.crt}" ] &&
+  CACERT=(--cacert "${CLAUDE_CA_BUNDLE:-/root/.ccr/ca-bundle.crt}")
 
 grab () {  # name url
   local name="$1" url="$2"
   echo "== $name"
-  curl -sS -L --cacert /root/.ccr/ca-bundle.crt -A "$UA" -o "$PDF/$name.pdf" "$url" || { echo "DL FAIL $name"; return 1; }
+  curl -sS -L "${CACERT[@]}" -A "$UA" -o "$PDF/$name.pdf" "$url" || { echo "DL FAIL $name"; return 1; }
   file "$PDF/$name.pdf" | grep -qi pdf || { echo "NOT PDF: $name"; head -c 200 "$PDF/$name.pdf"; echo; return 1; }
   pdftotext -layout "$PDF/$name.pdf" "$OUT/$name.txt" || { echo "EXTRACT FAIL $name"; return 1; }
   echo "$name ok: $(du -h "$PDF/$name.pdf" | cut -f1) pdf, $(wc -l < "$OUT/$name.txt") lines"

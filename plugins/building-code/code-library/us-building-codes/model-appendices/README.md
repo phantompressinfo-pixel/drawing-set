@@ -61,5 +61,5 @@ it.
 
 These files are **model text**. Aspen's Title 8 and Pitkin's Title 11
 amendments override them, and
-`.claude/skills/us-building-codes/references/locally-amended-sections.txt`
+`skills/us-building-codes/references/locally-amended-sections.txt`
 lists the sections involved.

@@ -1,7 +1,7 @@
 # US Building Codes Dataset — local subset
 
 Model building code text used by the `us-building-codes` skill
-(`.claude/skills/us-building-codes/`). See that SKILL.md for the row schema,
+(`skills/us-building-codes/`). See that SKILL.md for the row schema,
 search helper, and coverage limits.
 
 ## Provenance
@@ -29,7 +29,7 @@ jurisdictions relevant to the office, 163 CSVs / ~14 MB:
 Upstream's published CSVs stop at IBC ch. 18, but its raw `state-codes-full/`
 and `gsa-codes-full/` scrapes contain all 35 chapters — the pipeline simply
 never parsed them. Those chapters were parsed locally from that JSON with
-`.claude/skills/us-building-codes/scripts/upcodes_to_csv.py`.
+`skills/us-building-codes/scripts/upcodes_to_csv.py`.
 
 The parser was validated against ch. 10, which exists in both forms: it
 reproduces all 425 rows with identical ids, and 399 bodies byte-identical. Of
@@ -76,7 +76,7 @@ Appendix J is available only from a 2024-branded code.
 
 Locally-parsed chapters never went through upstream's LLM enrichment, which left
 their metadata columns empty and made them invisible to metadata filters.
-`.claude/skills/us-building-codes/scripts/backfill_metadata.py` fills
+`skills/us-building-codes/scripts/backfill_metadata.py` fills
 `code_category` and `primary_responsibility` per chapter from a static table
 (4,238 rows across 59 chapters) — deterministic, idempotent, and calibrated
 against upstream's own values for adjacent chapters. It never overwrites a

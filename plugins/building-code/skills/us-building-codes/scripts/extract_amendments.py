@@ -46,11 +46,13 @@ import sys
 csv.field_size_limit(10_000_000)
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-REPO = os.path.normpath(os.path.join(HERE, "..", "..", "..", ".."))
-DATA = os.path.join(REPO, "code-library", "us-building-codes")
-ASPEN = os.path.join(REPO, "code-library", "aspen",
+# scripts/ -> us-building-codes/ -> skills/ -> the plugin root, which holds
+# code-library/. Resolved from __file__ so this runs from any install path.
+PLUGIN = os.path.normpath(os.path.join(HERE, "..", "..", ".."))
+DATA = os.path.join(PLUGIN, "code-library", "us-building-codes")
+ASPEN = os.path.join(PLUGIN, "code-library", "aspen",
                      "title-8-buildings-and-building-regulations.txt")
-PITKIN = os.path.join(REPO, "code-library", "pitkin",
+PITKIN = os.path.join(PLUGIN, "code-library", "pitkin",
                       "title-11-building-construction.txt")
 OUT = os.path.join(HERE, "..", "references", "locally-amended-sections.txt")
 

@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "building-code",
+  "displayName": "Building Code Library",
+  "version": "1.0.0",
+  "description": "City of Aspen and Pitkin County code, plus the IBC/IRC/IEBC/IPC/IMC/IFGC and ADA model codes, answered from bundled source text with citations. Includes the Aspen zoning submittal playbook.",
+  "author": {
+    "name": "Phantom Press",
+    "email": "phantompress.info@gmail.com"
+  },
+  "repository": "https://github.com/phantompressinfo-pixel/drawing-set",
+  "keywords": [
+    "building-code",
+    "zoning",
+    "aspen",
+    "pitkin",
+    "ibc",
+    "irc",
+    "ada",
+    "permit",
+    "architecture"
+  ]
+}

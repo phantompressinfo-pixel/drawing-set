@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "office-code",
+  "description": "Shared Claude Code plugins for the office's drawing sets and permit work.",
+  "owner": {
+    "name": "Phantom Press",
+    "email": "phantompress.info@gmail.com",
+    "url": "https://github.com/phantompressinfo-pixel"
+  },
+  "plugins": [
+    {
+      "name": "building-code",
+      "source": "./plugins/building-code",
+      "category": "reference",
+      "tags": ["building-code", "zoning", "aspen", "pitkin", "permit"]
+    }
+  ]
+}

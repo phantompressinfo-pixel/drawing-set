@@ -1,18 +1,19 @@
 ---
 name: aspen-pitkin-code
-description: Answer questions about the City of Aspen Municipal Code (zoning, building, land use) and the Pitkin County Code / Land Use Code from the full local copy in code-library/, and help build or check Aspen zoning submittal sheets. Use whenever the user asks about Aspen or Pitkin code requirements, zoning (R-15, setbacks, height, floor area, demolition, mitigation/GMQS), building codes (IBC amendments, guardrails, egress, chimneys), permit/submittal requirements, responses to City zoning review comments, or sends a screenshot of a drawing sheet or calculation table with a code question. Answer from the local files — do not search the web first.
+description: Answer questions about the City of Aspen Municipal Code (zoning, building, land use) and the Pitkin County Code / Land Use Code from the full copy of both codes bundled with this plugin, and help build or check Aspen zoning submittal sheets. Use whenever the user asks about Aspen or Pitkin code requirements, zoning (R-15, setbacks, height, floor area, demolition, mitigation/GMQS), building codes (IBC amendments, guardrails, egress, chimneys), permit/submittal requirements, responses to City zoning review comments, or sends a screenshot of a drawing sheet or calculation table with a code question. Answer from the local files — do not search the web first.
 ---
 
 # Aspen + Pitkin County Code Library
 
-The complete text of both codes is stored in this repo under `code-library/`.
+The complete text of both codes ships with this plugin, under
+`${CLAUDE_PLUGIN_ROOT}/code-library/`.
 Answer code questions by searching these files with Grep, then quote the exact
 section with its citation. Never answer Aspen/Pitkin code questions from memory
 alone — always verify against the stored text.
 
 ## Building or checking a zoning submittal? Read the reference first
 
-**`references/zoning-submittal.md`** — the working playbook for City of Aspen
+**`${CLAUDE_PLUGIN_ROOT}/skills/aspen-pitkin-code/references/zoning-submittal.md`** — the working playbook for City of Aspen
 residential zoning submittals, built from a full review cycle including the City
 reviewer's comments. Covers, for each of the four calculation packages:
 the sheet content the City requires, the exact chart/column formats (matched to
@@ -33,7 +34,10 @@ drafting a response to City zoning review comments.
 
 `gem-package/` holds a self-contained version of this knowledge built for a
 shared **Gemini Gem** (Google Workspace): `GEM-INSTRUCTIONS.txt`,
-`SETUP-README.md`, `USER-GUIDE.md`, and ten `knowledge-files/`. Files 01–05 are
+`SETUP-README.md`, `USER-GUIDE.md`, and ten `knowledge-files/`. It is **not
+bundled in this plugin** — it lives at the root of the source repo,
+`github.com/phantompressinfo-pixel/drawing-set`, because it is delivered to
+Workspace rather than to Claude Code. Files 01–05 are
 the tool-agnostic method — how to answer, the steps and **where to measure** for
 each calculation package, blank chart templates for every sheet, the mistake
 catalog and reviewer comments, and the IBC/IRC jurisdictional split. Files 06–10
@@ -41,7 +45,7 @@ are the code text.
 
 **These carry no project numbers by design** — the numbers change every project;
 the method does not. Use them as the generic layer; use
-`references/case-log-844-roaring-fork.md` only for that specific project's
+`${CLAUDE_PLUGIN_ROOT}/skills/aspen-pitkin-code/references/case-log-844-roaring-fork.md` only for that specific project's
 continuity.
 
 ## Need the model code text itself? Use the `us-building-codes` skill
@@ -49,7 +53,7 @@ continuity.
 Aspen's Title 8 adopts the IBC and amends it — it does not reprint it. When a
 question needs the **full wording of an IBC section** (or IEBC or ADA text,
 which this library has no copy of at all), search
-`code-library/us-building-codes/` via the `us-building-codes` skill. It holds
+`${CLAUDE_PLUGIN_ROOT}/code-library/us-building-codes/` via the `us-building-codes` skill. It holds
 Colorado's 2021 IBC — the same edition Aspen adopted — plus IEBC 2021 and the
 2010 ADA Standards.
 
@@ -58,7 +62,7 @@ presenting model text as the requirement, and say which layer you are quoting.
 
 This is not a theoretical risk. **Aspen amends 46 IBC sections and Pitkin
 amends 20 IBC + 15 IRC sections**, listed in
-`.claude/skills/us-building-codes/references/locally-amended-sections.txt`.
+`${CLAUDE_PLUGIN_ROOT}/skills/us-building-codes/references/locally-amended-sections.txt`.
 `codesearch.py` reads that list and stamps `*** AMENDED LOCALLY ***` on any
 result it covers. Heed the stamp — the model text shown is superseded.
 
@@ -69,7 +73,7 @@ and its §1015.3 adds Exception 9 (18 in. guards where the open side is under
 
 ## What is stored
 
-### City of Aspen — `code-library/aspen/` (one .txt per title)
+### City of Aspen — `${CLAUDE_PLUGIN_ROOT}/code-library/aspen/` (one .txt per title)
 - Source: Municode, Supp. No. 7 Update 1, codified through Ord. No. 06-2026
   (enacted 2026-03-24). Retrieved 2026-07-22. `_INDEX.txt` lists all files.
 - Key files:
@@ -79,7 +83,7 @@ and its §1015.3 adds Exception 9 (18 in. guards where the open side is under
     (zone districts, dimensional requirements, measurements, nonconformities,
     demolition, GMQS/mitigation, TDRs, historic preservation)
 
-### Pitkin County — `code-library/pitkin/` (one .txt per title/chapter)
+### Pitkin County — `${CLAUDE_PLUGIN_ROOT}/code-library/pitkin/` (one .txt per title/chapter)
 - Source: pitkincounty.com/468/County-Code PDFs. LUC current through
   Ord. No. 019-2026. Retrieved 2026-07-22.
 - `title-11-building-construction.txt` — county building code adoption/amendments

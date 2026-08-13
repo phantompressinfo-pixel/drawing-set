@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "office-code": {
+      "source": {
+        "source": "github",
+        "repo": "phantompressinfo-pixel/drawing-set"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "building-code@office-code": true
+  }
+}
