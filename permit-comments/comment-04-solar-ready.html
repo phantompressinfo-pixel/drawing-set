@@ -1,0 +1,579 @@
+<title>Solar Ready — R404.5</title>
+
+<style>
+  /* ── LIGHT ("PLOT") ─────────────────────────────────────────────── */
+  :root {
+    --paper:     #FCFCFA;
+    --surface:   #F3F3EF;
+    --sunk:      #EDEDE7;
+    --ink:       #191B1E;
+    --graphite:  #5C6167;
+    --faint:     #C6C8C3;
+    --rule:      #E0E0D9;
+    --reference: #1F5EA8;
+    --barrier:   #C22A22;
+    --barrier-w: #FBEDEB;
+    --earth:     #E7E4DA;
+    --poche:     #DEDFDA;
+    --foamfill:  #CBE0F3;
+
+    --f-title: ui-sans-serif, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    --f-body:  "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+    --f-data:  ui-monospace, SFMono-Regular, "SF Mono", "Cascadia Mono", Menlo, Consolas, "Liberation Mono", monospace;
+  }
+
+  /* ── DARK ("MODEL SPACE") ───────────────────────────────────────── */
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper:     #131519;
+      --surface:   #1A1D22;
+      --sunk:      #202429;
+      --ink:       #E9E7E2;
+      --graphite:  #9BA2AA;
+      --faint:     #3B4048;
+      --rule:      #292D33;
+      --reference: #74AEEC;
+      --barrier:   #FF6E5F;
+      --barrier-w: #2C1B1A;
+      --earth:     #23262B;
+      --poche:     #2E3238;
+      --foamfill:  #23394F;
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper:     #131519;
+    --surface:   #1A1D22;
+    --sunk:      #202429;
+    --ink:       #E9E7E2;
+    --graphite:  #9BA2AA;
+    --faint:     #3B4048;
+    --rule:      #292D33;
+    --reference: #74AEEC;
+    --barrier:   #FF6E5F;
+    --barrier-w: #2C1B1A;
+    --earth:     #23262B;
+    --poche:     #2E3238;
+    --foamfill:  #23394F;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--f-body);
+    font-size: 16.5px;
+    line-height: 1.62;
+    margin: 0;
+    padding: 0 24px 96px;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .sheet { max-width: 1120px; margin: 0 auto; }
+  .col   { max-width: 72ch; }
+
+  /* ── TITLE BLOCK ────────────────────────────────────────────────── */
+  .titleblock {
+    border: 1.5px solid var(--ink);
+    margin: 40px 0 52px;
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  .tb-main { padding: 24px 26px 22px; border-bottom: 1.5px solid var(--ink); }
+  .tb-eyebrow {
+    font-family: var(--f-title); font-size: 11px; font-weight: 700;
+    letter-spacing: .18em; text-transform: uppercase; color: var(--barrier);
+    margin: 0 0 10px;
+  }
+  .tb-main h1 {
+    font-family: var(--f-title); font-size: clamp(24px, 3.6vw, 38px);
+    font-weight: 700; letter-spacing: -.015em; line-height: 1.1;
+    margin: 0; text-wrap: balance;
+  }
+  .tb-sub { font-size: 16px; color: var(--graphite); margin: 12px 0 0; max-width: 62ch; }
+  .tb-fields { display: grid; grid-template-columns: repeat(4, 1fr); }
+  .tb-fields div { padding: 12px 16px 14px; border-right: 1px solid var(--rule); }
+  .tb-fields div:last-child { border-right: 0; }
+  .tb-k {
+    font-family: var(--f-title); font-size: 9.5px; font-weight: 700;
+    letter-spacing: .16em; text-transform: uppercase; color: var(--graphite);
+    display: block; margin-bottom: 4px;
+  }
+  .tb-v { font-family: var(--f-data); font-size: 13px; color: var(--ink); }
+  @media (max-width: 700px) {
+    .tb-fields { grid-template-columns: repeat(2, 1fr); }
+    .tb-fields div:nth-child(2) { border-right: 0; }
+  }
+
+  /* ── SECTION HEADS ──────────────────────────────────────────────── */
+  h2 {
+    font-family: var(--f-title); font-size: 13px; font-weight: 700;
+    letter-spacing: .17em; text-transform: uppercase;
+    margin: 0; padding-bottom: 9px;
+    border-bottom: 1.5px solid var(--ink);
+  }
+  section { margin-top: 60px; }
+  section > * + * { margin-top: 20px; }
+  h3 {
+    font-family: var(--f-title); font-size: 15px; font-weight: 700;
+    letter-spacing: -.005em; margin: 0;
+  }
+  p { margin: 0; }
+  .lede { font-size: 18px; line-height: 1.55; }
+
+  strong { font-weight: 700; }
+  code, .mono { font-family: var(--f-data); font-size: .88em; }
+  .ref { color: var(--reference); font-family: var(--f-data); font-size: .86em; white-space: nowrap; }
+  .fill { color: var(--barrier); font-family: var(--f-data); font-size: .86em; }
+
+  /* ── STRATEGY CARDS ─────────────────────────────────────────────── */
+  .strategy { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5px; background: var(--rule); border: 1.5px solid var(--ink); }
+  .strategy > div { background: var(--paper); padding: 18px 20px 20px; }
+  .st-zone {
+    font-family: var(--f-title); font-size: 9.5px; font-weight: 700;
+    letter-spacing: .16em; text-transform: uppercase; color: var(--graphite);
+  }
+  .st-mat { font-family: var(--f-title); font-size: 17px; font-weight: 700; margin: 6px 0 8px; line-height: 1.2; }
+  .st-why { font-size: 14.5px; line-height: 1.5; color: var(--graphite); }
+  @media (max-width: 760px) { .strategy { grid-template-columns: 1fr; } }
+
+  /* ── FIGURES ────────────────────────────────────────────────────── */
+  figure { margin: 0; }
+  .figframe { border: 1.5px solid var(--ink); background: var(--surface); padding: 14px; overflow-x: auto; }
+  .figframe svg { display: block; width: 100%; min-width: 720px; height: auto; }
+  figcaption {
+    font-size: 14px; color: var(--graphite); margin-top: 12px;
+    padding-left: 14px; border-left: 2px solid var(--faint); max-width: 76ch;
+  }
+
+  .ln     { fill: none; stroke: var(--graphite); stroke-width: 1.1; }
+  .poche  { fill: var(--poche); stroke: var(--graphite); stroke-width: 1; }
+  .earth  { fill: var(--earth); stroke: none; }
+  .grade  { fill: none; stroke: var(--graphite); stroke-width: 1.6; }
+  .datum  { fill: none; stroke: var(--reference); stroke-width: 1; stroke-dasharray: 9 3 2 3; opacity: .85; }
+  .gridln { fill: none; stroke: var(--faint); stroke-width: .9; stroke-dasharray: 7 4 2 4; }
+  .gridc  { fill: none; stroke: var(--reference); stroke-width: 1.2; }
+  .barrier{ fill: none; stroke: var(--barrier); stroke-width: 4; stroke-linejoin: round; stroke-linecap: round; }
+  .lead   { fill: none; stroke: var(--barrier); stroke-width: .9; }
+  .knc    { fill: var(--paper); stroke: var(--barrier); stroke-width: 1.7; }
+  .brk    { fill: none; stroke: var(--barrier); stroke-width: 2; }
+
+  text { font-family: var(--f-data); }
+  .t-room { fill: var(--graphite); font-size: 9.5px; letter-spacing: .05em; text-anchor: middle; }
+  .t-kn   { fill: var(--barrier); font-size: 12px; font-weight: 700; text-anchor: middle; }
+  .t-grid { fill: var(--reference); font-size: 11px; font-weight: 700; text-anchor: middle; }
+  .t-dat  { fill: var(--reference); font-size: 10px; letter-spacing: .04em; }
+  .t-dat2 { fill: var(--reference); font-size: 9.5px; opacity: .8; }
+  .t-lbl  { fill: var(--graphite); font-size: 10px; letter-spacing: .1em; }
+  .t-opt  { fill: var(--ink); font-family: var(--f-title); font-size: 12.5px; font-weight: 700; letter-spacing: .04em; }
+  .t-note { fill: var(--barrier); font-size: 10.5px; }
+  .t-ok   { fill: var(--graphite); font-size: 10.5px; }
+
+  /* ── KEYNOTE LEGEND ─────────────────────────────────────────────── */
+  .keynotes { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 0; border: 1.5px solid var(--ink); }
+  .keynotes li { display: grid; grid-template-columns: 34px 1fr; gap: 12px; padding: 15px 18px; border-bottom: 1px solid var(--rule); align-items: start; }
+  .keynotes li:nth-child(odd) { border-right: 1px solid var(--rule); }
+  .keynotes li:nth-last-child(-n+2) { border-bottom: 0; }
+  .kn-num {
+    width: 26px; height: 26px; border-radius: 50%;
+    border: 1.7px solid var(--barrier); color: var(--barrier);
+    font-family: var(--f-data); font-size: 12.5px; font-weight: 700;
+    display: grid; place-items: center; margin-top: 1px;
+  }
+  .kn-h { font-family: var(--f-title); font-size: 13.5px; font-weight: 700; display: block; margin-bottom: 3px; }
+  .kn-b { font-size: 14.5px; line-height: 1.48; color: var(--graphite); }
+  .kn-risk { border-left: 3px solid var(--barrier); }
+  @media (max-width: 820px) {
+    .keynotes { grid-template-columns: 1fr; }
+    .keynotes li:nth-child(odd) { border-right: 0; }
+    .keynotes li:nth-last-child(2) { border-bottom: 1px solid var(--rule); }
+  }
+
+  /* ── TABLE ──────────────────────────────────────────────────────── */
+  .tablewrap { overflow-x: auto; border: 1.5px solid var(--ink); }
+  table { border-collapse: collapse; width: 100%; min-width: 860px; font-size: 13.5px; }
+  thead th {
+    font-family: var(--f-title); font-size: 9.5px; font-weight: 700;
+    letter-spacing: .15em; text-transform: uppercase; text-align: left;
+    padding: 12px 16px; background: var(--sunk); border-bottom: 1.5px solid var(--ink);
+    vertical-align: bottom;
+  }
+  tbody td { padding: 14px 16px; border-bottom: 1px solid var(--rule); vertical-align: top; line-height: 1.5; }
+  tbody tr:last-child td { border-bottom: 0; }
+  tbody tr:nth-child(even) { background: var(--surface); }
+  .c-comp { width: 15%; font-family: var(--f-title); font-weight: 700; font-size: 13px; }
+  .c-code { width: 38%; color: var(--graphite); font-size: 13px; }
+  .c-proj { width: 47%; font-family: var(--f-data); font-size: 12.2px; line-height: 1.55; }
+  .crit { font-family: var(--f-title); font-size: 9px; font-weight: 700; letter-spacing: .13em; color: var(--ink); display: block; margin-top: 8px; }
+  .crit:first-child { margin-top: 0; }
+  .flagrow td { background: var(--barrier-w); }
+
+  /* ── MARKUP REVIEW ──────────────────────────────────────────────── */
+  .verdict { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5px; background: var(--rule); border: 1.5px solid var(--ink); }
+  .verdict > div { background: var(--paper); padding: 20px 22px 22px; }
+  .v-h { font-family: var(--f-title); font-size: 9.5px; font-weight: 700; letter-spacing: .16em; text-transform: uppercase; display: block; margin-bottom: 4px; }
+  .v-ok  .v-h { color: var(--reference); }
+  .v-fix .v-h { color: var(--barrier); }
+  .v-sub { font-size: 13.5px; color: var(--graphite); display: block; margin-bottom: 12px; }
+  .verdict ul { list-style: none; margin: 0; padding: 0; }
+  .verdict li { padding: 12px 0; border-top: 1px solid var(--rule); font-size: 14.5px; line-height: 1.5; color: var(--graphite); }
+  .verdict li b { font-family: var(--f-title); font-size: 14px; display: block; margin-bottom: 3px; color: var(--ink); }
+  @media (max-width: 820px) { .verdict { grid-template-columns: 1fr; } }
+  .seal { fill: var(--barrier); }
+  .ghost { fill: none; stroke: var(--faint); stroke-width: 1.1; }
+
+  /* ── WALL TYPE DRAWING ──────────────────────────────────────────── */
+  .lead-g { fill: none; stroke: var(--graphite); stroke-width: .9; }
+  .foam { fill: var(--foamfill); stroke: var(--graphite); stroke-width: 1; }
+  .sealdot { fill: var(--barrier); stroke: none; }
+  .hx { stroke: var(--graphite); stroke-width: .55; fill: none; }
+  .hd { fill: var(--graphite); opacity: .75; }
+  .ly { stroke: var(--graphite); stroke-width: 1; }
+  .t-cal   { fill: var(--graphite); font-size: 10px; letter-spacing: .02em; }
+  .t-cal-b { fill: var(--barrier); font-size: 10px; font-weight: 700; letter-spacing: .02em; }
+  .t-side  { fill: var(--graphite); font-size: 10px; letter-spacing: .08em; }
+  .t-tag   { fill: var(--ink); font-size: 14px; font-weight: 700; }
+  .t-tag2  { fill: var(--graphite); font-size: 9.5px; }
+  .t-title { fill: var(--ink); font-family: var(--f-title); font-size: 14px; font-weight: 700; letter-spacing: .04em; }
+
+  /* ── DETAIL ROUTING ─────────────────────────────────────────────── */
+  table.route { min-width: 800px; }
+  .route td { font-size: 14px; }
+  .route .k { font-family: var(--f-data); font-size: 13px; font-weight: 700; color: var(--barrier); width: 66px; text-align: center; }
+  .route .cond { width: 40%; }
+  .route .need { width: 20%; font-family: var(--f-title); font-size: 10.5px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
+  .need-y { color: var(--barrier); }
+  .need-n { color: var(--graphite); }
+  .route .loc { width: 28%; font-family: var(--f-data); font-size: 12.2px; color: var(--graphite); }
+  .missing { color: var(--barrier); font-weight: 700; }
+
+  /* ── DETAIL CARDS ───────────────────────────────────────────────── */
+  .detcard { border: 1.5px solid var(--ink); margin-top: 22px; }
+  .det-h { padding: 14px 20px; background: var(--sunk); border-bottom: 1.5px solid var(--ink); display: flex; flex-wrap: wrap; gap: 10px 18px; align-items: baseline; }
+  .det-n { font-family: var(--f-title); font-size: 15px; font-weight: 700; letter-spacing: .02em; }
+  .det-k { font-family: var(--f-data); font-size: 11.5px; color: var(--barrier); letter-spacing: .06em; }
+  .det-w { font-family: var(--f-data); font-size: 11.5px; color: var(--graphite); letter-spacing: .04em; margin-left: auto; }
+  .det-b { padding: 18px 20px 20px; }
+  .det-b > p { font-size: 14.5px; color: var(--graphite); max-width: 78ch; }
+  .det-b ol { margin: 14px 0 0; padding: 0; list-style: none; counter-reset: d; }
+  .det-b ol li { counter-increment: d; position: relative; padding: 11px 0 11px 32px; border-top: 1px solid var(--rule); font-size: 14.5px; line-height: 1.5; color: var(--graphite); max-width: 84ch; }
+  .det-b ol li::before { content: counter(d); position: absolute; left: 0; top: 13px; font-family: var(--f-data); font-size: 12px; font-weight: 700; color: var(--barrier); }
+  .det-b ol li b { display: block; font-family: var(--f-title); font-size: 14px; color: var(--ink); margin-bottom: 2px; }
+
+  /* ── NOTES ──────────────────────────────────────────────────────── */
+  .notes { border: 1.5px solid var(--ink); }
+  .notes-h { padding: 12px 18px; background: var(--sunk); border-bottom: 1.5px solid var(--ink); font-family: var(--f-title); font-size: 9.5px; font-weight: 700; letter-spacing: .15em; text-transform: uppercase; }
+  .notes ol { margin: 0; padding: 8px 18px 16px 18px; list-style: none; counter-reset: n; }
+  .notes li { counter-increment: n; position: relative; padding: 11px 0 11px 62px; border-bottom: 1px solid var(--rule); font-family: var(--f-data); font-size: 12.4px; line-height: 1.55; }
+  .notes li:last-child { border-bottom: 0; }
+  .notes li::before { content: "AS-" counter(n, decimal-leading-zero); position: absolute; left: 0; top: 11px; color: var(--barrier); font-weight: 700; }
+  .notes-plain li { padding-left: 44px; }
+  .notes-plain li::before { content: counter(n) "."; }
+
+  /* ── OPEN ITEMS ─────────────────────────────────────────────────── */
+  .open { display: grid; gap: 1.5px; background: var(--rule); border: 1.5px solid var(--ink); }
+  .open > div { background: var(--paper); padding: 18px 20px; display: grid; grid-template-columns: 92px 1fr; gap: 18px; align-items: start; }
+  .tag {
+    font-family: var(--f-title); font-size: 9px; font-weight: 700; letter-spacing: .12em;
+    text-transform: uppercase; padding: 4px 0; text-align: center;
+    border: 1.3px solid currentColor; border-radius: 2px;
+  }
+  .tag-block { color: var(--barrier); }
+  .tag-conf  { color: var(--reference); }
+  .open-b { font-size: 15px; line-height: 1.55; max-width: 74ch; }
+  .open-b b { font-family: var(--f-title); font-size: 14.5px; display: block; margin-bottom: 3px; color: var(--ink); }
+  @media (max-width: 620px) { .open > div { grid-template-columns: 1fr; gap: 10px; } .tag { justify-self: start; padding: 4px 12px; } }
+
+  hr.sheetend { border: 0; border-top: 1.5px solid var(--ink); margin: 64px 0 16px; }
+  .foot { font-family: var(--f-data); font-size: 11.5px; color: var(--graphite); letter-spacing: .03em; }
+</style>
+<style>
+  /* ── DETAIL STYLE, MATCHED TO THE SET ───────────────────────────── */
+  .abd   { fill: none; stroke: var(--ink); stroke-width: 2.4; stroke-dasharray: 11 6; }
+  .dln   { fill: none; stroke: var(--ink); stroke-width: 1; }
+  .dhv   { fill: none; stroke: var(--ink); stroke-width: 1.8; }
+  .dfoam { fill: var(--foamfill); stroke: var(--ink); stroke-width: 1; }
+  .dpo   { fill: url(#Pcon); stroke: var(--ink); stroke-width: 1; }
+  .dea   { fill: url(#Pear); stroke: none; }
+  .dgr   { fill: url(#Pgrv); stroke: none; }
+  .dbat  { fill: url(#Pbat); stroke: var(--ink); stroke-width: 1; }
+  .drig  { fill: url(#Prig); stroke: var(--ink); stroke-width: 1; }
+  .dwd   { fill: url(#Pwd);  stroke: var(--ink); stroke-width: 1; }
+  .dhtch { stroke: var(--graphite); stroke-width: .6; fill: none; }
+  /* thermal envelope plan */
+  .envb  { fill: none; stroke: var(--ink);   stroke-width: 15; stroke-linejoin: miter; }
+  .envp  { fill: none; stroke: var(--paper); stroke-width: 13; stroke-linejoin: miter; }
+  .envh  { fill: none; stroke: url(#Pwl);    stroke-width: 13; stroke-linejoin: miter; }
+  .dout  { fill: var(--sunk); stroke: var(--faint); stroke-width: 1; }
+  .t-rm  { fill: var(--ink); font-family: var(--f-data); font-size: 12px; letter-spacing: .05em; }
+  .t-ch  { fill: var(--graphite); font-family: var(--f-data); font-size: 11px; }
+  .t-an  { fill: var(--ink); font-family: var(--f-data); font-size: 11px; letter-spacing: .02em; }
+  .t-bb  { fill: var(--ink); font-family: var(--f-data); font-size: 12px; letter-spacing: .05em; }
+  .t-bs  { fill: var(--graphite); font-family: var(--f-data); font-size: 9px; }
+  .dlead { fill: none; stroke: var(--ink); stroke-width: .8; }
+  .t-d   { fill: var(--ink); font-family: var(--f-data); font-size: 11.5px; letter-spacing: .01em; }
+  .t-dt  { fill: var(--ink); font-family: var(--f-title); font-size: 20px; font-weight: 400; letter-spacing: .01em; }
+  .t-ds  { fill: var(--graphite); font-family: var(--f-data); font-size: 11px; }
+  .t-dn  { fill: var(--ink); font-family: var(--f-data); font-size: 11.5px; }
+  .t-dl  { fill: var(--ink); font-family: var(--f-data); font-size: 11.5px; letter-spacing: .06em; }
+  /* sheet-plan diagram */
+  .sp-b  { fill: var(--sunk); stroke: var(--ink); stroke-width: 1.1; }
+  .sp-d  { fill: none; stroke: var(--graphite); stroke-width: .9; stroke-dasharray: 5 4; }
+  .sp-h  { fill: var(--ink); font-family: var(--f-data); font-size: 11.5px; font-weight: 700; letter-spacing: .05em; }
+  .sp-t  { fill: var(--graphite); font-family: var(--f-data); font-size: 10.5px; }
+  .sp-n  { fill: var(--reference); font-family: var(--f-data); font-size: 11px; font-weight: 700; }
+  .newblk .sp-b { fill: var(--barrier-w); stroke: var(--barrier); stroke-width: 1.6; }
+</style>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
+    <pattern id="Pcon" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="5" cy="6" r="1.1" fill="var(--graphite)"/><circle cx="17" cy="14" r=".9" fill="var(--graphite)"/>
+      <circle cx="10" cy="21" r="1" fill="var(--graphite)"/><circle cx="22" cy="4" r=".8" fill="var(--graphite)"/>
+      <path class="dhtch" d="M19 20 l3.4 2.8 l-3.8 1.4 z"/><path class="dhtch" d="M6 13 l2.8 2.2 l-3 1.1 z"/>
+      <path class="dhtch" d="M13 3 l2.6 2 l-2.8 1 z"/></pattern>
+    <pattern id="Pear" width="24" height="18" patternUnits="userSpaceOnUse">
+      <path class="dhtch" d="M0 7 H10 M14 7 H24 M5 16 H19"/>
+      <path class="dhtch" d="M2 7 l-3 -5 M8 7 l-3 -5 M16 7 l-3 -5 M22 7 l-3 -5 M8 16 l-3 -5 M16 16 l-3 -5"/></pattern>
+    <pattern id="Pgrv" width="18" height="16" patternUnits="userSpaceOnUse">
+      <circle class="dhtch" cx="5" cy="5" r="3"/><circle class="dhtch" cx="13" cy="11" r="2.4"/>
+      <circle class="dhtch" cx="15" cy="3" r="1.7"/></pattern>
+    <pattern id="Prig" width="10" height="10" patternUnits="userSpaceOnUse">
+      <path class="dhtch" d="M0 10 L10 0 M-2 2 L2 -2 M8 12 L12 8"/></pattern>
+    <pattern id="Pbat" width="24" height="14" patternUnits="userSpaceOnUse">
+      <path class="dhtch" d="M0 7 Q6 -3 12 7 Q18 17 24 7"/></pattern>
+    <pattern id="Pwl" width="9" height="9" patternUnits="userSpaceOnUse">
+      <path d="M0 9 L9 0 M-2 2 L2 -2 M7 11 L11 7" stroke="var(--ink)" stroke-width=".9" fill="none"/></pattern>
+    <pattern id="Pwd" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path class="dhtch" d="M0 3 H16 M0 9 H16 M0 14 H16"/></pattern>
+  </defs></svg>
+
+<div class="sheet">
+
+  <header class="titleblock">
+    <div class="tb-main">
+      <p class="tb-eyebrow">Plan review response &middot; Solar ready</p>
+      <h1>Solar Ready &mdash; R404.5</h1>
+      <p class="tb-sub">Four drawings and a note block that answer every bullet in the comment: the panel schedule,
+        the electrical plan items, the conduit run, and the roof zone.</p>
+    </div>
+    <div class="tb-fields">
+      <div><span class="tb-k">Code</span><span class="tb-v">Aspen 2021 R404.5</span></div>
+      <div><span class="tb-k">Zone</span><span class="tb-v">250 sq ft min.</span></div>
+      <div><span class="tb-k">Conduit</span><span class="tb-v">1&Prime; min., empty</span></div>
+      <div><span class="tb-k">Panel</span><span class="tb-v">2-pole, load end</span></div>
+    </div>
+  </header>
+
+  <section>
+    <figure style="margin-top:32px"><div class="figframe"><svg viewBox="0 0 1200 880" role="img" aria-label="Solar ready riser diagram. Utility service to meter to main service panel, with a dedicated two pole breaker space at the load end of the busbar, a junction box within two feet of the panel, one inch conduit rising to a junction box and capped roof sleeve in the attic, and the solar ready zone above.">
+      
+      <g class="dln" fill="none">
+        <path d="M130 110 V150"/><path d="M118 110 L130 92 L142 110 Z" fill="var(--ink)"/>
+        <circle cx="130" cy="180" r="28"/><text class="t-dl" x="130" y="186" text-anchor="middle">M</text>
+        <path d="M130 208 V250 M130 250 H240"/>
+        <rect x="140" y="250" width="200" height="400" fill="var(--paper)"/>
+        <rect x="152" y="262" width="176" height="42"/>
+        <path d="M234 304 V636 M246 304 V636"/>
+        <path d="M152 320 H234 M246 320 H328 M152 352 H234 M246 352 H328 M152 384 H234 M246 384 H328
+                 M152 416 H234 M246 416 H328 M152 448 H234 M246 448 H328 M152 480 H234 M246 480 H328"/>
+      </g>
+      <rect x="152" y="560" width="176" height="76" fill="var(--barrier-w)" style="stroke:var(--barrier);stroke-width:1.8"/>
+      <text class="t-dl" x="240" y="590" text-anchor="middle">FUTURE SOLAR</text>
+      <text class="t-dl" x="240" y="612" text-anchor="middle">2-POLE SPACE</text>
+      <text class="t-dl" x="240" y="290" text-anchor="middle">200A MAIN</text>
+      <text class="t-ds" x="240" y="672" text-anchor="middle">MAIN SERVICE PANEL</text>
+
+      <g class="dln" fill="none"><rect x="404" y="404" width="56" height="56" fill="var(--paper)"/>
+        <path d="M404 404 L460 460 M460 404 L404 460"/></g>
+      <g class="dln"><path d="M340 526 V542 M404 526 V542 M340 534 H404"/></g><text class="t-ds" x="372" y="522" text-anchor="middle">2&#39;-0&quot; MAX</text>
+
+      <g class="dln" fill="none" style="stroke-width:2.2">
+        <path d="M432 404 V250 H560 V190"/>
+      </g>
+      <g class="dln" fill="none"><rect x="532" y="134" width="56" height="56" fill="var(--paper)"/>
+        <path d="M532 134 L588 190 M588 134 L532 190"/></g>
+      <path class="dln" d="M560 134 V96" style="stroke-width:2.2;fill:none"/>
+      <g class="dln" fill="none"><rect x="548" y="80" width="24" height="16"/></g>
+
+      <path class="dln" d="M420 96 H660" style="stroke-width:1.6;fill:none"/>
+      <path class="dln" d="M420 108 H660" style="fill:none"/>
+      <g style="stroke:var(--reference);stroke-width:1.6;fill:none;stroke-dasharray:9 5">
+        <rect x="430" y="40" width="220" height="46"/></g>
+      <text class="t-dl" x="540" y="68" text-anchor="middle" style="fill:var(--reference)">SOLAR READY ZONE</text>
+
+      <path class="dlead" d="M700 120 H634 L574 88"/><path class="dln" fill="var(--ink)" d="M574 88 L585.5882352941177 89.6470588235294 L581.8235294117648 96.70588235294117 Z"/><path class="dlead" d="M700 174 H652 L592 162"/><path class="dln" fill="var(--ink)" d="M592 162 L603.5708519731529 160.23495478375634 L602.0019228920473 168.07960018928372 Z"/><path class="dlead" d="M700 250 H560 L470 250"/><path class="dln" fill="var(--ink)" d="M470 250 L481 246 L481 254 Z"/><path class="dlead" d="M700 330 H586 L466 300"/><path class="dln" fill="var(--ink)" d="M466 300 L477.641710001744 298.78732187481836 L475.7014250014533 306.548461875981 Z"/>
+      <path class="dlead" d="M700 432 H522 L462 432"/><path class="dln" fill="var(--ink)" d="M462 432 L473 428 L473 436 Z"/><path class="dlead" d="M700 530 H452 L332 430"/><path class="dln" fill="var(--ink)" d="M332 430 L343.01117167422905 433.9691432779198 L337.88969647691323 440.11491351469874 Z"/><path class="dlead" d="M700 600 H452 L332 598"/><path class="dln" fill="var(--ink)" d="M332 598 L343.0651299497716 594.1838633155155 L342.93181513109965 602.1827524358323 Z"/>
+      <text class="t-dn" x="710" y="112">CAPPED ROOF PENETRATION SLEEVE AT EACH</text><text class="t-dn" x="710" y="130">SOLAR READY ZONE</text>
+      <text class="t-dn" x="710" y="166">JUNCTION BOX IN ATTIC WITHIN 3&#39;-0&quot; OF EACH</text><text class="t-dn" x="710" y="184">SOLAR READY ZONE</text>
+      <text class="t-dn" x="710" y="242">1&quot; MIN. CONDUIT, EMPTY, W/ PULL STRING.</text><text class="t-dn" x="710" y="260">LABEL &ldquo;FOR FUTURE SOLAR ELECTRIC&rdquo; AT BOTH ENDS</text>
+      <text class="t-dn" x="710" y="322">SEAL CONDUIT WHERE IT PENETRATES THE THERMAL</text><text class="t-dn" x="710" y="340">ENVELOPE &mdash; SEE GENERAL NOTES 20&ndash;30, A5.00</text>
+      <text class="t-dn" x="710" y="424">JUNCTION BOX WITHIN 2&#39;-0&quot; OF THE MAIN SERVICE</text><text class="t-dn" x="710" y="442">PANEL. LABEL &ldquo;FOR FUTURE SOLAR ELECTRIC&rdquo;</text>
+      <text class="t-dn" x="710" y="514">MAIN SERVICE PANEL. MAINTAIN NEC 110.26 WORKING</text><text class="t-dn" x="710" y="532">SPACE AND 110.26(E) DEDICATED EQUIPMENT SPACE &mdash;</text><text class="t-dn" x="710" y="550">SEE 3/E___</text>
+      <text class="t-dn" x="710" y="592">DEDICATED 2-POLE BREAKER SPACE AT THE LOAD END</text><text class="t-dn" x="710" y="610">OF THE BUSBAR, OPPOSITE THE PRIMARY ENERGY</text><text class="t-dn" x="710" y="628">SOURCE. LABEL &ldquo;FOR FUTURE SOLAR ELECTRIC&rdquo;</text>
+      <g class="t-dn"><text x="46" y="720">1.  NO PHOTOVOLTAIC SYSTEM IS INSTALLED UNDER THIS PERMIT. THIS DWELLING IS SOLAR READY ONLY, PER CITY</text><text x="46" y="738">     OF ASPEN 2021 ENERGY CODE R404.5.</text><text x="46" y="756">2.  FUTURE INTERCONNECTION SHALL COMPLY W/ NEC 705.12(B)(3). THE DEDICATED SPACE SHALL NOT BE USED FOR</text><text x="46" y="774">     ANY OTHER LOAD.</text><text x="46" y="792">3.  CONDUIT SHALL BE CONTINUOUS W/ NO MORE THAN THE EQUIVALENT OF FOUR QUARTER BENDS BETWEEN PULL POINTS.</text></g>
+      
+      <circle class="dln" cx="70" cy="826" r="26"/><path class="dln" d="M46 826 H96"/>
+      <text class="t-dl" x="70" y="818" text-anchor="middle">1</text>
+      <text class="t-ds" x="70" y="844" text-anchor="middle">E___</text>
+      <text class="t-dt" x="112" y="824">SOLAR READY RISER DIAGRAM</text>
+      <text class="t-ds" x="112" y="846">SCALE  NTS</text>
+      <path class="dln" d="M108 832 H1170"/>
+    </svg></div>
+      <figcaption>1/E___ &mdash; the whole comment in one drawing. Panel to J-box to conduit to attic J-box to capped sleeve to zone, with the label called out at both ends of the conduit.</figcaption></figure>
+    <figure style="margin-top:32px"><div class="figframe"><svg viewBox="0 0 1200 690" role="img" aria-label="Main service panel schedule with the last two spaces at the load end of the busbar reserved and labeled for future solar electric.">
+      
+      <rect class="dln" x="40" y="40" width="1120" height="490" fill="var(--sunk)"/>
+      <path class="dln" d="M40 78 H1160 M40 152 H1160"/>
+      <text class="t-dt" x="60" y="68" style="font-size:16px">MAIN SERVICE PANEL SCHEDULE</text>
+      <g class="t-dn">
+        <text x="76" y="104">PANEL:  MSP</text><text x="420" y="104">VOLTAGE:  120/240V, 1&Phi;, 3W</text>
+        <text x="820" y="104">MAIN:  200A</text>
+        <text x="76" y="130">MOUNTING:  SURFACE</text><text x="420" y="130">BUS:  225A MIN.</text>
+        <text x="820" y="130">AIC:  22,000 MIN.</text>
+      </g>
+      <g class="t-ds"><text x="76" y="180">CKT</text><text x="180" y="180">DESCRIPTION</text>
+        <text x="900" y="180" text-anchor="middle">POLES</text><text x="1040" y="180" text-anchor="middle">TRIP</text></g>
+      <path class="dln" d="M60 190 H1140"/>
+      <text class="t-dn" x="76" y="216">1 &ndash; 2</text><text class="t-dn" x="180" y="216">RANGE</text><text class="t-dn" x="900" y="216" text-anchor="middle">2</text><text class="t-dn" x="1040" y="216" text-anchor="middle">50A</text><path class="dln" d="M60 225 H1140" style="stroke:var(--rule)"/>
+      <text class="t-dn" x="76" y="244">3 &ndash; 4</text><text class="t-dn" x="180" y="244">DRYER</text><text class="t-dn" x="900" y="244" text-anchor="middle">2</text><text class="t-dn" x="1040" y="244" text-anchor="middle">30A</text><path class="dln" d="M60 253 H1140" style="stroke:var(--rule)"/>
+      <text class="t-dn" x="76" y="272">5 &ndash; 6</text><text class="t-dn" x="180" y="272">HVAC / ERV</text><text class="t-dn" x="900" y="272" text-anchor="middle">2</text><text class="t-dn" x="1040" y="272" text-anchor="middle">30A</text><path class="dln" d="M60 281 H1140" style="stroke:var(--rule)"/>
+      <text class="t-dn" x="76" y="300">7 &ndash; 20</text><text class="t-dn" x="180" y="300">LIGHTING AND RECEPTACLE CIRCUITS, SEE ELECTRICAL PLANS</text><text class="t-dn" x="900" y="300" text-anchor="middle">&mdash;</text><text class="t-dn" x="1040" y="300" text-anchor="middle">&mdash;</text><path class="dln" d="M60 309 H1140" style="stroke:var(--rule)"/>
+      <text class="t-dn" x="76" y="328">21 &ndash; 36</text><text class="t-dn" x="180" y="328">LIGHTING AND RECEPTACLE CIRCUITS, SEE ELECTRICAL PLANS</text><text class="t-dn" x="900" y="328" text-anchor="middle">&mdash;</text><text class="t-dn" x="1040" y="328" text-anchor="middle">&mdash;</text><path class="dln" d="M60 337 H1140" style="stroke:var(--rule)"/>
+      <text class="t-dn" x="76" y="356">37 &ndash; 38</text><text class="t-dn" x="180" y="356">SPARE</text><text class="t-dn" x="900" y="356" text-anchor="middle">2</text><text class="t-dn" x="1040" y="356" text-anchor="middle">&mdash;</text><path class="dln" d="M60 365 H1140" style="stroke:var(--rule)"/>
+      <rect x="60" y="377" width="1080" height="24" fill="var(--barrier-w)"/><text class="t-dn" x="76" y="392" style="fill:var(--barrier)">39 &ndash; 40</text><text class="t-dn" x="180" y="392" style="fill:var(--barrier)">DEDICATED SPACE &mdash; &ldquo;FOR FUTURE SOLAR ELECTRIC&rdquo;</text><text class="t-dn" x="900" y="392" text-anchor="middle" style="fill:var(--barrier)">2</text><text class="t-dn" x="1040" y="392" text-anchor="middle" style="fill:var(--barrier)">SPACE</text><path class="dln" d="M60 401 H1140" style="stroke:var(--rule)"/>
+      <g class="t-dn">
+        <text x="76" y="440">CIRCUITS 39 AND 40 ARE THE LAST TWO SPACES ON THE BUSBAR, AT THE OPPOSITE (LOAD) END FROM THE</text>
+        <text x="76" y="460">200A MAIN. THEY SHALL REMAIN EMPTY AND SHALL NOT BE USED FOR ANY OTHER LOAD. PROVIDE A PERMANENT</text>
+        <text x="76" y="480">LABEL AT THE PANEL COVER READING &ldquo;FOR FUTURE SOLAR ELECTRIC.&rdquo;</text>
+        <text x="76" y="510">FUTURE PV INTERCONNECTION PER NEC 705.12(B)(3)(2), LOAD-END BUSBAR CONNECTION.</text>
+      </g>
+      
+      <circle class="dln" cx="70" cy="606" r="26"/><path class="dln" d="M46 606 H96"/>
+      <text class="t-dl" x="70" y="598" text-anchor="middle">2</text>
+      <text class="t-ds" x="70" y="624" text-anchor="middle">E___</text>
+      <text class="t-dt" x="112" y="604">MAIN SERVICE PANEL SCHEDULE</text>
+      <text class="t-ds" x="112" y="626">SCALE  NTS</text>
+      <path class="dln" d="M108 612 H1170"/>
+    </svg></div>
+      <figcaption>2/E___ &mdash; circuits 39 and 40 are the last two spaces on the busbar, at the opposite end from the 200A main. That position is what NEC 705.12(B)(3)(2) requires.</figcaption></figure>
+    <figure style="margin-top:32px"><div class="figframe"><svg viewBox="0 0 1200 760" role="img" aria-label="Enlarged electrical plan at the main service panel showing the NEC 110.26 working space three feet deep and thirty inches wide, the dedicated equipment space above, the junction box within two feet, and the one inch conduit.">
+      
+      <g class="dln" fill="none">
+        <rect class="dpo" x="120" y="150" width="26" height="420"/>
+        <rect x="146" y="220" width="34" height="200" fill="var(--paper)"/>
+        <path d="M133 150 V344 l-10 11 l20 10 l-10 11 V570"/>
+      </g>
+      <g style="stroke:var(--barrier);stroke-width:1.6;fill:var(--barrier-w);fill-opacity:.55;stroke-dasharray:10 6">
+        <rect x="180" y="190" width="288" height="260"/></g>
+      <text class="t-dl" x="324" y="310" text-anchor="middle" style="fill:var(--barrier)">NEC 110.26</text>
+      <text class="t-dl" x="324" y="332" text-anchor="middle" style="fill:var(--barrier)">WORKING SPACE</text>
+      <text class="t-dl" x="324" y="354" text-anchor="middle" style="fill:var(--barrier)">KEEP CLEAR</text>
+      <g class="dln"><path d="M180 492 V508 M468 492 V508 M180 500 H468"/></g><text class="t-ds" x="324" y="488" text-anchor="middle">3&#39;-0&quot; MIN. DEPTH</text>
+      <g class="dln"><path d="M532 190 H548 M532 450 H548 M540 190 V450"/></g><text class="t-ds" x="528" y="320" text-anchor="end">30&quot; MIN. WIDTH</text>
+
+      <g class="dln" fill="none"><rect x="146" y="470" width="48" height="48" fill="var(--paper)"/>
+        <path d="M146 470 L194 518 M194 470 L146 518"/></g>
+      <g class="dln"><path d="M180 582 V598 M296 582 V598 M180 590 H296"/></g><text class="t-ds" x="238" y="578" text-anchor="middle">2&#39;-0&quot; MAX</text>
+      <path class="dln" d="M170 470 V440" style="stroke-width:2.2;fill:none"/>
+      <path class="dln" d="M170 440 H120" style="stroke-width:2.2;fill:none"/>
+
+      <text class="t-dl" x="163" y="620" text-anchor="middle">MSP</text>
+      <text class="t-dl" x="600" y="620">GARAGE / MECHANICAL ROOM</text>
+
+      <path class="dlead" d="M700 190 H416 L176 196"/><path class="dln" fill="var(--ink)" d="M176 196 L186.89659534584854 191.72633531160528 L187.09653287513015 199.72383648287024 Z"/><path class="dlead" d="M700 268 H590 L470 268"/><path class="dln" fill="var(--ink)" d="M470 268 L481 264 L481 272 Z"/><path class="dlead" d="M700 360 H500 L200 494"/><path class="dln" fill="var(--ink)" d="M200 494 L208.4122979516215 485.86161913073954 L211.67495475485532 493.1660746603675 Z"/><path class="dlead" d="M700 438 H470 L130 440"/><path class="dln" fill="var(--ink)" d="M130 440 L140.97628068882804 435.93536443945334 L141.0233386982121 443.9352260347406 Z"/>
+      <text class="t-dn" x="710" y="182">MAIN SERVICE PANEL, SURFACE MOUNTED.</text><text class="t-dn" x="710" y="200">PANEL COVER LABELED &ldquo;FOR FUTURE SOLAR ELECTRIC&rdquo;</text>
+      <text class="t-dn" x="710" y="260">NEC 110.26 WORKING SPACE: 3&#39;-0&quot; MIN. DEPTH,</text><text class="t-dn" x="710" y="278">30&quot; MIN. WIDTH, 6&#39;-6&quot; MIN. HEIGHT. NO STORAGE,</text><text class="t-dn" x="710" y="296">PIPING, DUCTWORK OR EQUIPMENT WITHIN</text>
+      <text class="t-dn" x="710" y="352">JUNCTION BOX WITHIN 2&#39;-0&quot; OF THE PANEL,</text><text class="t-dn" x="710" y="370">LABELED &ldquo;FOR FUTURE SOLAR ELECTRIC&rdquo;</text>
+      <text class="t-dn" x="710" y="430">1&quot; MIN. CONDUIT TO THE ATTIC J-BOX AND CAPPED</text><text class="t-dn" x="710" y="448">ROOF SLEEVE &mdash; SEE 1/E___</text>
+      <g class="t-dn"><text x="46" y="660">1.  NEC 110.26(E) DEDICATED EQUIPMENT SPACE: THE SPACE ABOVE THE PANEL, THE FULL WIDTH AND DEPTH OF THE</text><text x="46" y="678">     PANEL, TO 6&#39;-0&quot; ABOVE IT OR TO THE STRUCTURAL CEILING, WHICHEVER IS LOWER, SHALL BE KEPT CLEAR OF</text><text x="46" y="696">     PIPING, DUCTS AND EQUIPMENT FOREIGN TO THE ELECTRICAL INSTALLATION.</text><text x="46" y="714">2.  WORKING SPACE HEIGHT 6&#39;-6&quot; MIN. OR THE HEIGHT OF THE EQUIPMENT, WHICHEVER IS GREATER.</text><text x="46" y="732">3.  SEAL THE CONDUIT WHERE IT PENETRATES THE THERMAL ENVELOPE &mdash; SEE GENERAL NOTES 20&ndash;30, SHEET A5.00.</text></g>
+      
+      <circle class="dln" cx="70" cy="728" r="26"/><path class="dln" d="M46 728 H96"/>
+      <text class="t-dl" x="70" y="720" text-anchor="middle">3</text>
+      <text class="t-ds" x="70" y="746" text-anchor="middle">E___</text>
+      <text class="t-dt" x="112" y="726">ENLARGED PLAN AT MAIN SERVICE PANEL</text>
+      <text class="t-ds" x="112" y="748">SCALE  1/2&quot; = 1&#39;-0&quot;</text>
+      <path class="dln" d="M108 734 H1170"/>
+    </svg></div>
+      <figcaption>3/E___ &mdash; the 110.26 working space drawn and dimensioned, which is the part reviewers usually find missing. The dedicated equipment space above the panel is note 1.</figcaption></figure>
+    <figure style="margin-top:32px"><div class="figframe"><svg viewBox="0 0 1200 960" role="img" aria-label="Roof plan showing two solar ready zones totalling two hundred and fifty square feet, the three foot access pathways and eighteen inch ridge setbacks excluded from the zone area, and the attic junction boxes within three feet of each zone.">
+      
+      <g class="dln" fill="none" style="stroke-width:1.6">
+        <path d="M100 200 H460 V160 H600 V520 H300 V560 H100 Z"/>
+        <path d="M100 330 H300 M300 200 V560 M460 160 V520 M300 330 H600"/>
+      </g>
+      <g class="dln" fill="none" style="stroke-width:2.4"><path d="M200 200 V560 M450 160 V520"/></g>
+      <text class="t-ds" x="208" y="580">RIDGE</text><text class="t-ds" x="458" y="544">RIDGE</text>
+
+      <g style="stroke:var(--graphite);stroke-width:.9;fill:url(#Prig);fill-opacity:.6;stroke-dasharray:6 4">
+        <rect x="178" y="200" width="44" height="360"/>
+        <rect x="428" y="160" width="44" height="360"/>
+        <rect x="100" y="200" width="360" height="26"/></g>
+
+      <g style="stroke:var(--reference);stroke-width:2;fill:var(--reference);fill-opacity:.10;stroke-dasharray:11 6"><rect x="240" y="246" width="180" height="80"/></g><text class="t-dl" x="330" y="282" text-anchor="middle" style="fill:var(--reference)">SOLAR READY ZONE A</text><text class="t-ds" x="330" y="302" text-anchor="middle" style="fill:var(--reference)">150 SQ FT</text>
+      <g style="stroke:var(--reference);stroke-width:2;fill:var(--reference);fill-opacity:.10;stroke-dasharray:11 6"><rect x="490" y="246" width="100" height="80"/></g><text class="t-dl" x="540" y="282" text-anchor="middle" style="fill:var(--reference)">ZONE B</text><text class="t-ds" x="540" y="302" text-anchor="middle" style="fill:var(--reference)">100 SQ FT</text>
+
+      <g class="dln" fill="none"><rect x="250" y="346" width="28" height="28" fill="var(--paper)"/>
+        <path d="M250 346 L278 374 M278 346 L250 374"/>
+        <rect x="498" y="346" width="28" height="28" fill="var(--paper)"/>
+        <path d="M498 346 L526 374 M526 346 L498 374"/></g>
+
+      <g class="dln" fill="none"><circle cx="360" cy="420" r="13"/><path d="M351 420 H369 M360 411 V429"/>
+        <circle cx="150" cy="460" r="11"/></g>
+
+      <g class="dln"><path d="M240 228 V244 M420 228 V244 M240 236 H420"/></g><text class="t-ds" x="330" y="224" text-anchor="middle">12&#39;-6&quot; MIN.</text>
+      <g class="dln"><path d="M668 246 H684 M668 326 H684 M676 246 V326"/></g><text class="t-ds" x="664" y="286" text-anchor="end">12&#39;-0&quot;</text>
+
+      <path class="dlead" d="M700 150 H570 L450 220"/><path class="dln" fill="var(--ink)" d="M450 220 L457.48608380778643 211.00230311564133 L461.51705201197916 217.91253432282878 Z"/><path class="dlead" d="M700 232 H594 L444 282"/><path class="dln" fill="var(--ink)" d="M444 282 L453.1706052144883 274.72676138161273 L455.700427342623 282.3162277660168 Z"/><path class="dlead" d="M700 300 H648 L592 300"/><path class="dln" fill="var(--ink)" d="M592 300 L603 296 L603 304 Z"/><path class="dlead" d="M700 392 H628 L528 358"/><path class="dln" fill="var(--ink)" d="M528 358 L539.7021111259717 357.7538390863469 L537.126889260062 365.3280210449046 Z"/>
+      <path class="dlead" d="M700 470 H554 L374 420"/><path class="dln" fill="var(--ink)" d="M374 420 L385.6692724610737 419.09001086312725 L383.528121550785 426.7981541401668 Z"/><path class="dlead" d="M700 540 H562 L162 460"/><path class="dln" fill="var(--ink)" d="M162 460 L173.57085197315286 458.23495478375634 L172.0019228920474 466.07960018928367 Z"/>
+      <text class="t-dn" x="710" y="142">3&#39;-0&quot; CLEAR ACCESS PATHWAY, EAVE TO RIDGE, ON</text><text class="t-dn" x="710" y="160">EACH ROOF SLOPE W/ MODULES &mdash; IFC 1205.2.1.1.</text><text class="t-dn" x="710" y="178">NOT COUNTED IN THE ZONE AREA</text>
+      <text class="t-dn" x="710" y="224">18&quot; CLEAR SETBACK EACH SIDE OF A HORIZONTAL</text><text class="t-dn" x="710" y="242">RIDGE &mdash; IFC 1205.2.1.2. NOT COUNTED IN THE ZONE</text>
+      <text class="t-dn" x="710" y="292">SOLAR READY ZONE. 250 SQ FT MIN. TOTAL, IN AREAS</text><text class="t-dn" x="710" y="310">OF 80 SQ FT MIN. AND 5&#39;-6&quot; MIN. ON A SIDE</text>
+      <text class="t-dn" x="710" y="384">JUNCTION BOX IN ATTIC WITHIN 3&#39;-0&quot; OF EACH ZONE,</text><text class="t-dn" x="710" y="402">OR CAPPED ROOF PENETRATION SLEEVE</text>
+      <text class="t-dn" x="710" y="462">NO VENTS, CHIMNEYS, SKYLIGHTS OR MECHANICAL</text><text class="t-dn" x="710" y="480">EQUIPMENT WITHIN A SOLAR READY ZONE</text>
+      <text class="t-dn" x="710" y="532">ROOF DRAIN &mdash; PERMITTED WITHIN A ZONE</text>
+      <g class="t-dn"><text x="46" y="660">1.  ZONE A 150 SQ FT + ZONE B 100 SQ FT = 250 SQ FT TOTAL. MEETS CITY OF ASPEN 2021 ENERGY CODE R404.5.</text><text x="46" y="678">2.  ZONE AREAS EXCLUDE THE IFC 1205.2.1 ACCESS PATHWAYS AND RIDGE SETBACKS SHOWN HATCHED.</text><text x="46" y="696">3.  NO OBSTRUCTION SHALL BE LOCATED WITHIN A SOLAR READY ZONE. ROOF DRAINS ARE PERMITTED.</text><text x="46" y="714">4.  ZONES ARE LOCATED ON THE ROOF PLANES W/ THE BEST SOLAR ACCESS. VERIFY ORIENTATION AND SHADING.</text><text x="46" y="732">5.  ROOF STRUCTURE AT EACH ZONE IS DESIGNED FOR AN ADDITIONAL ___ PSF DEAD LOAD FOR FUTURE PV, REF STRUCT.</text><text x="46" y="750">6.  WHERE THE DWELLING IS SPRINKLERED, ALTERNATIVE RIDGE SETBACKS PER IFC 1205.2.1.3 MAY APPLY. VERIFY</text><text x="46" y="768">     W/ THE FIRE MARSHAL BEFORE FIXING THE ZONE BOUNDARIES.</text></g>
+      
+      <circle class="dln" cx="70" cy="900" r="26"/><path class="dln" d="M46 900 H96"/>
+      <text class="t-dl" x="70" y="892" text-anchor="middle">4</text>
+      <text class="t-ds" x="70" y="918" text-anchor="middle">E___</text>
+      <text class="t-dt" x="112" y="898">ROOF PLAN - SOLAR READY ZONE</text>
+      <text class="t-ds" x="112" y="920">SCALE  1/8&quot; = 1&#39;-0&quot;</text>
+      <path class="dln" d="M108 906 H1170"/>
+    </svg></div>
+      <figcaption>4/E___ &mdash; two zones totalling 250 sq ft, with the IFC pathways and ridge setbacks hatched and explicitly excluded from the area.</figcaption></figure>
+    <figure style="margin-top:32px"><div class="figframe"><svg viewBox="0 0 1200 700" role="img" aria-label="Solar ready general notes, thirteen items covering the panel, the conduit run, the roof zone, structure and the permanent certificate.">
+      
+      <rect class="dln" x="40" y="40" width="1120" height="500" fill="var(--sunk)"/>
+      <path class="dln" d="M40 78 H1160"/>
+      <text class="t-dt" x="60" y="68" style="font-size:16px">SOLAR READY GENERAL NOTES &mdash; 2021 ASPEN ENERGY CODE R404.5</text>
+      <text class="t-dn" x="60" y="106">1.   NO PHOTOVOLTAIC SYSTEM IS INSTALLED UNDER THIS PERMIT. THIS DWELLING IS SOLAR READY ONLY.</text>
+      <text class="t-dn" x="60" y="130">2.   MAIN SERVICE PANEL: PROVIDE ONE DEDICATED 2-POLE BREAKER SPACE AT THE LOAD END OF THE BUSBAR,</text>
+      <text class="t-dn" x="92" y="148">OPPOSITE THE PRIMARY ENERGY SOURCE. LABEL &ldquo;FOR FUTURE SOLAR ELECTRIC.&rdquo; SEE 2/E___.</text>
+      <text class="t-dn" x="60" y="172">3.   THE DEDICATED SPACE SHALL REMAIN EMPTY AND SHALL NOT BE USED FOR ANY OTHER LOAD. FUTURE</text>
+      <text class="t-dn" x="92" y="190">INTERCONNECTION PER NEC 705.12(B)(3)(2), LOAD-END BUSBAR CONNECTION.</text>
+      <text class="t-dn" x="60" y="214">4.   PROVIDE A JUNCTION BOX WITHIN 2&#39;-0&quot; OF THE MAIN SERVICE PANEL.</text>
+      <text class="t-dn" x="60" y="238">5.   MAINTAIN NEC 110.26 WORKING SPACE AND 110.26(E) DEDICATED EQUIPMENT SPACE AT THE PANEL &mdash; SEE 3/E___.</text>
+      <text class="t-dn" x="60" y="262">6.   PROVIDE A CAPPED ROOF PENETRATION SLEEVE OR A JUNCTION BOX IN THE ATTIC WITHIN 3&#39;-0&quot; OF EACH ZONE.</text>
+      <text class="t-dn" x="60" y="286">7.   PROVIDE 1&quot; MIN. CONDUIT CONNECTING THE PANEL JUNCTION BOX TO THE ATTIC JUNCTION BOX OR ROOF SLEEVE.</text>
+      <text class="t-dn" x="92" y="304">LABEL &ldquo;FOR FUTURE SOLAR ELECTRIC&rdquo; AT BOTH ENDS.</text>
+      <text class="t-dn" x="60" y="328">8.   CONDUIT SHALL BE CONTINUOUS, LEFT EMPTY W/ A PULL STRING, W/ NO MORE THAN THE EQUIVALENT OF FOUR</text>
+      <text class="t-dn" x="92" y="346">QUARTER BENDS BETWEEN PULL POINTS.</text>
+      <text class="t-dn" x="60" y="370">9.   SEAL ALL CONDUIT PENETRATIONS OF THE THERMAL ENVELOPE &mdash; SEE GENERAL NOTES 20&ndash;30, SHEET A5.00.</text>
+      <text class="t-dn" x="60" y="394">10.  SOLAR READY ZONE: 250 SQ FT MIN. TOTAL. MAY BE SPLIT INTO AREAS OF 80 SQ FT MIN., 5&#39;-6&quot; MIN. ON A SIDE.</text>
+      <text class="t-dn" x="60" y="418">11.  IFC 1205.2.1 ACCESS PATHWAYS AND RIDGE SETBACKS ARE NOT INCLUDED IN THE MINIMUM ZONE AREA.</text>
+      <text class="t-dn" x="60" y="442">12.  NO VENTS, CHIMNEYS, SKYLIGHTS, MECHANICAL EQUIPMENT OR OTHER OBSTRUCTIONS SHALL BE LOCATED WITHIN</text>
+      <text class="t-dn" x="92" y="460">A SOLAR READY ZONE. ROOF DRAINS ARE PERMITTED.</text>
+      <text class="t-dn" x="60" y="484">13.  A PERMANENT CERTIFICATE LISTING THE SOLAR READY ZONE AREA AND THE RESERVED PANEL SPACE SHALL BE</text>
+      <text class="t-dn" x="92" y="502">POSTED AT OR NEAR THE ELECTRICAL PANEL.</text>
+      
+      <circle class="dln" cx="70" cy="616" r="26"/><path class="dln" d="M46 616 H96"/>
+      <text class="t-dl" x="70" y="608" text-anchor="middle">&mdash;</text>
+      <text class="t-ds" x="70" y="634" text-anchor="middle">E___</text>
+      <text class="t-dt" x="112" y="614">SOLAR READY GENERAL NOTES</text>
+      <text class="t-ds" x="112" y="636">SCALE  NTS</text>
+      <path class="dln" d="M108 622 H1170"/>
+    </svg></div>
+      <figcaption>The note block. Items 12 and 13 are the two most often left off.</figcaption></figure>
+  </section>
+
+</div>
