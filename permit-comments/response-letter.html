@@ -312,19 +312,25 @@
   }
   .cmt p { font-family: var(--f-data); font-size: 13px; line-height: 1.65; color: var(--ink); max-width: 78ch; }
   .cmt p + p { margin-top: 10px; }
-  .resp { padding: 20px 22px 24px; }
+  .resp { padding: 20px 22px 22px; }
   .resp > p { max-width: 72ch; }
-  .resp ol { margin: 14px 0 0; padding: 0; list-style: none; counter-reset: sub; }
-  .resp ol li {
-    position: relative; padding-left: 40px; max-width: 74ch;
-    margin-top: 15px; counter-increment: sub;
+  .rtab { width: 100%; border-collapse: collapse; margin-top: 16px; min-width: 0; font-size: 15px; }
+  .rtab th {
+    font-family: var(--f-title); font-size: 9.5px; font-weight: 700; letter-spacing: .16em;
+    text-transform: uppercase; color: var(--graphite); text-align: left;
+    padding: 0 0 7px; border-bottom: 1px solid var(--ink); background: none;
   }
-  .resp ol li::before {
-    content: counter(sub, lower-alpha) ".";
-    position: absolute; left: 0; top: 0;
-    font-family: var(--f-data); font-size: 13px; color: var(--barrier); font-weight: 700;
+  .rtab th:last-child, .rtab td:last-child { width: 190px; padding-left: 24px; }
+  .rtab td { padding: 11px 0; border-bottom: 1px solid var(--rule); vertical-align: top; line-height: 1.5; }
+  .rtab tr:last-child td { border-bottom: 0; padding-bottom: 2px; }
+  .rtab td:last-child { font-family: var(--f-data); font-size: 12.5px; color: var(--reference); }
+  @media (max-width: 700px) {
+    .rtab, .rtab tbody, .rtab tr, .rtab td { display: block; width: auto; }
+    .rtab thead { display: none; }
+    .rtab td { border-bottom: 0; padding: 0; }
+    .rtab td:last-child { padding: 3px 0 0; }
+    .rtab tr { padding: 11px 0; border-bottom: 1px solid var(--rule); display: block; }
   }
-  .resp ol li b { font-weight: 700; }
   .rev { padding: 15px 22px 17px; border-top: 1px solid var(--rule); background: var(--surface); }
   .rev p { font-family: var(--f-data); font-size: 12.5px; line-height: 1.75; }
   .warn {
@@ -416,18 +422,22 @@
       <p>Provide details and plans showing a continuous air barrier enclosing the entire conditioned space. Identify the designated air barrier material and show its continuity at all transitions, intersections and penetrations. Air barrier and insulation installation shall comply with 2021 IECC Table R402.4.1.1. Confirm the whole building air leakage rate and the test method.</p>
     </div>
     <div class="resp"><span class="lab">Response</span>
-      <p>The set now designates the air barrier explicitly, carries that designation through every wall type and every detail, and documents each component row of Table R402.4.1.1.</p>
-      <ol>
-        <li><b>Designated barrier named.</b> General note 20 on <span class="ref">A5.00</span> has been rewritten to name the designated continuous air barrier by zone: closed cell spray foam at all framed walls and roofs, full depth of all cavities, 1-1/2&Prime; minimum for the air barrier function; foundation waterproofing on the exterior face of the concrete below grade; Monolithic Membrane 6125 fully adhered to the structural slab at the green roof; and a self-adhered membrane lapped 3&Prime; minimum onto both surfaces at every transition between zones. The note states that the four zones lap and seal to one another to form one unbroken plane.</li>
-        <li><b>Conflicting note corrected.</b> General note 21 previously stated that the closed cell spray foam was not the designated barrier, which contradicted every air sealing detail in the set and read on site as permission not to seal the foam. It has been rewritten. The self-adhered weather resistant barrier, gypsum board, nail base panel, rigid insulation and vinyl blanket are identified as supplementary air sealing. The WRB is identified as the water barrier and as the surface the transition membranes lap onto, with all sheathing joints taped behind it.</li>
-        <li><b>Wall types brought into agreement.</b> Assemblies <span class="ref">W3, W4, W10, W11, W13</span> and <span class="ref">W14</span> on <span class="ref">A5.00</span> now carry &ldquo;DESIGNATED AIR BARRIER&rdquo; on the closed cell spray foam line, matching note 20 and the details. The framing callout is corrected to 2x6 throughout, since R-34 is not achievable in a 2x4 cavity. Wall type <span class="ref">W15</span>, the garage side wall of the mechanical chase, has been added; that wall was drawn in the details without a type.</li>
-        <li><b>Air sealing details.</b> Sheet <span class="ref">G2.09</span> carries twelve details, each with its own note block and code citation: crawl space slab at foundation, green roof edge, return corner, roof at ridge, eave and sill plate, roof to wall at abutting roof, garage and dwelling separation with the mechanical chase, low slope membrane roof, window and door rough opening, and partition at exterior wall. The unvented roof assembly detail carries the <span class="ref">IRC R806.5</span> citation. The partition at exterior wall detail is new and is called out from the plans at the stair shaft and at each interior wall landing on an exterior wall.</li>
-        <li><b>Envelope diagrams.</b> The thermal envelope sections on <span class="ref">G2.08</span> show the barrier continuous and keynoted around the full section. At the lower level floor the label reading &ldquo;ground as insulation&rdquo; has been replaced with four callouts naming the concrete slab, the Class I vapor retarder under the slab, the foundation waterproofing on the exterior face, and the perimeter rigid insulation continuous to the footing. A note confirms the concrete wall carries continuity from the exterior waterproofing to the under-slab retarder, so there is no break at that joint.</li>
-        <li><b>Keynote legend.</b> An air sealing keynote legend has been added, listing keynotes 1 through 12 against the detail that resolves each one, so every flag on the sections and plans resolves to a drawing.</li>
-        <li><b>Table R402.4.1.1.</b> A compliance schedule listing all sixteen component rows of 2021 IECC Table R402.4.1.1 has been placed on <span class="ref">G2.07</span>, each row paired with the assembly, detail and note that satisfies it.</li>
-        <li><b>City of Aspen spray foam details.</b> The City of Aspen &ldquo;Air Sealing Details Using Spray Foam&rdquo; are reproduced in the set. A note confirms that closed cell spray foam is the designated air barrier on this project per note 20, that the sealant scope shown on those details is required in addition to the foam rather than in place of it, and that the self-adhered WRB per the wall types is substituted where those details show housewrap.</li>
-        <li><b>Testing.</b> Whole building air leakage will be verified by blower door test at not more than <b>1.5 ACH50</b> per the City of Aspen amendment to 2021 IECC R402.4.1.2. Duct leakage will be tested per R403.3.5. Both reports will be provided to the building department before the final inspection.</li>
-      </ol>
+      <p>The air barrier is now designated by zone, and that designation carries through every wall type and every detail. Table R402.4.1.1 is documented row by row.</p>
+      <table class="rtab">
+        <thead><tr><th>Revision</th><th>Where</th></tr></thead>
+        <tbody>
+          <tr><td>Air barrier designated by zone: closed cell spray foam at framed walls and roofs, foundation waterproofing below grade, Monolithic Membrane 6125 at the green roof, self-adhered membrane at the transitions between them.</td><td>Gen. note 20<br>A5.00</td></tr>
+          <tr><td>Note 21 rewritten. It previously stated the spray foam was not the designated barrier.</td><td>Gen. note 21<br>A5.00</td></tr>
+          <tr><td>&ldquo;DESIGNATED AIR BARRIER&rdquo; added to the spray foam line. Framing corrected to 2x6.</td><td>W3, W4, W10, W11,<br>W13, W14 / A5.00</td></tr>
+          <tr><td>Wall type added for the garage side of the mechanical chase.</td><td>W15 / A5.00</td></tr>
+          <tr><td>Twelve air sealing details, each with its note block and code citation. The unvented roof assembly cites IRC R806.5.</td><td>1&ndash;12 / G2.09</td></tr>
+          <tr><td>Partition at exterior wall detail added and called out from the plans.</td><td>9 / G2.09</td></tr>
+          <tr><td>&ldquo;Ground as insulation&rdquo; replaced with the slab, under-slab vapor retarder, foundation waterproofing and perimeter rigid insulation.</td><td>1 / G2.08</td></tr>
+          <tr><td>Air sealing keynote legend, keynotes 1&ndash;12 against the detail that resolves each.</td><td>G2.08, G2.09</td></tr>
+          <tr><td>Table R402.4.1.1 compliance schedule, all sixteen component rows.</td><td>G2.07</td></tr>
+          <tr><td>Blower door test at 1.5 ACH50 max. per the Aspen amendment to R402.4.1.2; duct leakage per R403.3.5. Reports before final inspection.</td><td>Gen. notes<br>G2.07</td></tr>
+        </tbody>
+      </table>
     </div>
     <div class="rev"><span class="lab">Sheets revised</span>
       <p>G2.07 &middot; G2.08 &middot; G2.09 &middot; A5.00</p>
@@ -444,16 +454,19 @@
       <p>Show compliance with City of Aspen 2021 Energy Code Section R404.5, Solar Ready. Provide a solar ready zone of not less than 250 square feet, a dedicated space in the main service panel reserved for future photovoltaic interconnection, and a conduit pathway from the panel to the solar ready zone. Show the fire service access pathways and setbacks required by IFC 1205.2.1, and confirm the structure will accept the future array.</p>
     </div>
     <div class="resp"><span class="lab">Response</span>
-      <p>A new electrical sheet and a revised roof plan have been added. No photovoltaic system is installed under this permit; the dwelling is solar ready only.</p>
-      <ol>
-        <li><b>Solar ready zone.</b> One continuous zone measuring 22&prime;-0&Prime; by 12&prime;-6&Prime;, <b>275 square feet</b>, is shown on the south facing slope of the main roof &mdash; see <span class="ref">5/A2.14</span> and the roof plan. R404.5 permits the zone to be a single area; the option to divide it into areas of not less than 80 square feet with a minimum dimension of 5&prime;-6&Prime; has not been used. The zone is free of vents, chimneys and other obstructions, and 12&Prime; minimum clear is maintained to the skylight curbs each side.</li>
-        <li><b>Fire service access.</b> One 3&prime;-0&Prime; clear access pathway is provided from eave to ridge on the slope carrying the zone per <span class="ref">IFC 1205.2.1.1</span>, located alongside the zone rather than through it. An 18&Prime; clear setback is maintained below the ridge per <span class="ref">IFC 1205.2.1.2</span>. Neither the pathway nor the ridge setback is counted toward the 250 square foot minimum, per the exception in R404.5.</li>
-        <li><b>Main service panel.</b> A dedicated two-pole space is reserved at the load end of the busbar, at the opposite end from the 200A main, and is permanently labeled &ldquo;FOR FUTURE SOLAR ELECTRIC.&rdquo; The space will not be used for any other load. See the panel schedule, <span class="ref">2/E<span class="fill">___</span></span>. Future interconnection will be made per <span class="ref">NEC 705.12(B)(3)(2)</span>, load-end busbar connection.</li>
-        <li><b>Conduit pathway.</b> A 1&Prime; minimum empty raceway with a pull string runs from a junction box within 2&prime;-0&Prime; of the main service panel to a junction box within 3&prime;-0&Prime; of the solar ready zone, and from there to a capped roof penetration sleeve at the zone. Both ends are labeled &ldquo;FOR FUTURE SOLAR ELECTRIC.&rdquo; The run contains no more than the equivalent of four quarter bends between pull points. See the riser diagram, <span class="ref">1/E<span class="fill">___</span></span>.</li>
-        <li><b>Working space.</b> NEC 110.26 working space, 3&prime;-0&Prime; deep by 30&Prime; wide by 6&prime;-6&Prime; high, and 110.26(E) dedicated equipment space are shown at the main service panel on the enlarged plan, <span class="ref">3/E<span class="fill">___</span></span>.</li>
-        <li><b>Envelope penetration.</b> Where the conduit crosses the thermal envelope it is sealed to the designated air barrier per general notes 20 through 30 on <span class="ref">A5.00</span>, so the solar ready pathway does not compromise the air barrier addressed in comment 3.</li>
-        <li><b>Structure.</b> The roof structure over the solar ready zone is designed for an additional <span class="fill">___</span> psf dead load for a future photovoltaic array. See the structural drawings.</li>
-      </ol>
+      <p>A new electrical sheet and a revised roof plan are enclosed. No photovoltaic system is installed under this permit; the dwelling is solar ready only.</p>
+      <table class="rtab">
+        <thead><tr><th>Revision</th><th>Where</th></tr></thead>
+        <tbody>
+          <tr><td>Solar ready zone, one continuous area 22&prime;-0&Prime; x 12&prime;-6&Prime; = <b>275 sq ft</b>, on the south facing slope.</td><td>5 / A2.14</td></tr>
+          <tr><td>3&prime;-0&Prime; access pathway eave to ridge per IFC 1205.2.1.1 and 18&Prime; ridge setback per 1205.2.1.2, both outside the 275 sq ft.</td><td>5 / A2.14</td></tr>
+          <tr><td>Two-pole space reserved at the load end of the busbar, labeled FOR FUTURE SOLAR ELECTRIC. Future interconnection per NEC 705.12(B)(3)(2).</td><td>2 / E<span class="fill">___</span></td></tr>
+          <tr><td>1&Prime; empty conduit with pull string, junction boxes each end, capped roof sleeve at the zone. Labeled both ends.</td><td>1 / E<span class="fill">___</span></td></tr>
+          <tr><td>NEC 110.26 working space and 110.26(E) dedicated equipment space at the panel.</td><td>3 / E<span class="fill">___</span></td></tr>
+          <tr><td>Conduit sealed to the designated air barrier where it crosses the thermal envelope.</td><td>Gen. notes 20&ndash;30<br>A5.00</td></tr>
+          <tr><td>Roof framed for an additional <span class="fill">___</span> psf dead load for a future array.</td><td>Structural</td></tr>
+        </tbody>
+      </table>
     </div>
     <div class="rev"><span class="lab">Sheets revised</span>
       <p>A2.14 &middot; E<span class="fill">___</span> (new) &middot; A5.00</p>
@@ -470,12 +483,12 @@
           and the preparer in the transmittal block above.</li>
         <li>The <span class="fill">E___</span> sheet number for the new electrical sheet, in
           response 4 and on the drawings themselves.</li>
-        <li>The <span class="fill">___</span> psf future photovoltaic dead load in response 4g
-          &mdash; get this from your structural engineer before the letter is signed.
-          A reviewer will ask.</li>
+        <li>The <span class="fill">___</span> psf future photovoltaic dead load in the last row
+          of comment 4 &mdash; get this from your structural engineer before the letter is
+          signed. A reviewer will ask.</li>
         <li>Confirm with the fire marshal if you intend to use the
           <span class="ref">IFC 1205.2.1.3</span> alternative setbacks for a sprinklered
-          dwelling. As written, response 4b claims only the standard pathway and ridge setback,
+          dwelling. As written, the letter claims only the standard pathway and ridge setback,
           which needs no approval.</li>
       </ul>
     </div>

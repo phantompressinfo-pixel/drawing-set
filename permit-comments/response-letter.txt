@@ -29,74 +29,47 @@ R402.4.1.1. Confirm the whole building air leakage rate and the test method.
 
 RESPONSE:
 
-The set now designates the air barrier explicitly, carries that designation
-through every wall type and every detail, and documents each component row
-of Table R402.4.1.1.
+The air barrier is now designated by zone, and that designation carries
+through every wall type and every detail. Table R402.4.1.1 is documented row
+by row.
 
-a.  Designated barrier named. General note 20 on A5.00 has been rewritten to
-    name the designated continuous air barrier by zone: closed cell spray foam
-    at all framed walls and roofs, full depth of all cavities, 1-1/2" minimum
-    for the air barrier function; foundation waterproofing on the exterior face
-    of the concrete below grade; Monolithic Membrane 6125 fully adhered to the
-    structural slab at the green roof; and a self-adhered membrane lapped 3"
-    minimum onto both surfaces at every transition between zones. The note
-    states that the four zones lap and seal to one another to form one unbroken
-    plane.
+a.  Air barrier designated by zone: closed cell spray foam at framed walls
+    and roofs, foundation waterproofing below grade, Monolithic Membrane 6125 at
+    the green roof, self-adhered membrane at the transitions between them.
+    See:  Gen. note 20 A5.00
 
-b.  Conflicting note corrected. General note 21 previously stated that the
-    closed cell spray foam was not the designated barrier, which contradicted
-    every air sealing detail in the set and read on site as permission not to
-    seal the foam. It has been rewritten. The self-adhered weather resistant
-    barrier, gypsum board, nail base panel, rigid insulation and vinyl blanket
-    are identified as supplementary air sealing. The WRB is identified as the
-    water barrier and as the surface the transition membranes lap onto, with all
-    sheathing joints taped behind it.
+b.  Note 21 rewritten. It previously stated the spray foam was not the
+    designated barrier.
+    See:  Gen. note 21 A5.00
 
-c.  Wall types brought into agreement. Assemblies W3, W4, W10, W11, W13 and
-    W14 on A5.00 now carry "DESIGNATED AIR BARRIER" on the closed cell spray
-    foam line, matching note 20 and the details. The framing callout is
-    corrected to 2x6 throughout, since R-34 is not achievable in a 2x4 cavity.
-    Wall type W15, the garage side wall of the mechanical chase, has been added;
-    that wall was drawn in the details without a type.
+c.  "DESIGNATED AIR BARRIER" added to the spray foam line. Framing corrected
+    to 2x6.
+    See:  W3, W4, W10, W11, W13, W14 / A5.00
 
-d.  Air sealing details. Sheet G2.09 carries twelve details, each with its
-    own note block and code citation: crawl space slab at foundation, green roof
-    edge, return corner, roof at ridge, eave and sill plate, roof to wall at
-    abutting roof, garage and dwelling separation with the mechanical chase, low
-    slope membrane roof, window and door rough opening, and partition at
-    exterior wall. The unvented roof assembly detail carries the IRC R806.5
-    citation. The partition at exterior wall detail is new and is called out
-    from the plans at the stair shaft and at each interior wall landing on an
-    exterior wall.
+d.  Wall type added for the garage side of the mechanical chase.
+    See:  W15 / A5.00
 
-e.  Envelope diagrams. The thermal envelope sections on G2.08 show the
-    barrier continuous and keynoted around the full section. At the lower level
-    floor the label reading "ground as insulation" has been replaced with four
-    callouts naming the concrete slab, the Class I vapor retarder under the
-    slab, the foundation waterproofing on the exterior face, and the perimeter
-    rigid insulation continuous to the footing. A note confirms the concrete
-    wall carries continuity from the exterior waterproofing to the under-slab
-    retarder, so there is no break at that joint.
+e.  Twelve air sealing details, each with its note block and code citation.
+    The unvented roof assembly cites IRC R806.5.
+    See:  1–12 / G2.09
 
-f.  Keynote legend. An air sealing keynote legend has been added, listing
-    keynotes 1 through 12 against the detail that resolves each one, so every
-    flag on the sections and plans resolves to a drawing.
+f.  Partition at exterior wall detail added and called out from the plans.
+    See:  9 / G2.09
 
-g.  Table R402.4.1.1. A compliance schedule listing all sixteen component
-    rows of 2021 IECC Table R402.4.1.1 has been placed on G2.07, each row paired
-    with the assembly, detail and note that satisfies it.
+g.  "Ground as insulation" replaced with the slab, under-slab vapor
+    retarder, foundation waterproofing and perimeter rigid insulation.
+    See:  1 / G2.08
 
-h.  City of Aspen spray foam details. The City of Aspen "Air Sealing Details
-    Using Spray Foam" are reproduced in the set. A note confirms that closed
-    cell spray foam is the designated air barrier on this project per note 20,
-    that the sealant scope shown on those details is required in addition to the
-    foam rather than in place of it, and that the self-adhered WRB per the wall
-    types is substituted where those details show housewrap.
+h.  Air sealing keynote legend, keynotes 1–12 against the detail that
+    resolves each.
+    See:  G2.08, G2.09
 
-i.  Testing. Whole building air leakage will be verified by blower door test
-    at not more than 1.5 ACH50 per the City of Aspen amendment to 2021 IECC
-    R402.4.1.2. Duct leakage will be tested per R403.3.5. Both reports will be
-    provided to the building department before the final inspection.
+i.  Table R402.4.1.1 compliance schedule, all sixteen component rows.
+    See:  G2.07
+
+j.  Blower door test at 1.5 ACH50 max. per the Aspen amendment to
+    R402.4.1.2; duct leakage per R403.3.5. Reports before final inspection.
+    See:  Gen. notes G2.07
 
 Sheets revised:  G2.07 · G2.08 · G2.09 · A5.00
 
@@ -113,50 +86,35 @@ zone. Show the fire service access pathways and setbacks required by IFC
 
 RESPONSE:
 
-A new electrical sheet and a revised roof plan have been added. No
-photovoltaic system is installed under this permit; the dwelling is solar
-ready only.
+A new electrical sheet and a revised roof plan are enclosed. No photovoltaic
+system is installed under this permit; the dwelling is solar ready only.
 
-a.  Solar ready zone. One continuous zone measuring 22'-0" by 12'-6", 275
-    square feet, is shown on the south facing slope of the main roof — see
-    5/A2.14 and the roof plan. R404.5 permits the zone to be a single area; the
-    option to divide it into areas of not less than 80 square feet with a
-    minimum dimension of 5'-6" has not been used. The zone is free of vents,
-    chimneys and other obstructions, and 12" minimum clear is maintained to the
-    skylight curbs each side.
+a.  Solar ready zone, one continuous area 22'-0" x 12'-6" = 275 sq ft, on
+    the south facing slope.
+    See:  5 / A2.14
 
-b.  Fire service access. One 3'-0" clear access pathway is provided from
-    eave to ridge on the slope carrying the zone per IFC 1205.2.1.1, located
-    alongside the zone rather than through it. An 18" clear setback is
-    maintained below the ridge per IFC 1205.2.1.2. Neither the pathway nor the
-    ridge setback is counted toward the 250 square foot minimum, per the
-    exception in R404.5.
+b.  3'-0" access pathway eave to ridge per IFC 1205.2.1.1 and 18" ridge
+    setback per 1205.2.1.2, both outside the 275 sq ft.
+    See:  5 / A2.14
 
-c.  Main service panel. A dedicated two-pole space is reserved at the load
-    end of the busbar, at the opposite end from the 200A main, and is
-    permanently labeled "FOR FUTURE SOLAR ELECTRIC." The space will not be used
-    for any other load. See the panel schedule, 2/E___. Future interconnection
-    will be made per NEC 705.12(B)(3)(2), load-end busbar connection.
+c.  Two-pole space reserved at the load end of the busbar, labeled FOR
+    FUTURE SOLAR ELECTRIC. Future interconnection per NEC 705.12(B)(3)(2).
+    See:  2 / E___
 
-d.  Conduit pathway. A 1" minimum empty raceway with a pull string runs from
-    a junction box within 2'-0" of the main service panel to a junction box
-    within 3'-0" of the solar ready zone, and from there to a capped roof
-    penetration sleeve at the zone. Both ends are labeled "FOR FUTURE SOLAR
-    ELECTRIC." The run contains no more than the equivalent of four quarter
-    bends between pull points. See the riser diagram, 1/E___.
+d.  1" empty conduit with pull string, junction boxes each end, capped roof
+    sleeve at the zone. Labeled both ends.
+    See:  1 / E___
 
-e.  Working space. NEC 110.26 working space, 3'-0" deep by 30" wide by 6'-6"
-    high, and 110.26(E) dedicated equipment space are shown at the main service
-    panel on the enlarged plan, 3/E___.
+e.  NEC 110.26 working space and 110.26(E) dedicated equipment space at the
+    panel.
+    See:  3 / E___
 
-f.  Envelope penetration. Where the conduit crosses the thermal envelope it
-    is sealed to the designated air barrier per general notes 20 through 30 on
-    A5.00, so the solar ready pathway does not compromise the air barrier
-    addressed in comment 3.
+f.  Conduit sealed to the designated air barrier where it crosses the
+    thermal envelope.
+    See:  Gen. notes 20–30 A5.00
 
-g.  Structure. The roof structure over the solar ready zone is designed for
-    an additional ___ psf dead load for a future photovoltaic array. See the
-    structural drawings.
+g.  Roof framed for an additional ___ psf dead load for a future array.
+    See:  Structural
 
 Sheets revised:  A2.14 · E___ (new) · A5.00
 
