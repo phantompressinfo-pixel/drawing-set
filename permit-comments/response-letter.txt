@@ -49,25 +49,30 @@ c.  "DESIGNATED AIR BARRIER" added to the spray foam line. Framing corrected
 d.  Wall type added for the garage side of the mechanical chase.
     See:  W15 / A5.00
 
-e.  Twelve air sealing details, each with its note block and code citation.
+e.  Nine air sealing details, each with its note block and code citation.
     The unvented roof assembly cites IRC R806.5.
-    See:  1–12 / G2.09
+    See:  1–9 / G2.09
 
-f.  Partition at exterior wall detail added and called out from the plans.
+f.  Dwelling separation wall at exterior wall added and called out from the
+    plans.
     See:  9 / G2.09
 
 g.  "Ground as insulation" replaced with the slab, under-slab vapor
     retarder, foundation waterproofing and perimeter rigid insulation.
     See:  1 / G2.08
 
-h.  Air sealing keynote legend, keynotes 1–12 against the detail that
-    resolves each.
-    See:  G2.08, G2.09
+h.  Air sealing keynote legend, keynotes 1–11 against the detail that
+    resolves each, and a legend for the designated air barrier line.
+    See:  G2.08
 
-i.  Table R402.4.1.1 compliance schedule, all sixteen component rows.
+i.  Roof and ceiling assemblies at R-60 min. per Table R402.1.2, Climate
+    Zone 7.
+    See:  2–6 / G2.09
+
+j.  Table R402.4.1.1 compliance schedule, all sixteen component rows.
     See:  G2.07
 
-j.  Blower door test at 1.5 ACH50 max. per the Aspen amendment to
+k.  Blower door test at 1.5 ACH50 max. per the Aspen amendment to
     R402.4.1.2; duct leakage per R403.3.5. Reports before final inspection.
     See:  Gen. notes G2.07
 

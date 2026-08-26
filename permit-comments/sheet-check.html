@@ -1,0 +1,692 @@
+<title>G2.08 and G2.09 Check</title>
+
+<style>
+  /* ── LIGHT ("PLOT") ─────────────────────────────────────────────── */
+  :root {
+    --paper:     #FCFCFA;
+    --surface:   #F3F3EF;
+    --sunk:      #EDEDE7;
+    --ink:       #191B1E;
+    --graphite:  #5C6167;
+    --faint:     #C6C8C3;
+    --rule:      #E0E0D9;
+    --reference: #1F5EA8;
+    --barrier:   #C22A22;
+    --barrier-w: #FBEDEB;
+    --earth:     #E7E4DA;
+    --poche:     #DEDFDA;
+    --foamfill:  #CBE0F3;
+
+    --f-title: ui-sans-serif, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    --f-body:  "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+    --f-data:  ui-monospace, SFMono-Regular, "SF Mono", "Cascadia Mono", Menlo, Consolas, "Liberation Mono", monospace;
+  }
+
+  /* ── DARK ("MODEL SPACE") ───────────────────────────────────────── */
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper:     #131519;
+      --surface:   #1A1D22;
+      --sunk:      #202429;
+      --ink:       #E9E7E2;
+      --graphite:  #9BA2AA;
+      --faint:     #3B4048;
+      --rule:      #292D33;
+      --reference: #74AEEC;
+      --barrier:   #FF6E5F;
+      --barrier-w: #2C1B1A;
+      --earth:     #23262B;
+      --poche:     #2E3238;
+      --foamfill:  #23394F;
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper:     #131519;
+    --surface:   #1A1D22;
+    --sunk:      #202429;
+    --ink:       #E9E7E2;
+    --graphite:  #9BA2AA;
+    --faint:     #3B4048;
+    --rule:      #292D33;
+    --reference: #74AEEC;
+    --barrier:   #FF6E5F;
+    --barrier-w: #2C1B1A;
+    --earth:     #23262B;
+    --poche:     #2E3238;
+    --foamfill:  #23394F;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--f-body);
+    font-size: 16.5px;
+    line-height: 1.62;
+    margin: 0;
+    padding: 0 24px 96px;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .sheet { max-width: 1120px; margin: 0 auto; }
+  .col   { max-width: 72ch; }
+
+  /* ── TITLE BLOCK ────────────────────────────────────────────────── */
+  .titleblock {
+    border: 1.5px solid var(--ink);
+    margin: 40px 0 52px;
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  .tb-main { padding: 24px 26px 22px; border-bottom: 1.5px solid var(--ink); }
+  .tb-eyebrow {
+    font-family: var(--f-title); font-size: 11px; font-weight: 700;
+    letter-spacing: .18em; text-transform: uppercase; color: var(--barrier);
+    margin: 0 0 10px;
+  }
+  .tb-main h1 {
+    font-family: var(--f-title); font-size: clamp(24px, 3.6vw, 38px);
+    font-weight: 700; letter-spacing: -.015em; line-height: 1.1;
+    margin: 0; text-wrap: balance;
+  }
+  .tb-sub { font-size: 16px; color: var(--graphite); margin: 12px 0 0; max-width: 62ch; }
+  .tb-fields { display: grid; grid-template-columns: repeat(4, 1fr); }
+  .tb-fields div { padding: 12px 16px 14px; border-right: 1px solid var(--rule); }
+  .tb-fields div:last-child { border-right: 0; }
+  .tb-k {
+    font-family: var(--f-title); font-size: 9.5px; font-weight: 700;
+    letter-spacing: .16em; text-transform: uppercase; color: var(--graphite);
+    display: block; margin-bottom: 4px;
+  }
+  .tb-v { font-family: var(--f-data); font-size: 13px; color: var(--ink); }
+  @media (max-width: 700px) {
+    .tb-fields { grid-template-columns: repeat(2, 1fr); }
+    .tb-fields div:nth-child(2) { border-right: 0; }
+  }
+
+  /* ── SECTION HEADS ──────────────────────────────────────────────── */
+  h2 {
+    font-family: var(--f-title); font-size: 13px; font-weight: 700;
+    letter-spacing: .17em; text-transform: uppercase;
+    margin: 0; padding-bottom: 9px;
+    border-bottom: 1.5px solid var(--ink);
+  }
+  section { margin-top: 60px; }
+  section > * + * { margin-top: 20px; }
+  h3 {
+    font-family: var(--f-title); font-size: 15px; font-weight: 700;
+    letter-spacing: -.005em; margin: 0;
+  }
+  p { margin: 0; }
+  .lede { font-size: 18px; line-height: 1.55; }
+
+  strong { font-weight: 700; }
+  code, .mono { font-family: var(--f-data); font-size: .88em; }
+  .ref { color: var(--reference); font-family: var(--f-data); font-size: .86em; white-space: nowrap; }
+  .fill { color: var(--barrier); font-family: var(--f-data); font-size: .86em; }
+
+  /* ── STRATEGY CARDS ─────────────────────────────────────────────── */
+  .strategy { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5px; background: var(--rule); border: 1.5px solid var(--ink); }
+  .strategy > div { background: var(--paper); padding: 18px 20px 20px; }
+  .st-zone {
+    font-family: var(--f-title); font-size: 9.5px; font-weight: 700;
+    letter-spacing: .16em; text-transform: uppercase; color: var(--graphite);
+  }
+  .st-mat { font-family: var(--f-title); font-size: 17px; font-weight: 700; margin: 6px 0 8px; line-height: 1.2; }
+  .st-why { font-size: 14.5px; line-height: 1.5; color: var(--graphite); }
+  @media (max-width: 760px) { .strategy { grid-template-columns: 1fr; } }
+
+  /* ── FIGURES ────────────────────────────────────────────────────── */
+  figure { margin: 0; }
+  .figframe { border: 1.5px solid var(--ink); background: var(--surface); padding: 14px; overflow-x: auto; }
+  .figframe svg { display: block; width: 100%; min-width: 720px; height: auto; }
+  figcaption {
+    font-size: 14px; color: var(--graphite); margin-top: 12px;
+    padding-left: 14px; border-left: 2px solid var(--faint); max-width: 76ch;
+  }
+
+  .ln     { fill: none; stroke: var(--graphite); stroke-width: 1.1; }
+  .poche  { fill: var(--poche); stroke: var(--graphite); stroke-width: 1; }
+  .earth  { fill: var(--earth); stroke: none; }
+  .grade  { fill: none; stroke: var(--graphite); stroke-width: 1.6; }
+  .datum  { fill: none; stroke: var(--reference); stroke-width: 1; stroke-dasharray: 9 3 2 3; opacity: .85; }
+  .gridln { fill: none; stroke: var(--faint); stroke-width: .9; stroke-dasharray: 7 4 2 4; }
+  .gridc  { fill: none; stroke: var(--reference); stroke-width: 1.2; }
+  .barrier{ fill: none; stroke: var(--barrier); stroke-width: 4; stroke-linejoin: round; stroke-linecap: round; }
+  .lead   { fill: none; stroke: var(--barrier); stroke-width: .9; }
+  .knc    { fill: var(--paper); stroke: var(--barrier); stroke-width: 1.7; }
+  .brk    { fill: none; stroke: var(--barrier); stroke-width: 2; }
+
+  text { font-family: var(--f-data); }
+  .t-room { fill: var(--graphite); font-size: 9.5px; letter-spacing: .05em; text-anchor: middle; }
+  .t-kn   { fill: var(--barrier); font-size: 12px; font-weight: 700; text-anchor: middle; }
+  .t-grid { fill: var(--reference); font-size: 11px; font-weight: 700; text-anchor: middle; }
+  .t-dat  { fill: var(--reference); font-size: 10px; letter-spacing: .04em; }
+  .t-dat2 { fill: var(--reference); font-size: 9.5px; opacity: .8; }
+  .t-lbl  { fill: var(--graphite); font-size: 10px; letter-spacing: .1em; }
+  .t-opt  { fill: var(--ink); font-family: var(--f-title); font-size: 12.5px; font-weight: 700; letter-spacing: .04em; }
+  .t-note { fill: var(--barrier); font-size: 10.5px; }
+  .t-ok   { fill: var(--graphite); font-size: 10.5px; }
+
+  /* ── KEYNOTE LEGEND ─────────────────────────────────────────────── */
+  .keynotes { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 0; border: 1.5px solid var(--ink); }
+  .keynotes li { display: grid; grid-template-columns: 34px 1fr; gap: 12px; padding: 15px 18px; border-bottom: 1px solid var(--rule); align-items: start; }
+  .keynotes li:nth-child(odd) { border-right: 1px solid var(--rule); }
+  .keynotes li:nth-last-child(-n+2) { border-bottom: 0; }
+  .kn-num {
+    width: 26px; height: 26px; border-radius: 50%;
+    border: 1.7px solid var(--barrier); color: var(--barrier);
+    font-family: var(--f-data); font-size: 12.5px; font-weight: 700;
+    display: grid; place-items: center; margin-top: 1px;
+  }
+  .kn-h { font-family: var(--f-title); font-size: 13.5px; font-weight: 700; display: block; margin-bottom: 3px; }
+  .kn-b { font-size: 14.5px; line-height: 1.48; color: var(--graphite); }
+  .kn-risk { border-left: 3px solid var(--barrier); }
+  @media (max-width: 820px) {
+    .keynotes { grid-template-columns: 1fr; }
+    .keynotes li:nth-child(odd) { border-right: 0; }
+    .keynotes li:nth-last-child(2) { border-bottom: 1px solid var(--rule); }
+  }
+
+  /* ── TABLE ──────────────────────────────────────────────────────── */
+  .tablewrap { overflow-x: auto; border: 1.5px solid var(--ink); }
+  table { border-collapse: collapse; width: 100%; min-width: 860px; font-size: 13.5px; }
+  thead th {
+    font-family: var(--f-title); font-size: 9.5px; font-weight: 700;
+    letter-spacing: .15em; text-transform: uppercase; text-align: left;
+    padding: 12px 16px; background: var(--sunk); border-bottom: 1.5px solid var(--ink);
+    vertical-align: bottom;
+  }
+  tbody td { padding: 14px 16px; border-bottom: 1px solid var(--rule); vertical-align: top; line-height: 1.5; }
+  tbody tr:last-child td { border-bottom: 0; }
+  tbody tr:nth-child(even) { background: var(--surface); }
+  .c-comp { width: 15%; font-family: var(--f-title); font-weight: 700; font-size: 13px; }
+  .c-code { width: 38%; color: var(--graphite); font-size: 13px; }
+  .c-proj { width: 47%; font-family: var(--f-data); font-size: 12.2px; line-height: 1.55; }
+  .crit { font-family: var(--f-title); font-size: 9px; font-weight: 700; letter-spacing: .13em; color: var(--ink); display: block; margin-top: 8px; }
+  .crit:first-child { margin-top: 0; }
+  .flagrow td { background: var(--barrier-w); }
+
+  /* ── MARKUP REVIEW ──────────────────────────────────────────────── */
+  .verdict { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5px; background: var(--rule); border: 1.5px solid var(--ink); }
+  .verdict > div { background: var(--paper); padding: 20px 22px 22px; }
+  .v-h { font-family: var(--f-title); font-size: 9.5px; font-weight: 700; letter-spacing: .16em; text-transform: uppercase; display: block; margin-bottom: 4px; }
+  .v-ok  .v-h { color: var(--reference); }
+  .v-fix .v-h { color: var(--barrier); }
+  .v-sub { font-size: 13.5px; color: var(--graphite); display: block; margin-bottom: 12px; }
+  .verdict ul { list-style: none; margin: 0; padding: 0; }
+  .verdict li { padding: 12px 0; border-top: 1px solid var(--rule); font-size: 14.5px; line-height: 1.5; color: var(--graphite); }
+  .verdict li b { font-family: var(--f-title); font-size: 14px; display: block; margin-bottom: 3px; color: var(--ink); }
+  @media (max-width: 820px) { .verdict { grid-template-columns: 1fr; } }
+  .seal { fill: var(--barrier); }
+  .ghost { fill: none; stroke: var(--faint); stroke-width: 1.1; }
+
+  /* ── WALL TYPE DRAWING ──────────────────────────────────────────── */
+  .lead-g { fill: none; stroke: var(--graphite); stroke-width: .9; }
+  .foam { fill: var(--foamfill); stroke: var(--graphite); stroke-width: 1; }
+  .sealdot { fill: var(--barrier); stroke: none; }
+  .hx { stroke: var(--graphite); stroke-width: .55; fill: none; }
+  .hd { fill: var(--graphite); opacity: .75; }
+  .ly { stroke: var(--graphite); stroke-width: 1; }
+  .t-cal   { fill: var(--graphite); font-size: 10px; letter-spacing: .02em; }
+  .t-cal-b { fill: var(--barrier); font-size: 10px; font-weight: 700; letter-spacing: .02em; }
+  .t-side  { fill: var(--graphite); font-size: 10px; letter-spacing: .08em; }
+  .t-tag   { fill: var(--ink); font-size: 14px; font-weight: 700; }
+  .t-tag2  { fill: var(--graphite); font-size: 9.5px; }
+  .t-title { fill: var(--ink); font-family: var(--f-title); font-size: 14px; font-weight: 700; letter-spacing: .04em; }
+
+  /* ── DETAIL ROUTING ─────────────────────────────────────────────── */
+  table.route { min-width: 800px; }
+  .route td { font-size: 14px; }
+  .route .k { font-family: var(--f-data); font-size: 13px; font-weight: 700; color: var(--barrier); width: 66px; text-align: center; }
+  .route .cond { width: 40%; }
+  .route .need { width: 20%; font-family: var(--f-title); font-size: 10.5px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
+  .need-y { color: var(--barrier); }
+  .need-n { color: var(--graphite); }
+  .route .loc { width: 28%; font-family: var(--f-data); font-size: 12.2px; color: var(--graphite); }
+  .missing { color: var(--barrier); font-weight: 700; }
+
+  /* ── DETAIL CARDS ───────────────────────────────────────────────── */
+  .detcard { border: 1.5px solid var(--ink); margin-top: 22px; }
+  .det-h { padding: 14px 20px; background: var(--sunk); border-bottom: 1.5px solid var(--ink); display: flex; flex-wrap: wrap; gap: 10px 18px; align-items: baseline; }
+  .det-n { font-family: var(--f-title); font-size: 15px; font-weight: 700; letter-spacing: .02em; }
+  .det-k { font-family: var(--f-data); font-size: 11.5px; color: var(--barrier); letter-spacing: .06em; }
+  .det-w { font-family: var(--f-data); font-size: 11.5px; color: var(--graphite); letter-spacing: .04em; margin-left: auto; }
+  .det-b { padding: 18px 20px 20px; }
+  .det-b > p { font-size: 14.5px; color: var(--graphite); max-width: 78ch; }
+  .det-b ol { margin: 14px 0 0; padding: 0; list-style: none; counter-reset: d; }
+  .det-b ol li { counter-increment: d; position: relative; padding: 11px 0 11px 32px; border-top: 1px solid var(--rule); font-size: 14.5px; line-height: 1.5; color: var(--graphite); max-width: 84ch; }
+  .det-b ol li::before { content: counter(d); position: absolute; left: 0; top: 13px; font-family: var(--f-data); font-size: 12px; font-weight: 700; color: var(--barrier); }
+  .det-b ol li b { display: block; font-family: var(--f-title); font-size: 14px; color: var(--ink); margin-bottom: 2px; }
+
+  /* ── NOTES ──────────────────────────────────────────────────────── */
+  .notes { border: 1.5px solid var(--ink); }
+  .notes-h { padding: 12px 18px; background: var(--sunk); border-bottom: 1.5px solid var(--ink); font-family: var(--f-title); font-size: 9.5px; font-weight: 700; letter-spacing: .15em; text-transform: uppercase; }
+  .notes ol { margin: 0; padding: 8px 18px 16px 18px; list-style: none; counter-reset: n; }
+  .notes li { counter-increment: n; position: relative; padding: 11px 0 11px 62px; border-bottom: 1px solid var(--rule); font-family: var(--f-data); font-size: 12.4px; line-height: 1.55; }
+  .notes li:last-child { border-bottom: 0; }
+  .notes li::before { content: "AS-" counter(n, decimal-leading-zero); position: absolute; left: 0; top: 11px; color: var(--barrier); font-weight: 700; }
+  .notes-plain li { padding-left: 44px; }
+  .notes-plain li::before { content: counter(n) "."; }
+
+  /* ── OPEN ITEMS ─────────────────────────────────────────────────── */
+  .open { display: grid; gap: 1.5px; background: var(--rule); border: 1.5px solid var(--ink); }
+  .open > div { background: var(--paper); padding: 18px 20px; display: grid; grid-template-columns: 92px 1fr; gap: 18px; align-items: start; }
+  .tag {
+    font-family: var(--f-title); font-size: 9px; font-weight: 700; letter-spacing: .12em;
+    text-transform: uppercase; padding: 4px 0; text-align: center;
+    border: 1.3px solid currentColor; border-radius: 2px;
+  }
+  .tag-block { color: var(--barrier); }
+  .tag-conf  { color: var(--reference); }
+  .open-b { font-size: 15px; line-height: 1.55; max-width: 74ch; }
+  .open-b b { font-family: var(--f-title); font-size: 14.5px; display: block; margin-bottom: 3px; color: var(--ink); }
+  @media (max-width: 620px) { .open > div { grid-template-columns: 1fr; gap: 10px; } .tag { justify-self: start; padding: 4px 12px; } }
+
+  hr.sheetend { border: 0; border-top: 1.5px solid var(--ink); margin: 64px 0 16px; }
+  .foot { font-family: var(--f-data); font-size: 11.5px; color: var(--graphite); letter-spacing: .03em; }
+</style>
+<style>
+  .fnd { border: 1.5px solid var(--ink); margin-top: 22px; }
+  .fnd-hd {
+    display: flex; align-items: baseline; gap: 14px; flex-wrap: wrap;
+    padding: 12px 20px; border-bottom: 1.5px solid var(--ink); background: var(--surface);
+  }
+  .fnd-n { font-family: var(--f-data); font-size: 12px; font-weight: 700; color: var(--graphite); }
+  .fnd-t { font-family: var(--f-title); font-size: 15.5px; font-weight: 700; letter-spacing: -.005em; }
+  .chip {
+    margin-left: auto; font-family: var(--f-title); font-size: 9px; font-weight: 700;
+    letter-spacing: .16em; text-transform: uppercase; padding: 3px 9px; white-space: nowrap;
+    border: 1px solid currentColor;
+  }
+  .c-stop  { color: var(--barrier); background: var(--barrier-w); }
+  .c-fix   { color: var(--ink); }
+  .c-watch { color: var(--reference); }
+  .fnd-b { padding: 17px 20px 19px; }
+  .fnd-b > * + * { margin-top: 14px; }
+  .row { display: grid; grid-template-columns: 92px 1fr; gap: 16px; align-items: start; }
+  .row .k {
+    font-family: var(--f-title); font-size: 9.5px; font-weight: 700; letter-spacing: .14em;
+    text-transform: uppercase; color: var(--graphite); padding-top: 4px;
+  }
+  .row .v { max-width: 76ch; }
+  .row .v.mono-v { font-family: var(--f-data); font-size: 12.5px; line-height: 1.65; color: var(--graphite); }
+  @media (max-width: 640px) { .row { grid-template-columns: 1fr; gap: 4px; } }
+  .txtblk {
+    border-left: 2.5px solid var(--barrier); background: var(--sunk);
+    padding: 13px 16px; font-family: var(--f-data); font-size: 12.5px; line-height: 1.7;
+    white-space: pre-wrap; overflow-x: auto; max-width: 100%;
+  }
+  .good { border: 1.5px solid var(--ink); background: var(--sunk); padding: 18px 20px 20px; }
+  .good h3 { margin-bottom: 10px; }
+  .good ul { margin: 0; padding-left: 20px; max-width: 78ch; }
+  .good li { margin-top: 7px; }
+  .tallies { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5px; background: var(--rule); border: 1.5px solid var(--ink); }
+  .tallies > div { background: var(--paper); padding: 16px 18px 18px; }
+  .tal-n { font-family: var(--f-title); font-size: 30px; font-weight: 700; line-height: 1; }
+  .tal-k { font-family: var(--f-title); font-size: 9.5px; font-weight: 700; letter-spacing: .16em;
+    text-transform: uppercase; color: var(--graphite); margin-top: 8px; }
+  .tal-d { font-size: 14px; color: var(--graphite); margin-top: 7px; line-height: 1.45; }
+  @media (max-width: 700px) { .tallies { grid-template-columns: 1fr; } }
+  .foot { margin-top: 60px; padding-top: 18px; border-top: 1px solid var(--rule);
+    font-family: var(--f-data); font-size: 11.5px; color: var(--graphite); line-height: 1.8; }
+</style>
+
+<div class="sheet">
+
+  <header class="titleblock">
+    <div class="tb-main">
+      <p class="tb-eyebrow">First pass &middot; As-drawn review</p>
+      <h1>What the Reviewer Will Find</h1>
+      <p class="tb-sub">Read against the three sheets as they stand: the details, the air sealing
+        diagrams, and the reproduced City of Aspen sheet. Ordered by what costs you a round.</p>
+    </div>
+    <div class="tb-fields">
+      <div><span class="tb-k">Sheets</span><span class="tb-v">G2.08 &middot; G2.09</span></div>
+      <div><span class="tb-k">Details drawn</span><span class="tb-v">8 of 9</span></div>
+      <div><span class="tb-k">Findings</span><span class="tb-v">17</span></div>
+      <div><span class="tb-k">Zone</span><span class="tb-v">CZ 7 &middot; Pitkin</span></div>
+    </div>
+  </header>
+
+  <section>
+    <h2>The shape of it</h2>
+    <div class="tallies">
+      <div><div class="tal-n" style="color:var(--barrier)">4</div><div class="tal-k">Stops it</div>
+        <p class="tal-d">A reviewer bounces the set on these. Two are five-minute fixes; one is a
+          real insulation question.</p></div>
+      <div><div class="tal-n">9</div><div class="tal-k">Fix before it goes</div>
+        <p class="tal-d">Missing citations, dropped words, one wall with no type. Each is a callout
+          or a note block.</p></div>
+      <div><div class="tal-n" style="color:var(--reference)">4</div><div class="tal-k">Verify</div>
+        <p class="tal-d">Things I cannot confirm from the sheets at this size. Check them yourself
+          before you sign.</p></div>
+    </div>
+    <p class="col" style="margin-top:24px">The barrier itself is in good shape. It reads continuous
+      through both sections, the garage sits outside it and the separation wall carries it, and the
+      note conflict that started this comment is gone from the details. What is left is
+      documentation, not geometry.</p>
+  </section>
+
+  <section>
+    <h2>Stops it</h2>
+
+
+  <article class="fnd">
+    <div class="fnd-hd">
+      <span class="fnd-n">01</span>
+      <span class="fnd-t">R-30 at the roof assemblies</span>
+      <span class="chip c-stop">Stops it</span>
+    </div>
+    <div class="fnd-b">
+      <div class="row"><span class="k">Where</span><span class="v mono-v">Details 2, 3, 4, 5, 6 / G2.09</span></div>
+      <div class="row"><span class="k">As drawn</span><span class="v mono-v">Details 3 and 5 call &ldquo;SPRAY FOAM ALL CAVITIES, R-30 MIN.&rdquo; and &ldquo;CLOSED CELL SPRAY FOAM AT UNDERSIDE OF SLAB, R-30 MIN.&rdquo; at roof and ceiling assemblies. Details 2, 4 and 6 carry no R-value at all.</span></div>
+      <div class="row"><span class="k">Should be</span><span class="v">R-30 is the Climate Zone 7 <b>wall</b> value. The ceiling value is <b>R-60</b> &mdash; 2021 IECC Table R402.1.2. Where it appears at a wall (detail 8, at the rough opening) R-30 is correct; everywhere it points at a roof it is half the required value. R402.2.2 does let you use R-30 for a ceiling without attic space where the assembly will not take the full depth, but only for the lesser of 500 sq ft or 20% of the insulated ceiling area &mdash; not across the whole roof. Either raise the callouts, or declare a UA alternative or performance path on G2.07 and cite the report. Closed cell foam at R-60 is roughly 9&Prime; to 10&Prime;, which a 2x12 rafter bay takes; this is likely just the wall note copied onto the roof details.</span></div>
+      <div class="txtblk">CLOSED CELL SPRAY FOAM, FULL DEPTH OF ALL RAFTER BAYS, R-60 MIN.
+DESIGNATED AIR BARRIER, IN CONTINUOUS CONTACT W/ THE SHEATHING</div>
+    </div>
+  </article>
+
+
+  <article class="fnd">
+    <div class="fnd-hd">
+      <span class="fnd-n">02</span>
+      <span class="fnd-t">Detail 9 is called out and not drawn</span>
+      <span class="chip c-stop">Stops it</span>
+    </div>
+    <div class="fnd-b">
+      <div class="row"><span class="k">Where</span><span class="v mono-v">Plan 3/G2.08 and the sections</span></div>
+      <div class="row"><span class="k">As drawn</span><span class="v mono-v">Callout bubbles read 9/G2.09 on the main level plan and in the garage section. The details sheet carries 1 through 8.</span></div>
+      <div class="row"><span class="k">Should be</span><span class="v">A dead reference. Either draw detail 9 or delete every callout to it. The condition it is pointing at is the dwelling separation wall meeting the exterior wall &mdash; which is the first detail on the City of Aspen sheet you reproduced, so the reviewer knows exactly what should be there. Draw it: interior wall landing on the exterior wall, foam continuous behind the intersection, sheathing or a rigid air barrier at the stud face before the partition is set.</span></div>
+
+    </div>
+  </article>
+
+
+  <article class="fnd">
+    <div class="fnd-hd">
+      <span class="fnd-n">03</span>
+      <span class="fnd-t">No keynote legend on either sheet</span>
+      <span class="chip c-stop">Stops it</span>
+    </div>
+    <div class="fnd-b">
+      <div class="row"><span class="k">Where</span><span class="v mono-v">G2.08 and G2.09</span></div>
+      <div class="row"><span class="k">As drawn</span><span class="v mono-v">Boxed keynotes 1 through 11 appear on the plan, both sections and inside the details. Nothing on either sheet says what they mean.</span></div>
+      <div class="row"><span class="k">Should be</span><span class="v">Every flag resolves to nothing. Add the legend to G2.08 &mdash; eleven lines, keynote against the detail that resolves it. This is the single cheapest thing on the list and it is the first thing a reviewer looks for when a sheet is covered in numbered boxes.</span></div>
+
+    </div>
+  </article>
+
+
+  <article class="fnd">
+    <div class="fnd-hd">
+      <span class="fnd-n">04</span>
+      <span class="fnd-t">The details sheet numbers itself G2.08</span>
+      <span class="chip c-stop">Stops it</span>
+    </div>
+    <div class="fnd-b">
+      <div class="row"><span class="k">Where</span><span class="v mono-v">Title bubbles, all 8 details</span></div>
+      <div class="row"><span class="k">As drawn</span><span class="v mono-v">The sheet designation under each detail number reads G2.08, the same as the diagrams sheet. Every callout, and the note in the garage section, say the details are on G2.09.</span></div>
+      <div class="row"><span class="k">Should be</span><span class="v">Verify at full size and correct. If the details sheet is G2.09, the eight title bubbles are wrong. Two sheets claiming the same number is the kind of thing that gets the whole set returned without anyone reading past the index.</span></div>
+
+    </div>
+  </article>
+  </section>
+
+  <section>
+    <h2>Fix before it goes</h2>
+
+
+  <article class="fnd">
+    <div class="fnd-hd">
+      <span class="fnd-n">05</span>
+      <span class="fnd-t">The gypsum callout lost its thickness</span>
+      <span class="chip c-fix">Fix</span>
+    </div>
+    <div class="fnd-b">
+      <div class="row"><span class="k">Where</span><span class="v mono-v">Detail 7 / G2.09</span></div>
+      <div class="row"><span class="k">As drawn</span><span class="v mono-v">&ldquo;X GYPSUM BOARD AT GARAGE SIDE PER IRC R302.6, SEAL AT BASE&rdquo;</span></div>
+      <div class="row"><span class="k">Should be</span><span class="v">The thickness and the word TYPE dropped out. As it reads it specifies nothing. IRC Table R302.6 requires 1/2&Prime; minimum from the residence and attics, and 5/8&Prime; Type X where habitable space occurs above the garage. Specifying 5/8&Prime; Type X covers both cases and saves the question.</span></div>
+      <div class="txtblk">5/8" TYPE X GYPSUM BOARD AT GARAGE SIDE PER IRC TABLE R302.6.
+TAPE AND SEAL ALL JOINTS. SEAL AT BASE.</div>
+    </div>
+  </article>
+
+
+  <article class="fnd">
+    <div class="fnd-hd">
+      <span class="fnd-n">06</span>
+      <span class="fnd-t">The unvented attic has no code citation</span>
+      <span class="chip c-fix">Fix</span>
+    </div>
+    <div class="fnd-b">
+      <div class="row"><span class="k">Where</span><span class="v mono-v">Detail 4 / G2.09</span></div>
+      <div class="row"><span class="k">As drawn</span><span class="v mono-v">&ldquo;CONDITIONED ATTIC (UNVENTED)&rdquo; with no reference, and no R-value on the ridge foam.</span></div>
+      <div class="row"><span class="k">Should be</span><span class="v">IRC R806.5 is what makes an unvented attic legal, and it is nowhere in the set. Your assembly satisfies it &mdash; air-impermeable insulation in direct contact with the underside of the sheathing &mdash; but the drawing has to say so. Add a note block under the detail.</span></div>
+      <div class="txtblk">1.  UNVENTED ATTIC ASSEMBLY PER IRC R806.5. AIR-IMPERMEABLE INSULATION IS APPLIED IN
+    DIRECT CONTACT W/ THE UNDERSIDE OF THE STRUCTURAL ROOF SHEATHING, FULL DEPTH,
+    W/ NO GAP OR SEPARATION.
+2.  NO VENTILATION OPENINGS OCCUR IN THIS ASSEMBLY. SOFFITS SHALL NOT BE VENTED.
+3.  CLOSED CELL SPRAY FOAM, R-60 MIN. &mdash; SEE FINDING 01.</div>
+    </div>
+  </article>
+
+
+  <article class="fnd">
+    <div class="fnd-hd">
+      <span class="fnd-n">07</span>
+      <span class="fnd-t">The crawl space has no citation and no conditioning</span>
+      <span class="chip c-fix">Fix</span>
+    </div>
+    <div class="fnd-b">
+      <div class="row"><span class="k">Where</span><span class="v mono-v">Detail 1 / G2.09</span></div>
+      <div class="row"><span class="k">As drawn</span><span class="v mono-v">Slab, Class I vapor retarder, waterproofing and blanket insulation are all named. Nothing says the crawl space is unvented or how it is conditioned.</span></div>
+      <div class="row"><span class="k">Should be</span><span class="v">The crawl space is inside the thermal envelope in both sections, so it is an unvented crawl space and IRC R408.3 applies. R408.3.2 requires one of four conditioning methods; the drawing has to pick one and the mechanical sheet has to carry it.</span></div>
+      <div class="txtblk">1.  UNVENTED CRAWL SPACE PER IRC R408.3. NO VENTILATION OPENINGS OCCUR.
+2.  PROVIDE CONTINUOUSLY OPERATED MECHANICAL EXHAUST AT 1 CFM PER 50 SQ FT OF CRAWL
+    SPACE FLOOR AREA, OR CONDITIONED AIR SUPPLY AT THE SAME RATE, PER IRC R408.3.2.
+    SEE MECHANICAL.</div>
+    </div>
+  </article>
+
+
+  <article class="fnd">
+    <div class="fnd-hd">
+      <span class="fnd-n">08</span>
+      <span class="fnd-t">The chase is an open void with no firestopping</span>
+      <span class="chip c-fix">Fix</span>
+    </div>
+    <div class="fnd-b">
+      <div class="row"><span class="k">Where</span><span class="v mono-v">Detail 7 / G2.09</span></div>
+      <div class="row"><span class="k">As drawn</span><span class="v mono-v">&ldquo;MECHANICAL CHASE OPEN VOID BETWEEN WALLS&rdquo;</span></div>
+      <div class="row"><span class="k">Should be</span><span class="v">A continuous vertical void running the full height of the building between the garage and the dwelling. IRC R302.11 requires firestopping in concealed spaces of stud walls at the ceiling and floor levels and at 10 ft intervals. If ducts run in this chase and cross into the garage, R302.5.2 applies as well.</span></div>
+      <div class="txtblk">FIRE BLOCKING AT EACH FLOOR LINE AND AT 10'-0" MAX. VERTICALLY, PER IRC R302.11.
+DUCTS IN THE GARAGE AND DUCTS PENETRATING THIS SEPARATION SHALL BE 26 GA MIN.
+SHEET METAL W/ NO OPENINGS INTO THE GARAGE, PER IRC R302.5.2.</div>
+    </div>
+  </article>
+
+
+  <article class="fnd">
+    <div class="fnd-hd">
+      <span class="fnd-n">09</span>
+      <span class="fnd-t">The garage-side wall has no wall type</span>
+      <span class="chip c-fix">Fix</span>
+    </div>
+    <div class="fnd-b">
+      <div class="row"><span class="k">Where</span><span class="v mono-v">Detail 7 / G2.09</span></div>
+      <div class="row"><span class="k">As drawn</span><span class="v mono-v">The detail draws two walls. Only the dwelling side is described. The garage side carries a gypsum callout and nothing else.</span></div>
+      <div class="row"><span class="k">Should be</span><span class="v">Tag it. It needs a type on A5.00 so the framer and the estimator both see it: 5/8&Prime; Type X at the garage face, 2x6 framing, sheathing at the chase face as a draft stop, no insulation and no air barrier required because the envelope is the dwelling-side wall.</span></div>
+
+    </div>
+  </article>
+
+
+  <article class="fnd">
+    <div class="fnd-hd">
+      <span class="fnd-n">10</span>
+      <span class="fnd-t">A5.00 says R-34, the details say R-30</span>
+      <span class="chip c-fix">Fix</span>
+    </div>
+    <div class="fnd-b">
+      <div class="row"><span class="k">Where</span><span class="v mono-v">A5.00 wall types vs. G2.09</span></div>
+      <div class="row"><span class="k">As drawn</span><span class="v mono-v">The wall assemblies call closed cell spray foam at R-34 min. The details call R-30 min.</span></div>
+      <div class="row"><span class="k">Should be</span><span class="v">Two numbers for the same material in the same set. Pick one and make it match everywhere. R-30 is the code minimum at walls in Zone 7, so R-34 is a real value, not a typo &mdash; most likely the details are the ones that drifted.</span></div>
+
+    </div>
+  </article>
+
+
+  <article class="fnd">
+    <div class="fnd-hd">
+      <span class="fnd-n">11</span>
+      <span class="fnd-t">The housewrap conflict is left open</span>
+      <span class="chip c-fix">Fix</span>
+    </div>
+    <div class="fnd-b">
+      <div class="row"><span class="k">Where</span><span class="v mono-v">G2.08 note, and the reproduced City sheet</span></div>
+      <div class="row"><span class="k">As drawn</span><span class="v mono-v">Your note says the City details are reproduced, that spray foam is the designated barrier, and that any other scope on them is required in addition to the foam.</span></div>
+      <div class="row"><span class="k">Should be</span><span class="v">That is the right note and it fixes the important half. What it does not resolve is that two of the reproduced details show housewrap by name &mdash; &ldquo;Housewrap to spray foam to housewrap&rdquo; and &ldquo;Seal housewrap to sheathing&rdquo; &mdash; and this project uses a self-adhered WRB. One sentence closes it.</span></div>
+      <div class="txtblk">WHERE THOSE DETAILS SHOW HOUSEWRAP, SUBSTITUTE THE SELF-ADHERED WEATHER RESISTANT
+BARRIER PER THE WALL TYPES, SHEET A5.00.</div>
+    </div>
+  </article>
+
+
+  <article class="fnd">
+    <div class="fnd-hd">
+      <span class="fnd-n">12</span>
+      <span class="fnd-t">Loose fragments on the City of Aspen sheet</span>
+      <span class="chip c-fix">Fix</span>
+    </div>
+    <div class="fnd-b">
+      <div class="row"><span class="k">Where</span><span class="v mono-v">Reproduced sheet</span></div>
+      <div class="row"><span class="k">As drawn</span><span class="v mono-v">Three detail fragments sit at the top right of the sheet, outside the reproduced border, with no titles, no bubbles and no scale. The rest of the sheet is empty.</span></div>
+      <div class="row"><span class="k">Should be</span><span class="v">They read as a paste accident. Either give them a border, titles and detail bubbles as details in their own right, or delete them &mdash; the same conditions are already covered inside the reproduced sheet below.</span></div>
+
+    </div>
+  </article>
+
+
+  <article class="fnd">
+    <div class="fnd-hd">
+      <span class="fnd-n">13</span>
+      <span class="fnd-t">No legend for the barrier line</span>
+      <span class="chip c-fix">Fix</span>
+    </div>
+    <div class="fnd-b">
+      <div class="row"><span class="k">Where</span><span class="v mono-v">G2.08</span></div>
+      <div class="row"><span class="k">As drawn</span><span class="v mono-v">The designated air barrier is drawn as a heavy blue line through the plan and both sections. Nothing identifies it.</span></div>
+      <div class="row"><span class="k">Should be</span><span class="v">Add a two-line legend beside the diagrams. Reviewers trace that line with a finger; it should say what it is.</span></div>
+      <div class="txtblk">——————   DESIGNATED CONTINUOUS AIR BARRIER, SEE NOTE 20 / A5.00</div>
+    </div>
+  </article>
+  </section>
+
+  <section>
+    <h2>Verify &mdash; I cannot read these at this size</h2>
+
+
+  <article class="fnd">
+    <div class="fnd-hd">
+      <span class="fnd-n">14</span>
+      <span class="fnd-t">Does the barrier run over the garage roof?</span>
+      <span class="chip c-watch">Verify</span>
+    </div>
+    <div class="fnd-b">
+      <div class="row"><span class="k">Where</span><span class="v mono-v">Section 2/G2.08</span></div>
+      <div class="row"><span class="k">As drawn</span><span class="v mono-v">The barrier appears to run along the underside of the garage roof and also down the garage/dwelling separation wall.</span></div>
+      <div class="row"><span class="k">Should be</span><span class="v">It should do one or the other, not both. Detail 7 designates the dwelling-side wall, which puts the garage outside the envelope &mdash; and an unconditioned garage roof should not carry the barrier. If the line does run over the garage, it is either a drafting leftover or the garage is meant to be inside, in which case detail 7 is the wrong detail for that wall.</span></div>
+
+    </div>
+  </article>
+
+
+  <article class="fnd">
+    <div class="fnd-hd">
+      <span class="fnd-n">15</span>
+      <span class="fnd-t">Is the membrane roof an existing assembly?</span>
+      <span class="chip c-watch">Verify</span>
+    </div>
+    <div class="fnd-b">
+      <div class="row"><span class="k">Where</span><span class="v mono-v">Detail 6 / G2.09</span></div>
+      <div class="row"><span class="k">As drawn</span><span class="v mono-v">&ldquo;EXISTING ROOF SHEATHING, REF STRUCT&rdquo; and &ldquo;FULL DEPTH OF ALL EXISTING RAFTER BAYS&rdquo;</span></div>
+      <div class="row"><span class="k">Should be</span><span class="v">If this is a remodel condition, it is correct and needs nothing. If the sheet is new construction, the word is wrong in two places and a reviewer will stop on it. It also changes what the foam has to be verified against &mdash; you cannot promise continuous contact with sheathing you have not opened up.</span></div>
+
+    </div>
+  </article>
+
+
+  <article class="fnd">
+    <div class="fnd-hd">
+      <span class="fnd-n">16</span>
+      <span class="fnd-t">Is the Table R402.4.1.1 schedule on G2.07?</span>
+      <span class="chip c-watch">Verify</span>
+    </div>
+    <div class="fnd-b">
+      <div class="row"><span class="k">Where</span><span class="v mono-v">G2.07</span></div>
+      <div class="row"><span class="k">As drawn</span><span class="v mono-v">Not on either of the sheets shown.</span></div>
+      <div class="row"><span class="k">Should be</span><span class="v">The comment asks for compliance with the table by component. Sixteen rows, each paired with the assembly, detail and note that satisfies it. If it is not on G2.07 it is the largest single thing still outstanding on this comment.</span></div>
+
+    </div>
+  </article>
+
+
+  <article class="fnd">
+    <div class="fnd-hd">
+      <span class="fnd-n">17</span>
+      <span class="fnd-t">Is the &ldquo;ground as insulation&rdquo; label gone?</span>
+      <span class="chip c-watch">Verify</span>
+    </div>
+    <div class="fnd-b">
+      <div class="row"><span class="k">Where</span><span class="v mono-v">Section 1/G2.08</span></div>
+      <div class="row"><span class="k">As drawn</span><span class="v mono-v">The lower level floor callouts are below reading size in the image.</span></div>
+      <div class="row"><span class="k">Should be</span><span class="v">Confirm the template label is replaced with the four callouts: concrete slab, Class I vapor retarder under the slab, foundation waterproofing on the exterior face, and perimeter rigid insulation continuous to the footing.</span></div>
+
+    </div>
+  </article>
+  </section>
+
+  <section>
+    <h2>What is already right</h2>
+    <div class="good">
+      <h3>Leave these alone</h3>
+      <ul>
+        <li>The barrier reads continuous through the plan and both sections, and it closes on
+          itself. That is the substance of the comment and it is done.</li>
+        <li>The garage sits outside the envelope and the separation wall carries the barrier, drawn
+          consistently in the section and in detail 7.</li>
+        <li>Detail 5 now carries the sill plate transition note &mdash; below-grade barrier becoming
+          above-grade barrier. That was the flag with no instruction behind it.</li>
+        <li>Detail 3 no longer designates the self-adhered WRB. It describes it and stops there,
+          which is what the wall types should now match.</li>
+        <li>The City of Aspen note reads correctly: the foam is designated, their sealant scope is
+          additive. That was backwards before.</li>
+        <li>Detail 7 says no door or other opening occurs in the separation. Reviewers ask; the
+          drawing answers.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <h2>What this changes in the response letter</h2>
+    <p class="col">Three lines in the letter claim more than the sheets currently carry. They are
+      corrected in the published letter, but do not send an older copy:</p>
+    <div class="tablewrap">
+      <table>
+        <thead><tr><th>Claimed</th><th>Actually</th></tr></thead>
+        <tbody>
+          <tr><td>Twelve air sealing details on G2.09</td><td class="mono">Eight, numbered 1&ndash;8</td></tr>
+          <tr><td>Partition at exterior wall detail added</td><td class="mono">Called out as 9, not drawn</td></tr>
+          <tr><td>Air sealing keynote legend, keynotes 1&ndash;12</td><td class="mono">Not on either sheet</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <p class="foot">844 Roaring Fork, Aspen, CO 81611 &middot; Read against G2.08, G2.09 and the
+    reproduced City of Aspen spray foam sheet as submitted &middot; 2021 I-Codes per City of Aspen
+    Ordinance #1, Series 2023 &middot; Climate Zone 7, Pitkin County.</p>
+
+</div>
