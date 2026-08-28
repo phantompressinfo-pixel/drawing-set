@@ -43,44 +43,59 @@ an image" requests, use the `simple-diagrams` skill to produce a simple
 SVG sketch (floor plan blocks, flow diagrams, icons) — set that expectation
 up front rather than attempting something it can't do.
 
-## Data source: Google Drive, not this repo
+## Two tabs, two different setups
 
-The office runs on Google Sites, and the assistant reads from a dedicated,
-locked, read-only Google Drive folder — not from files in this git repo.
-That Drive folder holds the real source documents: office templates,
-standards, and contract materials (and building code documents, once
-confirmed where those live — see the open question below).
+The two tabs on the Google Site are **not** built the same way — don't
+assume one architecture covers both.
 
-This means:
+### Building Code tab — this repo is the live source
 
-- The live assistant is set up as a **Claude Project connected via the
-  Google Drive connector**, scoped to that folder (not Claude Code reading
-  this repo). Everything in "Answer style" above still applies — it just
-  belongs in that Project's custom instructions, not only here.
-- "Read-only" is enforced at the Drive sharing-permission level — the
-  connector should never be given edit access. Whoever sets up the
-  connector should double check the folder (and everything under it) is
-  shared as Viewer, not Editor, to the account/service used.
+Decided: a custom backend (`backend/`) using the Claude API directly with
+an API key (not a per-seat Claude Project) — cheaper for 30 people asking
+occasional questions, avoids per-seat licensing. It reads
+`knowledge/building-code/` directly, so **this repo is the actual live
+data source for that tab**, not a staging mirror. See `backend/README.md`
+for the architecture (Sonnet 5 first, escalates to Opus 5 only for
+questions that need real cross-referencing, prompt-cached so the whole
+office shares one cached read of the code text) and deployment steps.
+
+Nothing will be answered from until real documents replace the
+placeholder in `knowledge/building-code/README.md` — a PDF needs to be
+converted to text first (the backend doesn't parse PDFs itself).
+
+Skills in `.claude/skills/` (below) apply when this repo is opened in
+Claude Code directly — they do **not** apply to `backend/`, which calls
+the raw Claude API and has no skill-loading. The same grounding/style
+rules are duplicated into `backend/app.py`'s system prompt so both paths
+stay consistent; if the rules in this file change, update both places.
+
+### Office Standards tab — Google Drive, not this repo
+
+Still the original plan: a dedicated, locked, read-only Google Drive
+folder holds office templates, standards, and contract materials. The
+Drive folder is separate from `knowledge/building-code/` — building code
+content lives in this repo (see above), office-standards content lives in
+Drive.
+
+- "Read-only" is enforced at the Drive sharing-permission level — make
+  sure the folder (and everything under it) is shared as Viewer, not
+  Editor, to whatever account/service reads it.
 - When citing a source, cite the actual Drive file name (and folder, if
-  it's not obvious which one) — that's what maps back to something a
-  staff member can go find and double check.
-- `knowledge/building-code/` and `knowledge/office-standards/` below are
-  now a fallback/staging mirror, not the primary source. Useful if content
-  needs to be drafted or reviewed here before it's promoted into the real
-  Drive folder, or if this repo is ever used as a secondary Claude Code
-  based tool — but don't assume they're current or complete on their own.
+  it's not obvious which one).
+- **Not yet decided:** whether this tab uses a Claude Project + Drive
+  connector (per-seat cost, zero custom code) or a custom API-key backend
+  like the Building Code tab (no per-seat cost, more to build). Confirm
+  before building either.
+- `knowledge/office-standards/` below is a fallback/staging mirror only,
+  not the primary source, until/unless that decision changes.
 
-**Open question:** does building code content live in that same locked
-Drive folder, or somewhere else? The original two-tab split (Building
-Code / Office Standards) assumed two sources — confirm before assuming
-one folder covers both.
+## Knowledge folder
 
-## Knowledge folders (fallback / staging only — see above)
-
-- `knowledge/building-code/` — local mirror of building code documents,
-  if used. Currently empty.
-- `knowledge/office-standards/` — local mirror of internal standards
-  documents, if used. Currently empty.
+- `knowledge/building-code/` — **primary source** for the Building Code
+  tab (see above). Currently just a placeholder README — no real
+  documents yet.
+- `knowledge/office-standards/` — fallback/staging mirror only (see
+  above); the real source is the Google Drive folder.
 
 ## Repo layout note
 

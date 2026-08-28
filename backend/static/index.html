@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Building Code Assistant</title>
+<style>
+  :root { color-scheme: light; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #FAF9F6;
+    color: #222;
+  }
+  .wrap { max-width: 640px; margin: 0 auto; padding: 20px 16px 40px; }
+  h1 { font-size: 1.2rem; margin: 0 0 4px; }
+  .sub { font-size: 0.85rem; color: #555; margin: 0 0 16px; }
+  form { display: flex; gap: 8px; margin-bottom: 20px; }
+  textarea {
+    flex: 1; resize: none; font-size: 1rem; padding: 10px 12px;
+    border: 1px solid #ccc; border-radius: 6px; font-family: inherit; min-height: 44px;
+  }
+  button {
+    background: #B5432F; color: #fff; border: 0; border-radius: 6px;
+    padding: 0 18px; font-size: 1rem; cursor: pointer;
+  }
+  button:disabled { opacity: 0.5; cursor: default; }
+  .answer {
+    background: #fff; border: 1px solid #e5e2dc; border-radius: 8px;
+    padding: 14px 16px; margin-bottom: 14px; white-space: pre-wrap; line-height: 1.45;
+  }
+  .sources { font-size: 0.8rem; color: #666; margin-top: 8px; }
+  .error { color: #B5432F; font-size: 0.9rem; }
+  .hint { font-size: 0.75rem; color: #888; margin-top: -10px; margin-bottom: 16px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Building Code Assistant</h1>
+  <p class="sub">
+    Answers are grounded in the office's building code documents only.
+    Always a starting point for a licensed architect to verify, never a
+    substitute for one.
+  </p>
+
+  <form id="ask-form">
+    <textarea id="question" placeholder="Ask a building code question…" required></textarea>
+    <button type="submit" id="ask-btn">Ask</button>
+  </form>
+  <p class="hint">Example: "What's the minimum egress width for a corridor in an office occupancy?"</p>
+
+  <div id="results"></div>
+</div>
+
+<script>
+  // Point this at your deployed Cloud Function / Cloud Run URL.
+  const ENDPOINT = "REPLACE_WITH_YOUR_DEPLOYED_FUNCTION_URL";
+
+  const form = document.getElementById("ask-form");
+  const textarea = document.getElementById("question");
+  const button = document.getElementById("ask-btn");
+  const results = document.getElementById("results");
+
+  form.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const question = textarea.value.trim();
+    if (!question) return;
+
+    button.disabled = true;
+    button.textContent = "Asking…";
+
+    const card = document.createElement("div");
+    card.className = "answer";
+    card.textContent = "Thinking…";
+    results.prepend(card);
+
+    try {
+      const res = await fetch(ENDPOINT, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ question }),
+      });
+      const data = await res.json();
+
+      if (!res.ok) {
+        card.innerHTML = `<span class="error">${data.error || "Something went wrong. Try again."}</span>`;
+      } else {
+        card.textContent = data.answer;
+        if (data.sources && data.sources.length) {
+          const src = document.createElement("div");
+          src.className = "sources";
+          src.textContent = "Source: " + data.sources.join(", ");
+          card.appendChild(src);
+        }
+      }
+    } catch (err) {
+      card.innerHTML = `<span class="error">Couldn't reach the assistant. Check your connection and try again.</span>`;
+    } finally {
+      button.disabled = false;
+      button.textContent = "Ask";
+      textarea.value = "";
+    }
+  });
+</script>
+</body>
+</html>
