@@ -43,13 +43,44 @@ an image" requests, use the `simple-diagrams` skill to produce a simple
 SVG sketch (floor plan blocks, flow diagrams, icons) — set that expectation
 up front rather than attempting something it can't do.
 
-## Knowledge folders
+## Data source: Google Drive, not this repo
 
-- `knowledge/building-code/` — drop in the actual building code documents
-  (PDFs, text, whatever the office has). Currently empty — nothing here
-  yet, so the assistant has nothing to answer building-code questions from
-  until these are added. See the README in that folder.
-- `knowledge/office-standards/` — same, for internal standards documents.
+The office runs on Google Sites, and the assistant reads from a dedicated,
+locked, read-only Google Drive folder — not from files in this git repo.
+That Drive folder holds the real source documents: office templates,
+standards, and contract materials (and building code documents, once
+confirmed where those live — see the open question below).
+
+This means:
+
+- The live assistant is set up as a **Claude Project connected via the
+  Google Drive connector**, scoped to that folder (not Claude Code reading
+  this repo). Everything in "Answer style" above still applies — it just
+  belongs in that Project's custom instructions, not only here.
+- "Read-only" is enforced at the Drive sharing-permission level — the
+  connector should never be given edit access. Whoever sets up the
+  connector should double check the folder (and everything under it) is
+  shared as Viewer, not Editor, to the account/service used.
+- When citing a source, cite the actual Drive file name (and folder, if
+  it's not obvious which one) — that's what maps back to something a
+  staff member can go find and double check.
+- `knowledge/building-code/` and `knowledge/office-standards/` below are
+  now a fallback/staging mirror, not the primary source. Useful if content
+  needs to be drafted or reviewed here before it's promoted into the real
+  Drive folder, or if this repo is ever used as a secondary Claude Code
+  based tool — but don't assume they're current or complete on their own.
+
+**Open question:** does building code content live in that same locked
+Drive folder, or somewhere else? The original two-tab split (Building
+Code / Office Standards) assumed two sources — confirm before assuming
+one folder covers both.
+
+## Knowledge folders (fallback / staging only — see above)
+
+- `knowledge/building-code/` — local mirror of building code documents,
+  if used. Currently empty.
+- `knowledge/office-standards/` — local mirror of internal standards
+  documents, if used. Currently empty.
 
 ## Repo layout note
 
