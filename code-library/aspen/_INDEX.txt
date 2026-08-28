@@ -1,0 +1,36 @@
+City of Aspen Municipal Code — file index (retrieved 2026-07-22)
+
+code-of-ordinances-city-of-aspen-colorado.txt	CODE OF ORDINANCES CITY OF ASPEN, COLORADO	1 sections
+supplement-history-table.txt	SUPPLEMENT HISTORY TABLE	1 sections
+part-i-home-rule-charter.txt	PART I - HOME RULE CHARTER	126 sections
+charter-comparative-table.txt	CHARTER COMPARATIVE TABLE	1 sections
+title-1-general-provisions.txt	TITLE 1 - GENERAL PROVISIONS	19 sections
+title-2-administration.txt	TITLE 2 - ADMINISTRATION	62 sections
+title-3-employee-s-retirement-and-deferred-compensation-plan.txt	TITLE 3 - EMPLOYEE'S RETIREMENT AND DEFERRED COMPENSATION PLAN	56 sections
+title-4-procurement-code.txt	TITLE 4 - PROCUREMENT CODE	72 sections
+title-5-marijuana-and-alcoholic-beverages.txt	TITLE 5 - MARIJUANA AND ALCOHOLIC BEVERAGES	60 sections
+title-6-animals-and-fowl.txt	TITLE 6 - ANIMALS AND FOWL	45 sections
+title-7-bicycles.txt	TITLE 7 - BICYCLES	9 sections
+title-8-buildings-and-building-regulations.txt	TITLE 8 - BUILDINGS AND BUILDING REGULATIONS	106 sections
+title-9-elections.txt	TITLE 9 - ELECTIONS	31 sections
+title-10-emergency-alarm-systems-and-protection-services.txt	TITLE 10 - EMERGENCY ALARM SYSTEMS AND PROTECTION SERVICES	15 sections
+title-11-fire-prevention-and-protection.txt	TITLE 11 - FIRE PREVENTION AND PROTECTION	8 sections
+title-12-solid-waste.txt	TITLE 12 - SOLID WASTE	52 sections
+title-13-health-and-quality-of-environment.txt	TITLE 13 - HEALTH AND QUALITY OF ENVIRONMENT	90 sections
+title-14-licenses-and-permits-generally.txt	TITLE 14 - LICENSES AND PERMITS GENERALLY	53 sections
+title-15-offenses.txt	TITLE 15 - OFFENSES	68 sections
+title-16-mobile-homes-and-mobile-home-parks.txt	TITLE 16 - MOBILE HOMES AND MOBILE HOME PARKS	11 sections
+title-17-municipal-court.txt	TITLE 17 - MUNICIPAL COURT	8 sections
+title-18-noise-abatement.txt	TITLE 18 - NOISE ABATEMENT	13 sections
+title-19-police.txt	TITLE 19 - POLICE	9 sections
+title-21-streets-sidewalks-and-other-public-places.txt	TITLE 21 - STREETS, SIDEWALKS AND OTHER PUBLIC PLACES	137 sections
+title-22-reserved.txt	TITLE 22 - RESERVED	1 sections
+title-23-taxation.txt	TITLE 23 - TAXATION	128 sections
+title-24-traffic-and-motor-vehicles.txt	TITLE 24 - TRAFFIC AND MOTOR VEHICLES	77 sections
+title-25-utilities.txt	TITLE 25 - UTILITIES	118 sections
+title-26-land-use-regulations.txt	Title 26 - LAND USE REGULATIONS	448 sections
+title-27-cable-television-systems.txt	TITLE 27 - CABLE TELEVISION SYSTEMS	41 sections
+title-28-stormwater-and-mudflow.txt	TITLE 28 - STORMWATER AND MUDFLOW	13 sections
+title-29-engineering-design-standards.txt	TITLE 29 - ENGINEERING DESIGN STANDARDS	27 sections
+code-comparative-table-legislation.txt	CODE COMPARATIVE TABLE - LEGISLATION	1 sections
+state-law-reference-table.txt	STATE LAW REFERENCE TABLE	1 sections

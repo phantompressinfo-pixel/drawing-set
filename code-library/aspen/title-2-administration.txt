@@ -1,0 +1,4367 @@
+# CITY OF ASPEN MUNICIPAL CODE — TITLE 2 - ADMINISTRATION
+# Source: Municode (api.municode.com), Supp. No. 7 Update 1, codified through Ord. No. 06-2026 (enacted 2026-03-24)
+# Retrieved: 2026-07-22
+
+
+===== TITLE 2 - ADMINISTRATION
+
+
+===== Chapter 2.02. - RULES OF ETHICAL CONDUCT
+
+
+===== Sec. 2.02.010. - Purpose.
+The purpose of this Chapter is to protect the public health, safety and welfare of
+ the public and the integrity of City government by defining and proscribing certain
+ conflicts of interest that may arise between the City and City Council members, employees
+ or appointees to City boards, authorities and commissions. The City Council further
+ recognizes that, when citizens of the City obtain public office, conflicts may arise
+ between the public duty of such a citizen and his or her private interests. The City
+ Council hereby declares that the prescription of some standards of conduct common
+ to those citizens involved with government is beneficial to all residents of the City.
+ This Chapter recognizes that some actions are conflicts per se between public duty
+ and private interest while other actions may or may not pose such conflicts depending
+ upon the totality of the circumstances surrounding certain actions.
+ (
+Ord. No. 19-2003
+, § 1)
+
+===== Sec. 2.02.020. - Definitions.
+As used in this Chapter, unless the context otherwise requires:
+Affiliate
+ or 
+affiliated with
+ means an employee, partner, agent, stockholder, joint venturer or corporate director
+ of any business organization or a person who shares office space with such organization.
+Appear on behalf of
+ means to act as a witness, advocate or expert or otherwise to support the position
+ of another person.
+Business
+ means any corporation, limited liability company, partnership, sole proprietorship,
+ trust or foundation or other individual or organization carrying on business, whether
+ or not operated for profit.
+City Council member
+ means a member of the Aspen City Council and includes the Mayor.
+City official
+ means and includes any member of a board, authority, commission or other body where
+ the members are appointed by the City Council. 
+City official
+ does not mean or include any employee of the City with the exception of the Municipal
+ Court judge.
+Compensation
+ means any money, thing of value or economic benefit conferred on or received by any
+ person in return for services rendered by himself, herself or another.
+Confidential information
+ means all information, whether transmitted orally or in writing, which is of such
+ a nature that it is not, at that time, a matter of public record or public knowledge.
+Contract
+ means and includes any claim, account or demand against or agreement with the City,
+ express or implied.
+Direct official action
+ means any action which involves:
+ (a)
+ Negotiating, approving, disapproving, administering, enforcing or recommending for
+ or against a contract, purchase order, lease, concession, franchise, grant or other
+ similar transaction in which the City is a party or other action, including inaction
+ concerning any legislative, administrative, quasi-judicial or discretionary act of
+ the City, whether by the City Council, a board, commission, court or employee. With
+ regard to "recommending," direct official action occurs only if the person making
+ a recommendation is in the formal line of decision-making;
+ (b)
+ Enforcing laws or regulations or issuing, enforcing or regulating permits;
+ (c)
+ Selecting or recommending vendors, concessionaires or other types of entities to do
+ business with the City;
+ (d)
+ Appointing and terminating employees, temporary workers and independent contractors;
+ or
+ (e)
+ Doing research for, representing or scheduling appointments for an employee, provided
+ that these activities are undertaken with that employee's performance of (a) through
+ (d) above.
+Direct official action
+ does not include acts that are purely ministerial (that is, acts which do not affect
+ the disposition or decision with respect to the matter). With regard to the approval
+ of contracts, 
+direct official action
+ does not include the signing of the instrument unless the signer initiated the contract.
+ A person who follows the procedures set forth at 
+Section 2.02.050
+ and recuses himself or herself from taking official action shall not be considered
+ as exercising 
+direct official action.
+Employee
+ means any full-time, part-time, temporary, seasonal or permanent employee of the
+ City, except a City Council member and except an independent contractor under contract
+ with the City.
+Financial interest
+ means a substantial interest held by an individual which is:
+ (a)
+ An ownership interest in a business;
+ (b)
+ A creditor interest in an insolvent business;
+ (c)
+ An employment or a prospective employment for which negotiations have begun;
+ (d)
+ An ownership interest in real or personal property;
+ (e)
+ A loan or any other debtor interest; or
+ (f)
+ A directorship or officer-ship in a business.
+Immediate family member
+ includes husband, wife, son, daughter, mother, father, grandfather, grandmother,
+ grandchildren, brother, sister and domestic partner. The term includes any minor children
+ for whom the person or his or her domestic partner provides day-to-day care and financial
+ support. A 
+domestic partner
+ is an unmarried adult, unrelated by blood, with whom an unmarried officer, official
+ or employee has an exclusive committed relationship, maintains a mutual residence
+ and shares basic living expenses.
+Person
+ means and includes any individual, business, proprietorship, firm, entity, estate,
+ partnership, association, trust, corporation, holder of a legal or beneficial interest
+ in any of the same or other similar entity.
+Personal services
+ means and includes the employment of a person to perform duties, which labor does
+ not produce tangible commodities.
+Quasi-judicial proceeding
+ means any proceeding at which direct official action will be taken where: (a) City
+ or state law requires that the body give adequate notice to the community before acting;
+ (b) City or state law requires that the body conduct a public hearing, pursuant to
+ notice, at which concerned citizens must be given an opportunity to be heard and present
+ evidence; and (c) City or state law requires the body to make a determination by applying
+ the facts of a specific case to certain criteria established by law.
+Substantial interest
+ means and includes a situation, including without limitation, a pecuniary stake in
+ the outcome of a direct official action in which, considering all of the circumstances,
+ a reasonably prudent person would expect a marked tendency to make or take a direct
+ official action other than in an objective manner. By way of example and not limitation,
+ a person shall be deemed to have a substantial interest if:
+ (a)
+ He, she or a member of the immediate family is a party to a transaction;
+ (b)
+ He, she, a spouse or a domestic partner owns a one percent (1%) or more or a member
+ of the immediate family other than a spouse or domestic partner owns five percent
+ (5%) or more, of another party to the transaction;
+ (c)
+ He, she or a member of the immediate family is an officer in another party to the
+ transaction;
+ (d)
+ He, she or a member of the immediate family is directly involved in obtaining the
+ City's business for another party to the transaction;
+ (e)
+ He, she or a member of the immediate family is directly involved in direct official
+ action regarding a transaction for another party to the transaction, other than a
+ purely clerical capacity; or
+ (f)
+ A member of his or her immediate family performs more than a nominal portion of the
+ work required by the transaction or supervises or manages more than a nominal portion
+ of the work.
+ (g)
+ He or she or a member of his or her immediate family resides or owns property within
+ three hundred (300) feet of a property that is the subject of a quasi-judicial proceeding.
+Transaction
+ means and includes any contract; any sale or lease of any interest in land, material,
+ supplies, services or any granting of a development right, license, permit or application.
+ (
+Ord. No. 19-2003, § 1)
+
+===== Sec. 2.02.030. - Rules of conduct governing City Council members, City officials and employees.
+A City Council member, City official or an employee shall not:
+ (a)
+ Disclose or use confidential information acquired in the course of his or her official
+ duties in order to further substantially his or her personal financial interests;
+ (b)
+ Disclose or use confidential information acquired in the course of his or her official
+ duties as an attorney-client communication from the City Attorney or other counsel
+ retained by the City without the consent of the City Council;
+ (c)
+ Assist any person for a contingent fee to affect the outcome of a direct official
+ act;
+ (d)
+ Perform a direct official action without following the procedure prescribed by 
+Section 2.02.050
+ of this Chapter if such person:
+ (1)
+ Has a substantial interest in any transaction with the City;
+ (2)
+ Has an immediate family member with a substantial interest in any transaction with
+ the City;
+ (3)
+ Has a substantial interest as an affiliate of a firm with a substantial interest in
+ any transaction with the City; or
+ (4)
+ Has a substantial interest as an affiliate of a firm appearing on behalf of or employed
+ by a person with a substantial interest in any transaction with the City.
+ (e)
+ Accept a gift of substantial value or a substantial economic benefit tantamount to
+ a gift of substantial value which:
+ (1)
+ Would tend improperly to influence a reasonable person in his or her position to depart
+ from the faithful and impartial discharge of his or her public duties; or
+ (2)
+ He or she knows or which a reasonable person in his or her position should know under
+ the circumstances is primarily for the purpose of rewarding him for a direct official
+ action he or she has taken. The following shall not be considered gifts of substantial
+ value or gifts of substantial economic benefit tantamount to gifts of substantial
+ value for purposes of this Section:
+ a.
+ Campaign contributions and contributions in kind reported as required by C.R.S. §
+ 1-45-108;
+ b.
+ An occasional nonpecuniary gift, insignificant in value;
+ c.
+ A nonpecuniary award publicly presented by a nonprofit organization in recognition
+ of public service;
+ d.
+ Payment of or reimbursement for actual and necessary expenditures for travel and subsistence
+ for attendance at a convention or other meeting at which such person is scheduled
+ to participate;
+ e.
+ Reimbursement for or acceptance of an opportunity to participate at a social function
+ or meeting which is offered to such person which is not extraordinary when viewed
+ in light of the position held by such person;
+ f.
+ Items of perishable or nonpermanent value, including, but not limited to, meals, lodging,
+ travel expenses or tickets to sporting, recreational, educational or cultural events
+ that take place within the Roaring Fork Valley drainage;
+ g.
+ Items of perishable or nonpermanent value, including, but not limited to, meals, lodging,
+ travel expenses or tickets to sporting, recreational, educational or cultural events
+ that have a value less than two hundred fifty dollars ($250.00) and take place outside
+ the Roaring Fork Valley drainage unless the event is directly related to City business;
+ or
+ h.
+ Payment for speeches, appearances or publications reported pursuant to C.R.S. § 24-6-203.
+ (f)
+ Fail to comply with the Public Official Disclosure Law, C.R.S. § 24-6-201 et seq.
+ (This law requires incumbents in and candidates elected to public office—City Council
+ members—to publicly disclose the receipt of certain gifts, honoraria and other benefits
+ on forms available from the City Clerk's Office.)
+ (g)
+ Request, use or permit the unauthorized use of City-owned vehicles, equipment, materials
+ or property for personal convenience or profit.
+ (h)
+ Simultaneously serve in more than one (1) capacity as a City Council member, City
+ official or employee. City officials may serve on more than one (1) City board, authority
+ or commission; provided, however, they are not subordinate to one another in any respect;
+ and provided further, that such service does not violate Article VIII of the City
+ Charter and the bylaws of either, board, authority or commission.
+ (
+Ord. No. 19-2003
+, § 1)
+
+===== Sec. 2.02.040. - Appearances before the City Council, boards, commissions and courts.
+Nothing in this Section is intended to apply to any City Council member, City official
+ or employee who appears before the City Council or any City board, authority or commission
+ to urge action on a policy or issue of general civic nature or to the relationship
+ between the City Council, the City, any City board, authority or commission or any
+ department of the City.
+ (a)
+City Council members.
+ (1)
+ City Council members shall not appear before the City Council or any City board, authority
+ or commission either on their own behalf or on behalf of another. A City Council member
+ may be affiliated with a firm appearing on behalf of or employed by another person
+ concerning any transaction with the City before the City Council, board, authority
+ or commission; provided, however, that the City Council member follows the procedures
+ prescribed by 
+Section 2.02.050
+ of this Chapter if the transaction is before the City Council.
+ (2)
+ A City Council member shall not be a party or, by himself or herself or as an affiliate
+ of a firm, appear on behalf of a party in a civil suit, wherein the City is an adverse
+ party, unless the member first obtains the consent of the City Council.
+ (b)
+City officials.
+ (1)
+ City officials may only appear or be affiliated with a firm appearing concerning any
+ transaction with the City under the following circumstances:
+ a.
+ A City official may appear on his or her own behalf before the City Council.
+ b.
+ A City official may appear on his or her own behalf before the body of which he or
+ she is a member, provided the City official follows the procedure prescribed by 
+Section 2.02.050
+ of this Chapter.
+ c.
+ A City official may appear on behalf of another person before any City board, authority
+ or commission except the City Council or the body of which he or she is a member.
+ d.
+ A City official may be affiliated with a firm appearing on behalf of or employed by
+ another person concerning any transaction before the City Council, board, authority
+ or commission, provided the City official follows the procedure prescribed by 
+Section 2.02.050
+ of this Chapter if the transaction is before the body of which he or she is a member.
+ (2)
+ A City official shall not be a party or, by himself or herself or as an affiliate
+ of a firm, appear on behalf of a party in a civil suit, wherein the City is an adverse
+ party, unless the member first obtains the consent of the City Council.
+ (c)
+City employees.
+ (1)
+ City employees shall not appear on behalf of or be employed by another person concerning
+ any transaction with the City or before the City Council or any City board, authority
+ or commission.
+ (2)
+ City employees may appear before the City Council or any City board, authority or
+ commission, on their own behalf or on behalf of such employee's immediate family members.
+ (3)
+ City employees may be affiliated with a firm that appears on behalf of or is employed
+ by another person before the City Council or any City board, authority or commission;
+ provided, however, the employee discloses his or her relationship as provided in 
+Section 2.02.050
+.
+ (
+Ord. No. 19-2003,
+ § 1)
+
+===== Sec. 2.02.050. - Voluntary disclosures of interests.
+(a)
+ Whenever the provisions of this Chapter require a City Council member, City official
+ or employee to disclose an interest, the following procedures shall be followed. The
+ affected person shall disclose the interest on the record of a public meeting of the
+ City Council or the City board, authority or commission of which the person is a member.
+ The interested City Council member, City official or employee shall thereafter: (a)
+ refrain from voting upon or otherwise taking a direct official action in such transaction;
+ (b) physically absent himself or herself from the room in which the matter is being
+ considered; and (c) not discuss the matter with any other member of the City Council,
+ board, authority or commission of which the person is a member. In the event that
+ the interest has arisen or become apparent after the City Council member, City official
+ or employee has taken some direct official action on a transaction, the City Council
+ member, City official or employee shall give written notice of the interest and the
+ nature of the transaction to the City Attorney as soon as reasonably possible.
+ (b)
+ A City Council member or City official may vote notwithstanding Subsection (a) above
+ if his or her participation is necessary to obtain a quorum or otherwise enable the
+ body to act; provided, however, that the City Council member or City official discloses
+ his or her interest.
+ (
+Ord. No. 19-2003
+, § 1)
+
+===== Sec. 2.02.060. - Contracts for goods and services; procurements.
+The following rules of conduct shall apply to contracts entered into between the City
+ and City Council members, City officials or City employees. These rules are in addition
+ to any related provisions set forth in 
+Chapter 4.20
+ of this Code.
+ (a)
+City Council members.
+ (1)
+ No contract for compensation to a City Council member shall be entered into if the
+ City Council member would perform services under the contract.
+ (2)
+ No contract shall be entered into by the City if a member of the City Council would
+ have an interest therein unless the City Council member with an interest follows the
+ procedures prescribed by 
+Section 2.02.050
+ of this Chapter.
+ (b)
+City officials.
+ A City official may contract for goods and services with the City; provided, however,
+ that the City official does not take any direct official action relating to the contract.
+ (c)
+City employees.
+ Unless a specific waiver is obtained pursuant to Subsection 
+2.02.090
+(b) herein, employees shall not take any direct official action in a transaction when
+ the employee knows that:
+ (1)
+ The employee or any immediate family member of the employee has a financial interest
+ pertaining to the procurement;
+ (2)
+ A business or organization in which the employee or the employee's immediate family
+ member, has a financial interest pertaining to the procurement; or
+ (3)
+ Any other person, business or organization with whom the employee or the employee's
+ immediate family member is negotiating or has an arrangement concerning prospective
+ employment is involved in the procurement.
+ (
+Ord. No. 19-2003
+, § 1)
+
+===== Sec. 2.02.070. - Restrictions on employment of present and former employees.
+(a)
+Current employees.
+ (1)
+ No employee shall engage in outside employment which in any manner interferes with
+ the proper and effective performance of his or her duties or which results in a conflict
+ of interest. Employees shall report existing or proposed outside employment or other
+ outside business activity to their supervisors prior to accepting the same. Employees
+ shall report any change in employment status to their supervisors which could give
+ rise to a conflict of interest.
+ (2)
+ No employee shall take any direct official action with respect to their former employers
+ for a period of six (6) months from the date of termination of the prior employment.
+ (3)
+ Unless he or she obtains a waiver pursuant to Subsection 
+2.02.090
+(d), no employee shall appoint or hire a member of his or her immediate family for
+ any type of employment, including, but not limited to, full-time employment, part-time
+ employment, permanent employment, temporary employment and contract employment.
+ (4)
+ Unless he or she obtains a waiver pursuant to Subsection 
+2.02.090
+(d), no employee shall supervise or be in a direct line of supervision over a member
+ of his or her immediate family. If an employee comes into a direct line of supervision
+ of a member of his or her immediate family, he or she shall have six (6) months to
+ come into compliance or to obtain a waiver pursuant to Subsection 
+2.02.090
+(d).
+ (b)
+Permanent disqualification of former employees.
+ There shall be a rebuttable presumption that former employees have a conflict of
+ interest when knowingly acting as a principal or as an agent for anyone other than
+ the City, in connection with any judicial or other proceeding, application, request
+ for ruling or other determination, contract, claim or charge or controversy, in which
+ the employee participated personally or substantially in any direct official action,
+ where the City is a party or has a direct or substantial interest. Accordingly, unless
+ the procedures set forth at Subsection 
+2.02.090
+(c) below are properly followed, such former employees shall be permanently disqualified
+ from acting as a principal or as an agent for another on said matters.
+ (c)
+Six-month disqualification of former employees.
+ There shall be a rebuttable presumption that former employees have a conflict of
+ interest when knowingly acting as a principal or as an agent for anyone other than
+ the City, in connection with any judicial or other proceeding, application, request
+ for ruling or other determination, contract, claim or charge or controversy, in matters
+ which were generally within the former employee's official responsibility where the
+ City is a party or has a direct or substantial interest. Accordingly, unless the procedures
+ set forth at Subsection 
+2.02.090
+(c) below are properly followed, such former employees shall be disqualified from
+ acting as a principal or as an agent for another on said matters for a period of six
+ (6) months following the former employee's employment with the City.
+ (d)
+Six-month disqualification of City Council members for employment.
+ City Council members shall be disqualified from employment with the City for a period
+ of six (6) months from the last day of the term of their elected position without
+ the consent of the City Council.
+ (
+Ord. No. 19-2003
+, § 1)
+
+===== Sec. 2.02.090. - Opinions and waiver.
+(a)
+Advisory opinions.
+ On written request of current, former or prospective City Council members, City officials
+ or employees, the City Attorney may render advisory opinions regarding the appropriateness
+ of the course of conduct to be followed in any proposed direct official actions or
+ transactions. If a significant controversy arises under any provision of this Chapter,
+ the City Attorney may appoint a neutral outside counsel to assist in resolving the
+ issue. Compliance with the requirements of a duly promulgated written advisory opinion
+ of the City Attorney shall be deemed to constitute compliance with the ethical standards
+ of this Chapter.
+ (b)
+Waiver of conflict of interest for procurements.
+ Employees presumed to have a conflict of interest and therefore disqualified from
+ taking any direct official action in the procurement process set forth as Subsection
+2.02.060
+(c) may petition the City Manager in writing for relief from disqualification. The
+ City Manager may waive the former employee's disqualification upon a finding that
+ to do so is in the best interests of the City and may condition the waiver to ensure
+ that conflicts of interests are avoided.
+ (c)
+Waiver of disqualification for former employees.
+ Former employees presumed to have a conflict of interest and therefore disqualified
+ from acting as a principal or as an agent for anyone other than the City pursuant
+ to Subsections 
+2.02.070
+(b) and (c) above, may petition the City Manager in writing for relief from disqualification.
+ The City Manager may waive the former employee's disqualification upon a finding that
+ to do so is in the best interests of the City and may condition the waiver to ensure
+ that conflicts of interests are avoided.
+ (d)
+Waiver of disqualification of employment and supervision of immediate family members.
+ Immediate family members of current employees who might otherwise be disqualified
+ from employment in accordance with Paragraph 
+2.02.070
+(a)(3) or disqualified for certain positions by virtue of Paragraph 
+2.02.070
+(a)(4), may petition the City Manager in writing for a waiver. The City Manager shall
+ grant a waiver if he or she deems it to be in the best interests of the City to do
+ so and may condition the waiver to ensure that conflicts of interests are avoided.
+ By way of example and not limitation, the following are examples of circumstances
+ in which a waiver may be appropriate:
+ (1)
+ The family member who is proposed to be hired was certified through a competitive
+ process conducted pursuant to law and the employee who would make the appointment
+ did not influence or affect the certification;
+ (2)
+ The employee who would officially make the appointment is acting ministerially and
+ did not participate in the selection of the immediate family member or attempt to
+ influence the person who did;
+ (3)
+ The immediate family member who would be in the line of supervision was already working
+ for the City before the employee came into the line of supervision and the employee
+ can and will abstain from participating in any personnel actions involving the immediate
+ family member.
+ (
+Ord. No. 19-2003
+, § 1)
+
+===== Sec. 2.02.100. - Political activities.
+(a)
+Fair Campaign Practices Act.
+ City Council members, City officials and employees shall not violate any provision
+ of the Colorado Fair Campaign Practices Act, Sections 1-45-101 et seq. or the City
+ Election Code, 
+Chapter 9.04
+ of this Code.
+ (b)
+Permitted political activities.
+ City Council members, City officials and employees may participate in the following
+ political activities on their own time:
+ (1)
+ Register and vote in any election;
+ (2)
+ As an individual, privately and publicly express an opinion on political subjects
+ and candidates;
+ (3)
+ Be a member of a political party and participate in its activities consistent with
+ this Section;
+ (4)
+ Sign a political nomination, initiative, referendum or recall petition as an individual;
+ (5)
+ Make a financial contribution to a political party, issue committee or candidate's
+ committee;
+ (6)
+ Be politically active in connection with any issue question or candidate;
+ (7)
+ Display bumper stickers, posters or pamphlets on his or her personal property for
+ the endorsement of issues or candidates;
+ (8)
+ Take an active part in the management of political campaigns;
+ (9)
+ Directly or indirectly solicit, receive or account for funds for a partisan political
+ purpose except as prohibited by this Section;
+ (10)
+ Solicit votes in support of or in opposition to, a an issue or candidate;
+ (11)
+ Serve as a delegate, alternate or proxy to a political party convention;
+ (12)
+ Drive voters to the polls on behalf of a political party or partisan candidate; and
+ (13)
+ Endorse or oppose a partisan candidate for public office or political party office
+ in a political advertisement, broadcast, campaign literature or similar material;
+ and
+ (14)
+ In addition to the above listed activities, City Council members may use their official
+ titles and make reference to their connection with the City in political advertisements,
+ endorsements or speeches.
+ (c)
+Prohibited political activities.
+ The following political activities are prohibited for City employees:
+ (1)
+ No employee may use any official authority or influence for the purpose of interfering
+ with or affecting the result of an election, nor may funds be solicited or contributions
+ be received from other employees for political purposes;
+ (2)
+ Bumper stickers and posters may be displayed on private vehicles and property, but
+ campaign materials, pamphlets and buttons may not be displayed on City vehicles, City
+ property or by an employee while on a work site or performing his or her official
+ duties;
+ (3)
+ Activities prohibited for an individual employee are also prohibited for groups or
+ organizations of employees, even though specific activities are being performed by
+ a nonemployee as a representative of the employee group;
+ (4)
+ Activities permitted in Subsection (b) of this Section are prohibited when an employee
+ is on duty; they are also prohibited on City property and when an employee is wearing
+ a uniform normally identified with the City; and
+ (5)
+ In local issues, an employee shall not use an official City title or designate employment
+ with the City in political advertisements, endorsements or speeches, without the express
+ consent of the City Council.
+ (d)
+Political candidacy of City employees.
+ The following shall apply when City employees seek elected office:
+ (1)
+ A City employee may seek election to political office. If elected to political office
+ and such office is clearly inconsistent, incompatible, in conflict with his or her
+ duties as a City employee or the elected office is that of City Council member or
+ County Commissioner, the employee shall terminate City employment prior to assuming
+ elected office;
+ (2)
+ An employee may be a candidate for a board such as, but not limited to, a school board
+ and if elected, may retain his or her City position. However, if such office is clearly
+ inconsistent, incompatible or in conflict with his or her duties as a City employee,
+ the employee shall terminate City employment prior to assuming the elected position.
+ (
+Ord. No. 19-2003
+, § 1)
+
+===== Sec. 2.02.110. - Quasi-judicial proceedings.
+City Council members, City officials and employees, required as part of their duties
+ to take direct official action that involves a quasi-judicial proceeding shall:
+ (a)
+ Follow the voluntary disclosure procedures set forth at 
+Section 2.02.050
+, if he or she has a financial or personal interest in any quasi-judicial proceeding;
+ (b)
+ Attempt as reasonably possible to remain impartial and make final decisions only after
+ a full and open hearing based on evidence presented at a hearing;
+ (c)
+ Avoid as reasonably possible communications outside the hearing or public meeting
+ process on pending matters and disclose all information regarding the pending matter
+ that he or she may have received from sources outside the public decision-making process;
+ (d)
+ Avoid as reasonably possible taking any public position or stance on a pending matter
+ until all of the evidence has been presented and he or she is required to take a direct
+ official action on the pending matter;
+ (e)
+ Avoid as reasonably possible any conduct through words or conduct that would lead
+ a reasonably prudent person to believe that he or she has prejudged the pending matter
+ until such time as he or she is required to take a direct official action on the matter;
+ (f)
+ Endeavor to prevent personal feelings about an applicant or an application from entering
+ into the decision making process; and, if personal bias reaches a level where he or
+ she cannot make an impartial decision based on facts in the record, follow the voluntary
+ disclosure procedures set forth at 
+Section 2.02.050
+; and
+ (g)
+ If in doubt, seek advice from the City Attorney's office on whether a particular proceeding
+ is a quasi-judicial proceeding.
+ (
+Ord. No. 19-2003
+, § 1)
+
+===== Sec. 2.02.120. - Uniform enforcement of City regulations.
+(a)
+Purpose of rules.
+ The City is charged with the enforcement of numerous state and municipal laws and
+ regulations designed and intended to protect and enhance the public health, safety
+ and welfare. Such regulations entail, for example, building and zoning codes, environmental
+ and health codes, business licensing regulations and regulations governing the use
+ of public rights-of-way and other public property. In order to promote consistency,
+ predictability and fairness relevant to code enforcement activities, the following
+ rules of ethical conduct relating to code enforcement have been devised to guide code
+ enforcement personnel (excepting Aspen Police Department and Parking Enforcement personnel)
+ in the execution of their enforcement duties and responsibilities. Because the nature
+ and necessity of code enforcement is often dependent upon the particular facts associated
+ with any given situation or event, as well as the availability and extent of enforcement
+ resources, flexibility and sound judgment should always be foremost in the execution
+ of code enforcement activities. Consistent therewith, the following policies are not
+ intended to mandate hard and fast rules to be applied in all circumstances at all
+ times, nor should they be interpreted or applied in a manner that would conflict with
+ preexisting ordinances or other regulatory measures. Rather, the policies are to act
+ as guidelines in assisting enforcement personnel toward a fair and consistent application
+ of municipal regulations.
+ (b)
+Training.
+ All code enforcement personnel shall be properly trained to carry out their assigned
+ duties and, when legally required, take an oath or affirmation as administered by
+ the City Clerk to faithfully perform such duties and to uphold and enforce the regulations
+ ordinances and laws of the City and State.
+ (c)
+Progressive enforcement.
+ Code enforcement personnel shall normally utilize a progressive method of code enforcement
+ in exercising their enforcement duties. Except when circumstances warrant more immediate
+ or forceful action, code or regulatory violations shall be addressed as follows:
+ (1)
+ Whenever reasonably possible, direct personal contact shall be made by the enforcement
+ officer with the violator and/or his or her representative. If personal contact cannot
+ reasonably be accomplished, then written notification of the violation in the form
+ specified below shall be left with an appropriate person or posted at a conspicuous
+ location appropriate to the violation.
+ (2)
+ Unless more forceful action is warranted, an initial violation shall be subject to
+ a verbal warning to the violator and a request for correction within a time certain,
+ generally no longer than ten (10) days, although a longer or shorter time period may
+ be necessary depending upon the relevant circumstances and the severity of the violation.
+ The enforcement officer involved should always document the nature of the violation,
+ the specifics of the verbal warning provided the violator and the corrective action
+ ordered.
+ (3)
+ Upon a failure or refusal to correct a violation after a verbal warning, a violator
+ shall be subject to a written notice of violation, a correction notice and/or a stop
+ work order. Such written notice or order shall specify the facts illustrating the
+ violation, reference the specific ordinance or regulation implicated by the violation,
+ specify the corrective action necessary and the time period within which such corrective
+ action must be completed or undertaken and specify the name and telephone number of
+ the enforcement officer who can be contacted in regard to the violation. The written
+ notice or order shall be delivered to the violator or his or her representative or
+ employee or when such delivery cannot be reasonably accomplished, the notice or order
+ shall be posted in a conspicuous location appropriate to the violation.
+ (4)
+ Upon a failure or refusal to correct a violation or comply with a written notice of
+ violation, correction notice or stop work order, the violator shall be subject to
+ the issuance of a summons and complaint commencing a Municipal Court prosecution for
+ the violation. The determination to initiate a Municipal Court action by the issuance
+ of a summons and complaint shall rest primarily within the reasonable discretion of
+ the enforcement officer. Department heads charged with the supervision of code enforcement
+ personnel may reserve to themselves final discretionary authority over the issuance
+ or nonissuance of a summons and complaint by their subordinates. Enforcement personnel
+ should consult with the City Attorney's office prior to the issuance of a summons
+ and complaint. Likewise, enforcement personnel should confer with the Aspen Police
+ Department regarding appropriate assistance to ensure against possible breaches of
+ the peace in effectuating proper service of any summons and complaint. Once a summons
+ and complaint has been docketed with the Municipal Court, the City Attorney's office,
+ in consultation with the enforcement officer, shall assume primary responsibility
+ and discretion as to how the violation shall be resolved, i.e., plea negotiation,
+ trial or dismissal.
+ (5)
+ In addition to the issuance of a summons and complaint, enforcement personnel may
+ consult with the City Attorney's office regarding the initiation of an injunctive
+ or declaratory relief action in Civil Court to secure compliance with ordinances or
+ regulations or to restrain and enjoin ongoing or continual ordinance or regulatory
+ violations.
+ (d)
+Inspections.
+ Whenever necessary to make an inspection to enforce any ordinance or regulation or
+ whenever a code enforcement officer has reasonable cause to believe that there exists
+ in or upon any premises a code violation, such officer may approach and enter upon
+ or into such premises in an unforced manner at all reasonable times to inspect such
+ premises or perform any duty imposed upon the enforcement officer by state or local
+ law or regulation, by first presenting his or her credentials and requesting access
+ or entry. If the subject premises are unoccupied, the enforcement officer shall make
+ a reasonable effort to locate the owner or other appropriate person having control
+ or charge of the premises and request entry or access. If entry or access is refused,
+ the enforcement officer shall leave the subject premises and consult with the City
+ Attorney concerning the necessity of obtaining a search warrant. All questions or
+ doubts concerning the propriety of any inspection or investigation to be conducted
+ on private property shall be resolved in favor of delaying such inspection or investigation
+ until after full consultation with the City Attorney.
+ (e)
+Response to complaints.
+ Code enforcement personnel shall respond to a complaint or information concerning
+ an alleged code violation within a reasonable period of time taking into consideration
+ available resources and current caseload. Normally, a response should be rendered
+ within ten (10) days from receipt of a complaint. Response time will vary depending
+ on the nature of the alleged violation or the frequency of same. Enforcement personnel
+ shall document all response activity and shall be brought to resolution or closure
+ within a reasonable time period. No complaint or enforcement action shall be left
+ open or unresolved.
+ (f)
+Discretionary powers.
+ In accordance with 
+Section 1.04.140
+ of this Code, whenever any law or regulation vests in an enforcement officer authority
+ to direct, approve or permit any act, such authority shall encompass only such discretion
+ as to determine whether the law or regulation is applicable and whether it has been
+ complied with. No ordinance, law or regulation shall be construed to vest in an enforcement
+ officer discretion to waive, alter or evade any requirements or standard as contained
+ therein, nor shall any ordinance, law or regulation be construed to give an enforcement
+ officer the power or authority to require conditions or compliance with standards
+ not prescribed by such ordinance, law or regulation.
+ (
+Ord. No. 19-2003
+, § 1)
+
+===== Sec. 2.02.130. - Violation, removal and enforcement.
+(a)
+ No person shall willfully violate the requirements of this Chapter.
+ (b)
+ The City Council may remove any City official who willfully violates any provision
+ of this Chapter.
+ (c)
+ The City Manager may promulgate personnel policies and procedures not inconsistent
+ with the provisions of this Chapter to regulate the conduct of employees and establish
+ disciplinary remedies for violations of any provisions of this Chapter. Civil and
+ administrative remedies against employees which are in existence on the effective
+ date of the ordinance codified herein shall not be impaired.
+ (d)
+ If a contract, transaction or procurement is consummated contrary to any provision
+ of this Chapter, the City Council may void the contract, transaction or procurement.
+ (e)
+ Any person affected by a City transaction may commence a civil action in the District
+ Court in and for the County for equitable relief to enforce the provisions of this
+ Chapter upon a showing of willful violation of any provision of this Chapter. Before
+ filing such an action, the person shall present a claim to the City Council and give
+ the City Council an opportunity to act thereon.
+ (f)
+ The City Attorney may commence a civil action in the District Court in and for the
+ County for equitable relief to enforce the provisions of this Chapter or to recover
+ anything of value from an employee or third party, upon a showing of willful violation
+ of any provision of this Chapter.
+ (
+Ord. No. 19-2003
+, § 1)
+
+===== Chapter 2.04. -         GENERAL PROVISIONS        
+Footnotes: 
+ --- (
+1
+) ---
+Charter reference— 
+ Authority of City to have and use a common seal, § 1.2; City Council generally, § 3.1 et seq.; Mayor, § 3.3; Mayor pro tem, § 3.7; City Manager generally, § 6.1 et seq.; acting City Manager, § 6.2; City Clerk generally, § 6.6; City Attorney generally, § 7.1.
+State Constitution reference—
+ Powers and authority for home rule cities, Art. XX, Sec. 6.
+Cross reference— 
+ Application of Code by City officers or employees, § 1.04.140; Chief Building Official; appointment and removel, § 8.04.020 et seq.; Board of Appeals and Examiners, § 8.08.010 et seq.; Elections, Title 9; Licenses and Permits Generally, § 14.04.010 et seq.; Municipal Court, Title 17; Municipal Judges, § 17.04.040; Chief of Police, § 19.04.030 et seq.; Department of Streets and Alleys, § 21.08.010 et seq.; Street Superintendent Generally, § 21.08.030 et seq.; Taxation, Title 23; Electricity, § 25.04.010 et seq.; Decision Making Administrative Bodies Governing Land Use Regulations, Title 26.
+
+===== Sec. 2.04.010. - City map generally.
+(a)
+ The map entitled "Official Map of the City of Aspen, Pitkin County, State of Colorado"
+ as prepared by the engineer for the City and approved by the City Council as amended
+ and on file in the office of the City Engineer shall be and is hereby accepted as
+ the official map of the City.
+ (b)
+ All streets and alleys as the same appear upon such map shall be and are hereby dedicated
+ to the public except such streets and alleys as have been vacated by ordinance or
+ resolution of the City Council.
+ (c)
+ Such map, the field plats and identifying information shall be available for use of
+ the general public.
+ (Code 1962, § 1-2-3; Ord. No. 35-1968; Code 1971, § 2-1)
+
+===== Sec. 2.04.020. - Fiscal year.
+The commencement of the fiscal year of the City shall be the first day of January.
+ The calendar year is hereby fixed as the fiscal year of the City.
+ (Code 1962, § 1-4-1; Code 1971, § 2-2)
+
+===== Sec. 2.04.030. - Open meetings; executive sessions; notice; minutes.
+(a)
+ For purposes of this Section:
+ (1)
+Local public body
+ means the City Council, any board, committee, commission, authority or other advisory,
+ policy-making, rule-making or formally constituted body of the City and any public
+ or private entity to which the City or any official thereof, has delegated a governmental
+ decision making function but not including persons on the staff of the local public
+ body.
+ (2)
+Meeting
+ means any kind of gathering, convened to discuss public business, in person, by telephone
+ or by other means of communication. It does not apply to any chance meeting or social
+ gathering at which discussion of public business is not the central purpose.
+ (b)
+ All meetings of a quorum or three (3) or more members of any local public body, whichever
+ is fewer, at which any public business is discussed or at which any formal action
+ may be taken are declared to be public meetings open to the public at all times.
+ (c)
+ Any meetings at which the adoption of any proposed policy, position, resolution, rule,
+ regulation or formal action occurs or at which a majority or quorum of the local public
+ body is in attendance or is expected to be in attendance, shall be held only after
+ full and timely notice to the public. Notices of meetings shall include the time,
+ place and agenda and shall be sent to the media. In case of an emergency, notice shall
+ be as long as is reasonable under the circumstances. In addition to any other means
+ of notice, full and timely notice shall be deemed to have been given if the notice
+ of the meeting is posted in a designated public place within the boundaries of City
+ hall no less than twenty-four (24) hours prior to the holding of the meeting. The
+ public place or places for posting of such notice shall be designated annually at
+ the City Council's first regular meeting of each calendar year. Special meetings of
+ the City Council shall be called by the City Clerk on the written request of the Mayor
+ or of any two (2) members of the Council, served personally or left at his or her
+ usual place of residence; a special meeting, however, may be held on shorter notice
+ if all members of the Council are present or have waived notice thereof in writing.
+ (d)
+ Minutes of any meeting of a local public body at which the adoption of any proposed
+ policy, position, resolution, rule, regulation or formal action occurs or could occur
+ shall be taken and promptly recorded and such records shall be open to public inspection.
+ The minutes of a meeting during which an executive session authorized under Subsection
+ (e) below is held shall reflect the general topic of the discussion at the executive
+ session.
+ (e)
+ The member of a local public body subject to this Section, upon the affirmative vote
+ of two-thirds (⅔) of the quorum present, may hold an executive session only at a regular
+ or special meeting and for the sole purpose of considering any of the following matters;
+ except that no adoption of any proposed policy, position, resolution, rule, regulation
+ or formal action shall occur at any executive session which is not open to the public:
+ (1)
+ The purchase, acquisition, lease, transfer or sale of any real, personal or other
+ property interest; except that no executive session shall be held for the purpose
+ of concealing the fact that a member of the local public body has a personal interest
+ in such purchase, acquisition, lease, transfer or sale;
+ (2)
+ Conferences with an attorney for the local public body for the purposes of receiving
+ legal advice on specific legal questions. Mere presence or participation of an attorney
+ at an executive session of the local public body is not sufficient to satisfy the
+ requirements of this Subsection;
+ (3)
+ Matters required to be kept confidential by federal or state law or rules and regulations;
+ (4)
+ Specialized details of security arrangements or investigations;
+ (5)
+ Determining positions relative to matters that may be subject to negotiations; developing
+ strategy for negotiations; and instructing negotiators;
+ (6)
+ Personnel matters; except if the employee who is the subject of the session has requested
+ an open meeting or if the personnel matter involves more than one (1) employee, all
+ of the employees have requested an open meeting;
+ (7)
+ Consideration of any documents protected by the mandatory nondisclosure provisions
+ of C.R.S. part 2 of art. 72 of tit. 24, commonly known as the "Open Records Act."
+ (f)
+ Prior to the time the members of a local public body convene in executive session,
+ the Mayor or Chair of the body shall announce the general topic of the executive session
+ as enumerated in Subsection (e) above.
+ (g)
+ The City Clerk or the City Clerk's designee shall make a tape recording of any executive
+ session held by a local public body and prepare summary minutes of the discussion.
+ Such recording and minutes shall be closed to the public, except that the City Clerk
+ may release same pursuant to a valid court order challenging the legitimacy of an
+ executive session or other valid order of a court of competent jurisdiction.
+ (h)
+ Attendance at executive sessions shall be limited to members of the local public body,
+ appointed staff and such persons as the local public body may feel necessary for advice
+ and information.
+ (Code 1971, § 2-3;
+Ord. No. 56-1985
+, § 1; 
+Ord. No. 6-1995,
+ § 1)
+
+===== Chapter 2.08. - DISPOSITION OF UNCLAIMED PROPERTY
+
+
+===== Sec. 2.08.010. - Purpose.
+The purpose of this Chapter is to provide for the identification, administration,
+ reporting, and disposition of unclaimed property which is in the possession of or
+ under the control of the City, in accordance with the Colorado Revised Uniform Unclaimed
+ Property Act (C.R.S. 38-13-101 et seq.) and any rules promulgated thereunder by the
+ Colorado Treasurer.
+ (Code 1971, § 2-18; 
+Ord. No. 47-1992
+, § 1; Ord. No. 
+14-2025
+, § 1, 12-2-2025)
+
+===== Sec. 2.08.020. - Definitions.
+Unless otherwise required by the context or use, words and terms shall be defined
+ as follows:
+Finance Director
+ means the Finance Director of the City or his or her designee.
+Owner
+ means a person or entity, including a corporation, partnership, association, governmental
+ entity other than the City or a duly authorized legal representative or successor
+ in interest of same, which owns unclaimed property held by the City.
+Unclaimed property
+ means any tangible or intangible property, including any income or increment derived
+ therefrom, less any lawful charges, that is held by or under the control of the City
+ and which has not been claimed by its owner for a period of one (1) year after it
+ became payable or distributable. Unclaimed property shall not mean "lost and confiscated
+ property" as defined at Subsection 
+15.04.510
+(a) or vehicles impounded in accordance with 
+Title 24
+ of the Municipal Code.
+ (Code 1971, § 2-19; 
+Ord. No. 47-1992,
+ § 1; Ord. No. 
+14-2025
+, § 2, 12-2-2025)
+
+===== Sec. 2.08.030. - Procedure for disposition of property.
+(a)
+ Prior to disposition of any unclaimed property having an estimated value of twenty-five
+ ($25.00) or more, the Finance Director shall send a written notice by certified mail,
+ return receipt requested, to the last known address, if any, of any owner of unclaimed
+ property. The last known address of the owner shall be the last address of the owner
+ as shown by the records of the department within the City holding the property. The
+ notice shall include a description of the property, the amount or estimated value
+ of the property and, when available, the purpose for which the property was deposited
+ or otherwise held. The notice shall state where the owner may make inquiry of or claim
+ the property. The notice shall also state that if the owner fails to provide the Finance
+ Director with a written claim for the return of the property within sixty (60) days
+ of the date of the notice, the property will be reported and remitted to the Colorado
+ State Treasurer's Office on or before November 1 of each year, covering property assumed
+ abandoned as of the preceding June 30, in accordance with the Colorado Revised Uniform
+ Unclaimed Property Act, C.R.S. 38-13-101 et seq.
+ (b)
+ If the Finance Director receives a written claim within the 60-day claim period, the
+ City Manager shall evaluate the claim and give written notice to the claimant within
+ ninety (90) days thereof that the claim has been accepted or denied in whole or in
+ part. The Finance Director may investigate the validity of a claim and may request
+ further supporting documentation from the claimant prior to disbursing or refusing
+ to disburse the property.
+ (c)
+ In the event that there is more than one (1) claimant for the same property, the Finance
+ Director may resolve said claims or may resolve such claims by depositing the disputed
+ property with the registry of the district court in an interpleader action.
+ (d)
+ In the event that all claims filed are denied, the property will be reported and remitted
+ to the Colorado State Treasurer's Office in accordance with the Colorado Revised Uniform
+ Unclaimed Property Act, C.R.S. 38-13-101 et seq.
+ (e)
+ Any legal action filed challenging a decision of the Finance Director shall be filed
+ pursuant to Rule 106 of the Colorado Rules of Civil Procedure within thirty (30) days
+ of such decision or shall be forever barred. If any legal action is timely filed,
+ the property shall be disbursed by the City Manager pursuant to the order of the court
+ having jurisdiction over such claim.
+ (f)
+ The Finance Director is authorized to establish and administer procedures for the
+ administration and disposition of unclaimed property consistent with this Chapter,
+ including compliance requirements for other municipal officers and employees in the
+ identification and disposition of such property.
+ (Code 1971, § 2-20; 
+Ord. No. 47-1992
+, § 1; Ord. No. 
+14-2025
+, § 3, 12-2-2025)
+Editor's note— 
+ This Section was misnumbered 2-19 in Ord. 47-1992 as passed and is renumbered [as]
+ former § 2-20 in the 1971 Code.
+
+===== Chapter 2.12. - MISCELLANEOUS FEE SCHEDULES
+
+
+===== Sec. 2.12.010. - Aspen Municipal Golf Course.
+| 
+Early Season
+ | 
+Regular Season
+ | 
+Greens Fees/Passes
+ | 
+ Platinum
+ | 
+ $3,500.00
+ | 
+ $3,500.00
+ | 
+ Gold
+ | 
+ $2,500.00
+ | 
+ $2,500.00
+ | 
+ Silver
+ | 
+ $1,700.00
+ | 
+ $1,700.00
+ | 
+ Junior
+ | 
+ $300.00
+ | 
+ $300.00
+ | 
+ Senior Greens Fee — 9 Hole
+ | 
+ N/A
+ | 
+ $70.00
+ | 
+ Senior Greens Fee — Primary Resident (Must Show ID)
+ | 
+ N/A
+ | 
+ $105.00
+ | 
+ Military Rate (Must Show Proper ID)
+ | 
+ N/A
+ | 
+ $125.00
+ | 
+ Green Fee — Max Rate
+ | 
+ N/A
+ | 
+ $250.00
+ | 
+ Green Fee — Junior
+ | 
+ N/A
+ | 
+ $60.00
+ | 
+ Green Fee — Guest of Member
+ | 
+ N/A
+ | 
+ $125.00
+ | 
+ Tournament/Group Booking Rate (per person)
+ | 
+ N/A
+ | 
+ $350.00
+ | 
+Cart and Club Rentals
+ | 
+ Golf Cart — 18 Holes
+ | 
+ N/A
+ | 
+ $20.00
+ | 
+ Golf Cart — 9 Holes
+ | 
+ N/A
+ | 
+ $16.00
+ | 
+ Pull Cart — 18 Holes
+ | 
+ N/A
+ | 
+ $20.00
+ | 
+ Pull Cart — 9 Holes
+ | 
+ N/A
+ | 
+ $16.00
+ | 
+ Rental Clubs — 18 Holes
+ | 
+ N/A
+ | 
+ $80.00
+ | 
+ Rental Clubs — 9 Holes
+ | 
+ N/A
+ | 
+ $60.00
+ | 
+Lockers and Range
+ | 
+ Locker for Season
+ | 
+ N/A
+ | 
+ $450.00
+ | 
+ Range Large Bucket
+ | 
+ N/A
+ | 
+ $12.00
+ | 
+ Range Small Bucket
+ | 
+ N/A
+ | 
+ $9.00
+ | 
+ Unlimited Range Pass
+ | 
+ N/A
+ | 
+ $400.00
+ | 
+ Refund Service Fee
+ | 
+ N/A
+ | 
+ $100.00
+ | 
+ Late Cancellation/No Show Fee
+ | 
+ N/A
+ | 
+ $55.00
+ | 
+ (Code 1971, § 2-33; Ord. No. 44-1991, § 12; Ord. No. 77-1992, § 16; Ord. No. 68-1994,
+ § 5; Ord. No. 53-1995, § 2; Ord. No. 43-1996, § 1; Ord. No. 49-1998, § 1; Ord. No.
+ 45-1999, § 1; Ord. No. 57-2000, § 1; Ord. No. 5-2002 § 1; Ord. No. 47-2002 § 18; Ord.
+ No. 63-2003, § 8; Ord. No. 2-2004, § 1; Ord. No. 38-2004, § 10; Ord. No. 49-2005,
+ § 12; Ord. No. 48, 2006, § 1; Ord. No. 52-2007; Ord. No. 29-2010, § 12; Ord. No. 33-2011,
+ § 1; Ord. No. 29-2012; Ord. No. 48-2013; Ord. No. 36-2014; Ord. No. 43-2015; Ord.
+ No. 36-2016; Ord. No. 30-2017; 
+Ord. No. 40-2018
+; Ord. No. 
+32-2019
+, 11-26-2019; Ord. No. 
+20-2020
+, 11-24-2020; Ord. No. 
+22-2021
+, 11-23-2021; Ord. No. 
+19-2022
+, 11-29-2022; Ord. No. 
+22-2023
+, 11-28-2023; Ord. No. 
+17-2024
+, 11-19-2024; Ord. No. 
+11-2025
+, 11-18-2025; Ord. No. 
+18-2025
+, 1-13-2026)
+
+===== Sec. 2.12.014 - Recreation Department fun pass.
+The Recreation Department shall issue Fun Passes that provides access to the holder
+ of such a pass to the following facilities and activities: use of the James E. Moore
+ Pool, public or open skating at the Lewis Ice Arena or Aspen Ice Garden, use of the
+ climbing wall at the Red Brick Recreation Center, fitness classes held at the Red
+ Brick Recreation Center, aquatic fitness classes at the Aspen Recreation Center, tennis
+ court rental and usage at the Aspen Tennis Center. Usage, participation and access
+ to the above activities may be limited to certain times and dates as indicated on
+ the pass.
+ | 
+Minimum Cost
+Recovery
+ | 
+Max Fee
+ | 
+Daily Admission
+ | 
+  Youth/Senior — Primary Resident (81611)
+ | 
+ 50%
+ | 
+ $14.00
+ | 
+  Youth/Senior — Guest
+ | 
+ 75%
+ | 
+ $32.00
+ | 
+  Adult — Primary Resident (81611)
+ | 
+ 50%
+ | 
+ $16.00
+ | 
+  Adult — Guest
+ | 
+ 75%
+ | 
+ $35.00
+ | 
+Memberships
+ | 
+  Youth/Senior — 1-month
+ | 
+ 30%
+ | 
+ $92.00
+ | 
+  Youth/Senior — 3-month
+ | 
+ 30%
+ | 
+ $207.00
+ | 
+  Youth/Senior — 6-month
+ | 
+ 30%
+ | 
+ $406.00
+ | 
+  Youth/Senior — 12-month
+ | 
+ 30%
+ | 
+ $679.00
+ | 
+  Youth/Senior — 20 Punch Pass
+ | 
+ 30%
+ | 
+ $249.00
+ | 
+  Adult — 1-month
+ | 
+ 30%
+ | 
+ $158.00
+ | 
+  Adult — 3-month
+ | 
+ 30%
+ | 
+ $367.00
+ | 
+  Adult — 6-month
+ | 
+ 30%
+ | 
+ $497.00
+ | 
+  Adult — 12-month
+ | 
+ 30%
+ | 
+ $874.00
+ | 
+  Adult — 20 Punch Pass
+ | 
+ 30%
+ | 
+ $300.00
+ | 
+  Family — 1-month
+ | 
+ 30%
+ | 
+ $301.00
+ | 
+  Family — 3-month
+ | 
+ 30%
+ | 
+ $583.00
+ | 
+  Family — 6-month
+ | 
+ 30%
+ | 
+ $1,044.00
+ | 
+  Family — 12-month
+ | 
+ 30%
+ | 
+ $1,711.00
+ | 
+Corporate Punch Passes
+ | 
+  Non-Profit (100 Punches)
+ | 
+ 30%
+ | 
+ $1,404.00
+ | 
+  For Profit (100 Punches)
+ | 
+ 30%
+ | 
+ $3,240.00
+ | 
+  For Profit (500 Punches)
+ | 
+ 30%
+ | 
+ $10,273.00
+ | 
+ (Ord. No. 27-2003, § 2; Ord. No. 38-2004, § 14; Ord. No. 49-2005, § 3; Ord. No. 48,
+ 2006, § 2; Ord. No. 52-2007; Ord. No. 40-2008; Ord. No. 27-2009, § 1; Ord. No. 29-2010,
+ § 1; Ord. No. 29-2012; Ord. No. 48-2013; Ord. No. 36-2014; Ord. No. 43-2015; Ord.
+ No. 36-2016; Ord. No. 30-2017; 
+Ord. No. 40-2018
+; Ord. No. 
+32-2019
+, 11-26-2019; Ord. No. 
+20-2020
+, 11-24-2020; Ord. No. 
+22-2021
+, 11-23-2021; Ord. No. 
+19-2022
+, 11-29-2022; Ord. No. 
+22-2023
+, 11-28-2023; Ord. No. 
+17-2024
+, 11-19-2024; Ord. No. 
+11-2025
+, 11-18-2025; Ord. No. 
+18-2025
+, 1-13-2026)
+
+===== Sec. 2.12.015. - Aspen Recreation Center.
+| 
+Non-Profit
+ | 
+For Profit
+ | 
+Aspen Recreation Center (ARC) Facility Rental Fees
+ | 
+  ARC Meeting Room — per hour
+ | 
+ $36.00
+ | 
+ $97.00
+ | 
+  ARC Full Facility Rental — per day
+ | 
+ $16,200.00
+ | 
+ $21,600.00
+ | 
+  Tennis/Pickleball One Court Rental — per hour
+ | 
+ $39.00
+ | 
+ $43.00
+ | 
+  ARC Pavilion Rental — per hour
+ | 
+ $36.00
+ | 
+ $97.00
+ | 
+ (Ord. No. 27-2003, § 1; Ord. No. 63-2003, § 9; Ord. No. 38-2004, § 13; Ord. No. 49-2005,
+ § 4; Ord. No. 48, 2006, § 3; Ord. No. 40-2008; Ord. No. 27-2009, § 2; Ord. No. 29-2010,
+ § 2; Ord. No. 29-2012; Ord. No. 48-2013; Ord. No. 36-2014; Ord. No. 43-2015; Ord.
+ No. 36-2016; Ord. No. 30-2017; 
+Ord. No. 40-2018
+; Ord. No. 
+32-2019
+, 11-26-2019; Ord. No. 
+20-2020
+, 11-24-2020; Ord. No. 
+22-2021
+, 11-23-2021; Ord. No. 
+19-2022
+, 11-29-2022; Ord. No. 
+22-2023
+, 11-28-2023; Ord. No. 
+17-2024
+, 11-19-2024; Ord. No. 
+11-2025
+, 11-18-2025; Ord. No. 
+18-2025
+, 1-13-2026)
+
+===== Sec. 2.12.020. - Aspen Ice Garden and Lewis Ice Arena.
+| 
+Non-Profit
+ | 
+For Profit
+ | 
+Ice Facility Rental
+ | 
+  Ice — Facility Rental — per hour
+ | 
+ $322.00
+ | 
+ $436.00
+ | 
+  Ice — Facility Rental — per day
+ | 
+ $6,804.00
+ | 
+ $8,640.00
+ | 
+ (Code 1971, § 2-34; Ord. No. 44-1991, § 12; Ord. No. 77-1992, § 16; Ord. No. 67-1993,
+ § 6; Ord. No. 68-1994, § 6; Ord. No. 53-1995, § 3; Ord. No. 43-1996, § 2; Ord. No.
+ 49-1998, § 2; Ord. No. 45-1999, § 2; Ord. No. 57-2000 § 2; Ord. No. 47-2002 § 16;
+ Ord. No. 27-2003; Ord. No. 63-2003, § 10; Ord. No. 2-2004, § 2; Ord. No. 38-2004,
+ § 2; Ord. No. 49-2005, § 7; Ord. No. 48, 2006, § 4; Ord. No. 52-2007; Ord. No. 27-2009,
+ § 3; Ord. No. 29-2010, § 3; Ord. No. 33-2011, § 2; Ord. No. 29-2012; Ord. No. 48-2013;
+ Ord. No. 36-2014; Ord. No. 43-2015; Ord. No. 36-2016; Ord. No. 30-2017; 
+Ord. No. 40-2018
+; Ord. No. 
+32-2019
+, 11-26-2019; Ord. No. 
+20-2020
+, 11-24-2020; Ord. No. 
+22-2021
+, 11-23-2021; Ord. No. 
+19-2022
+, 11-29-2022; Ord. No. 
+22-2023
+, 11-28-2023; Ord. No. 
+17-2024
+, 11-19-2024; Ord. No. 
+11-2025
+, 11-18-2025; Ord. No. 
+18-2025
+, 1-13-2026)
+
+===== Sec. 2.12.030. - James E. Moore Pool.
+| 
+Non-Profit
+ | 
+For Profit
+ | 
+Rentals
+ | 
+  Aquatic Facility Rental — per hour
+ | 
+ $322.00
+ | 
+ $436.00
+ | 
+  Aquatic Facility Rental — per lane per hour
+ | 
+ $17.00
+ | 
+ $29.00
+ | 
+  Aquatic Facility Rental — per day
+ | 
+ $6,804.00
+ | 
+ $8,640.00
+ | 
+ (Code 1971, § 2-35; Ord. No. 44-1991, § 12; Ord. No. 77-1992, § 16; Ord. No. 53-1995,
+ § 4 [part]; Ord. No. 43-1996, § 3; Ord. No. 49-1998, § 3; Ord. No. 45-1999, § 3; Ord.
+ No. 47-2002 § 17; Ord. No. 63-2003, § 11; Ord. No. 38-2004, § 15; Ord. No. 49-2005
+ § 5; Ord. No. 48, 2006, § 5; Ord. No. 40-2008; Ord No. 27-2009, § 4; Ord. No. 29-2010,
+ § 4; Ord. No. 29-2012; Ord. No. 48-2013; Ord. No. 36-2014; Ord. No. 43-2015; Ord.
+ No. 36-2016; Ord. No. 30-2017; 
+Ord. No. 40-2018
+; Ord. No. 
+32-2019
+, 11-26-2019; Ord. No. 
+20-2020
+, 11-24-2020; Ord. No. 
+22-2021
+, 11-23-2021; Ord. No. 
+19-2022
+, 11-29-2022; Ord. No. 
+22-2023
+, 11-28-2023; Ord. No. 
+17-2024
+, 11-19-2024; Ord. No. 
+11-2025
+, 11-18-2025; Ord. No. 
+18-2025
+, 1-13-2026)
+
+===== Sec. 2.12.040. - Miscellaneous Leisure and Recreation Fees.
+| 
+Minimum Cost
+Recovery
+ | 
+Max Fee
+ | 
+Youth Ice Programming
+ | 
+  Youth Group Lessons — per session
+ | 
+ 30%
+ | 
+ $54.00
+ | 
+  Private Lessons — per 1/2 hour
+ | 
+ 30%
+ | 
+ $72.00
+ | 
+  Multiple Session Pass
+ | 
+ 30%
+ | 
+ $972.00
+ | 
+Youth Swim Lessons
+ | 
+  Youth Group Lessons — per session
+ | 
+ 20%
+ | 
+ $52.00
+ | 
+  Private Lessons — per 1/2 hour
+ | 
+ 20%
+ | 
+ $71.00
+ | 
+Youth Programming
+ | 
+  Tier I: Drop In Fee
+ | 
+ 30%
+ | 
+ $27.00
+ | 
+  Tier II: Under 6 years per sport per season (t-ball, kinder basketball)
+ | 
+ 30%
+ | 
+ $82.00
+ | 
+  Tier III: In-house sports leagues/lessons (soccer, spring basketball)
+ | 
+ 30%
+ | 
+ $131.00
+ | 
+  Tier IV: Traveling leagues (baseball, winter basketball)
+ | 
+ 30%
+ | 
+ $199.00
+ | 
+  Youth classes (dance, karate, climbing)
+ | 
+ 30%
+ | 
+ $94.00
+ | 
+  Afterschool Camp — Daily Rate
+ | 
+ 5%
+ | 
+ $22.00
+ | 
+  Day Camp — Daily Rate
+ | 
+ 5%
+ | 
+ $68.00
+ | 
+  Specialty Programs — per day
+ | 
+ 50%
+ | 
+ $152.00
+ | 
+  Specialty Programs — per week
+ | 
+ 50%
+ | 
+ $967.00
+ | 
+Adult Programming — Individual
+ | 
+  Tier I: Drop In Fee
+ | 
+ 75%
+ | 
+ $27.00
+ | 
+  Tier II: Personal Instruction
+ | 
+ 75%
+ | 
+ $216.00
+ | 
+  Tier III: Multiple Session Pass
+ | 
+ 75%
+ | 
+ $972.00
+ | 
+  Adult classes (CPR, Lifeguard Training)
+ | 
+ 30%
+ | 
+ $361.00
+ | 
+Adult Sports — Team
+ | 
+  Tier I: Individual Registrant Fee
+ | 
+ 75%
+ | 
+ $415.00
+ | 
+  Tier II: Full Team Registration Fee
+ | 
+ 75%
+ | 
+ $1,260.00
+ | 
+Other Fees
+ | 
+  Ball Machine Rental — per hour
+ | 
+ 75%
+ | 
+ $36.00
+ | 
+  Birthday Party Bounce House — per hour
+ | 
+ 75%
+ | 
+ $108.00
+ | 
+  Locker Rental: 6-month & annual
+ | 
+ 75%
+ | 
+ $194.00
+ | 
+  Services: (skate sharping, towel/skate rental, etc.)
+ | 
+ 75%
+ | 
+ $22.00
+ | 
+  Merchandise (swimsuits, tape, goggles, etc.)
+ | 
+ 75%
+ | 
+ $54.00
+ | 
+ | 
+Non-Profit
+ | 
+For Profit
+ | 
+  Red Brick Gym Facility Rental — per hour
+ | 
+ $59.00
+ | 
+ $97.00
+ | 
+ (Code 1971, § 2-36; Ord. No. 44-1991, § 12; Ord. No. 77-1992, § 16; Ord. No. 68-1994,
+ § 7; Ord. No. 53-1995, § 4 [part]; Ord. No. 43-1996, § 4; Ord. No. 49-1998, § 4; Ord.
+ No. 45-1999, § 4; Ord. No. 57-2000, § 3; Ord. No. 47-2002, § 15; Ord. No. 63-2003,
+ § 12; Ord. No. 38-2004, § 12; Ord. No. 49-2005, § 6; Ord. No. 48, 2006, § 6; Ord.
+ 52-2007; Ord. No. 40-2008; Ord. No. 27-2009, § 2; Ord. No. 29-2010, § 5; Ord. No.
+ 29-2012; Ord. No. 48-2013; Ord. No. 36-2014; Ord. No. 43-2015; Ord. No. 36-2016; Ord.
+ No. 30-2017; 
+Ord. No. 40-2018
+; Ord. No. 
+32-2019
+, 11-26-2019; Ord. No. 
+20-2020
+, 11-24-2020; Ord. No. 
+22-2021
+, 11-23-2021; Ord. No. 
+19-2022
+, 11-29-2022; Ord. No. 
+22-2023
+, 11-28-2023; Ord. No. 
+17-2024
+, 11-19-2024; Ord. No. 
+11-2025
+, 11-18-2025; Ord. No. 
+18-2025
+, 1-13-2026)
+
+===== Sec. 2.12.043. - Red Brick Center for the Arts Fees.
+Program Fees
+ | 
+  Adult Class — up to 2 hours
+ *
+ | 
+ $62.00
+ | 
+  Adult Class — 2 hours to 4 hours
+ *
+ | 
+ $102.00
+ | 
+  Adult Class — full day rate
+ *
+ | 
+ $203.00
+ | 
+  Youth — Art Camp (1 week)
+ | 
+ $385.00
+ | 
+  Gallery Commission (% of gross sales)
+ | 
+ 40%
+ | 
+  Youth Art Class — up to 2 hours
+ *
+ | 
+ $43.00
+ | 
+  Youth Art Class — 2 hours to 4 hours
+ *
+ | 
+ $87.00
+ | 
+  Youth Art Class — full day rate*
+ | 
+ $131.00
+ | 
+  Private Adult Art Class — for an individual, up to 2 hours
+ | 
+ $328.00
+ | 
+  Private Adult Art Class — for a group of 2—4 people, up to 2 hours
+ | 
+ $438.00
+ | 
+  Private Adult Art Class — for a group over 5 people, up to 2 hours, per person
+ | 
+ $88.00
+ | 
+  Private Youth Art Class — for a group up to 8 children, up to 2 hours
+ | 
+ $327.00
+ | 
+  Private Youth Art Class — for a group of 9 children or more, up to 2 hours
+ | 
+ $437.00
+ | 
+ *
+Rate for different classes may vary based on supply costs.
+ | 
+Facility Fees
+ | 
+  Tenant Rent (per square foot)
+ | 
+ $2.24
+ | 
+  Parking Permit
+ | 
+ $118.00
+ | 
+  Room Rental (per hour)
+ | 
+ $29.00
+ | 
+ (
+Ord. No. 40-2018
+; Ord. No. 
+32-2019
+, 11-26-2019; Ord. No. 
+20-2020
+, 11-24-2020; Ord. No. 
+22-2021
+, 11-23-2021; Ord. No. 
+19-2022
+, 11-29-2022; Ord. No. 
+22-2023
+, 11-28-2023; Ord. No. 
+17-2024
+, 11-19-2024; Ord. No. 
+11-2025
+, 11-18-2025; Ord. No. 
+18-2025
+, 1-13-2026)
+
+===== Sec. 2.12.045. - Wheeler Opera House.
+| 
+For Profit
+ | 
+Non-Profit
+ | 
+All Rates Below Include Rehearsals and Performances
+ | 
+  Public Event Day Rate: Mon—Thurs (up to 2 events per day)
+ | 
+ $963.00
+ | 
+ $539.00
+ | 
+  Public Event Day Rate: Fri—Sun (up to 2 events per day)
+ | 
+ $1,062.00
+ | 
+ $594.00
+ | 
+  Tech/Rehearsal Rate: Mon—Thurs
+ | 
+ $754.00
+ | 
+ $429.00
+ | 
+  Tech/Rehearsal Rate: Fri—Sun
+ | 
+ $1,062.00
+ | 
+ $594.00
+ | 
+  Weekly Rate: Mon—Fri (5-day maximum)
+ | 
+ $3,850.00
+ | 
+ $2,156.00
+ | 
+  Private Event Day Rate
+ | 
+ $5,500.00
+ | 
+ $1,073.00
+ | 
+  The Vault Lobby Only (hourly, maximum 4 hours)
+ | 
+ $220.00
+ | 
+ $110.00
+ | 
+  Parcel Rental (approval required at contracting)
+ | 
+ $500.00
+ | 
+ $300.00
+ | 
+Labor Rates — Per Hour/4-Hour Minimum per person
+ | 
+  Production Manager
+ | 
+ $44.00
+ | 
+  Audio and Lighting Supervisors
+ | 
+ $44.00
+ | 
+  Theatre Technicians
+ | 
+ $33.00
+ | 
+  House Management Staff
+ | 
+ $33.00
+ | 
+  Box Office Staff Onsite
+ | 
+ $34.00
+ | 
+  Box Office Staff Offsite
+ | 
+ $44.00
+ | 
+Other Labor — Per Hour
+ | 
+  Custodial Services Technician
+ | 
+ $41.00
+ | 
+  Catering Coordination
+ | 
+ $44.00
+ | 
+  Foodservice Cleaning Rate
+ | 
+ $83.00
+ | 
+  Security
+ | 
+ Market Rate
+ | 
+Equipment and Instrument Rental
+ | 
+  9' Concert Grand Steinway Day Rate (prior approval required)
+ | 
+ $255.00
+ | 
+  Piano Tuning
+ | 
+ $250.00
+ | 
+  Drum Kit Rental Day Rate
+ | 
+ $200.00
+ | 
+  Video Media Rental Day Rate (Projector/Screen/DCP)
+ | 
+ $200.00
+ | 
+  Video Media Rental Weekly Rate (5 consecutive days)
+ | 
+ $500.00
+ | 
+Video Recording Services
+ | 
+  Basic Package: 1 fixed PTZ camera, audio feed from the house console, No post-production
+ editing
+ | 
+ $250.00
+ | 
+  Mid-Tier Package: 3 PTZ cameras, 1 camera operator, Audio feed from the house console,
+ No post-production editing
+ | 
+ $500.00
+ | 
+  Top-Tier Package: 3 PTZ cameras, 1 crowd-reaction camera, 1 broadcast camera, 2 camera
+ operators, Audio feed from the house console, No post-production editing
+ | 
+ $1,500.00
+ | 
+Merchandise — User Provides Seller
+ | 
+  Commission
+ | 
+ 20%
+ | 
+ 0%
+ | 
+Music Licensing Fee on Total Gross Sales
+ | 
+  For events exceeding $25,000.00 total gross sales
+ | 
+ 1%
+ | 
+ 1%
+ | 
+Marketing and Publicity
+ | 
+  Window Vinyl Printing and Installation (prior approval
+ required)
+ | 
+ $250.00
+ | 
+Box Office Fees
+ | 
+All tickets sold exclusive through Aspen Show Tix at the Wheeler
+ | 
+  Sales Commission
+ | 
+ 6%
+ | 
+ 0%
+ | 
+  Credit Card Processing Fee
+ | 
+ 3%
+ | 
+ 3%
+ | 
+Box Office Set-Up
+ | 
+  Single Event Set-Up
+ | 
+ $200.00
+ | 
+ $100.00
+ | 
+  Multiple Events Set-Up, 5—9 events
+ | 
+ $
+ 800.00
+ | 
+ $400.00
+ | 
+  Additional Event Set-Up, over 9 events
+ | 
+ $150.00
+ | 
+ $150.00
+ | 
+  Client Ticket Charge, Comps, Pass Bar Codes, and Consignment Tickets (per ticket
+ over 25)
+ | 
+ $0.50
+ | 
+ $0.50
+ | 
+  Patrons will be charged a non-refundable $3.50 per ticket handling charge
+ | 
+ *In order to qualify for non-profit rates, organization must be a registered Roaring
+ Fork Valley non-profit organization or qualifying performing artist. City Manager
+ has discretion to waive or reduce fees in instances for community benefit.
+ (Ord. No. 68-1994, § 8; Ord. No. 53-1995 § 5; Ord. No. 45-1999, § 5; Ord. No. 49-1998,
+ § 5; Ord. No. 57-2000, § 4; Ord. No. 12-2003, § 1; Ord. No. 63-2003, § 13; Ord. No.
+ 38-2004, § 11; Ord. No. 48, 2006, § 7; Ord. No. 40-2008; Ord. No. 27-2009, § 6; Ord.
+ No. 29-2010 § 6; Ord. No. 29-2012; Ord. No. 48-2013; Ord. No. 36-2014; Ord. No. 43-2015;
+ Ord. No. 36-2016; Ord. No. 30-2017; 
+Ord. No. 40-2018
+; Ord. No. 
+32-2019
+, 11-26-2019; Ord. No. 
+20-2020
+, 11-24-2020; Ord. No. 
+22-2021
+, 11-23-2021; Ord. No. 
+19-2022
+, 11-29-2022; Ord. No. 
+22-2023
+, 11-28-2023; Ord. No. 
+17-2024
+, 11-19-2024; Ord. No. 
+11-2025
+, 11-18-2025; Ord. No. 
+18-2025
+, 1-13-2026)
+
+===== Sec. 2.12.050. - Aspen Police Department fees.
+Law Enforcement Records
+ | 
+  Accident Reports — In Person
+ | 
+ $10.00
+ | 
+  Case Reports
+ | 
+ $10.00
+ | 
+Per Copied Page
+ | 
+ $0.25
+ | 
+Arrest History/Background Checks
+ | 
+  Arrest History/Background Checks
+ | 
+ $10.00
+ | 
+Per Copied Page
+ | 
+ $0.25
+ | 
+  Criminal History Report Per Name Search (5 names per person)
+ | 
+ $25.00
+ | 
+Extensive Records Search Per Hour
+ | 
+ $35.00
+ | 
+  Communications Logging/Hour
+ | 
+ $35.00
+ | 
+Per Audio CD
+ | 
+ $27.00
+ | 
+  Case Report/Accident Photos/CD
+ | 
+ $20.00
+ | 
+Records Research/Additional Hour
+ | 
+ $35.00
+ | 
+  Body Worn Camera (BWC) Video Per Case
+ | 
+ $27.00
+ | 
+BWC Records Research/Additional Hour
+ | 
+ $35.00
+ | 
+Aspen Police Department
+ | 
+  Alarm User Permit
+ | 
+ $150.00
+ | 
+  First False Alarm/Year
+ | 
+ $150.00
+ | 
+  Second False Alarm/Year
+ | 
+ $250.00
+ | 
+  Third and Fourth False Alarm/Year
+ | 
+ $400.00
+ | 
+  All Bank Alarms
+ | 
+ $400.00
+ | 
+  Late Fees
+ | 
+ $15.00
+ | 
+  Vehicle Inspection
+ | 
+ $20.00
+ | 
+  Certified VIN Inspection
+ | 
+ $45.00
+ | 
+  Off-Duty Security/Officer/Hour
+ | 
+ $100.00
+ | 
+  Notary Fees
+ | 
+ $10.00
+ | 
+Dog Vaccination and License Fees
+ | 
+  Annual Dog Tag Fees
+ | 
+ $20.00
+ | 
+  Spayed/Neutered Dog Tag Fee
+ | 
+ $10.00
+ | 
+  Senior Citizen/Active Service Dog Tag Fee
+ | 
+ Free
+ | 
+  Replacement Tag
+ | 
+ $4.00
+ | 
+ (Code 1971, § 2-38; Ord. No. 77-1992, § 17; Ord. No. 68-1994, §§ 9—11; Ord. No. 53-1995,
+ §§ 6—10; Ord. No. 43-1996, §§ 5—7; Ord. No. 49-1998, §§ 6—8; Ord. No. 45-1999, §§
+ 6—9, 20; Ord. No. 57-2000, §§ 5, 12; Ord. No. 47-2002, § 2; Ord No. 63-2003, § 2;
+ Ord. 2-2004, § 3; Ord. 38-2004, § 1; Ord. No. 49-2005, § 1; Ord. No. 48, 2006, § 8;
+ Ord. No. 40-2008; Ord. No. 27-2009, § 7; Ord. No. 29-2010, § 7; Ord. No. 33-2011;
+ Ord. No. 29-2012; Ord. No. 48-2013; Ord. No. 36-2014; Ord. No. 43-2015; Ord. No. 36-2016;
+ Ord. No. 30-2017; 
+Ord. No. 40-2018
+; Ord. No. 
+32-2019
+, 11-26-2019; Ord. No. 
+20-2020
+, 11-24-2020; Ord. No. 
+22-2021
+, 11-23-2021; Ord. No. 
+19-2022
+, 11-29-2022; Ord. No. 
+22-2023
+, 11-28-2023; Ord. No. 
+17-2024
+, 11-19-2024; Ord. No. 
+11-2025
+, 11-18-2025; Ord. No. 
+18-2025
+, 1-13-2026)
+
+===== Sec. 2.12.051. - Engineering Department fees.
+Encroachment Fees
+ | 
+  Encroachment License and Application
+ | 
+ $722.00
+ | 
+  Encroachment Fees (Minor Encroachment < 3 hours)
+ | 
+ $107.00
+ | 
+  Vacation Application ($325.00/hour for estimated 18 hours)
+ | 
+ $6,260.00
+ | 
+  Permanent Encroachment Fee (per permit)
+ | 
+ $1,000.00
+ | 
+  Permanent Encroachment for Earth Retention (per cuft/mo)
+ | 
+ $1.40
+ | 
+  By commercial operations not associated with construction, including contractors
+ and vendors (PSF/mo)
+ | 
+ $5.00
+ | 
+  Base cost within the core by commercial operations associated with construction,
+ including contractors and vendors (PSF/mo). Fees increase by 20% for first exception
+ granted, 30% increase for second exception granted, 40% increase for every exception
+ granted thereafter.
+ | 
+ $9.00
+ | 
+  Outside of the core by commercial operations associated with construction including
+ contractors and vendors (PSF/mo)
+ | 
+ $7.00
+ | 
+Right-of-Way Permits
+ | 
+  Solely Sidewalk and Pedestrian Improvements
+ | 
+ $749.00
+ | 
+  Service Lines and Telecom Utility Trenching — Asphalt Paving (may also include flatwork)
+ | 
+ $1,873.00
+ | 
+  Main Lines Utility Trenching — (may also include service lines and flatwork)
+ | 
+ $2,301.00
+ | 
+  Impacted ROW area greater than 5,000 SF (PSF)
+ | 
+ $1.61
+ | 
+  Critical Public Infrastructure — Submitted by Utility Provider and not associated
+ | 
+ $749.00
+ | 
+Landscape and Grading Permit
+ | 
+  Engineering Development Review Fee
+ | 
+ See fee schedule
+ | 
+  Construction Mitigation Review Fee (as applicable)
+ | 
+ See fee schedule
+ | 
+  Parks Development Review Fee (as applicable)
+ | 
+ See fee schedule
+ | 
+  Zoning Hourly Review Fee (as applicable)/hour
+ | 
+ $325.00
+ | 
+Construction and Demolition Debris Diversion Fees and Penalties
+ | 
+  Social Cost of Carbon for C&D Materials (per ton)
+ | 
+ $495.00
+ | 
+Flags and Banners
+ | 
+  Single-Side Banner Fee (per banner per week)
+ | 
+ $108.00
+ | 
+  Light Pole Flags Fee (per flag set per week)
+ | 
+ $900.00
+ | 
+Flags and Banners FEE WAIVERS
+ | 
+ Applications submitted for Flags and Banners by Government Agencies, Sister Cities,
+ as well as messages for Public Safety and Health are eligible to have Flags and Banner
+ fees waived.
+ | 
+ (Ord. No. 47-2002, § 3; Ord. No. 49-2005, § 13; Ord. No. 48, 2006, § 9; Ord. No. 52-2007;
+ Ord. No. 40-2008; Ord. No. 27-2009, § 8; Ord. No. 29-2010, § 8; Ord. No. 29-2012;
+ Ord. No. 48-2013; Ord. No. 36-2014; Ord. No. 43-2015; Ord. No. 36-2016; Ord. No. 30-2017;
+Ord. No. 40-2018
+; Ord. No. 
+32-2019
+, 11-26-2019; Ord. No. 
+20-2020
+, 11-24-2020; Ord. No. 
+22-2021
+, 11-23-2021; Ord. No. 
+19-2022
+, 11-29-2022; Ord. No. 
+22-2023
+, 11-28-2023; Ord. No. 
+17-2024
+, 11-19-2024; Ord. No. 
+21-2024
+, § 2, 1-14-2025; Ord. No. 
+11-2025
+, 11-18-2025; Ord. No. 
+18-2025
+, 1-13-2026; Ord. No. 
+03-2026
+, § 1, 3-10-2026)
+
+===== Sec. 2.12.052. - Environmental Health Department fees.
+Environmental Health Fees
+ | 
+  Event Plan Review
+ | 
+ $30.00
+ | 
+  Event Inspection Fee
+ | 
+ $70.00
+ | 
+  Swimming Pool Plan Review
+ | 
+ $79.00
+ | 
+  Restaurant Site Inspection
+ | 
+ $82.00
+ | 
+  Food Safety Training
+ | 
+ $82.00
+ | 
+  Large Childcare
+ | 
+ $100.00
+ | 
+  Small Childcare
+ | 
+ $50.00
+ | 
+  Plan review application
+ | 
+ $155.00
+ | 
+  Plan review and pre-operational inspection (not to exceed)
+ | 
+ $900.00
+ | 
+  HACCP plan review — written (not to exceed)
+ | 
+ $100.00
+ | 
+  HACCP plan review — on-site (not to exceed)
+ | 
+ $400.00
+ | 
+  Building Permit Review (per hour)
+ | 
+ $325.00
+ | 
+  Real estate review (not to exceed)
+ | 
+ $75.00
+ | 
+Food Service License
+ | 
+  Free (K—12 school, penal institution, non-profit serving food insecure populations)
+ | 
+ $0.00
+ | 
+  Limited food service (convenience, other)
+ | 
+ $338.00
+ | 
+  Restaurant 0—100 Seats
+ | 
+ $481.00
+ | 
+  Restaurant 101—200 Seats
+ | 
+ $538.00
+ | 
+  Restaurant Over 200 Seats
+ | 
+ $581.00
+ | 
+  Grocery store (0—15,000 square feet)
+ | 
+ $244.00
+ | 
+  Grocery store (> 15,000 square feet)
+ | 
+ $441.00
+ | 
+  Grocery store w/ deli (0—15,000 square feet)
+ | 
+ $469.00
+ | 
+  Grocery store w/ deli (> 15,000 square feet)
+ | 
+ $894.00
+ | 
+  Mobile Unit (full-service)
+ | 
+ $481.00
+ | 
+  Mobile Unit (pre-packaged)
+ | 
+ $338.00
+ | 
+  Special Event (full-service)
+ | 
+ $255.00
+ | 
+  Special Event (pre-packaged)
+ | 
+ $115.00
+ | 
+Enforcement Fees and Penalties
+ | 
+  Civil Penalty (4 consecutive or 4/5 inspections that don't "pass")
+ | 
+ $1,000.00
+ | 
+ (Ord. No. 47-2002, § 4; Ord. No. 63-2003, § 2; Ord. No. 38-2004, § 3; Ord. No. 49-2005,
+ § 2; Ord. No. 48, 2006, § 10; Ord. No. 40-2008; Ord. No. 15-2009; Ord. No. 27-2009,
+ § 9; Ord. No. 29-2010, § 9; Ord. 33-2011; Ord. No. 29-2012; Ord. No. 48-2013; Ord.
+ No. 36-2014; Ord. No. 43-2015; Ord. No. 36-2016; Ord. No. 30-2017; 
+Ord. No. 40-2018
+; Ord. No. 
+32-2019
+, 11-26-2019; Ord. No. 
+20-2020
+, 11-24-2020; Ord. No. 
+22-2021
+, 11-23-2021; Ord. No. 
+19-2022
+, 11-29-2022; Ord. No. 
+22-2023
+, 11-28-2023; Ord. No. 
+17-2024
+, 11-19-2024; Ord. No. 
+11-2025
+, 11-18-2025; Ord. No. 
+18-2025
+, 1-13-2026)
+
+===== Sec. 2.12.053. - Geographic Information system (GIS) department fees.
+GIS Fees
+ | 
+ | 
+ Preprinted Map Small (11" x 17" or smaller)
+ | 
+ $14.00
+ | 
+ Preprinted Map Large on Photo Paper (greater than 11" x 17")
+ | 
+ $100.00
+ | 
+ Large Format Plotting (greater than 11" x 17")
+ | 
+ $30.00
+ | 
+ Custom Mapping and Analysis or Misc. Services (per hour, min. 1 hr)
+ | 
+ $325.00
+ | 
+ (Ord. No. 47-2002, § 5; Ord. No. 63-2003, § 3; Ord. No. 48, 2006, § 11; Ord. No. 52-2007;
+ Ord. No. 27-2009, § 10; Ord. No. 29-2010, § 10; Ord. No. 33-2011; Ord. No. 29-2012;
+ Ord. No. 48-2013; Ord. No. 36-2014; Ord. No. 43-2015; Ord. No. 36-2016; Ord. No. 30-2017;
+Ord. No. 40-2018
+; Ord. No. 
+32-2019
+, 11-26-2019; Ord. No. 
+20-2020
+, 11-24-2020; Ord. No. 
+22-2021
+, 11-23-2021; Ord. No. 
+19-2022
+, 11-29-2022)
+
+===== Sec. 2.12.060. - Parking fees.
+Rio Grande Plaza Parking
+ | 
+  Hourly Rate
+ | 
+ $3.00
+ | 
+  Maximum Daily Fee
+ | 
+ $15.00
+ | 
+  Validation Stickers/Visit
+ | 
+ $7.00
+ | 
+  Lost Ticket Fee
+ | 
+ $25.00
+ | 
+  Special Events Pass/Day
+ | 
+ $7.00
+ | 
+Commercial Core Pay Parking (between 7:00 a.m. and 6:00 p.m.)
+ | 
+  Hourly Rates (10:00 a.m. to 11:00 a.m.) High Season
+ | 
+ $5.00
+ | 
+  Hourly Rates (11:00 a.m. to 3:00 p.m.) High Season
+ | 
+ $7.00
+ | 
+  Hourly Rates (3:00 p.m. to 6:00 p.m.) High Season
+ | 
+ $5.00
+ | 
+  Hourly Rates (10:00 a.m. to 11:00 a.m.) Low Season
+ | 
+ $3.00
+ | 
+  Hourly Rates (11:00 a.m. to 3:00 p.m.) Low Season
+ | 
+ $5.00
+ | 
+  Hourly Rates (3:00 p.m. to 6:00 p.m.) Low Season
+ | 
+ $3.00
+ | 
+  30 minutes
+ | 
+ Prorated from above
+ | 
+  Single Space Meters (per 15 minutes)
+ | 
+ $0.50
+ | 
+Residential Permit Parking
+ | 
+  Residential Day Pass
+ | 
+ $9.00
+ | 
+  Space Rental Fee/Day
+ | 
+ $20.00
+ | 
+  Each Permit for Residents (Up to 3) and Guest (One Only)
+ | 
+ $20.00
+ | 
+  Lodge Guest Permit (Per Day Permit)
+ | 
+ $1.00
+ | 
+  Business Vehicle Permit
+ | 
+ $125.00
+ | 
+  High Occupancy Vehicle Permit
+ | 
+ Free
+ | 
+  Electric Vehicle Charging Limit — Level 2
+ | 
+ 4 hours
+ | 
+  Electric Vehicle Charging Limit — Level 3
+ | 
+ 2 hours
+ | 
+  Electric Vehicle Charging — Level 2 Charger
+ | 
+ Up to $0.30 per kWH
+ | 
+  Electric Vehicle Charging — Level 3 Charger
+ | 
+ Up to $0.75 per kWH
+ | 
+  Electric Vehicle Daytime Overstay Fees — All EV Chargers/After Applicable Charging
+ Limit
+ | 
+ Up to $1.00/min
+ | 
+  Smart Loading Zone per 15 minutes
+ | 
+ $0.50
+ | 
+Miscellaneous Parking
+ | 
+  Service Vehicle
+ | 
+ 50% of parking rates
+ | 
+  Construction — Residential/Day
+ | 
+ $40.00
+ | 
+  Construction — Commercial/Day
+ | 
+ $100.00
+ | 
+  Expedited Construction Parking Reservation (< 72 hours notice)/Space
+ | 
+ $100.00
+ | 
+  Handicapped Parking
+ | 
+ Free
+ | 
+  Tow Truck Cancellation Fee
+ | 
+ $90.00
+ | 
+  Boot Fee
+ | 
+ $150.00
+ | 
+  Towing Fee (Tickets/Snow/Farmer's)
+ | 
+ $260.00
+ | 
+  Towing Fee (72-Hour/Abandoned)
+ | 
+ $300.00
+ | 
+  Ticket Late Fee
+ | 
+ $10.00
+ | 
+ 1 - The residential permit parking program restrictions shall be in effect from 8:00
+ a.m. until 5:00 p.m., Monday through Friday (official holidays exempted), unless otherwise
+ specified.
+ 2 - Neighborhood electric vehicles (NEV's) are defined as follows: A low-speed electric
+ vehicle which does not exceed speeds of 20—25 mph. The vehicle must have seat belts,
+ headlights, windshield wipers, safety glass, tail lamps, front and rear turn signals
+ and stop lamps. These vehicles must have a vehicle identification number (VIN) and
+ be state-licensed. NEV's are only permitted within the City limits and on roads that
+ have speed limits less than 40 mph.
+ 3 - High Season includes the months of Jan, Feb, Mar, Jun, Jul, Aug, Sep, and Dec.
+ Low Season includes Apr, May, Oct and Nov.
+ (Code 1971, § 2-39; Ord. No. 36-1994, § 1; Ord. No. 68-1994, § 12; Ord. No. 53-1995,
+ § 20; Ord. No. 43-1996, § 17; Ord. No. 49-1998, § 9; Ord. No. 45-1999, § 9; Ord. No.
+ 57-2000, § 5; Ord. No. 4-2002, § 1; Ord. No. 47-2002, § 19; Ord. No. 63-2003, § 15;
+ Ord. No. 49-2005, § 14; Ord. No. 39-2007; Ord. No. 33-2011; Ord. No. 29-2012; Ord.
+ No. 48-2013; Ord. No. 36-2014; Ord No. 43-2015; Ord. No. 36-2016; Ord. No. 30-2017;
+Ord. No. 40-2018
+; Ord. No. 
+32-2019
+, 11-26-2019; Ord. No. 
+20-2020
+, 11-24-2020; Ord. No. 
+22-2021
+, 11-23-2021; Ord. No. 
+19-2022
+, 11-29-2022; Ord. No. 
+22-2023
+, 11-28-2023; Ord. No. 
+17-2024
+, 11-19-2024; Ord. No. 
+11-2025
+, 11-18-2025; Ord. No. 
+18-2025
+, 1-13-2026)
+
+===== Sec. 2.12.070. - Liquor and marijuana license application fees.
+Liquor Licenses
+ | 
+  Beer Permit (3.2% by Volume)
+ | 
+ $10.00
+ | 
+  Special Event Permit
+ | 
+ $25.00
+ | 
+  New License
+ | 
+ $1,000.00
+ | 
+  Transfer of Location or License
+ | 
+ $750.00
+ | 
+  Hotel and Restaurant or Tavern including Modest — Renewal Fee
+ | 
+ $178.75
+ | 
+  Beer and Wine including Modest — Renewal Fee
+ | 
+ $152.50
+ | 
+  Retail Liquor Store or Drug Store — Renewal Fee
+ | 
+ $122.50
+ | 
+  Arts or Club-Renewal Fee
+ | 
+ $115.00
+ | 
+  3.2 Beer — Renewal Fee
+ | 
+ $103.75
+ | 
+  Optional Premises License
+ | 
+ $50.00
+ | 
+  Temporary Permit
+ | 
+ $100.00
+ | 
+  Late Renewal Application Fee
+ | 
+ $500.00
+ | 
+  Tastings Permit
+ | 
+ $100.00
+ | 
+Marijuana Licenses
+ | 
+  Medical or Retail Marijuana Center New License Fee
+ | 
+ $2,000.00
+ | 
+  Medical and Retail Marijuana Optional Premises Cultivation License
+ | 
+ $2,000.00
+ | 
+  Medical or Retail Marijuana Infused Products Manufacturers' License
+ | 
+ $2,000.00
+ | 
+  Medical Marijuana Center Applying for Retail Marijuana Store License
+ | 
+ $2,000.00
+ | 
+  Medical or Retail Marijuana Transfer of Ownership
+ | 
+ $750.00
+ | 
+  Medical or Retail Marijuana Change of Location
+ | 
+ $500.00
+ | 
+  Medical or Retail Marijuana Change of Corporation or LLC Structure
+ | 
+ $100.00
+ | 
+  Medical or Retail Marijuana Modification of Premises
+ | 
+ $100.00
+ | 
+  Renewal of Retail or Medical Marijuana License
+ | 
+ $1,000.00
+ | 
+ (Code 1971, § 2-40; Ord. No. 8-1994, § 4; Ord. No. 45-1999, § 10; Ord. No. 24-2004,
+ § 2; Ord. No. 29-2012; Ord. No. 48-2013; Ord. No. 36-2014; Ord. No. 43-2015; Ord.
+ No. 36-2016; Ord. No. 30-2017; 
+Ord. No. 40-2018
+; Ord. No. 
+32-2019
+, 11-26-2019; Ord. No. 
+20-2020
+, 11-24-2020; Ord. No. 
+22-2021
+, 11-23-2021; Ord. No. 
+19-2022
+, 11-29-2022; Ord. No. 
+22-2023
+, 11-28-2023; Ord. No. 
+17-2024
+, 11-19-2024; Ord. No. 
+11-2025
+, 11-18-2025; Ord. No. 
+18-2025
+, 1-13-2026)
+
+===== Sec. 2.12.080. - Parks Department fees.
+Parks Use and Special Event Fees
+ | 
+Administration Fee
+ | 
+   One-Time Park Rental
+ | 
+ $22.00
+ | 
+   Reoccuring Park Rental
+ | 
+ $90.00
+ | 
+   Special Event Permit
+ | 
+ $180.00
+ | 
+Park Rental Fee
+ | 
+   Base Rate (hourly)
+ | 
+ $32.00
+ | 
+   Athletic Field Prep (per athletic season)
+ | 
+ $100.00
+ | 
+   Add-On Fee: Additional Requested Athletic Paint or Prep Fee (per day)
+ | 
+ $45.00
+ | 
+   Add-On Fee: Commercial Fee (per day)
+ | 
+ $25.00
+ | 
+   Day Camp Use fee (annual)
+ | 
+ $100.00
+ | 
+Special Event Fee (per day)
+ | 
+   Daily Rate (per park, per day)
+ | 
+ $768.00
+ | 
+Commercial Rafting Put-in Fee (per season)
+ | 
+ $300.00
+ | 
+Paragliding Fees
+ | 
+   Landing Zone Fee (per year)
+ | 
+ $50.00
+ | 
+   Paragliding Commercial Landing Fee
+ | 
+ $2.00
+ | 
+Mall Space Leasing
+ | 
+  Price (PSF)
+ | 
+ $5.00
+ | 
+Filming
+ | 
+  3—10 People
+ | 
+ $155.00
+ | 
+  11—30 People: Still
+ | 
+ $255.00
+ | 
+  11—30 People: Video
+ | 
+ $360.00
+ | 
+  31—49 People: Still
+ | 
+ $360.00
+ | 
+  31—49 People: Video
+ | 
+ $460.00
+ | 
+  50 and Over People
+ | 
+ $870.00
+ | 
+Tree Fees
+ | 
+  Standalone Tree Removal Permit
+ | 
+ $150.00
+ | 
+And per tree
+ | 
+ $10.00
+ | 
+  Mitigation Fee
+ | 
+ $46.00
+ | 
+Parks Development Fees
+ | 
+  Encroachment Review
+ | 
+ $184.00
+ | 
+  Right-of-Way Review
+ | 
+ $210.00
+ | 
+  Landscaping/Grading Review (PSF of disturbance)
+ | 
+ $0.28
+ | 
+  Landscape/Resource Review (PSF of disturbance)
+ | 
+ $0.28
+ | 
+  Fence Permit Review
+ | 
+ $60.00
+ | 
+  Roofing Permit Review
+ | 
+ $100.00
+ | 
+ (Ord. No. 45-1999, § 11; Ord. No. 47-2002, § 6; Ord. No. 63-2003, § 14; Ord. No. 38-2004,
+ § 5; Ord. 52-2007; Ord. No. 33-2011; Ord. No. 29-2012; Ord. No. 48-2013; Ord. No.
+ 36-2014; Ord. No. 43-2015; Ord. No. 36-2016; Ord. No. 30-2017; 
+Ord. No. 40-2018
+; Ord. No. 
+32-2019
+, 11-26-2019; Ord. No. 
+20-2020
+, 11-24-2020; Ord. No. 
+22-2021
+, 11-23-2021; Ord. No. 
+19-2022
+, 11-29-2022; 
+Ord. No. 08-2023
+, § 2, 4-25-2023; Ord. No. 
+22-2023
+, 11-28-2023); Ord. No. 
+17-2024
+, 11-19-2024; Ord. No. 
+11-2025
+, 11-18-2025; Ord. No. 
+18-2025
+, 1-13-2026; Ord. No. 
+03-2026
+, § 1, 3-10-2026)
+
+===== Sec. 2.12.100. - Building and Planning.
+This Section of the Code sets forth building permit fees for the City Community Development
+ Department, and shall be applied to applications submitted on or after January 1,
+ 2026:
+BUILDING PERMIT FEES
+ | 
+  Total Valuation: $1.00 to $5,000.00
+ | 
+ $25.00
+ | 
+  Total Valuation: $5,001.00 to $50,000.00
+ | 
+ 50% of sum of $25.00 + 5.0% of permit valuation over $5,000.00
+ | 
+  Total Valuation: $50,001.00 to $100,000.00
+ | 
+ 75% of sum of $2,275.00 + 3.5% of permit valuation over $50,000.00
+ | 
+  Total Valuation: $100,001.00 to $250,000.00
+ | 
+ $4,025.00 + 2.5% of permit
+ valuation over $100,000.00
+ | 
+  Total Valuation: $250,001.00 to $500,000.00
+ | 
+ $7,775.00 + 2.0% of permit
+ valuation over $250,000.00
+ | 
+  Total Valuation: $500,001.00 to $1,000,000.00
+ | 
+ $12,775.00 + 1.75% of permit valuation over $500,000.00
+ | 
+  Total Valuation: $1,000,001.00 to $2,500,000.00
+ | 
+ $21,525.00 + 1.5% of permit valuation over $1,000,000.00
+ | 
+  Total Valuation: $2,500,001.00 to $5,000,000.00
+ | 
+ $44,025.00 + 1.25% of permit valuation over $2,500,000.00
+ | 
+  Total Valuation: Above $5,000,000.00
+ | 
+ $75,275.00 + 0.75% of permit valuation over $5,000,000.00 + 0.5% of permit valuation
+ over $10,000,000.00
+ | 
+  Building Permit Review Fee (per hour)
+ | 
+ $325.00
+ | 
+Fees Due Upon Permit Submittal
+ | 
+  Plan Check Fees (as percent of total building permit outlined above)
+ | 
+ 65%
+ | 
+  Energy Code Fee (as percent of total building permit outlined above)
+ | 
+ 15%
+ | 
+Fees Due Upon Permit Issuance
+ | 
+  Building Permit Fee (as percent of total building permit outlined above)
+ | 
+ 100%
+ | 
+  GIS Fee (applicable only if changing building footprint)
+ | 
+ $500.00
+ | 
+  Renewable Energy Mitigation Payment
+ | 
+ (see details below)
+ | 
+  Use Tax Deposit — City of Aspen
+ | 
+ 2.1% of value of materials for projects over $100,000.00
+ | 
+  Use Tax Deposit — Pitkin County
+ | 
+ 0.1% of value of materials
+ | 
+RENEWABLE ENERGY MITIGATION PAYMENT
+ | 
+Residential Exterior Energy Use
+ | 
+  Snowmelt — includes roof and gutter de-icing systems
+ | 
+ $34.00 per square foot divided by boiler efficiency (AFUE)
+ | 
+  Outdoor Pool
+ | 
+ $136.00 per square foot divided by boiler efficiency (AFUE)
+ | 
+  Spa — package or portable spas < 64 square feet are exempt
+ | 
+ $176.00 per square foot divided by boiler efficiency (AFUE)
+ | 
+Residential Onsite Renewable Credits (certain restrictions may apply)
+ | 
+  Photovoltaic Systems
+ | 
+ $6,250.00 per KWH
+ | 
+  Solar Hot Water Systems
+ | 
+ $125.00 per square foot
+ | 
+  Ground Source Heat Pumps
+ | 
+ $1,400.00 per 10,000 BTU per hour
+ | 
+Commercial Exterior Energy Use
+ | 
+  Snowmelt — includes roof and gutter de-icing systems
+ | 
+ $60.00 per square foot divided by boiler efficiency (AFUE)
+ | 
+  Outdoor Pool
+ | 
+ $170.00 per square foot divided by boiler efficiency (AFUE)
+ | 
+  Spa — package or portable spas < 64 square feet are exempt
+ | 
+ $176.00 per square foot divided by boiler efficiency (AFUE)
+ | 
+Commercial Onsite Renewable Credits (certain restrictions may apply)
+ | 
+  Photovoltaic Systems
+ | 
+ $6,250.00 per KWH
+ | 
+  Solar Hot Water Systems
+ | 
+ $224.65 per square foot
+ | 
+  Ground Source Heat Pumps
+ | 
+ $1,400.00 per 10,000 BTU per hour
+ | 
+CHANGE ORDER FEES
+ | 
+Applications for change orders shall cause a revision to the overall project valuation.
+ Fees for the previously submitted permit application shall not be refunded or credited
+ toward change order fees. Not all change orders will require additional fees in each
+ fee category. A change order fee applies each time a change order is submitted. A
+ change order may propose multiple changes, and applicants are encouraged to "bundle"
+ their change order requests to minimize fees.
+ | 
+Fees Due Upon Change Order Issuance
+ | 
+  Change Order Plan Check Fee — Engineering
+ | 
+ See Engineering Development, Construction Mitigation Plan, and Erosion Fees within
+ Section.
+ | 
+  Change Order Plan Check Fee — Parks
+ | 
+ See Parks Department Fees 
+Sec. 2.12.080
+ | 
+  Change Order Energy Code Review Fee — if applicable
+ | 
+ $325.00/hour
+ | 
+  Change Order Building Permit Fee (as a percentage of revised permit fee)
+ | 
+ 5%
+ | 
+PHASED PERMITTING FEES
+ | 
+Applications for Building Permits may be issued in ''phases" prior to the entire permit
+ being ready for issuance. For a permit to be issued in phases, all elements of that
+ phase must be reviewed and approved by the Building Department and applicable referral
+ agencies. A Phased Building Permit still requires complete submission of all required
+ documents and information for all phases at initial permit application submission.
+ Issuance of a permit in phases is at the discretion of the Chief Building Official.
+ Fees for phased permit issuance are in addition to fees due for issuance of a complete
+ building permit.
+ | 
+Fees Due at Issuance of Phase 1 Permit:
+ | 
+  Building Permit Review Phasing Fee
+ | 
+ 35% of Building Permit Fee
+ | 
+  Zoning Review Phasing Fee
+ | 
+ 10% of Zoning Review Fee
+ | 
+  Construction Mitigation Phasing Fee
+ | 
+ 50% of Construction Mitigation Fee
+ | 
+  Engineering Development Review Phasing Fee
+ | 
+ 10% of Engineering Fee
+ | 
+  Parks Phasing Fee
+ | 
+ 10% of Parks Review Fee
+ | 
+SPECIAL SERVICES FEES
+ | 
+  Inspection Fee Outside of Normal Business Hours (per hour, minimum 2 hours)
+ | 
+ $325.00/hour
+ | 
+  Re-inspection Fee (per inspection)
+ | 
+ $325.00/hour
+ | 
+  Special Inspections Fee for Unspecified Inspection Type (per hour, minimum 1 hour)
+ | 
+ $325.00/hour
+ | 
+  Building Permit Extension Fee — per Occurrence
+ | 
+ 7.5% of Building Fee Permit ($5,000.00 maximum
+ per extension)
+ | 
+REPAIR FEES
+ | 
+  Permit Fee
+ | 
+ $25.00
+ | 
+  Plan Review Fee
+ | 
+ $325.00/hour
+ | 
+  Zoning Review Fee
+ | 
+ $325.00/hour
+ | 
+  Construction Mitigation Review Fee
+ | 
+ See Construction Mitigation Fees within Section
+ | 
+  Engineering Review
+ | 
+ 10% of Engineering
+ Review Fee
+ | 
+  Parks Review Fee
+ | 
+ See Parks Department Fees 
+Sec. 2.12.080
+ | 
+RE-ROOFING AND ROOFING FEE
+ | 
+  Permit Fee
+ | 
+ $25.00
+ | 
+  Plan Review Fee
+ | 
+ $25.00/100 square feet of roofing
+ | 
+  Zoning Review Fee
+ | 
+ $325.00/hour
+ | 
+  Construction Mitigation Review Fee
+ | 
+ See Construction Mitigation Fees within Section
+ | 
+  Parks Review
+ | 
+ See Parks Department Fees 
+Sec. 2.12.080
+ | 
+INTERIOR FINISH AND FIXTURE REMOVAL FEE
+ | 
+  Permit Fee
+ | 
+ $25.00 (minimum)
+ | 
+  Plan Review Fee
+ | 
+ $325.00/hour (1 hour minimum)
+ | 
+  Construction Mitigation Fee
+ | 
+ See Construction Mitigation Fees within Section
+ | 
+TEMPORARY STRUCTURE
+ | 
+  Permit Fee
+ | 
+ $25.00
+ | 
+  Plan Review Fee
+ | 
+ $325.00/hour (1 hour minimum)
+ | 
+  Parks Review Fee
+ | 
+ See Parks Department Fees 
+Sec. 2.12.080
+ | 
+  Fire Department Review Fee
+ | 
+ $100.00
+ | 
+CERTIFICATE OF OCCUPANCY
+ | 
+  Permanent Certificate
+ | 
+ Included in Building Permit Fee
+ | 
+  Temporary Certificate per Occurrence (maximum $5,000.00 each)
+ | 
+ 7.5% of Building Permit Fee
+ | 
+ENFORCEMENT FEES AND PENALTIES
+ | 
+Projects that had a Land Use review cannot submit for a building permit until all
+ invoices related to the Land Use review have been paid in full. Additional penalties,
+ pursuant to Municipal Code 
+Section 26.104.070
+, Land Use Application Fees, also may be applicable.
+ | 
+For violations of the adopted building codes other than a stop work order or correction
+ notice, the Chief Building Official may issue a Municipal Court citation. Fees, fines,
+ and penalties by citation for violations of the Building Code shall be established
+ by the Municipal Court Judge according to the scope and duration of the offense. Penalties
+ may include: revocation of Contractor License(s); prohibition of any work on the property
+ for a period of time; recovery of costs to the public for any required remediation
+ of the site; additional Building Permit Review Fees; fees to recover administrative
+ costs required by City staff to address the violation; and, other fees, fines, and
+ penalties or assessments as assigned by the Municipal Court Judge.
+ | 
+No Certificate of Occupancy shall be issued until all fees have been paid in full.
+ Violations of this policy are subject to fines.
+ | 
+  Stop Work Order or Correction Notice — 1st Infraction
+ | 
+ 2 Times Permit Valuation Fee
+ | 
+  Stop Work Order or Correction Notice — 2nd Infraction
+ | 
+ 4 Times Permit Valuation Fee
+ | 
+  Stop Work Order or Correction Notice — 3rd Infraction
+ (license subject to suspension or revocation)
+ | 
+ 8 Times Permit Valuation Fee
+ | 
+COMMUNITY PURPOSE DISCOUNT PROGRAMS
+ | 
+The Chief Building Official may from time to time implement lower fees to encourage
+ certain types of building improvements as directed by the City Council or City Manager.
+ Example programs may include energy efficiency improvements, accessibility improvements
+ and the like. Special fees shall not exceed those otherwise required.
+ | 
+Notwithstanding the building permit fee schedule, City Council may authorize a reduction
+ or waiver of building permit fees, engineering review fees, or construction mitigation
+ fees as deemed appropriate. The Community Development Director shall waive building
+ permit fees for General Fund Departments of the City of Aspen consistent with City
+ policy.
+ | 
+The Community Development Director may reduce building permit review fees by no more
+ than 50% for projects with a fee significantly disproportionate to the service requirements.
+ The City may not waive or reduce fees collected on behalf of a separate government
+ agency. The City may not reduce or waive a tax.
+ | 
+FEE WAIVERS FOR NON-PROFIT ORGANIZATIONS
+ | 
+Applications submitted for Building Permits by non-profit organizations (as determined
+ by their 501(c)3 status and those organizations that do not have a tax base) are eligible
+ to have planning/building permit fees waived
+based on the following schedule:
+ | 
+ Building Plan Check, Energy Code, Permit Fees, Engineering, Parks and Utilities Review
+ Fees:
+ | 
+  Project Valuation < = $5,000.00
+ | 
+ 100% Fee Waiver
+ | 
+  Project Valuation > $5,000.00
+ | 
+ 50% Fee Waiver of Fees for Project Valuations between $5,000.00 and $250,000.00
+ | 
+Fee waivers shall not exceed a combined value of $15,000.00 for a single project per
+ 12 consecutive month period. All other applicable utilities fees are not subject to
+ this waiver, including but not limited to: Investment charge, connection permit, tap
+ fees, hook-up charges, service fees, and electric extension costs.
+ | 
+FEE WAIVERS FOR AFFORDABLE HOUSING PROJECTS
+ | 
+Applications submitted for new projects that are 100% affordable housing are eligible
+ for a 100% fee waiver for Building, Engineering, Parks, and Zoning; Construction Mitigation
+ Plan Review; Aspen Energy Code Payment; Building Permit Fee; and GIS Fee; excluding
+ fees levied by jurisdictions other than the City of Aspen. This fee waiver shall be
+ limited to new projects, and does not apply to existing individual affordable housing
+ units that may be seeking a remodel, expansion, etc.
+ | 
+SMALL LODGE PROGRAM
+ | 
+Applications for Building Permits for Small Lodges, as defined in Ordinance 15, Series
+ 2015, are eligible for reduced building permit review fees based on the following
+ schedule. To be eligible for the discount, all lodges must enter into an agreement
+ with the City stating that the property will remain a lodge for a minimum number of
+ years, and that if the use changes during that time period, the property shall owe
+ the City 100% of the building permit fees. The reductions shall apply to Plan Check,
+ Energy Code, Zoning Review, Engineering Review, CMP, and Building Permit fees.
+ | 
+Category of Work
+ | 
+% of Building Permit Fee Charged
+ | 
+Length of City Agreement
+ | 
+  Minor interior upgrade (e.g., paint, carpet, light fixtures)
+ | 
+ 25%
+ | 
+ 5 years
+ | 
+  Minor exterior upgrade (e.g., new windows, new paint/exterior materials)
+ | 
+ 25%
+ | 
+ 5 years
+ | 
+  Major interior upgrade A (e.g., remodel units, including bathrooms)
+ | 
+ 50%
+ | 
+ 10 years
+ | 
+  Major interior upgrade B (e.g., remodel common areas and any kitchen/food service
+ facilities)
+ | 
+ 50%
+ | 
+ 10 years
+ | 
+  Redevelopment or Major Expansion
+ | 
+ 75%
+ | 
+ 20 years
+ | 
+EXPIRED or CANCELLED PERMITS and REFUNDS
+ | 
+Plan Check fees are not refundable for expired or cancelled permits. Impact mitigation
+ fees for un-built projects (construction not started) shall be refunded 100%. Building
+ permit and impact fees for partially constructed projects are not refundable. Expired
+ or cancelled permits are not renewable. Projects with expired or cancelled permits
+ must reapply for building permits and pay all applicable fees. Projects with expired
+ or cancelled permits that have previously paid impact fees need only pay (or be refunded)
+ the difference in impact fees when applying for a new permit.
+ | 
+ This Section of the Code sets forth engineering review fees for the City Engineering
+ Department, and shall be applied to applications submitted on or after February 13,
+ 2026:
+Engineering Development Fees
+ | 
+  200—500 SF
+ | 
+ $786.45
+ | 
+  501—1,000 SF
+ | 
+ $1,516.73
+ | 
+  Above 1,000 SF (PSF)
+ | 
+ $1.80
+ | 
+  Change Order PSF
+ | 
+ $0.50
+ | 
+Construction Mitigation Fees
+ | 
+  Engineering Construction Mitigation (PSF)
+ | 
+ $0.56
+ | 
+  Interior Finish and Fixture Removal
+ | 
+ $674.10
+ | 
+  Roof Repair
+ | 
+ $337.05
+ | 
+  Repair, other
+ | 
+ $337.05
+ | 
+  Change Order PSF
+ | 
+ $0.34
+ | 
+Erosion Fees
+ | 
+  Erosion and Sediment Fee (PSF)
+ | 
+ $0.45
+ | 
+  Change Order PSF
+ | 
+ $0.22
+ | 
+Fifty percent of the construction mitigation fee will be collected at permit submission;
+ the remaining 50% upon permit issuance. Fees are not triggered unless a Construction
+ Mitigation Review is performed. Triggers for the Construction Mitigation Review are
+ located in the Construction Mitigation Plan requirements.
+ | 
+Engineering Land Use Review
+ | 
+  Administrative, Minor Non-NOA
+ | 
+ $1,404.38
+ | 
+  Administrative, Major NOA
+ | 
+ $2,247.00
+ | 
+  Board Review, Minor
+ | 
+ $1,685.25
+ | 
+  Board Review, Major
+ | 
+ $5,617.50
+ | 
+  Planned Development and Other Complex Cases
+ | 
+ $16,852.50
+ | 
+ This Section of the Code sets forth electrical permit fees for the City Community
+ Development Department, and shall be applied to applications submitted on or after
+ February 13, 2026:
+RESIDENTIAL ELECTRICAL FEES 
+ | 
+Fee is based on the enclosed living area only, includes construction of, or remodeling
+ or addition to a single-family home, duplex, condominium, or townhouse. If not wiring
+ any portion of the above listed structures, and are only changing or providing a service,
+ see "Other Electrical Installation Fees" below.
+ | 
+  Living area not more than 1,000 square feet
+ | 
+ $155.00
+ | 
+  Living area 1,001 to 1,500 square feet
+ | 
+ $233.00
+ | 
+  Living area 1,501 to 2,000 square feet
+ | 
+ $310.00
+ | 
+  Living area over 2,000 square feet
+ | 
+ $310.00 + $16.00 per 100 square feet over 2,000
+ | 
+Other Electrical Installation Fees
+ | 
+Including some residential installations that are not based on square footage (not
+ in a living area, i.e., garage, shop, and photovoltaic, etc.). Fees in this section
+ are calculated from the total cost to customer, including electrical materials, items
+ and labor — whether provided by the contractor or the property owner. Use this chart
+ for a service connection, a temporary meter, and all commercial installations.
+ | 
+  Installation Permit on Projects Valuing Less than $2,000.00
+ | 
+ $155.00
+ | 
+  Installation Permit on Projects Valuing $2,000.00 or More
+ | 
+ $155.00 + $16.00 per thousand dollars (rounded up)
+ | 
+  Re-Inspections
+ | 
+ $77.50
+ | 
+  Extra Inspections
+ | 
+ $77.50
+ | 
+  Photovoltaic Generation System
+  (Valuation based on cost to customer of labor, materials, and items)
+ | 
+ | 
+  Residential: Valuation not more than $2,000.00
+ | 
+ $115.00
+ | 
+  Residential: Valuation $2,001.00 and above
+ | 
+ $115.00 + $11.50 per thousand or fraction thereof (max $500.00)
+ | 
+  Commercial: Valuation not more than $2,000.00
+ | 
+ $115.00
+ | 
+  Commercial: Valuation $2,001.00 and above
+ | 
+ $115.00 + $11.50 per thousand or fraction thereof (max $1,000.00)
+ | 
+ This Section of the Code sets forth mechanical permit fees for the City Community
+ Development Department, and shall be applied to applications submitted on or after
+ February 13, 2026:
+MECHANICAL PERMIT FEES
+ | 
+  Mechanical Permit (per unit)
+ | 
+ $66.31
+ | 
+  Supplemental Permit for which the original has not expired, been canceled or finalized
+ (per unit)
+ | 
+ $26.53
+ | 
+UNIT FEE SCHEDULE
+ | 
+Furnaces (installation or relocation)
+ | 
+  Forced-air or gravity-type furnace or burner, including attached ducts and vents;
+ floor furnace, including vent; suspended heater; recessed wall heater or floor-mounted
+ unit heater (per unit)
+ | 
+ $66.31
+ | 
+Appliance Vents (installation, relocation or replacement)
+ | 
+  Each appliance vent installed and not included in an appliance permit
+ | 
+ $33.16
+ | 
+Cooling Systems
+ | 
+  Each refrigeration unit, cooling unit, absorption unit or each heating, cooling,
+ absorption or evaporative cooling system, including installation of controls regulated
+ by the Mechanical Code
+ | 
+ $33.16
+ | 
+Boilers, Compressors and Absorption Systems (installation or relocation)
+ | 
+  Each boiler or compressor to and including 3 horsepower (10.6 kW) or each absorption
+ system to and including 100,000 Btu/h (29.3 kW)
+ | 
+ $66.31
+ | 
+  Each boiler or compressor over 3 horsepower (10.6 kW) to and including 15 horsepower
+ (52.7 kW) or each absorption system over 100,000 Btu/h (29.3 kW) to and including
+ 500,000 Btu/h (293.1 kW)
+ | 
+ $132.63
+ | 
+  Each boiler or compressor over 15 horsepower (52.7 kW) to and including 30 horsepower
+ (105.5 kW) or each absorption system over 500,000 Btu/h (146.6 kW) to and including
+ 1,000,000 Btu/h (293.1 kW)
+ | 
+ $176.83
+ | 
+  Each boiler or compressor over 30 horsepower (105.5 kW) to and including 50 horsepower
+ (176 kW) or each absorption system over 1,000,000 Btu/h (293.1 kW) to and including
+ 1,750,000 Btu/h (512.9 kW)
+ | 
+ $265.25
+ | 
+  Each boiler or compressor over 50 horsepower (176 kW) or each absorption system over
+ 1,750,000 Btu/h (512.9 kW)
+ | 
+ $331.56
+ | 
+Air Handlers
+ | 
+>Fee does not apply to units included with a factory-assembled appliance, cooling
+ unit, evaporative cooler or absorption unit for which a permit is required elsewhere
+ in the Mechanical Code.
+ | 
+  Each air-handling unit to and including 10,000 cubic feet per minute (cfm) (4,719
+ L/s), including ducts attached thereto
+ | 
+ $33.16
+ | 
+  Each air-handling unit over 10,000 cfm (4,719 L/s)
+ | 
+ $66.31
+ | 
+Evaporative Coolers
+ | 
+  Each evaporative cooler other than portable type
+ | 
+ $33.16
+ | 
+Ventilation and Exhaust
+ | 
+  Each ventilation fan connected to a single duct
+ | 
+ $26.53
+ | 
+  Each ventilation system which is not a portion of any heating or air-conditioning
+ system authorized by a permit
+ | 
+ $33.16
+ | 
+  Each hood which is served by the mechanical exhaust, including the ducts for such
+ hood
+ | 
+ $33.16
+ | 
+Miscellaneous
+ | 
+  Each appliance or piece of equipment regulated by the Mechanical Code but not classed
+ in other appliance categories or for which no other fee is listed in the table
+ | 
+ $33.16
+ | 
+Other Mechanical Inspections Fees
+ | 
+  Hourly inspection fee outside of normal business hours (minimum 2 hours)
+ | 
+ $325.00
+ | 
+  Re-inspection fees assessed under Section 305.8 (per inspection)
+ | 
+ $325.00
+ | 
+  Hourly inspections fee for unspecified inspection type (minimum 1 hour)
+ | 
+ $325.00
+ | 
+  Hourly fee for additional plan review required by changes, additions or revisions
+ to plans or plans for which an initial review has been completed
+ | 
+ $325.00
+ | 
+ This Section of the Code sets forth plumbing permit fees for the City Community Development
+ Department, and shall be applied to applications submitted on or after February 13,
+ 2026:
+PLUMBING PERMIT FEES
+ | 
+  Plumbing Permit (per issuance)
+ | 
+ $66.31
+ | 
+  Each supplemental permit for which the original has not expired, been canceled or
+ finalized
+ | 
+ $26.53
+ | 
+UNIT FEE SCHEDULE
+ | 
+Fixtures and Vents
+ | 
+  Each plumbing fixture or trap or set of fixtures on 1 trap (including water, drainage
+ piping and backflow protection)
+ | 
+ $26.53
+ | 
+  For repair or alteration of drainage or vent piping, each fixture
+ | 
+ $13.26
+ | 
+Sewers, Disposal Systems and Interceptors
+ | 
+  Each building sewer and each trailer park sewer
+ | 
+ $265.25
+ | 
+  Each industrial waste pretreatment interceptor, including its trap and vent, excepting
+ kitchen-type grease interceptors functioning as traps
+ | 
+ $66.31
+ | 
+  Rainwater systems, per drain (inside buildings)
+ | 
+ $33.16
+ | 
+Water Piping and Water Heaters
+ | 
+  For installation, alteration or repair of water piping or water-treating equipment
+ or both, each
+ | 
+ $26.53
+ | 
+  For each water heater, including vent
+ | 
+ $33.16
+ | 
+Gas Piping Systems
+ | 
+  Each gas piping system of 1 to 5 outlets
+ | 
+ $13.26
+ | 
+  Each additional outlet over 5, each
+ | 
+ $6.63
+ | 
+Lawn Sprinklers, Vacuum Breakers and Backflow Protection Devices
+ | 
+  Each lawn sprinkler system on any 1 meter, including backflow protection devices
+ thereof
+ | 
+ $26.53
+ | 
+ For atmospheric-type vacuum breakers or backflow protection devices not included in
+ Fixtures and Vents:
+ | 
+  1 to 5 devices
+ | 
+ $26.53
+ | 
+  Over 5 devices, each
+ | 
+ $6.63
+ | 
+ Each backflow-protection device other than atmospheric-type vacuum breakers:
+ | 
+  2 inches (50.88 mm) and smaller
+ | 
+ $33.16
+ | 
+  Over 2 inches (50.8 mm)
+ | 
+ $53.05
+ | 
+Swimming Pools
+ | 
+  Each public pool
+ | 
+ $1,591.50
+ | 
+  Each public spa
+ | 
+ $795.75
+ | 
+  Each private pool
+ | 
+ $530.50
+ | 
+  Each private spa
+ | 
+ $265.25
+ | 
+Miscellaneous
+ | 
+  Each appliance or piece of equipment regulated by the Plumbing Code but not classed
+ in other appliance categories or for which no other fee is listed in this Code
+ | 
+ $33.16
+ | 
+Other Plumbing Inspection Fees
+ | 
+  Hourly inspection fee outside of normal business hours (minimum 2 hours)
+ | 
+ $325.00
+ | 
+  Re-inspection fees — inspections required after a failed inspection (per inspection)
+ | 
+ $325.00
+ | 
+  Hourly inspections fee for unspecified inspection type (minimum 1 hour)
+ | 
+ $325.00
+ | 
+  Hourly fee for additional plan review required by changes, additions or revisions
+ to plans or plans for which an initial review has been completed
+ | 
+ $325.00
+ | 
+ This Section of the Code sets forth licensing fees for the City Community Development
+ Department, and shall be applied to applications submitted on or after February 13,
+ 2026:
+General Contractor Licenses (3-year term)
+ | 
+  Unlimited
+ | 
+ $450.00
+ | 
+  Commercial
+ | 
+ $450.00
+ | 
+  Light Commercial
+ | 
+ $450.00
+ | 
+  Homebuilder
+ | 
+ $450.00
+ | 
+Specialty Contractor Licenses (3-year terms)
+ | 
+  Alteration and Maintenance
+ | 
+ $142.00
+ | 
+  Drywaller Fire Resistive Construction and Penetrations
+ | 
+ $142.00
+ | 
+  Excavation
+ | 
+ $142.00
+ | 
+  Insulation/Energy Efficiency
+ | 
+ $142.00
+ | 
+  Mechanical Contractor
+ | 
+ $142.00
+ | 
+  Radon Mitigation
+ | 
+ $142.00
+ | 
+  Roofing
+ | 
+ $142.00
+ | 
+  Solid Fuel and Gas Appliance
+ | 
+ $142.00
+ | 
+  Temporary Contractor
+ | 
+ $142.00
+ | 
+  Tent Installer
+ | 
+ $142.00
+ | 
+  Concrete
+ | 
+ $142.00
+ | 
+  Low Voltage
+ | 
+ $142.00
+ | 
+  Masonry
+ | 
+ $142.00
+ | 
+  Fire Alarm System Installer
+ | 
+ $142.00
+ | 
+  Fire Sprinkler System Installer
+ | 
+ $142.00
+ | 
+ (Ord. No. 63-2003, § 7; Ord. No. 38-2004, § 6; Ord. No. 49-2005, § 8; Ord. No. 48,
+ 2006, § 12; Ord. No. 3-2011, § 1; Ord. No. 29-2012; Ord. No. 43-2015; Ord. No. 36-2016;
+ Ord. No. 30-2017; 
+Ord. No. 40-2018
+; Ord. No. 
+32-2019
+, 11-26-2019; Ord. No. 
+20-2020
+, 11-24-2020; Ord. No. 
+22-2021
+, 11-23-2021; Ord. No. 
+19-2022
+, 11-29-2022; 
+Ord. No. 05-2023
+, § 1, 2-14-2023; Ord. No. 
+22-2023
+, 11-28-2023; Ord. No. 
+17-2024
+, 11-19-2024; Ord. No. 
+11-2025
+, 11-18-2025; Ord. No. 
+18-2025
+, 1-13-2026)
+
+===== Sec. 2.12.130. - Car-To-Go Carshare program fees.
+FEES
+ | 
+  Application
+ | 
+ $25.00
+ | 
+  Monthly Membership
+ | 
+ $10.00
+ | 
+  Hourly Usage
+ | 
+ $4.00—$6.00
+ | 
+  Per Mile Usage
+ | 
+ $0.40—$0.60
+ | 
+  Fixed Daily Rate
+ | 
+ $70.00—$90.00
+ | 
+  No Reservation Fee
+ | 
+ $50.00
+ | 
+  Emergency Cleaning (per hour, plus cleaning costs)
+ | 
+ $50.00
+ | 
+  Missing/Incorrect Trip Ticket/Reservation
+ | 
+ $30.00—$50.00
+ | 
+  NSF Check
+ | 
+ $30.00—$50.00
+ | 
+  Lost Key Fee
+ | 
+ $30.00—$50.00
+ | 
+  Late Return Fee (per hour, plus applicable taxi fees)
+ | 
+ $30.00—$50.00
+ | 
+  Low Fuel Fee (plus applicable taxi fees)
+ | 
+ $30.00—$50.00
+ | 
+CREDITS
+ | 
+  Inconvenience Credit (per hour, plus applicable taxi fees)
+ | 
+ $30.00—$50.00
+ | 
+  Referral
+ | 
+ $25.00
+ | 
+  Refuel/Wash
+ | 
+ $4.00/$6.00
+ | 
+ (Ord. No. 29-2012; Ord. No. 36-2014; Ord. No. 43-2015; Ord. No. 36-2016; Ord. No.
+ 30-2017; 
+Ord. No. 40-2018
+; Ord. No. 
+32-2019
+, 11-26-2019; Ord. No. 
+20-2020
+, 11-24-2020; Ord. No. 
+22-2021
+, 11-23-2021; Ord. No. 
+19-2022
+, 11-29-2022; Ord. No. 
+22-2023
+, 11-28-2023; Ord. No. 
+17-2024
+, 11-19-2024; Ord. No. 
+11-2025
+, 11-18-2025; Ord. No. 
+18-2025
+, 1-13-2026)
+
+===== Sec. 2.12.140. - Stormwater fees.
+Fee-in-Lieu of Detention Fee (per cubic foot of detention req.)
+ | 
+ $78.78
+ | 
+(a) The fee is based on 100 percent of the estimated cost of constructing a detention
+ facility on-site. The City Engineer at his/her sole discretion may require a certified
+ cost estimate for construction of detention meeting the standards contained in the
+ Urban Runoff Management Plan (Manual) established in Sec. 28.02.010 and may accept
+ at his/her sole discretion this amount to be paid in-lieu-of detention.
+ | 
+(b) Required detention storage shall be calculated at the rate of 6.20 cubic feet
+ per 100 square feet of impervious area. The City Engineer at his/her sole discretion
+ may require a certified storage volume estimate for construction of detention meeting
+ the standards contained in the Urban Runoff Management Plan (Manual) established in
+ Sec. 28.02.010 and may accept at his/her sole discretion this amount to be used for
+ detention volume storage requirements.
+ | 
+ (Ord. No. 40-2008; Ord. No. 27-2009, § 11; Ord. No. 29-2010, § 11; Ord. No. 15-2011,
+ § 2; Ord. No. 29-2012; Ord. No. 48-2013; Ord. No. 36-2014; Ord. No. 43-2015; Ord.
+ No. 36-2016; Ord. No. 30-2017; 
+Ord. No. 40-2018
+; Ord. No. 
+32-2019
+, 11-26-2019; Ord. No. 
+20-2020
+, 11-24-2020; Ord. No. 
+22-2021
+, 11-23-2021; Ord. No. 
+19-2022
+, 11-29-2022; Ord. No. 
+22-2023
+, 11-28-2023; Ord. No. 
+17-2024
+, 11-19-2024; Ord. No. 
+11-2025
+, 11-18-2025; Ord. No. 
+18-2025
+, 1-13-2026)
+
+===== Sec. 2.12.150. - Community broadband.
+| 
+Monthly Recurring Charge
+ | 
+Non-Recurring Charge
+ | 
+High-Speed Dedicated Internet Access (DIA)
+*
+ | 
+ 100 Mpbs/100 Mpbs
+ Upload/Download
+ | 
+ $368.00
+ | 
+ $250.00
+ | 
+ 200 Mpbs/200 Mpbs
+ Upload/Download
+ | 
+ $525.00
+ | 
+ $250.00
+ | 
+ 500 Mpbs/500 Mpbs
+ Upload/Download
+ | 
+ $788.00
+ | 
+ $250.00
+ | 
+ 1 Gbps/1 Gbps
+ Upload/Download
+ | 
+ $1,575.00
+ | 
+ $250.00
+ | 
+ *
+ 1. Assumes fiber pair available to location
+  2. Internet service includes 1 dynamic IP address
+  3. Higher bandwidth and different services may be available on a customized basis
+  4. Flexibility at discretion of Aspen City Manager
+ | 
+ (Ord. No. 
+22-2021
+, 11-23-2021; Ord. No. 
+19-2022
+, 11-29-2022; Ord. No. 
+22-2023
+, 11-28-2023; Ord. No. 
+17-2024
+, 11-19-2024; Ord. No. 
+11-2025
+, 11-18-2025; Ord. No. 
+18-2025
+, 1-13-2026)
+
+===== Chapter 2.16. - COMPLAINTS AGAINST CITY OFFICERS
+
+
+===== Sec. 2.16.010. - Charges and specifications.
+Except as otherwise provided by this Code or by the Charter, whenever a complaint
+ shall be made to the City Council of this City against any City officer, it shall
+ be the duty of the City Council to vote on the question as to whether there shall
+ be charges preferred against the party or parties complained against and if the City
+ Council shall decide by vote that charges shall be preferred, it shall fix the time
+ and place of trial and it shall be the duty of the City Attorney to draft and prepare
+ such charges and specifications in writing and after the same are signed by the person
+ or persons making the complaint, it shall be the duty of the City Attorney to deliver
+ a copy of such charges and specifications to the chief of police or any other police
+ officer, who shall serve such copy on the person complained against. A notice of the
+ time and place of trial shall also be served with such charges and specifications,
+ which notice, as well as the copy of the charges and specifications, shall be served
+ at least three (3) days before the time set for trial.
+ (Code 1962, § 1-19-1; Code 1971, § 2-48)
+
+===== Sec. 2.16.020. - Evidence.
+Whenever a complaint is made against a City officer as provided in 
+Section 2.16.010
+, the Mayor and the members of the City Council to vote on the question as to whether
+ there shall and hear the evidence submitted for and against the accused, which evidence
+ shall be given under oath and the Mayor or presiding officer of the City Council shall
+ have the right to decide all questions relating to the admissibility or inadmissibility
+ of such evidence.
+ (Code 1962, § 1-19-2; Code 1971, § 2-49)
+
+===== Sec. 2.16.030. - Removal; suspension; reprimand.
+When a complaint is made against a City officer as provided in 
+Section 2.16.010
+, the Council, after hearing all the testimony produced, shall proceed to vote upon
+ the question as to whether the person complained against is guilty or not guilty of
+ the charges and specifications so alleged and if the City Council shall vote that
+ such person is guilty, an open vote shall then be taken as to the character of punishment
+ to be inflicted upon the accused. The question shall be put: "Shall the accused be
+ removed from office?" If a majority of all the members elected to the City Council
+ shall vote for such removal, the accused shall be removed from office and the removal
+ shall relate back to the suspension of the officer from duty. If such majority shall
+ fail to vote for removal, then the City Council shall vote successively upon the question
+ of suspension or reprimand of the accused. And if suspension be agreed upon, the time
+ of such suspension shall be fixed and no officer, while under a suspension voted by
+ the City Council, shall draw any pay whatever from the City for the period he or she
+ shall be so under suspension.
+ (Code 1962, § 1-19-3; Code 1971, § 2-50)
+
+===== Chapter 2.20. -         DEPARTMENT OF ENGINEERING        
+Footnotes: 
+ --- (
+2
+) ---
+Charter reference— 
+ Authority to establish departments, § 6.9.
+Cross reference— 
+ Streets, sidewalks and other public property, Title 21; traffic and motor vehicles, Title 24; land use regulations, Title 26.
+
+===== Sec. 2.20.010. - Established.
+There is hereby created and established a Department of Engineering of the City for
+ the purpose of providing the necessary engineering services required by the City.
+ (Code 1962, § 3-7-1; Ord. No. 7-1969, § 2; Code 1971, § 2-61)
+
+===== Sec. 2.20.020. - Composition.
+The Engineering Department of the City shall be under the direction and immediate
+ control of the City Engineer who may appoint an assistant City Engineer and all necessary
+ employees as may be authorized. The City Engineer shall be responsible for the acts
+ of all employees so appointed.
+ (Code 1962, § 3-7-2; Ord. No. 7-1969, § 3; Code 1971, § 2-62)
+
+===== Sec. 2.20.030. - Appointment and removal.
+The City Engineer shall be appointed by and be responsible to the City Manager and
+ his or her appointment shall continue during satisfactory service at the pleasure
+ of the City Manager.
+ (Code 1962, § 3-7-3; Ord. No. 7-1969, § 4; Code 1971, § 2-63)
+
+===== Sec. 2.20.040. - Qualifications.
+The City Engineer shall be appointed on the basis of his or her administrative and
+ technical qualifications with special reference to his or her actual experience in
+ and his or her knowledge of the functions and duties of his or her office as set forth
+ in this Chapter.
+ (Code 1962, § 3-7-4; Ord. No. 7-1969, § 5; Code 1971, § 2-64)
+
+===== Sec. 2.20.050. - Functions and duties of City Engineer.
+The City Engineer shall be a Department head of the City. His functions and duties
+ shall be as follows:
+ (a)
+ Prepare reports and work programs as required.
+ (b)
+ Prepare and submit annual departmental budget requests.
+ (c)
+ Prepare engineering recommendations and reports for administration's consideration.
+ (d)
+ Prepare specifications and cost estimates for materials to be purchased.
+ (e)
+ Prepare preliminary plans and feasibility studies for proposed capital improvements.
+ (f)
+ Establish and prepare plans and specifications for the construction and repair of
+ various City-owned facilities.
+ (g)
+ Supervise, inspect, review and approve the construction and repairs of all City-owned
+ facilities and improvements.
+ (h)
+ The City Engineer shall supervise the engineering, surveying and drafting work accomplished
+ by City personnel.
+ (i)
+ Coordinate, review, inspect and approve all proposed annexations and subdivision plats.
+ (j)
+ Coordinate the planning and construction of City facilities with consultants, City
+ personnel, subdivision developers and contractors.
+ (k)
+ Design, plan and supervise traffic engineering studies and projects related to parking,
+ traffic flow and control involving signs, signals and pavement markings.
+ (l)
+ Purchase and approve the purchase of departmental materials, supplies and equipment.
+ (m)
+ The City Engineer shall preserve all plans, maps, notes, surveys, books, papers, documents,
+ supplies and equipment pertaining to his or her office. In the event of resignation
+ or removal from office they shall be delivered to his or her successor in office or
+ to the City Manager.
+ (n)
+ The City Engineer shall perform such other duties as may be prescribed by law or required
+ of him by ordinance or by direction of the City Manager.
+ (Code 1962, § 3-7-5; Ord. No. 7-1969, § 6; Code 1971, § 2-65)
+
+===== Chapter 2.24. -         PERSONNEL        
+Footnotes: 
+ --- (
+3
+) ---
+Editor's note—
+ Ord. No. 2-1980, § 1, repealed former Art. VI, setting forth employee benefits and
+ regulations and enacted in lieu thereof a new Art. VI as set out in this Chapter,
+ as §§ 2.24.010—2.24.090. Former Art. VI was derived from Ord. No. 13-1970, § 1; Ord.
+ No. 12-1973, § 1; Ord. No. 1-1975, § 1; Ord. No. 33-1975, § 1; Ord. No. 81-1975, §
+ 1; Ord. No. 6-1976, §§ 1—7; Ord. No. 46-1977, §§ 1—6; and Ord. No. 42-1978, § 1.
+
+===== Sec. 2.24.010. - Short title.
+This Chapter shall be known and may be cited as the "Public Personnel Code of the
+ City of Aspen."
+ (Code 1971, § 2-76; Ord. No. 2-1980, § 1)
+
+===== Sec. 2.24.020. - Statement of purpose.
+The general purpose of this Chapter is to establish a system of personnel administration
+ that will assure optimum utilization of the human resources employed by the City to
+ effect the social, economic and other program needs of the people of the City. This
+ system shall provide means to recruit, select, develop and maintain an effective work
+ force and shall include policies and procedures for employee hiring and advancement,
+ terminations, training and career development, job classification, salary administration,
+ discipline, discharge and related activities. All appointments and promotions shall
+ be based upon an objective evaluation of merit and fitness to perform the work required,
+ using open competitive selection procedures, examinations or other evidence of fitness.
+ (Code 1971, § 2-77; 
+Ord. No. 2-1980
+, § 1)
+
+===== Sec. 2.24.030. - Establishment of Personnel Department.
+There is hereby established a Personnel Department headed by a Personnel Director.
+ (Code 1971, § 2-78; 
+Ord. No. 2-1980,
+ § 1)
+
+===== Sec. 2.24.040. - Appointment and tenure of the Personnel Director.
+The Personnel Director shall be experienced in management and administration and shall
+ be appointed by and serve at the pleasure of the City Manager in the same manner as
+ other appointive department heads.
+ (Code 1971, § 2-79; 
+Ord. No. 2-1980
+, § 1)
+
+===== Sec. 2.24.050. - Duties of the Personnel Director.
+The Director shall be the head of the department of personnel, responsible for the
+ conduct of all of its affairs. The Director shall have power and it shall be his or
+ her duty, in person or through the department of personnel:
+ (a)
+ To encourage the exercise of effective personnel administration within the several
+ departments in the government service and to make available the facilities of the
+ department of personnel to this end.
+ (b)
+ To advise the City Manager of manpower utilization.
+ (c)
+ To foster and develop programs for the improvement of employee effectiveness, including
+ training, safety, health, counseling and welfare.
+ (d)
+ To investigate from time to time the operation and effect of this Chapter and of the
+ policies made thereunder and to report his or her findings and recommendations to
+ the City Manager.
+ (e)
+ To establish and maintain records of all employees in the City service, in which there
+ shall be set forth as to each employee the class, title, pay or status and other relevant
+ data.
+ (f)
+ To make an annual report to the City Manager regarding the work of the department.
+ (g)
+ To prepare and recommend, for action by the City Manager, rules, including a pay classification
+ plan, pay schedule and a service rating plan, drafts of legislation for recommendation
+ to the City Manager and City Council in matters requiring such legislation and changes
+ as deemed desirable from time to time in such rules and regulations.
+ (h)
+ To make such administrative regulations as are deemed necessary, not inconsistent
+ with this Chapter and rules adopted in pursuance thereof relative to matters involved
+ in the administration of the personnel provisions of such chapter and rules.
+ (i)
+ To perform duties necessary or proper for making effective the provisions of this
+ Chapter and all rules adopted in pursuance thereof and not inconsistent therewith.
+ The power of the Director to make effective the provisions of this Chapter shall not
+ be deemed to be contingent on the adoption of rules but, in the absence of rules that
+ are applicable, the Director shall have power to take such action, not inconsistent
+ with this Chapter as may be reasonably necessary and proper to effectuate the purposes
+ thereof.
+ (Code 1971, § 2-80; 
+Ord. No. 2-1980,
+ § 1)
+
+===== Sec. 2.24.060. - Adoption of personnel rules.
+The City Manager is hereby authorized to adopt personnel rules which personnel rules
+ shall provide for the recruitment, employment and promotion of the best qualified
+ persons for each position; for the establishment of administrative procedures for
+ the handling of disciplinary measures such as suspension, demotion of rank or grade
+ or discharge. The personnel rules may provide for any further provision of employment
+ not inconsistent with this Chapter.
+ (Code 1971, § 2-81; 
+Ord. No. 2-1980
+, § 1)
+
+===== Sec. 2.24.070. - Political activity.
+(a)
+ No person employed by the City shall be under any obligation to contribute to any
+ political fund or to render any political service and no such person shall be removed
+ or otherwise prejudiced for refusing to do so.
+ (b)
+ No person employed by the City shall use his or her official authority or influence
+ to coerce the political action of any person or body or to influence the election
+ of employee.
+ (c)
+ Nothing herein contained shall affect the right of an employee to hold membership
+ in and support a political party, to be an officer of a political party, to vote as
+ he or she chooses, to express publicly and privately his or her opinions on political
+ subjects and to attend political meetings.
+ (Code 1971, § 2-82; 
+Ord. No. 2-1980
+, § 1; 
+Ord. No. 18, 2006, § 1)
+
+===== Sec. 2.24.080. - Employer-employee relations.
+Public employees have the right to organize, join and participate or to refuse to
+ organize, join and participate in any employee organization freely and without fear
+ of penalty or reprisal.
+ (Code 1971, § 2-83
+; Ord. No. 2-1980
+, § 1)
+
+===== Sec. 2.24.090. - Unlawful acts.
+(a)
+ No person shall make any false statements, certificate, mark, rating or report with
+ regard to any test, certification or appointment made under any provision of this
+ Chapter or in any manner commit or attempt to commit any fraud preventing the impartial
+ execution of this Chapter and rules adopted in pursuance thereof.
+ (b)
+ No person shall, directly or indirectly, give, render, pay, offer, solicit or accept
+ any money, service or other valuable consideration for any appointment, promotion
+ to or any advantage in, a position of employment by the City.
+ (c)
+ No employee of the Personnel Department, examiner or other person shall defeat, deceive
+ or obstruct any person in his or her right of examination, eligibility, certification
+ or appointment under this Chapter or furnish to any person any special or secret information
+ for the purpose of affecting the rights or prospects of any person with respect to
+ employment by the City.
+ (Code 1971, § 2-84; 
+Ord. No. 2-1980
+, § 1)

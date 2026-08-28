@@ -1,0 +1,2355 @@
+# CITY OF ASPEN MUNICIPAL CODE — TITLE 21 - STREETS, SIDEWALKS AND OTHER PUBLIC PLACES
+# Source: Municode (api.municode.com), Supp. No. 7 Update 1, codified through Ord. No. 06-2026 (enacted 2026-03-24)
+# Retrieved: 2026-07-22
+
+
+===== TITLE 21 - STREETS, SIDEWALKS AND OTHER PUBLIC PLACES
+Footnotes: 
+ --- (
+1
+) ---
+Editor's note—
+ Ord. No. 
+2-2019
+, § 2(Exh. A), adopted July 22, 2019, deleted Title 21 and reenacted said title as
+ set out herein. Formerly, Title 21 pertained to similar subject matter and derived
+ from Code 1962, §§ 3-8-1—3-8-5; 
+Ord. No. 8-1969, §§ 2—6
+; Code 1971, §§ 19-1—19-12, 19-26—19-30, 19-46—19-57, 19-69—19-93, 19-96—19-100, 19-102,
+ 19-121—19-128, 19-141—19-145, 19-150—19-173, 19-180—19-184; 
+Ord. No. 3-1973, § 1
+; 
+Ord. No. 30-1975, § 1
+ ; 
+Ord. No. 36-1976, § 2
+; 
+Ord. No. 11-1977, § 1
+; 
+Ord. No. 88-1979, § 1
+; 
+Ord. No. 68-1975, § 1
+; 
+Ord. No. 36-1976, § 1
+; 
+Ord. No. 27-1982, § 2
+; 
+Ord. No. 79-1983, § 2
+; 
+Ord. No. 37-1985, § 1
+; 
+Ord. No. 41-1985, § 1
+; 
+Ord. No. 43-1985, § 1
+; 
+Ord. No. 12-1988, § 1
+; 
+Ord. No. 46-1989, § 1
+; 
+Ord. No. 20-1990, § 1
+; 
+Ord. No. 76-1990, § 3
+; 
+Ord. No. 37-1991, § 4
+; 
+Ord. No. 11-1992, § 1
+; 
+Ord. No. 77-1992, § 8
+; 
+Ord. No. 54-1995, § 5
+; 
+Ord. No. 12-1996, § 12
+; 
+Ord. No. 42-1999, § 1 [part
+]; 
+Ord. No. 14-2001, § 2 [part
+]; 
+Ord. No. 15, 2007, § 
+1; 
+Ord. No. 31-2008
+; and 
+Ord. No. 43-2013
+.
+Cross reference— 
+ Department of engineering, § 2.20.010 et seq.; allowing livestock to graze along public thoroughfares prohibited, § 6.04.040; allowing livestock to obstruct streets and sidewalks prohibited, § 6.04.050; herding through streets, § 6.04.060; buildings and building regulations, Title 8; vendors not to obstruct public ways, § 15.04.360; permits required for parades, meetings and assemblies on public streets and sidewalks,
+ § 15.04.490; traffic, Title 24; vehicles with lug wheels on streets restricted, § 24.04.060; utilities, Title 25; land use regulations, Title 26; cable television systems, Title 27.
+State Law reference— 
+ Public improvements, C.R.S. § 31-25-101 et seq.
+
+===== Chapter 21.04. - GENERAL PROVISIONS
+
+
+===== Sec. 21.04.010. - Definitions.
+For the purposes of this Title, certain words or phrases are defined as follows:
+Alley.
+ A public way having less width than a street and designated for access to the rear
+ of buildings or improvements.
+Curb cut.
+ That portion of the street curb or roadway frontage which abuts a driveway.
+Driveway.
+ That portion of the sidewalk area which is improved, designed or ordinarily used
+ for vehicular access to property abutting the street.
+Emergency.
+ Any event which may threaten public health or safety, or that results in an interruption
+ in the provision of service, including, but not limited to, damaged or leaking water
+ or gas conduit systems, damaged, plugged or leaking sewer or storm drain conduit systems,
+ damaged electrical and communications facilities, or as otherwise recommended by the
+ City Engineer and approved by the City Manager.
+Engineering Standards.
+ Engineering Standards adopted pursuant to 
+Title 29
+.
+Pavement and/or paved improvements.
+ The term shall include any improvement constructed of asphalt concrete, seal and
+ chip, concrete or similar impervious wearing surface, including, but not limited to,
+ roadway, sidewalk, curb, gutter and similar improvements.
+Public right-of-way.
+ Any public way or public thoroughfare dedicated or devoted to public use, including
+ street, highway, road, alley, lane, court, boulevard, sidewalk, public square, mall
+ or like designation.
+Roadway.
+ That portion of a street improved, designed or ordinarily used for vehicular traffic.
+Sidewalk.
+ That portion of the sidewalk area which is paved with an all-weather surfacing for
+ use by pedestrians.
+Sidewalk area.
+ That portion of a street between the curb line or the lateral line of a roadway and
+ the adjacent property line, intended for the use of pedestrians and including the
+ terms 
+border area, parkway, park strip, planting strip
+ and like designations.
+Street.
+ A public way for vehicular traffic, including roadway and sidewalk area, being the
+ entire width from property line to property line dedicated or devoted to public use,
+ and including the terms 
+highway, road, place, avenue
+ or other like designations.
+Street improvement.
+ The term shall include roadway/alley paving, sidewalks, driveways, curbs, gutters,
+ street lights, street signs, traffic signs and signals, storm sewers, culverts, bridges
+ and drainage appurtenances and similar items.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.04.020. - Certain ordinances relating to streets not affected by Code.
+Nothing in this Code or the ordinance adopting this Code shall be construed as repealing
+ or otherwise affecting the validity of any ordinance:
+ (a)
+ Dedicating, accepting, naming, establishing, locating, relocating, opening, paving,
+ widening, improving or vacating any street or other public way in the City.
+ (b)
+ Establishing or prescribing grades for streets or street improvements in the City.
+ All such ordinances are hereby recognized as continuing in full force and effect to
+ the same extent as if set out in full herein.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.04.030. - House numbering; required.
+All lots, buildings and structures in the City shall be numbered in accordance with
+ the following plan:
+ (a)
+ North numbers shall commence on the north property line of Main Street.
+ (b)
+ South numbers shall commence on the south property line of Main Street.
+ (c)
+ East numbers shall commence on the east property line of Garmisch Street.
+ (d)
+ West numbers shall commence on the west property line of Garmisch Street.
+ (e)
+ Even numbers shall be on the east and north sides of the streets.
+ (f)
+ Odd numbers shall be on the south and west sides of the streets.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.04.040. - Site map.
+The Building Inspector shall keep a map showing the proper street number of every
+ building site in the City, which shall be open to inspection to any interested person.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.04.050. - Occupancy of or construction within a public right-of-way prohibited without encroachment license or permit.
+(a)
+ No person shall occupy, construct, place or maintain within any public right-of-way
+ any building, structure or appurtenance, fence, tree, vegetation or other obstruction
+ without first having obtained an encroachment license from the City Engineer.
+ (b)
+ It shall be unlawful for any person to undertake any construction or repair within
+ or dig up, open, disturb, grade, excavate, or otherwise alter any public right-of-way
+ or use, occupy, or stage construction materials in any public right-of-way in the
+ City without first having obtained a permit or license for such work from the City
+ Engineer. A separate permit shall be required for each construction or excavation
+ project.
+ (c)
+ Nothing contained in this Section shall be construed to apply to improvements or activities
+ undertaken within a public rights-of-way by the City, its employees or agents, the
+ placement of temporary safety barricades or structures around excavations, construction
+ within a public right-of-way or the placement of other devices or structures that
+ may be required to be placed in a public right-of-way by reason of state or federal
+ law or regulation.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.04.060. - Temporary construction within public right-of-way restricted.
+Temporary guardrails, pedestrian walkways, protective canopies, field offices and
+ similar items shall not be constructed on public right-of-way without prior approval
+ of the City Engineer.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.04.070. - Temporary storage of merchandise on public right-of-way restricted.
+It shall be unlawful for any person receiving or delivering merchandise, commodities
+ or construction materials within the City to place, keep or suffer to be kept upon
+ public rights-of-way any such merchandise, commodities or construction materials without
+ the approval of the City Engineer.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.04.080. - Obstruction of ditches and gutters prohibited.
+No person shall obstruct or damage in any manner any ditch, gutter, drain, catch basin,
+ culvert or other drainage improvement within public rights-of-way or under control
+ of the City.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.04.090. - Dangerous openings in streets.
+No person shall leave or keep open any cellar door, pit, vault, manhole or other subterraneous
+ opening on any street, alley, sidewalk or other public way, or keep such opening in
+ an unsecured condition so that vehicles, persons or animals will be in danger of sustaining
+ injury or damage.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.04.100. - Obstructing excavations, construction or repairs prohibited.
+It shall be unlawful for any person to hinder or obstruct any excavation or the construction
+ or repair of any paving, sidewalk, curb, gutter, drainage improvement, utility or
+ other street improvements performed pursuant to the provisions of this Title.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.04.110. - Damage, removal, etc., of safety barricades or devices prohibited.
+It shall be unlawful to damage, displace, remove or interfere with any barricade,
+ warning light or other safety appliance or device which is lawfully placed around
+ or about any excavation or other street improvement construction in any street, alley,
+ sidewalk or other public right-of-way.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.04.120. - Draining water onto public right-of-way restricted.
+No person shall drain water from any swimming pool, therapy pool, cistern, pond or
+ similar improvement onto a public right-of-way without approval of the City Engineer
+ and Street Superintendent.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.04.130. - Reserved.
+
+
+===== Chapter 21.08. - DEPARTMENT OF STREETS AND ALLEYS
+
+
+===== Sec. 21.08.010. - Creation.
+There is hereby created and established a department of streets and alleys of the
+ City for the purpose of providing the necessary street and alley construction and
+ maintenance services required by the City.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+Cross reference— 
+ Authority to establish departments, 
+§ 6.9
+.
+
+===== Sec. 21.08.020. - Composition, direction and control.
+The Street and Alley Department of the City shall be under the direction and immediate
+ control of the Street Superintendent, who may appoint an assistant street superintendent
+ and all necessary employees as may be authorized. The Street Superintendent shall
+ be responsible for the acts of all employees so appointed.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.08.030. - Street Superintendent; appointment and removal.
+The Street Superintendent shall be appointed by and be responsible to the City Manager
+ and his or her appointment shall continue during satisfactory service at the pleasure
+ of the City Manager.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.08.040. - Same; qualifications.
+The Street Superintendent shall be appointed on the basis of his or her supervisory
+ and technical qualifications with special reference to his or her actual experience
+ in and his or her knowledge of the functions and duties of his or her office as set
+ forth in this Chapter.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.08.050. - Same; functions and duties.
+The Street Superintendent shall be a department head of the City. His or her functions
+ and duties shall be as follows:
+ (1)
+ Prepare recommendations, progress reports and work programs as required.
+ (2)
+ Prepare and submit annual department budget requests.
+ (3)
+ Supervise, inspect, review and approve the construction and repairs of all city streets
+ and alleys.
+ (4)
+ Purchase and approve the purchase of departmental materials, supplies and equipment.
+ (5)
+ The Street Superintendent shall preserve all records, plans, maps, notes, surveys,
+ books, papers, documents, supplies and equipment pertaining to his or her office.
+ In the event of resignation or removal from office they shall be delivered to his
+ or her successor in office or to the City Manager.
+ (6)
+ Prepare daily work schedules for employees, assign all equipment to projects.
+ (7)
+ Train or assign subordinate employees in training of new employees.
+ (8)
+ Coordinate interdivisional and interdepartmental work programs with other supervisors
+ during special project assignment.
+ (9)
+ The Street Superintendent shall perform such other duties as may be prescribed by
+ law or required of him by ordinance or by direction of the City Manager.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Chapter 21.12. - OCCUPANCY, CONSTRUCTION AND EXCAVATION WITHIN PUBLIC RIGHT-OF-WAY
+
+
+===== Sec. 21.12.010. - Permit required.
+(a)
+ Any person seeking an encroachment license or construction permit for any occupancy,
+ construction or excavation within public right-of-way must submit an application on
+ forms provided by the City Engineer, accompanied by an administrative fee in an amount
+ prescribed by Subsection 
+2.12.050
+(e) of this Code. The City Engineer may specify the terms and conditions under which
+ any encroachment license is to be issued so as to protect the best interests of the
+ City. All encroachment licenses granted under this Section whether delineated as temporary
+ or permanent shall be revocable by the City with or without cause at any time.
+ (b)
+ A separate permit shall be required for each construction or excavation project.
+ (c)
+ As a general policy, it is not in the City's interest to grant permanent encroachments,
+ thereby providing public property for private use. New and existing structures should
+ be able to accomplish their various needs within the confines of their property boundaries
+ and required setbacks.
+ (d)
+ All right-of-way permit and encroachment license applications shall comply with the
+ most current edition of the Engineering Standards for work in the public rights-of-way.
+ All encroachment licenses or construction permits granted under this Section whether
+ delineated as temporary or permanent shall be revocable by the City with or without
+ cause at any time.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.020. - Application.
+All right-of-way permit and encroachment license applications shall comply with the
+ most current edition of the Engineering Standards for work in the public rights-of-way.
+ Application for a right-of-way permit or encroachment license, either temporary or
+ permanent, shall be made no later than one (1) week prior to the planned commencement
+ of the work. The applicant must have a valid builder's or excavating license issued
+ by the City of Aspen/Pitkin County Building Department. The City Engineer may allow
+ the permittee to obtain a permit or license sooner than one (1) week prior to the
+ planned commencement of the work if the scope of work is deemed to be minimal. Emergency
+ situations will be exempt; however, a permit must be obtained as soon as is possible
+ and no later than the next business day.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.030. - Plans and specifications required for construction.
+No permit for construction within any City right-of-way shall be issued until plans
+ have been submitted to and approved by the City Engineer.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.040. - Fees and bonding.
+No permit shall be issued unless the applicant has first signed the required agreement,
+ paid the required fees and filed the appropriate bond as follows:
+ (a)
+ An indemnity and hold harmless agreement as approved by the City Attorney.
+ (b)
+ A permit fee in an amount prescribed by Subsection 
+2.12.050
+(e) of this Code.
+ (c)
+ A maintenance bond in an amount equal to the total cost of construction, including
+ labor and materials, or two thousand five hundred dollars ($2,500.00), whichever is
+ greater. The maintenance bond shall guarantee that the material and equipment are
+ furnished and used, and the workmanship employed in the performance of the work described
+ in the right-of-way permit will be of such character and quality as to ensure it to
+ be free from all defects and in continuous good order and in a condition satisfactory
+ to the City Engineering Department for a period of two (2) years from the date of
+ issuance of the final inspection log, indicating one hundred percent (100%) satisfactory
+ completion of the work. The maintenance bond shall be noncancelable for two (2) full
+ years from the date of issuance of satisfactory completion.
+ (d)
+ The applicant may request to substitute a maintenance bond with a letter of credit
+ or cash-in- lieu payment contingent upon approval of the City Engineer.
+ (e)
+ If the City must replace the improvements within two (2) years of acceptance of the
+ work, the City shall execute the maintenance bond or letter of credit. This will encourage
+ the contractor to take the initiative to replace the defective improvements. The City
+ will not replace improvements unless the contractor chooses not to replace them.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.050. - Permittee may replace paved improvements.
+For construction and excavation in paved areas, the permittee may elect, subject to
+ the approval of the City Engineer, to replace the defective paved improvements in
+ lieu of having the maintenance bond executed. The pedestrian mall brick pavement area
+ shall be reconstructed under the supervision of the Parks Director. Where bricked
+ or other specialized sidewalks are encountered outside of the pedestrian mall, the
+ permittee shall undertake complete restoration of the surface. All bricks or other
+ specialized sidewalk materials shall be removed with care and stockpiled for reuse
+ if at all possible. The replacement of the paved improvements shall be in accordance
+ with all City specifications and subject to inspections and final approval by the
+ City Engineer (see excavation and construction standards).
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.060. - Licensing and insurance required.
+All permittees under this Chapter must be licensed and insured pursuant to 
+Chapter 8.12
+.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.070. - Conditions and special requirements for issuance.
+Permits under this Chapter shall be issued subject to all the regulations and specifications
+ in 
+Sections 21.12.120
+ through 
+21.12.390
+ of this Chapter, the City's Engineering Standards and any special requirements that
+ the City Engineer deems necessary in order to maintain the health, welfare, safety
+ and convenience of the public.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.080. - Change in scope of work; duty to notify.
+If there is any change in the scope or extent of the work described in the approved
+ right-of-way permit, the permittee shall immediately notify the City Engineer before
+ proceeding.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.090. - Issuance of permit in certain months restricted.
+No permit required by this Chapter shall be issued for any construction or excavation
+ within any City right-of-way for the period from November 1 through March 31, except
+ in case of an emergency. In addition, from June 1 through Labor Day weekend for the
+ Commercial Core and Main Street Corridor, no construction or excavation within any
+ City right-of-way will be permitted except in case of an emergency.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.100. - Permit to be kept and exhibited at site.
+The permit required by this Chapter shall be kept at the site of the excavation while
+ the work is in progress and shall be exhibited upon request to the City Engineer or
+ any police officer.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.110. - Record keeping required.
+The City Engineer shall keep a record of all permits issued.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.120. - Street closures not permitted.
+Street closures are not permitted. The City Engineer may permit lane closures. When
+ lane closures are permitted, the applicant must:
+ (a)
+ Verify the closure specified on the permit with the Engineering Department, the School
+ District and the Roaring Fork Transit Authority (RFTA) at least one (1) week in advance.
+ (b)
+ Notify the Aspen Communication Center at (970)920-5310 one (1) day prior to closure
+ and at the time of re-opening.
+ (c)
+ Set and maintain, at the applicant's expense, necessary barricades, flashers, construction
+ signs and flaggers; and take all necessary precautions in accordance with the Manual
+ on Uniform Traffic Control Devices (MUTCD).
+ (d)
+ Hours of work will be in compliance with 
+Title 18
+ or 
+Title 8
+ or both. Utility work must be completed between 7:00 a.m. and 5:00 p.m., Monday through
+ Friday and between 9:00 a.m. and 5:00 p.m. on Saturday, unless approved otherwise
+ by the City Council.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.130. - Limitations on use of public streets, alleys and sidewalks for construction materials.
+(a)
+ Purpose. It shall be the purpose of this Section to regulate the use of public streets,
+ alleys and sidewalks for construction material storage and placement of pedestrian
+ barricades. This regulation is intended to ensure adequate snow removal in City streets,
+ alleys and sidewalks, allow for safe flow of pedestrian and vehicular traffic and
+ maintain the image of the City as a resort community, while also accommodating construction
+ activity.
+ (b)
+ Definitions.
+Construction material storage
+ means parking of construction trailers or construction equipment, storage of construction
+ materials for any purpose related to the construction activity.
+Pedestrian barricades
+ means any structure authorized by the City Engineer to permit the safe passage of
+ pedestrians past construction sites.
+Paved street
+ means that portion of the right-of-way between curbs or drainage swales.
+Sidewalk
+ means that portion of the right-of-way between a curb or drainage swale and a property
+ line.
+Staging
+ means any construction related activity that lasts less than one working day.
+ (c)
+ Limitations.
+ (1)
+ The following limitations shall be enacted on the use of the public right-of-way during
+ the period of November 1 to March 31:
+ a.
+ Storage of construction materials shall be prohibited in all paved streets, alleys
+ and sidewalks in the City.
+ b.
+ Placement of pedestrian barricades shall be prohibited in all paved streets and alleys
+ in the City.
+ c.
+ Placement of pedestrian barricades shall not be permitted in sidewalks in the City
+ Core.
+ (2)
+ The following limitations shall be enacted on the use of the public right-of-way during
+ the period of April 1 to June 1 and Labor Day to November 1:
+ a.
+ Storage of construction materials shall be prohibited in all paved streets, sidewalks
+ and alleys in the City.
+ b.
+ Placement of pedestrian barricades shall be permitted in paved streets, alleys and
+ sidewalks in the City by obtaining a temporary revocable encroachment license from
+ the City Engineer.
+ (3)
+ The following limitations shall be enacted on the use of the public right-of-way during
+ the period of June 1 through Labor Day:
+ a.
+ Storage of construction materials shall be prohibited in all paved streets, sidewalks
+ and alleys in the City.
+ b.
+ Placement of pedestrian barricades shall be prohibited within the Commercial Core
+ and Main Street Corridor.
+ c.
+ Placement of pedestrian barricades shall be permitted in paved streets, alleys and
+ sidewalks in the City by obtaining a temporary revocable encroachment license from
+ the City Engineer.
+ (4)
+ Exceptions.
+ a.
+ The City Engineer or City Council may make exceptions to this Section when special
+ circumstances are present where strict compliance of these regulations would jeopardize
+ the public safety or the expeditious continuation of the project and granting the
+ exception is in the public interest.
+ b.
+ Construction staging may occur with limited activities and limited work hours.
+ (d)
+ Permits.
+ (1)
+ The City Engineer shall have the sole responsibility for issuance of permits and licenses
+ pursuant to this Section. Reserved construction parking permits shall comply with
+Section 24.16.240
+.
+ (2)
+ In determining whether to issue a permit, the City Engineer shall consider the following:
+ a.
+ For the placement of pedestrian barricades in the public right-of-way, the applicant
+ shall demonstrate that the barricade: cannot be functionally located on private property;
+ provides for safe passage of pedestrians according to International Building Code
+ Chapter 33 and City Engineer; will be maintained in a usable, safe and attractive
+ manner; and is located so as to minimize the loss of public parking spaces to the
+ extent practicable.
+ b.
+ For the storage of construction materials in City rights-of-way, the applicant shall:
+ demonstrate that the materials cannot be functionally located on private property;
+ provide a pedestrian walkway to replace the sidewalk when it is blocked by construction
+ materials; and ensure that the period of storage is the minimum necessary to accomplish
+ necessary construction activities.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.140. - Limitations to soil stabilization methods.
+As a general policy, it is not in the City's interest to grant permanent encroachments,
+ thereby providing public property for private use. New and existing structures should
+ be able to accomplish their various needs within the confines of their property boundaries
+ and required setbacks. Variances from this requirement may be granted by the City
+ Engineer or City Council. Criteria which may be considered by the City Engineer for
+ granting a variance from this requirement include, but are not limited to:
+ (a)
+ Encroachments into the right-of-way associated with soil earth retention (pilings,
+ soils nails, etc.) may be authorized by the City Engineer under the following proposed
+ regulations which include, but are not limited to:
+ (1)
+ The associated structure is commercial or mixed commercial/residential.
+ (2)
+ The applicant must prove extenuating circumstances preclude using other methods of
+ stabilization that can be contained entirely within project property boundaries.
+ (3)
+ The earth retention fixture is sacrificial and can be removed after subsequent structural
+ elements are completed.
+ (4)
+ The earth retention structure does not extend past the back of curb of any abutting
+ roadway or into the driving surface of any alley and is installed 5' below any utilities.
+ (5)
+ In no circumstance shall any encroaching fixture be within the first 7' below grade.
+ (6)
+ The applicant shall pay a fee in accordance with 
+section 2.12.051
+ of the Municipal Code. The fee will encompass the total horizontal and vertical extent
+ of the appurtenance measured from the property line and shall be in effect for the
+ duration that the appurtenance is in service for its intended use.
+ (b)
+ Encroachments into the right-of-way associated with public infrastructure improvements
+ that provide a public benefit.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.150. - Construction and excavation subject to inspection.
+All work requiring a permit pursuant to the provisions of this Chapter shall be subject
+ to inspection, in compliance with City codes, at all times by the City Engineer. It
+ shall be unlawful to obstruct or hinder any lawful inspection. It is the responsibility
+ of the applicant to contact the Engineering Department twenty-four (24) hours in advance
+ of the construction schedule for required inspections. The applicant must explain
+ all existing conditions and proposed work on the permit application form. All inspections
+ must be scheduled during regular office hours at City Hall, which are from the hours
+ of 8:00 a.m. to 5:00 p.m., Monday through Friday, excluding holidays.
+ Field tests of construction materials shall be required by the Engineering Department
+ to ascertain compliance with specifications. An independent testing firm must make
+ tests, and the applicant shall pay all testing and re-testing expenses. A written
+ copy of all test reports must be submitted to the Engineering Department within twenty-four
+ (24) hours following completion of field and laboratory material tests (see construction
+ and excavation standards).
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.160. - Time limitations for excavations.
+No excavation shall be left open overnight. In the event of unforeseen extenuating
+ circumstances, a permittee may apply for an extension to this limitation and, after
+ investigation, the City Engineer may grant such an extension if the reasons and circumstances
+ justify an extension (see construction and excavation standards).
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.170. - Emergency access required.
+No construction shall be performed or excavation made in such manner as to prohibit
+ access by emergency vehicles to any building, structure or dwelling unit abutting
+ the street or public right-of-way. It shall be the responsibility of the permittee
+ to notify the Police Department when any construction or excavation obstructs the
+ roadway from sunset to sunrise.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.180. - Safety measures and barricades required.
+(a)
+ It shall be unlawful for any person to perform any work requiring a permit pursuant
+ to the provisions of this Chapter without providing sufficient warning lights and
+ safety barricades or fencing around the construction or excavation from sunset to
+ sunrise to prevent persons, animals and vehicles from sustaining injury or damage.
+ (b)
+ From sunrise to sunset, safety barricades or fencing shall be maintained but warning
+ lights are not required.
+ (c)
+ Flagmen, signals, special traffic signing, walkways, ramps, canopies or other similar
+ safety precautions shall be required when the City Engineer deems necessary in order
+ to maintain the health, welfare, safety and convenience of the public, and shall conform
+ to current MUTCD guidelines.
+ (d)
+ All state laws, provisions of this Code or other City ordinances dealing with measures
+ for the safety of workmen and the public shall be observed by permittees in addition
+ to any regulations contained in this Chapter (see construction and excavation standards).
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.190. - Protection of street improvements, utilities and adjacent property.
+Any person performing any work requiring a permit pursuant to the provisions of this
+ Chapter shall provide shoring, bracing, piling or other necessary devices and shall
+ use the necessary precautions to protect street improvements, utilities and adjacent
+ property from damage or disturbance. It shall be the responsibility of the permittee
+ to obtain the location of any underground utilities (see construction and excavation
+ standards).
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.200. - Responsibility to protect street improvements, utilities or property and report their damage.
+It is the responsibility of the permittee to sustain, secure and protect any pipes,
+ poles, mains, cables, street improvements or property from damage or disturbance that
+ was not previously authorized. If damage occurs, the permittee shall immediately notify
+ the City Engineer and the affected utility.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.210. - Removal of paved improvements.
+All cuts in asphalt shall be made in a neat manner by saw-cutting, rotomilling or
+ other approved method which assures cuts with square edges and straight lines to the
+ required depth of cut. Asphalt pavement cuts shall be such that no longitudinal joint
+ lies within the wheel track. All cuts in concrete shall be sawed; and sidewalk, curb
+ and gutter shall be removed to the nearest joint if, in the opinion of the City Engineer,
+ the portion otherwise remaining would be too small to function satisfactorily. Additional
+ mall brick pavement structure shall be removed to allow at least one (1) foot of exposed
+ subgrade on all sides of the excavation to ensure proper restoration of the surface.
+ Mall bricks shall not be cut, but shall be removed from the brick pattern intact and
+ stockpiled for reuse. Damaged bricks shall not be reinstalled but must be replaced
+ in accordance with the fee schedule in 
+Section 21.12.040
+ of this Chapter (see construction and excavation standards).
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.220. - Disposal and handling of excavation material.
+All excavated material shall be removed from the site and disposed of by the permittee
+ as the excavation is made when the City Engineer deems it necessary due to traffic
+ or other conditions. Any excavated material not removed immediately shall be stockpiled
+ in a location approved by the City Engineer.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.230. - Backfill.
+All backfill shall be free from muck, debris, paving, frozen material or organic matter
+ and shall be placed uniformly and at optimum moisture content for the required density.
+ Compaction shall be by mechanical tamping unless water jetting or flooding is specifically
+ approved by the City Engineer. The completed and compacted backfill shall project
+ slightly in a rounded surface above the original grade except where a temporary patch
+ is required. For excavations less than one hundred (100) cubic yards, the permittee
+ may backfill with controlled low strength material or flowfill if approved by the
+ City Engineer. All backfill material and compaction shall be subject to inspection
+ by the City Engineer and shall meet all City standards (see construction and excavation
+ standards).
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.240. - Select backfill.
+All excavations, cuts, openings or trenches shall be backfilled with imported material
+ unless native material is approved by the City Engineer (see Engineering Standards).
+ All trenches shall have a granular subbase or flowable backfill material, free from
+ organic matter and lumps or balls of clay, consisting of hard, durable particles or
+ fragments of stone or gravel and a filler of sand or other finely divided mineral
+ matter. Subbase material shall be compacted and placed in lifts compliant with City
+ standards (see Engineering Standards).
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.250. - Cleanup of work site.
+The permittee shall remove all excess excavated material, boulders, barricades, signs,
+ supplies, equipment, rubbish and debris from the work site within three (3) working
+ days. The work site shall be left in a neat and clean appearance. It is strongly recommended
+ that the permittee take photos of the condition of the site prior to excavation. In
+ the event that the City cleans up for the permittee, if for any reason the maintenance
+ bond is inadequate to cover the cost of the work performed by the City or its contractor
+ to clean the site, the amount of such deficiency or damage shall be certified to the
+ Finance Director, who shall collect the same from the person to whom the permit was
+ issued. No further permits shall be granted to that person or anyone else on the person's
+ behalf until the amount of such deficiency has been paid.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.260. - Responsibility of permittee to provide patch.
+Temporary or permanent asphalt patches shall be placed over all backfill for excavations
+ within paved roadways within twenty-four (24) hours of trench backfilling. Whenever
+ permanent patches are not constructed within twenty-four (24) hours following trench
+ backfilling operations, temporary pavement patches must be placed to provide the required
+ number of paved travel lanes. Temporary pavement patches may be left in place for
+ a maximum of five (5) working days following completion of backfilling operations
+ unless otherwise approved by the City Engineer. In paved improvements other than roadways,
+ the temporary patch shall be provided only when required by the City Engineer (see
+ construction and excavation standards). )
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.270. - Maintenance of backfill and temporary patch.
+All backfill and any pavement or improvement shall be maintained in a satisfactory
+ condition, and all places showing signs of settlement shall be filled and maintained
+ for a period of twenty-four (24) months following the date of satisfactory acceptance.
+ When the permittee is notified by the City Engineer that any backfill, patch or paved
+ improvement is hazardous, he or she shall correct such hazardous condition at once.
+ If the hazardous condition is not repaired within three (3) working days after notification,
+ the City may elect to repair the hazardous condition. The expense of such repair shall
+ be the responsibility of the permittee. Repair by the City will not release the permittee
+ from responsibility for subsequent failures.
+ Backhoe equipment outriggers shall be fitted with rubber pads or other like protective
+ material whenever outriggers are placed on any paved surface. Tracked vehicles that
+ may damage pavement surfaces shall not be permitted on paved surfaces unless specific
+ precautions are taken to protect the surface. The permittee shall be responsible for
+ any damage caused to the pavement by the operation of such equipment. Should the permittee
+ fail to make such repairs within three (3) days to the satisfaction of the City, the
+ City may repair any damage and charge the permittee.
+ Any utilities or paved improvements damaged by settlement shall be repaired at once
+ by the permittee to the satisfaction of the City Engineer. If the damage is not repaired
+ within three (3) working days after notification, the City may elect to repair the
+ damage. The expense of such repair shall be the responsibility of the permittee. Repair
+ by the City will not release the permittee from responsibility for subsequent damage
+ by settlement.
+ In addition, the permittee shall be responsible for the cost to the City of all claims
+ for damages made and actions brought against the City for and on account of such damage.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.280. - Responsibility of City to replace paved improvements.
+The City shall be responsible for replacing all paved improvements which are damaged
+ or removed as soon as practicable unless the permittee has elected to do so pursuant
+ to 
+Section 21.12.050
+ of this Chapter.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.290. - Compliance Required.
+Any work performed which is not in strict conformity with this Chapter shall, within
+ ten (10) days after notice to the owner or person who performed the work, be made
+ to conform to this Chapter at the expense of the owner or responsible party, or the
+ same shall be corrected or removed by the City at the expense of the owner or responsible
+ party (see Engineering Standards).
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.300. - Warranty period.
+Any repaving, restoration or improvement shall be warranted by the permittee against
+ all defects for a period of two (2) years from the completion of such work.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.310. - Termination of project if not expeditiously completed.
+All work authorized by a permit shall be commenced at the time specified on the permit
+ and shall be diligently and continuously performed until completed, with a maximum
+ allowable time of thirty (30) days. In the event that weather, process of law or any
+ other unexpected obstacles cause work to be stopped for so long that public travel
+ is unreasonably obstructed, the City Engineer may order the excavation refilled, compacted
+ and repaved as if the work contemplated in the permit were actually completed.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.320. - Repair to paved streets.
+All excavated streets that contain a layer of paving fabric shall be replaced with
+ paving fabric. Specifications for the paving fabric may be obtained from the City
+ Engineer (see construction and excavation standards).
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.330. - Placement of ribbon in utility trenches.
+All utility installations must have warning ribbon placed in the trench, eighteen
+ (18) inches above the cable, pipe or conduit. This applies to all exposed utilities.
+ The tape may be obtained from the utilities. The color of the tape shall be per industry
+ standards.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.340. - Repaving.
+In the case of excavations requiring repaving, the permittee shall follow all applicable
+ City standards. The City Engineer shall have sole discretion concerning the quality
+ and acceptance of a paved improvement. No certificate of occupancy shall be issued
+ for a project that has unacceptable paved improvements or patches (see Engineering
+ Standards).
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.350. - Restrictions to protect pedestrian and vehicular traffic.
+No opening or excavation shall be undercut or have a greater width at the bottom than
+ the top. In no case shall more than one-half (½) of the width of any street, alley
+ or other public place be opened or excavated at any one (1) time and, in all cases,
+ one-half (½) of such street, alley or other public place shall remain untouched for
+ the accommodations of traffic until the other one-half (½) is restored for safe use
+ unless otherwise authorized by the City Engineer. All such work shall be performed
+ in such a way as to cause minimum inconvenience and restriction to the public and
+ both pedestrian and vehicular traffic.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.360. - As-built drawings required.
+After completion of an approved project, the applicant shall furnish a mark-up of
+ the map showing all utilities encountered during the excavation, their size, identification
+ and location, based on swing ties to fixed monuments such as manholes, streetlights,
+ curbs and their depths below the surface of the street, alley or sidewalk area. This
+ mark-up shall also identify any new improvements made to the area, including, but
+ not limited to, utility connections, sidewalks, driveways, etc. These as-builts may
+ also be submitted in a digital format acceptable to the Engineering Department.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.370. - Excavation under existing curb, gutter and sidewalk.
+If any excavation occurs under existing curb, gutter or sidewalk, that curb and gutter
+ and sidewalk shall be removed and replaced. The replacement shall be from the nearest
+ concrete joint. The curb, gutter and sidewalk must be replaced within seven (7) working
+ days after the excavation is complete. The permittee may bore under curb, gutter and
+ sidewalk and not have to replace it if approved by the City Engineer (see construction
+ and excavation standards).
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.380. - Dust control.
+It shall be the permittee's responsibility to control dust at the excavation site.
+ Dust control measures shall occur as often as necessary as determined by the City
+ Engineer.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.390. - Violation; penalty.
+Any violations of this Title are punishable by a fine, imprisonment or both a fine
+ and imprisonment, as set forth in 
+Section 1.04.080
+ of this Code, or revocation of the violator's builder's or excavating license, or
+ any combination of such fine, imprisonment and revocation.
+ Each such person is guilty of a separate offense for each and every day during any
+ portion of which any violation of any provision of the ordinances of the City is committed,
+ continued or permitted by any such person and shall be punished accordingly.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.12.400. - Appeal procedures.
+(a)
+ Initiation. Any applicant aggrieved as a result of the denial of a permit requested
+ pursuant to 
+Chapter 21.12
+, by the City Engineer may appeal such adverse decision or determination and shall
+ initiate the appeal by filing a notice of appeal on a form prescribed by the City
+ Engineer. The notice of appeal shall be filed with the City Engineer within fourteen
+ (14) days of the date of the decision or determination being appealed. Failure to
+ file such notice of appeal within the prescribed time shall constitute a waiver of
+ any rights under this Title to appeal any decision or determination.
+ (b)
+ Effect of filing an appeal. The filing of a notice of appeal shall stay any proceedings
+ in furtherance of the action appealed from unless the City Engineer certifies in writing
+ to the Administrative Hearing Officer that a stay poses an imminent peril to life
+ or property, in which case the appeal shall not stay further proceedings. The Administrative
+ Hearing Officer may review such certification and grant or deny a stay of the proceedings.
+ (c)
+ Administrative Hearing Officer. The Administrative Hearing Officer shall have the
+ authority to hear an appeal from any decision or determination made by an administrative
+ official unless otherwise specifically stated in this Title.
+ (d)
+ Timing of appeal. The decision-making body authorized to hear the appeal shall consider
+ the appeal within thirty (30) days of the date of filing the notice of appeal or as
+ soon thereafter as is practical under the circumstances.
+ (e)
+ Notice requirements. Notice of the appeal shall be provided by mailing to the appellant
+ and by publication to all other affected parties. (See Subsection 
+26.304.060
+[E]).
+ (f)
+ Standard of review. Unless otherwise specifically stated in this Title, the decision-making
+ body authorized to hear the appeal shall decide the appeal based solely upon the record
+ established by the body from which the appeal is taken. A decision or determination
+ shall be not be reversed or modified unless there is a finding that there was a denial
+ of due process or the administrative body has exceeded its jurisdiction or abused
+ its discretion.
+ (g)
+ Action by the decision-making body hearing the appeal. The decision-making body hearing
+ the appeal may reverse, affirm or modify the decision or determination appealed from
+ and, if the decision is modified, shall be deemed to have all the powers of the officer,
+ board or commission from whom the appeal is taken, including the power to impose reasonable
+ conditions to be complied with by the appellant. The decision-making body may also
+ elect to remand an appeal to the body that originally heard the matter for further
+ proceedings consistent with that body's jurisdiction and directions given, if any,
+ by the body hearing the appeal. The decision shall be approved by written resolution.
+ All appeals shall be public meetings.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Chapter 21.16. - SIDEWALK, DRIVEWAY, CURB AND GUTTER
+
+
+===== Sec. 21.16.010. - Permit required.
+No sidewalk, driveway, curb, gutter or related street improvement required by this
+ Chapter shall be constructed or repaired without complying with the requirements of
+Chapter 21.12
+.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.16.020. - Construction to comply with standard specifications.
+All sidewalk, driveway, curb and gutter construction shall be in accordance with the
+ City's Engineering Standards for the same on file in the office of the City Engineer.
+ Any sidewalk, driveway, curb and gutter construction that does not comply with the
+ standards set forth by the Engineering Department, at the sole determination of the
+ City Engineer, shall be replaced with compliant construction.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.16.030. - Construction of sidewalk, curb and gutter required for all construction in certain districts.
+The Building Inspector shall not issue a certificate of occupancy or certificate of
+ completion for any construction unless sidewalk, curb and gutter have been constructed
+ as required by the Engineering Standards.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.16.040. - Reservation of funds for construction of sidewalk, curb and gutter.
+If the weather prevents construction of the improvements required by 
+Section 21.16.030
+ above at the time of completion of the principal improvements, the Building Inspector
+ may issue a certificate of occupancy after funds have been escrowed for the construction
+ of the same. The amount of the escrow shall be determined by the City Engineer and
+ shall be at least one hundred percent (100%) of the current cost of construction.
+ The escrow agreement shall in no way relieve the owner of the responsibility for construction
+ of the improvements when it shall become practicable.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.16.050. - Procedures when not feasible to construct sidewalk, curb and gutter.
+If the City Engineer deems that the construction of improvements required by 
+Section 21.16.030
+ above is inappropriate at the time of completion of the principal improvements due
+ to existing conditions or future City plans, the Building Inspector may issue a certificate
+ of occupancy after the owner of the property has complied with one (1) of the following:
+ (a)
+ The owner shall have escrowed funds as required in 
+Section 21.16.040
+. This procedure shall be used only if it appears feasible that the improvements will
+ be constructed within three (3) years. In the event that the improvements are not
+ made within three (3) years, the escrowed funds shall be released, and the owner shall
+ enter into an agreement as required in Subparagraph (b) of this Section.
+ (b)
+ If existing improvements or conditions make construction of sidewalk, curb and gutter
+ within three (3) years unfeasible, the owner shall have entered into an agreement
+ with the City whereby he or she shall agree to construct or pay for the construction
+ of said improvements when the City deems their construction necessary and feasible.
+ This agreement shall be a covenant running with the land.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.16.060. - Driveway and curbcut specifications.
+All driveway and curbcut plans shall conform to City standards (see Engineering Standards).
+ No driveway or curbcut shall be allowed on State Highway 82 or other designated arterial
+ where public alley access exists, anything to the contrary notwithstanding.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.16.070. - Variations in driveways and curbcuts allowed for unusual conditions.
+Under unusual conditions of topography, drainage, existing landscaping or improvements
+ on City rights-of-way, existing buildings or improvements on private property or special
+ use requirements for the property, a variance from the requirements in 
+Section 21.16.060
+ above for driveways and curb cuts may be given by the City Engineer upon filing a
+ written application and a plot plan showing the building site and special conditions
+ existing thereon. Any person aggrieved of a decision by the City Engineer under this
+ Section may seek a variance from the Administrative Hearing Officer pursuant to the
+ procedures set out in Chapter 26.108 of this Code except to the extent set forth herein.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.16.080. - Responsibility to repair sidewalks, driveways and gutters.
+When notified that any sidewalk, driveway, curb, gutter or any combination thereof,
+ in front of, abutting upon or servicing any premises shall be in need of repair, the
+ City Engineer shall cause notice to be served upon the owner or other person in charge
+ of or having the control and supervision of the premises to repair such sidewalk,
+ driveway, curb or gutter within thirty (30) days. It shall be unlawful for any person
+ to fail or refuse to comply with such notice to repair. Upon a failure or refusal
+ to comply with such a notice to repair, the City Engineer may repair the same by day's
+ work or by contract, and the cost of such repair may be assessed upon and made a lien
+ upon the land so benefited. In addition thereto, the City may cause an action to be
+ instituted against the owner or the person in charge of the premises upon whom such
+ notice was served in any court of competent jurisdiction to recover such costs. All
+ such remedies shall be cumulative.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.16.090. - Definition of sidewalk in need of repair.
+For the purpose of this Chapter, a 
+sidewalk in need of repair
+ shall mean a sidewalk in any of the following conditions:
+ (a)
+ Concrete that is spalling or crumbling.
+ (b)
+ Vertical displacement of the adjoining sidewalk section is in excess of half (1/2)
+ inch;
+ (c)
+ Lateral displacement of adjoining sidewalk section is in excess of half (1/2) inch;
+ or
+ (d)
+ The sidewalk has a transverse slope in excess of one (1) inch per foot or the combination
+ of transverse and longitudinal grade is insufficient for adequate drainage of the
+ sidewalk causing accumulation of water and ice.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Chapter 21.20. - TREES AND LANDSCAPING ON PUBLIC RIGHT-OF-WAY
+
+
+===== Sec. 21.20.010. - Approval required for landscaping in sidewalk area.
+All trees, shrubs, foliage and other landscaping planted in the sidewalk area or other
+ public right-of-way shall be approved as to location and type by the City Engineer
+ and the Director of Parks in accordance with the provisions of this Chapter and the
+ following considerations:
+ (a)
+ Location, arrangement and species shall conform to the adopted street landscaping
+ plan.
+ (b)
+ Special consideration shall be given to the problem of drainage and snow removal.
+ (c)
+ Location and arrangement shall provide for pedestrian access.
+ (d)
+ Location shall be such as not to obstruct corner sight distances at intersections.
+ (e)
+ Coordination of landscaping on public rights-of-way with required open or landscaped
+ areas on private property so as to achieve the most effective use of the total area.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.20.020. - Landscaping required for new construction.
+For all new construction landscaping shall be provided in the sidewalk area or public
+ right-of-way adjoining the building site in accordance with the adopted street landscaping
+ plan.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.20.030. - Specifications for landscaping in sidewalk area.
+Landscaping and planting areas shall meet the following specifications:
+ (a)
+ Planting areas at sidewalk grade adjoining the curb shall be a minimum of four (4)
+ feet in width.
+ (b)
+ Planting areas provided in paved areas shall be a minimum of three (3) feet in diameter
+ or eight (8) square feet in area.
+ (c)
+ Trees planted at sidewalk grade shall be provided with tree grates and trunk protectors
+ at least four (4) feet in height.
+ (d)
+ Elevated planting areas are preferred in Commercial Districts and where provided,
+ shall be a minimum of twenty (20) inches above sidewalk grade.
+ (e)
+ Gravel, crushed stone, washed rock and similar materials shall not be allowed in the
+ sidewalk area at grade. Such materials shall not be allowed in lieu of landscaping
+ unless approved as part of an overall plan.
+ (f)
+ When any area is paved, a minimum of twelve (12) inches of unsurfaced area shall be
+ left around the base of all existing trees.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.20.040. - Property owner responsibility for landscaping after construction.
+Whenever the landscaping in any portion of the sidewalk area or other public rights-of-way
+ is disturbed by construction or excavation related to construction on private property,
+ the owner of the property shall be responsible for landscaping the damaged right-of-way
+ in accordance with the provisions of this Chapter.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.20.050. - Property owner responsible for maintenance of landscaping in adjoining right-of-way.
+The property owner shall be responsible for maintaining the landscaping in that portion
+ of the sidewalk area or other public right-of-way which adjoins his or her property;
+ provided that the City shall be responsible for the pruning or removal of any trees
+ which are not under any guarantee of the owner. Maintenance shall include mowing,
+ trimming and planting of annual plants if such is required by the landscape plan.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.20.060. - Approval required for paving of planting areas.
+Planting areas provided in accordance with an approved landscape plan shall not be
+ paved without the approval of the Director of Parks.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.20.070. - Requirements for removal of trees; approval required.
+It shall be unlawful for any person, whether a property owner or not, to cut or remove
+ trees situated upon City property, streets or other public rights-of-way without first
+ obtaining written approval from the Director of Parks. Grant or denial of approval
+ shall be based upon the adequacy of the replanting plan as relates to the number,
+ size and species of new trees; guarantees for restoration of any other landscaping;
+ indemnification of the City against any claims arising from damage to public or private
+ property or injury to persons; and any other conditions the Director of Parks shall
+ deem pertinent.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.20.080. - Requirements of conservation of water in landscaping on public rights-of-way.
+The Director of Parks shall develop and implement a conservation and irrigation program
+ to increase the efficiency of water use on public open space areas including parks,
+ greenbelts, public golf courses, roadway right-of-way plantings, street medians and
+ all other public open spaces.
+ The program shall include, as a minimum, the following:
+ (a)
+ Limiting to functional areas of heavy pedestrian traffic, such as ball fields or areas
+ proximal to entryways, the locations on which frequently irrigated and mowed turf
+ such as bluegrass is to be maintained and restricting the use of turf in median strips;
+ (b)
+ Ensuring the use of efficient irrigation techniques and systems, including the limitation
+ of landscape irrigation between the hours of 11:00 a.m. and 3:00 p.m.; employing the
+ use of nonpotable water supplies and water reuse where such supplies and water reuse
+ are available for irrigation of areas exceeding ten (10) acres; and using seasonally
+ variable irrigation schedules which match the evapotranspiration needs of the plants
+ being irrigated;
+ (c)
+ Analyzing and improving soil on the site to maximize moisture availability for plant
+ intake and to increase soil moisture penetration and retention;
+ (d)
+ Using mulches to reduce water needs and weed growth and to check soil erosion;
+ (e)
+ Using lower water-demand plants, ground cover and grass species to reduce water usage;
+ (f)
+ Planning for routine maintenance such as weed control, pruning and irrigation system
+ adjustments so as to reduce water usage; and
+ (g)
+ Using evapotranspiration data, when available, to determine water needs.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Chapter 21.24. - PERMITS FOR SKI STORAGE RACKS ENCROACHING OR LOCATED UPON PUBLIC RIGHTS-OF-WAY
+
+
+===== Sec. 21.24.010. - Permit for installing and operating ski storage rack encroaching or located upon public right-of-way; qualification; application.
+The owner of any business conducted within the City for which a business license has
+ been issued may apply to the City Engineering Department for a permit to install,
+ operate and maintain a ski storage rack on the outside wall of the building in which
+ his or her business is located or in such other area as may be approved by the City
+ Engineering Department, for purposes of temporary storage of skis by the general public.
+ The application shall be made upon the form provided by the City Engineering Department
+ and shall include an affidavit signed by the applicant (and by the owner of the building
+ if the applicant is a lessee) stating the name of the applicant and of the owner of
+ the building, the name and address of the business and such other additional information
+ as the City Engineering Department may reasonably require from time to time and stating
+ further that the applicant (and owner, if not the applicant) agrees to save, defend
+ and hold harmless the City from all liabilities or claims due to loss, damage, theft
+ or injury of or to persons or property arising from the use of such rack and stating
+ further that the applicant agrees to comply with the provisions of this Chapter and
+ with all regulations which may be promulgated from time to time by the City Engineering
+ Department in connection with the installation, operation, maintenance and use of
+ such racks. The application shall be accompanied by the full amount of the fee required
+ for such permit and by an accurate drawing of the proposed rack showing the design
+ and location thereof.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.24.020. - General specifications for ski storage racks.
+In addition to whatever regulations the City Engineering Department may from time
+ to time promulgate in connection with such racks, all ski storage racks shall:
+ (a)
+ Be fitted with functional locks and be of such structural design as shall be approved
+ by the City Engineering Department.
+ (b)
+ Be so designed and constructed as to harmonize as closely as possible with the buildings
+ to which they are attached or with whatever other approved area they may be located
+ upon.
+ (c)
+ If of the wall-mounted type, allow a minimum clearance for purposes of snow removal
+ and ordinary sidewalk traffic of at least six (6) feet between the nearest curb and
+ the furthest protrusion of the rack and of at least six (6) inches from the lowest
+ part of the rack and of the ski carried by such rack and sidewalk.
+ (d)
+ Clearly display the name, address and phone number of the applicant-operator of the
+ rack.
+ (e)
+ Be maintained in an operable condition at all times.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.24.030. - Fees; expiration of permit.
+The fee for the permit required by this Chapter shall be as prescribed at Subsection
+2.12.050
+(e) of this Code, which fee shall be paid to the Director of Finance on or before
+ February 1 of each and every year. The permit required by this Chapter shall automatically
+ expire on February 1 of any year for which the permit fee has not been paid for the
+ next year as above required.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.24.040. - Termination of permit; removal of racks.
+The occurrence of any of the following events shall cause the automatic revocation
+ and termination of a permit issued under the provisions of this Chapter and the ski
+ storage rack installed under such permit shall be completely removed by the permit
+ holder within ten (10) days following the termination thereof, to wit:
+ (a)
+ Termination of the permit holder's right to occupy the building space described in
+ the permit application or the permanent removal of the permit holder's business from
+ such space.
+ (b)
+ The failure of the permit holder to remedy any violations of this Chapter or of the
+ regulations promulgated hereunder within ten (10) days following receipt by the permit
+ holder of written notice from the City Engineering Department that such violations
+ have occurred.
+ (c)
+ The receipt by the permit holder of written notice from the City Engineering Department
+ that the City has provided adequate public ski storage in malled areas or other public
+ places.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.24.050. - Permit required; violation of chapter provisions or regulation; separate offense for each day's violation.
+The installation or operation of any ski storage rack which encroaches or is located
+ upon a public right-of-way (a) without first having procured a permit from the City
+ so to do or (b) in violation of any of the provisions of this Chapter or of any regulation
+ promulgated hereunder by the City Engineering Department or the failure to remove
+ a rack within ten (10) days following the termination of the related permit, shall
+ constitute a violation of this Chapter and shall be deemed a separate violation hereof
+ for each and every day that such violation continues. Any such violation shall be
+ unlawful and shall be subject to criminal prosecution in the Municipal Court of the
+ City.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Chapter 21.26. - COMPLETE STREETS
+
+
+===== Sec. 21.26.010. - Purpose.
+To ensure that all residents and visitors of Aspen can safely walk, bicycle and have
+ easy access to transit as part of their daily routine.
+ To improve quality of life and community character by minimizing and mitigating the
+ impacts of vehicle traffic on residents and visitors.
+ To support the City's environmental stewardship goals of improving air quality, lowering
+ greenhouse gas emissions, reducing noise and increasing renewable energy use.
+ To ensure the safety of motorists.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.26.020. - Principals.
+The following guiding principles are to ensure that transportation improvements are
+ planned, designed and constructed to encourage walking, bicycling and transit use
+ while promoting safe operations for all users:
+ (a)
+ Plan for, design and construct all new transportation improvement projects to provide
+ appropriate accommodation for pedestrians, bicyclists, transit riders, and persons
+ of all abilities, while promoting safe operation for all users.
+ (b)
+ Operate and maintain the transportation network to improve travel conditions for bicyclists,
+ pedestrians, transit, and motorists in a manner consistent with, and supportive of,
+ the surrounding community;
+ (c)
+ Improvements will include an array of facilities and amenities including: street and
+ sidewalk lighting; pedestrian and bicycle safety improvements; intersection improvements;
+ access improvements, including compliance with the Americans with Disabilities Act;
+ public transit facilities accommodation including, but not limited, to pedestrian
+ access improvement to transit stops and stations; street trees and landscaping; drainage;
+ and street amenities;
+ (d)
+ Implement these policies with a master plan approach recognizing that all streets
+ are different and in each case user needs must be balanced.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.26.030. - Evaluation of New Projects.
+The Pedestrian and Bike Safety Team ( which consists of various internal departments
+ including Engineering, Police, Parking, Streets, Asset, Environmental Health, and
+ Transportation departments) will provide input as to how pedestrians, bicycles and
+ transit use can be accommodated. This will include but not be limited to street and
+ sidewalk lighting; pedestrian and bicycle safety improvements; intersection improvements;
+ access improvements, including compliance with the Americans with Disabilities Act;
+ public transit facilities accommodation including, but not limited, to pedestrian
+ access improvement to transit stops and stations; street trees and landscaping; drainage;
+ and street amenities.
+ After a new project, improvement or recommendation is implemented, staff will evaluate
+ its impacts which may include issues such as: traffic speeds; traffic diversion onto
+ other streets; pedestrian or bicycle conflicts or other issues. Any unacceptable impacts
+ will be identified and evaluated with recommendations made to correct problems.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Chapter 21.28. - LOCAL PUBLIC IMPROVEMENTS
+Footnotes: 
+ --- (
+2
+) ---
+State Law reference— 
+ Public improvements, Section 31-25-101 et seq. C.R.S.
+
+===== Sec. 21.28.010. - City to contract.
+The City shall have the power to contract for, construct or install special or local
+ public improvements; to assess the cost thereof, wholly or in part, against the property
+ specially benefited; to make and contract for a local public improvement, to pay from
+ any lawful fund that portion of the cost which is general public benefit and to accept
+ contributions or grants-in-aid to supply the whole or any part of the cost apportioned
+ to the City or to accept and apply such contribution or grants in aid wholly or in
+ part to the credit of the appropriate public improvement district.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.28.020. - Contract.
+(a)
+ Where the cost of local public improvements is to be assessed wholly or in part upon
+ the property benefited, the improvements shall be constructed by independent contract
+ or contracts, subject to the requirements of this Section. All such contracts shall
+ be let by the City Manager, with the approval of the City Council, to the lowest reliable
+ and responsible bidder after publication of notice to bidders, once a week for two
+ (2) consecutive weeks by two (2) insertions in a newspaper of general circulation
+ within the City and such other newspaper or newspapers as may be designated by the
+ City Council. The right to reject any and all bids shall be reserved. No contract
+ shall be made without bond for its faithful performance with sufficient surety or
+ sureties thereon.
+ (b)
+ Upon notice and for substantial cause, the work under such contracts may be immediately
+ suspended or terminated by the City Council or the City Manager.
+ (c)
+ The City Manager may impose such conditions upon bidders as the City Manager may deem
+ appropriate.
+ (d)
+ Upon default in the performance of any contract, the City Manager may advertise and
+ let a contract for the uncompleted work in a like manner and without further ordinance
+ and may charge the cost thereof to the original contractor upon his or her contract
+ and when a deficiency shall in such case occur, the City Manager, with the approval
+ of the City Council, may advance the amount thereof out of any available funds in
+ the City and recover the same by suit on the original contract and bond.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.28.030. - Assessment of property.
+When the cost of a local improvement is to be assessed wholly or in part upon the
+ property benefited, the cost shall be assessed in proportion to benefits received.
+ The assessments may be in proportion as the frontage of each lot or tract of land
+ is to the frontage of all the lots and lands so improved, may be in proportion as
+ the area of each piece of real estate in the district is to the area of all the real
+ estate in the district, may be set by the establishment of zones based upon the proximity
+ of each zone to the improvement to be made, may be borne equally by the total number
+ of platted sites in a residential development without computing the common areas as
+ a site or may be established by any other method that will result in assessments being
+ equitable in proportion to benefits received. All costs for any improvement may be
+ spread to all properties in the improvement district. If, at the time of the passage
+ of the ordinance authorizing any improvement, any piece of real estate has the whole
+ or any part of the proposed improvement conforming to the general plan and acceptable
+ to the City Engineer, the existing improvement may be adopted in whole or in part
+ or necessary changes thereof may be made to make the same conform to the general plan
+ and the owner of such real estate shall, when the assessment is made, be credited
+ with the amount which is saved by reason of adopting or adapting such existing improvement.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.28.040. - Initiation of improvement.
+Where the cost of a local public improvement is to be assessed wholly or in part upon
+ the property benefited, the improvement may be initiated by the owners of more than
+ fifty percent (50%) of the area of the proposed district, including at least fifty
+ percent (50%) of the landowners residing in the district or may be initiated by order
+ of the City Council without receiving a petition therefor, subject however, to protest
+ by the landowners of more than fifty percent (50%) of all property benefited and constituting
+ the basis of the assessment as the City Council may determine.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.28.050. - Rules of petition.
+(a)
+ Petitions for a proposed improvement shall describe the real property owned by each
+ signer being benefited by the proposed improvement; shall state the nature and location
+ of the proposed improvement and the proposed maximum unit cost thereof, which unit
+ cost shall be exclusive of the costs of collection of the assessments, of other incidentals
+ and all interest on any bonds issued in payment of construction and other costs from
+ the time of issuance of said bonds to the time that interest commences on assessments;
+ shall authorize the advertising of the proposed improvement for remonstrances if a
+ preliminary, informal estimate of the City Engineer indicates that the cost of the
+ proposed improvement will not exceed by more than ten percent (10%) the maximum unit
+ cost set forth in the petition; shall state that the petitioners will not challenge
+ the formation of the district or the imposition of assessments for reasons other than
+ errors in mathematical computations and shall authorize an increase of the proposed
+ maximum unit cost by not more than ten percent (10%) thereof and the assessment of
+ such increase if the estimate of the City Engineer determines that such increase is
+ necessary.
+ (b)
+ All signatures on petitions shall be subscribed and acknowledged in the manner provided
+ by law for acknowledgement of deeds of conveyance of real estate; provided, however,
+ that the signature of any owner or owners of real property may be attached to a petition
+ by their agents duly authorized by Power of Attorney accompanying the petition. No
+ petitioner, his or her heirs or assigns, shall be permitted to withdraw from a petition
+ after such petition has been filed with the City Manager unless the proposed improvement
+ is not advertised for remonstrances within nine (9) months from the filing of the
+ petition with the City Manager and any petitioner who fails to withdraw prior to advertising
+ shall be deemed to have waived his or her right to withdraw.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.28.060. - Public notice of proposed improvement.
+(a)
+ In all cases where the cost of local public improvements is assessed wholly or in
+ part upon property benefited, public notice of the proposed improvements, either individually
+ or in groups and of a hearing or hearings on the proposed improvements shall be given
+ by publication in one (1) issue of a newspaper of general circulation in the City,
+ the publication to be at least fifteen (15) days prior to the date of the hearing.
+ The same notice of hearing shall be mailed by first class mail to the owners of record
+ of all real estate within the proposed district who are to be assessed for the cost
+ of improvements, as such owners of record are determined by reference to the current
+ records in the office of the County Assessor as such records are kept by that official
+ for the purpose of performing the function of county assessor.
+ (b)
+ The mailed notice shall be made on or about the date of publication of the notice
+ of hearing. The notices shall specify the kind of improvements which are proposed;
+ the property to be included within the district and benefited by the proposed improvements;
+ the proposed method or methods of assessment; the manner of payment therefor including
+ the proposed number of annual installments; the date, place and time for hearing written
+ remonstrances to the proposed improvements; and that a map and schedule showing the
+ approximate cost of the improvements as provided by the estimates of the City Engineer
+ are on file and can be seen and examined by any interested person at the office of
+ the City Clerk or other designated place before the date of the hearing.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.28.070. - Hearing of advertised proposed improvements.
+(a)
+ On the day and at the time and place specified in the notice, the City Manager shall
+ conduct a hearing for the purpose of considering the desirability of and the need
+ for the proposed improvements. If, for any reason, the hearing is postponed and not
+ held until a later hour or date, written remonstrances to a proposed improvement shall
+ be accepted up to the opening of the postponed hearing session. Otherwise, such written
+ remonstrances must be filed prior to the date and hour of the original hearing.
+ (b)
+ All written remonstrances to a proposed improvement shall be subscribed and acknowledged
+ in the same manner as is required for petitions for proposed improvements. No person
+ who has signed his or her name for an improvement shall be permitted to sign a remonstrance
+ to the same improvement unless such person has regularly withdrawn from such petition
+ as herein provided.
+ (c)
+ If a duly executed, written remonstrance is timely filed by persons constituting the
+ owners of the property to be assessed for more than fifty percent (50%) of the proposed
+ improvements, the proposed improvements to such property shall not be operated.
+ (d)
+ After the hearing and subject to the foregoing limitations, the City Manager shall
+ enter an order approving those improvements which the City Manager considers proper
+ and disapproving those proposed improvements which the City Manager considers improper.
+ (e)
+ All proceedings by the City Manager may be modified or rescinded wholly or in part
+ at any time prior to the passage of the ordinance authorizing the improvements, provided
+ that no substantial change in the district, preliminary plans, specifications or estimates
+ shall be made after the publication of notice to property owners, except the deletion
+ of improvements and property from the proposed district and provided further that
+ the City Manager shall have the right to make minor changes to the time, plans, specifications
+ or estimates concerning the proposed improvements at any time before the improvements
+ are complete. Any objections to the regularity, validity or correctness of the proceedings
+ and instruments taken or correctness of the proceedings and instruments taken, adopted
+ or made prior to the date of said hearing shall be deemed to be waived unless presented
+ by remonstrance at the time and in the manner herein specified.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.28.080. - Formation.
+Upon fulfillment of the hearing requirements of this Chapter, the City Engineer shall
+ combine into suitable construction units those proposed local improvements which have
+ been approved by the City Manager following said hearing. Each construction unit,
+ whether or not composed of contiguous parcels, shall constitute a Special or Local,
+ Public Improvement District or shall be combined into a single district with multiple
+ construction phases and shall be so referred to hereinafter. In the formation of such
+ Special Improvement District or Districts, the City Engineer shall make such combination
+ as, in the City Engineer's judgment, will make for efficiency in construction and
+ which will result in the lowest possible construction cost. For each such Special
+ Improvement District, the City Engineer shall submit to the City Manager the following:
+ (1)
+ A detailed estimate of the total cost of the improvements exclusive of the costs of
+ collection, incidentals, interest on bonds and costs of bond issuance;
+ (2)
+ A detailed estimate of the cost of each major type of improvement included within
+ the district exclusive of the costs of collection, incidentals, interest on bonds
+ and costs of bond issuance;
+ (3)
+ The estimated time of construction;
+ (4)
+ Full details and specifications for the construction of the proposed improvements,
+ which details and specifications shall permit and encourage competition among bidders;
+ and
+ (5)
+ A map showing the real property to be assessed for the cost of construction and that
+ portion, if any, which is either to be paid by the City or otherwise not assessed
+ for the improvements.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.28.090. - Approval.
+(a)
+ Whenever the City Manager approves a Special Improvement District following the procedures
+ set forth herein, the City Manager shall cause to be prepared and submitted to the
+ City Council an ordinance authorizing the creation of the district and the construction
+ of the proposed improvements.
+ (b)
+ The finding by ordinance of the City Council that said improvements were duly ordered
+ after notice duly given and after hearing duly held as required pursuant to this Chapter,
+ that a petition was presented, that the petition was subscribed by all or the required
+ number of owners or that a remonstrance was or was not filed shall be conclusive of
+ the facts so stated in every court or tribunal.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.28.100. - Owners of abutting real estate.
+Before beginning construction, the City Manager may order the owners of the abutting
+ real estate to connect their several premises with the gas, water and sewer mains
+ or with any other conduits in the street or alley adjacent to their premises. In case
+ of a failure or refusal by the owners of the abutting real estate to make the ordered
+ connections, such connections shall be made incidental to the authorized construction
+ and the cost thereof shall be assessed upon the appropriate abutting real estate.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.28.110. - Statement of expenses; apportionment; notice of hearing on assessments.
+(a)
+ Upon completion of any local improvement, upon completion from time to time of any
+ part thereof and upon acceptance thereof by the City Manager or when the total cost
+ of any improvement or of any such part thereof, can be definitely ascertained either
+ prior to or after commencement of construction, the City Manager shall cause to be
+ prepared a statement showing the whole cost of the improvement and the portion thereof,
+ if any, to be paid by the City, including an amount not exceeding six percent (6%)
+ additional for the cost of inspection, collection and other incidentals and also including
+ interest on the bonds issued to the time of payment of the first installment of the
+ assessments, apportioning said costs, after deducting the amount, if any, to be paid
+ by the City, upon each lot or tract of land to be assessed for same, which statement
+ shall be filed in the office of the City Clerk. In determining the whole cost of the
+ local improvement, there shall be included therein without limitation of the generality
+ of the foregoing, the cost of constructing or otherwise acquiring such improvements
+ or property and rights-of-way therefor, contingencies, engineering and clerical services,
+ supplies, inspection, processing, collection of assessments, advertising, printing,
+ interest on bonds until interest on assessments commences to defray such fiscal services,
+ legal services and other incidental and administrative costs.
+ (b)
+ The City Clerk shall give notice that the assessment roll has been completed and of
+ a hearing on the assessment roll by publication in one (1) issue of a newspaper of
+ general circulation in the City, the publication to be at least fifteen (15) days
+ prior to the date of the hearing. The same notice of hearing shall be mailed by first
+ class mail to the owner of each property to be assessed for the cost of the improvements.
+ The mailed notice shall be made on or about the date of the publication of the notice
+ of hearing. The notices shall specify that said improvements have been or are about
+ to be completed and accepted or that a contractor has or is about to be selected for
+ the work and that the cost of the improvements can now be ascertained; the whole costs
+ of the improvements; the portion, if any, to be paid by the City; the share apportioned
+ to each lot or tract of land; that any complaints or objections which may be made
+ in writing by the property owners or any citizen to the City Council and filed in
+ writing on or prior to the date and hour of the hearing will be heard and determined
+ by the City Council before the passage of any ordinance assessing the cost of said
+ improvements; and the date and place where such complaints or objections will be heard.
+ Any complaint or objection to the regularity, validity or correctness of the proceedings
+ or of said proposed apportionment or of any assessment based thereon and the amount
+ thereof levied on each tract and parcel of land shall be deemed waived unless presented
+ in writing at the time and in the manner herein specified.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.28.120. - Complaints.
+At the time specified in the notice or at a properly adjourned time, the City Council,
+ sitting as a board of equalization, shall hear and determine all written complaints
+ and objections filed with the City and may confirm the apportionment proposed or make
+ any modifications which may seem equitable and just. After the consideration of all
+ complaints and objections to the apportionment, if any change in the apportionment
+ shall be made by the Council, it shall certify such change to the City Manager who
+ shall prepare a new apportionment and an assessing ordinance in accordance therewith
+ and shall transmit same to Council. The assessing ordinance shall assess the cost
+ of the improvement against the real estate to be assessed in the district in the proportion
+ finally determined. The passage of the assessing ordinance shall be prima facie evidence
+ of the fact that the property assessed is benefited in the amount of the assessment
+ and that the assessments have been lawfully made.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.28.130. - Assessment roll.
+The City Clerk shall, from said ordinance, prepare a local assessment roll in book
+ form showing in suitable columns each piece of real estate assessed, the amount of
+ the assessment, the amounts of each installment of principal and interest if, pursuant
+ to this Chapter, the same is payable in installments and the date when such installments
+ will become due, with suitable columns for use in case of payment of the whole amount
+ or of any installment or penalty and the City Clerk shall deliver the same duly certified
+ to the Finance Director for collection.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.28.140. - Lien against property.
+(a)
+ From the date of the final publication of the assessing ordinance, all assessments
+ made pursuant thereto shall be a lien in the several amounts assessed against each
+ lot or tract of land and such assessments shall have priority over all other liens
+ except general taxes. As to any subdivisions of any real estate assessed pursuant
+ thereto, the assessments in each case shall be a lien upon all the subdivisions in
+ proportion to their respective areas. No delays, mistakes, errors, defects or irregularities
+ in any act or proceeding authorized herein shall prejudice or invalidate any final
+ assessment, but the same shall be remedied by subsequent or amended acts or proceedings
+ as the case may require and when so remedied, the same shall take effect as of the
+ date of the original act or proceeding.
+ (b)
+ If, in any court of competent jurisdiction, any final assessment is set aside for
+ irregularity in the proceedings or for any other reason, then the Council, upon notice
+ as required in the making of an original assessment, may make a new assessment in
+ accordance with the provisions herein.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.28.150. - Assessment; due and payable.
+(a)
+ Without demand, all assessments shall be due and payable within thirty (30) days after
+ the publication of the assessing ordinance after its passage, provided that the City
+ Council may provide that, at the election of the owners, such assessments may be paid
+ in not more than fifteen (15) equal installments, which installments, with interest
+ in all cases on the unpaid portion of such assessment, shall be payable annually with
+ interest at a rate as determined by the City Council on the unpaid assessment. The
+ number of installments, periods of payment and rate of interest shall be determined
+ and fixed by the City Council in the assessing ordinance. Payment may be made to the
+ City Treasurer at any time within thirty (30) days after the publication of the assessing
+ ordinance, after its passage and an allowance of five per centum (5%) for costs of
+ collection may be made on all payments during said period of thirty (30) days.
+ (b)
+ Failure to pay the whole assessment within the said period of thirty (30) days shall
+ be conclusively considered and held as an election on the part of all persons interested,
+ whether under disability or otherwise, to pay in such installments. The election of
+ any person to pay in installments shall be conclusively considered and held a waiver
+ of any and all rights to question the power or jurisdiction of the City to construct
+ the improvements, the quality of the work, the regularity or sufficiency of the proceedings
+ or the validity or correctness of the assessment.
+ (c)
+ The owner of any piece of real estate not in default as to any installment or payment
+ may, at any time, pay the whole unpaid principal of his or her assessment with the
+ interest to the time the next installment of interest or principal becomes due and
+ payable.
+ (d)
+ The owner of any divided or undivided interest may pay his or her share of any assessment.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.28.160. - Default of payment.
+At the expiration of said thirty (30) day period provided in 
+Section 21.28.150
+, the Finance Director shall return the local assessment roll to the City Clerk, thereon
+ showing all payments made thereon with the date of each payment. Said roll shall be
+ certified by the City Clerk and shall be delivered by the City Clerk to the County
+ Treasurer with a warrant for the collection of the same. The City Clerk shall obtain
+ a receipt from the County Treasurer for the same. The County Treasurer shall receive
+ payment of all assessments appearing upon the assessment roll with interest. In case
+ of default in the payment of any installment of principal or interest when due, the
+ County Treasurer shall advertise and sell any and all property concerning which such
+ default is suffered for the payment of the whole of the unpaid assessments with interest
+ and penalties thereon. Said advertisements and sales shall be made at the same time
+ and in the same manner under all the same conditions and penalties and with the same
+ effect as are provided by general law for sales of real estate in default of payment
+ of general taxes.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.28.170. - Failure to pay.
+Failure to pay any installment, whether of principal or interest, when due shall cause
+ the whole of the unpaid principal to become due and payable immediately and the whole
+ amount of the unpaid principal and accruing interest shall thereafter draw additional
+ interest at the rate of one and one-half percent (1½%) per month or fraction of a
+ month until the day of sale, but at any time prior to the date of sale, the owner
+ may pay the amount of all delinquent principal installments and accrued interest with
+ additional interest at one and one-half percent (1½%) per month or fraction of a month
+ as aforesaid and thereupon shall be restored to the right thereafter to pay in installments
+ in the same manner as if default had not been suffered. No statute of limitations
+ shall apply until the last installment of assessments becomes due and payable.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.28.180. - Sale of unpaid assessments.
+(a)
+ At any sale by the County Treasurer of any real estate in the City for the purpose
+ of paying any special assessments for local improvements, the Finance Director, having
+ the written authority from the City Council, may purchase such real estate without
+ paying for the same in cash and shall receive a Certificate of Purchase from the County
+ Treasurer in the name of the City. Such certificates shall be received and credited
+ at their face value, with all interest and penalties accrued, on the account of the
+ assessments in pursuance of which the sale was made. The certificates may thereafter
+ be sold by the Finance Director for the best price obtainable at public sale at auction
+ or by sealed bids in the same manner and under the same conditions as is hereinafter
+ provided in respect to the sale of property owned by the City. The proceeds, in the
+ event that all bonded indebtedness incurred in payment for said local improvements
+ has not been discharged in full or any other portion of the assessment against the
+ property has not been paid in full, shall be credited to the fund created by the ordinance
+ for the payment of such bonds or, in the event that all bonded indebtedness incurred
+ in payment for said local improvements has been discharged in full and, that any other
+ portion of the assessment against the property has been paid in full, the proceeds
+ shall be credited to the special surplus and deficiency fund provided for by 
+Section 21.28.190
+ below. Any assignments shall be without recourse and the sale and assignment of City's
+ right to receive sale proceeds shall operate as a lien in favor of the purchaser and
+ assignee as provided by law in the case of sale of real estate in default of payment
+ of general taxes.
+ (b)
+ Cumulatively with all other remedies, the City, being the owner of the property by
+ virtue of a tax deed or being the owner of property otherwise acquired in satisfaction
+ or discharge of the liens represented by such Certificates of Sale, may sell such
+ property for the best price obtainable at public sale, at auction or by sealed bids.
+ Such sale shall be after public notice by the Finance Director to all persons having
+ or claiming any interest in the property to be sold or the proceeds of such sale,
+ such public notice to be by publication once a week for three (3) consecutive weeks
+ by three (3) insertions in a newspaper of general circulation within the City. Such
+ notice shall describe the property and state the time, place and manner of receiving
+ bids and the time fixed for sale, which shall be not less than twenty (20) days after
+ the first publication. The City may reject any and all bids. Any interested party,
+ at any time within ten (10) days after receipt of bids for the sale of property, may
+ file with the City Manager a written protest as to the sufficiency or the amount of
+ any bid made or the validity of the proceedings for the sale. If such protest shall
+ be denied such person, within ten (10) days thereafter, may commence an action in
+ a court of competent jurisdiction to enjoin or restrain the City from completing the
+ sale. If no action is commenced, all protests or objections to the sale shall be deemed
+ to have been waived and the City shall then convey the property to the successful
+ bidder by quitclaim deed.
+ (c)
+ In addition to all other remedies, the City, when it is the holder of a Certificate
+ of Purchase, may bring a civil action for the foreclosure thereof, joining as defendants
+ all persons having or claiming any interest in the property or the proceeds of foreclosure
+ sale and all governmental units having taxes or other claims against said property
+ and all unknown persons having or claiming interest in said property. Any number of
+ certificates may be foreclosed in the same proceeding. In such proceedings, the City
+ as plaintiff, shall be entitled to all relief provided by law in actions for adjudication
+ of rights with respect to real property.
+ (d)
+ The proceeds of any such sale of property shall be credited to the appropriate Special
+ Assessment Fund or to the Surplus and Deficiency Fund as hereinabove provided. The
+ City shall deduct therefrom the necessary expenses in securing deeds and taking procedures
+ for the sale or foreclosure.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.28.190. - Bonds.
+Special assessment bonds of the City may be issued for the purpose of paying all or
+ such portion of the cost of any improvement constructed or to be constructed under
+ the provisions of this Chapter as may be assessed against the property specially benefited.
+ Such bonds may be issued of such date and in such form as may be prescribed by the
+ City Council, bearing such interest as may be determined by the City Council, bearing
+ the name of the district improvement and payable to the bearer or registered owner
+ in a sufficient period of years after the date thereof to cover the period of payment
+ provided, but subject to call as provided in 
+Section 21.28.200
+ and in convenient denominations in multiples of one thousand dollars ($1,000.00)
+ each. The bonds may be issued for all or any portion of the amount to be assessed
+ against the property specially benefited and the assessments to be collected on the
+ real property specially benefited may be allocated for the improvements that were
+ paid for by the issuance of such special assessment bonds and for the services or
+ improvements that were provided by the City or its designee and for which the City
+ or its designee is being reimbursed. All such bonds shall be issued on estimates or
+ contract amounts approved by the City Council and such bonds shall be sold to the
+ best advantage of the City at either public or private sale and the Finance Director
+ shall preserve a record of the same in a suitable book kept for that purpose. All
+ such bonds may be in registered or bearer form with or without interest coupons, be
+ subject to such conditions for transfer, be subject to provisions for conversion as
+ to denominations or to bearer or registered form, be made registrable or payable or
+ both, by the Finance Director or other officers of the City or by a trustee, registrar,
+ paying agent or transfer agent within the United States of America, be issued, transferred
+ and registered by such book entry, be in such denomination or denominations, bear
+ such dates, signatures and authentications and be held in custody by a depository
+ within the United States of America, all as may be determined by the City in the ordinance
+ authorizing the issuance of such special assessment bonds. Payment at designated due
+ dates or in installments may be required by the authorizing proceedings to be by check,
+ draft or other medium of payment and need not be conditioned upon presentation of
+ any bond or coupon. Signatures may be manual or facsimile, but each bond shall bear
+ at least one manual signature, which may be that of an official of the City or of
+ the trustee, registrar or transfer agent. Such bonds shall be payable out of the moneys
+ collected on account of the assessments made for such improvements, out of the surplus
+ and deficiency fund referred to in 
+Section 21.28.210
+ or out of any other fund established as additional security for the bonds. All moneys
+ collected from such assessments for any improvements shall be applied for the payment
+ of the bonds issued until payment in full is made of all the principal, premium, if
+ any and interest on the bonds. However, if a portion of the assessments is being used
+ to reimburse the City or its designee for its cost in providing the improvement, the
+ allocation of the assessment as to payment of the principal, premium, if any and interest
+ on the bonds and the reimbursement to the City or its designee shall be made pursuant
+ to the authorizing ordinance.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.28.200. - Payment of bonds.
+Whenever considered prudent by the Finance Director and whenever funds may be in the
+ Finance Director's hands, to the credit of the Improvement District exceeding six
+ (6) months' interest on the unpaid principal, the Finance Director shall, after publication
+ of notice once in one (1) issue of a newspaper of general circulation within the City,
+ call in a suitable number of such bonds for payment. At the expiration of thirty (30)
+ days from the first publications of such notice, interest on the bonds so called shall
+ cease. The notice shall specify by number the bonds so called and all such bonds shall
+ be paid in their regular numerical order. The holder of any bonds may, at any time,
+ furnish his or her post office address to the Finance Director and in such case a
+ copy of said advertisement shall be mailed by the Finance Director to the holder of
+ the bonds at said address on or prior to the first day of said publication. If applicable,
+ if there are funds to the credit of the Improvement District that are allocated toward
+ the reimbursement to the City in an amount exceeding six (6) months' interest on the
+ unpaid principal amount for those improvements provided by the City, the Finance Director
+ shall transfer that amount to the City to be applied toward the principal amount due
+ the City for reimbursement. Notice for bonds which are in registered form shall be
+ given by mailing notice to the registered owner by first class mail not more than
+ thirty (30) days and not less than fifteen (15) days prior to the date fixed for redemption.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.28.210. - Surplus and deficiency.
+(a)
+ Where all outstanding bonds have been paid in a Special Improvement District and any
+ monies remain to the credit of said district, they shall be transferred to a Special
+ Surplus and Deficiency Fund and whenever there is a deficiency in any Improvement
+ District Fund to meet the payments of outstanding bonds and interest due thereon,
+ the deficiency shall be paid out of said Surplus and Deficiency Fund. Whenever a Special
+ Improvement District has paid and canceled three-fourths (¾) of its bonds issued and
+ for any reason the remaining assessments are not paid in time to take up the remaining
+ bonds of the district and the interest due thereon and there are not sufficient monies
+ in the special surplus and deficiency fund, then the City shall pay said bonds when
+ due and the interest due thereon and shall reimburse itself by collecting the unpaid
+ assessments due said district.
+ (b)
+ In consideration of general or special benefits conferred on the City at large from
+ the construction or installation of improvements in Special or Local Improvement Districts,
+ the City Council may levy annual taxes on all taxable property within the City at
+ a rate not exceeding four (4) mills in any one (1) year, to be disbursed as determined
+ by the City Council for the purpose of paying for such benefits, for the payment of
+ any assessment levied against the City itself in connection with bonds issued for
+ Special or Local Improvement Districts or for the purpose of advancing money to maintain
+ current payments of interest and equal annual payments of the principal amount of
+ bonds issued for any Special or Local Improvement District hereinafter created. The
+ proceeds of such taxes shall be placed in a special fund and shall be disbursed only
+ for the purpose specified herein; provided, however, that in lieu of such tax levies,
+ the City Council may annually transfer to such special fund any available monies of
+ the City, but in no event shall the amount transferred in any one (1) year exceed
+ the amount which would result from a tax levied in such year as herein limited.
+ (c)
+ As additional security for any bonds issued for Special or Local Improvement Districts,
+ the City Council may establish a Separate Reserve Fund for said issue of bonds to
+ be used for the purpose of advancing money to help maintain current payment of interest
+ and equal annual payments of the principal amount of such bonds. Moneys to be placed
+ in such a reserve fund shall be allocated from any legally available monies of the
+ City, including temporary or permanent advances of cash or other security provided
+ by one (1) or more property owners. Upon the payment in full of the principal and
+ interest on the bonds for which the reserve fund was established, the monies remaining
+ in the reserve fund, if established from City monies, shall be returned to the City
+ to be used for any lawful purpose as the City Council shall designate; provided, however,
+ that if the reserve fund was established from bond proceeds, the moneys in such reserve
+ fund shall be first allocated to the final principal and interest payment on the bonds.
+ (d)
+ As additional security for any bonds issued for Special or Local Improvement Districts,
+ the City Council may, in its discretion, provide or require one (1) or more property
+ owners who own property within the district to provide audited financial statements,
+ appraisals and/or a letter of credit or other credit enhancement issued by a bank
+ or other financial institution acceptable to the City, to be used for the purpose
+ of advancing money to help maintain current payment of assessments of the property
+ owner or owners providing the letter of credit or, in the event the letter of credit
+ is provided by the City, to help maintain current payments of principal of and interest
+ on such bonds.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.28.220. - Improvements.
+(a)
+ The improvements authorized by this Chapter may consist of grading, paving, curbing,
+ guttering, parking, landscaping, street lighting or traffic signalization for or otherwise
+ improving the whole or any part of any street or alley or public easement in the City
+ or any one (1) or more of said improvements, including the reconstruction, replacement,
+ renewal or extension of the same and the acquisition of property and rights-of-way
+ therefor. In the case of grading and curbing only, the improvements may include the
+ necessary crosswalks. Water, storm drainage and sanitary sewer systems may be included
+ in street improvements. System and off-site appurtenances, such as booster pump stations
+ incidental to such facilities, may also be included. Improvements may also consist
+ of any local improvement and renewals or extensions thereof which benefit the land
+ abutting on, touching or otherwise concerning such improvements, such as interchanges,
+ trails, pedestrian amenities, utility upgrading and undergrounding, public transportation
+ facilities, sidewalks, signage, landscaping, public parks, public golf courses and
+ other public facilities.
+ (b)
+ If improvements consist of the construction of district sewers or storm sewers, the
+ costs of district storm sewers may be assessed on all of the land in said storm sewer
+ district respectively in proportion as the area of each piece of land in the district
+ or in the part improved is to the area of all the land in the district or by any other
+ method that will result in the assessments being equitable in proportion to the benefits
+ received. Such storm drains may be made, contracted for or constructed in sizes larger
+ than required by a local improvement district and the City may pay from any lawful
+ fund that portion of the cost that may be in excess of the cost required by the district.
+ Upon the extension at a later time of the mains or sub mains to an area not included
+ within the district for which mains or sub mains were made and contracted for, the
+ City may assess the amount paid by the City as a lien upon the real property benefited
+ by the oversized construction and extension of the mains and sub mains.
+ (c)
+ If improvements consist of district interchanges, landscaping, parks or recreational
+ facilities, the cost of the improvement may be assessed on all of the land in said
+ district respectively in proportion to the area of each piece of land in the district
+ or in the part improved is to the area of all land in the district or by the establishment
+ of zones based upon the proximity of each zone to the improvement to be made or by
+ any other method that will result in the assessments being equitable in proportion
+ to the benefits received.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.28.230. - Legal proceedings.
+No action or proceeding at law or inequity to review any acts or proceedings or to
+ question the validity or enjoin the performance of any act or the issuance or collection
+ of any bonds or the levy or collection of any assessments authorized herein or for
+ any other relief against any acts or proceedings done or had pursuant hereto or under
+ the provisions of the Charter of the City with reference hereto, whether based upon
+ illegalities, irregularities or jurisdictional defects, shall be maintained unless
+ commenced within thirty (30) days after the performance of the act or the passage
+ of the resolution or ordinance complained of or else be thereafter perpetually barred.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.28.240. - Definitions.
+(a)
+ In all proceedings authorized or required by this Chapter, figures may be used instead
+ of words and it shall not be necessary in Improvement Districts to designate each
+ piece of real estate in the district separately, but general descriptions and quantities
+ may be used, except in the assessment rolls and the cost may be stated as being a
+ probable amount per front foot or per square foot or per lot of a given size and proportionate
+ amounts for other lots or when a different rule of assessment is provided, then as
+ being subject to such rule.
+ (b)
+ As used in this Chapter, the following terms shall have the meanings indicated:
+City Manager
+ includes the 
+City Manager's
+ authorized representative when such authority has been given by a written order of
+ the 
+City Manager
+ or, in the absence of the 
+City Manager,
+ the City Engineer.
+Engineer
+ includes the City Engineer and/or any 
+engineer
+ or firm of 
+engineers
+ or corporation engaged in the practice of engineering, which may be under contract
+ with the City with respect to local public improvements contracted for or installed
+ pursuant to this Chapter as may be designated by the City Engineer.
+Public
+ or 
+local improvements
+ shall mean and include any improvement which may be authorized by the City Council
+ pursuant to the provisions of this Chapter, which serve a municipal purpose and which
+ confer a special benefit upon the real property within the district, including, but
+ not limited to, the grading, paving, curbing, guttering, drainage, parking or otherwise
+ improving the whole or any part of any street, alley or streets and alleys of the
+ City and the construction, installation or improvement of any sidewalks, water mains,
+ sewers, sewage disposal works, appliance for artificial lighting, landscaping, signage,
+ recreational or other public facilities, parks, pedestrian amenities, trails, utility
+ upgrading and undergrounding, public transportation facilities, parkways and off-street
+ parking facilities and all appurtenances, extensions or renewals thereof.
+Real estate
+ means all lands, whether platted or unplatted, regardless of lot or landlines. Lots,
+ plots, blocks and other subdivisions may be designated in accordance with any recorded
+ plat thereof and unplatted lands may be designated by any definite description.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Chapter 21.32. - SNOW REMOVAL
+
+
+===== Sec. 21.32.010. - Definitions.
+The following definitions shall apply in the interpretation and enforcement of this
+ Chapter:
+ (a)
+Person
+ means and includes any individual, partnership, firm, association, syndicate or corporation.
+ (b)
+ The 
+director
+ shall be such officer or employee of the City designated in writing by the City Manager
+ to perform or assist in the performance of the duties or responsibilities of the 
+Director
+ as set forth in this Chapter.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.32.020. - Snow and ice to be removed from sidewalks by private persons.
+Every person in charge or control of any building or lot of land within the City fronting
+ or abutting a sidewalk area, whether as owner, tenant, occupant, lessee or otherwise,
+ shall remove and clear away or cause to be removed and cleared away, snow and ice
+ from a path of at least five (5) feet in width from so much of the sidewalk area as
+ is in front of or abuts on said building or lot of land.
+ Such snow and ice shall be removed from all sidewalk areas within the City on the
+ same day as cessation of any fall of snow, sleet or freezing rain or within the first
+ three (3) hours of daylight after the cessation of any such fall, whichever period
+ is longer.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.32.030. - Depositing of snow and ice restricted.
+No person shall deposit or cause to be deposited any snow and ice on or against a
+ fire hydrant or on any sidewalk, sidewalk area, roadway or loading and unloading areas
+ of a public transportation system.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.32.040. - Violation; work done, liability therefor; penalty.
+(a)
+ In the event of the failure of any person to clear away snow and ice from any sidewalk
+ area as hereinabove provided or cause this to be done, the Director may, as soon as
+ practicable after such failure, cause such work to be done.
+ (b)
+ The Director shall ascertain and keep a record of the exact cost of all work the Director
+ causes to be done in accordance with this Section on account of each act or omission
+ of each person and the Director shall identify these persons with particularity.
+ (c)
+ The cost of work done in accordance with this Section, plus a penalty of one hundred
+ percent (100%) of such cost, shall be charged against the land abutting the sidewalk
+ area where such work was done as a municipal lien and collected in the same manner
+ as city taxes or, in addition, such costs and penalty may be recovered by the City
+ in a suit at law against the owner or such other person whose act or omission makes
+ it necessary for such work to be done.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.32.050. - Penalties.
+Any person who violates any provision of this Chapter shall be deemed guilty of a
+ misdemeanor, punishable upon conviction by a fine, imprisonment or both a fine and
+ imprisonment, as set forth in 
+Section 1.04.080
+ of this Code. Each day such violation is committed or permitted to continue shall
+ constitute a separate offense and shall be punishable as such hereunder.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Chapter 21.36. - RIO GRANDE SKATEBOARD PARK
+
+
+===== Sec. 21.36.010. - Definitions.
+For purposes of this Chapter certain words or phrases are defined as follows:
+Rio Grande Skateboard Park
+ shall mean the portion of the Rio Grande Park in Aspen, Colorado, which has been
+ set aside and dedicated for use by persons using skateboards and similar devices as
+ defined hereinafter.
+Skateboard
+ shall mean 
+skateboard,
+ in-line skate, roller blade, roller skates and any other similar device approved
+ by the Parks Department for use in the 
+Rio Grande Skateboard Park.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.36.020. - Regulations.
+It shall be unlawful for any person within the Rio Grande Skateboard Park to:
+ (a)
+ Ride, operate or use any device other than a skateboard;
+ (b)
+ Ride, operate or use a skateboard unless that person is wearing a helmet designed
+ for use with a skateboard and is in good repair at all times during use;
+ (c)
+ Place or utilize additional obstacles or other material (including, but not limited
+ to ramps or jumps) that are not specifically authorized by the Director of Parks;
+ (d)
+ Ride, operate or use a skateboard before or after the posted hours of operation;
+ (e)
+ Use or consume alcohol, tobacco products or illegal drugs;
+ (f)
+ Use or possess glass containers, bottles or other breakable glass products;
+ (g)
+ Fail to obey any other rule or regulation posted on near the facility by order of
+ the Director of Parks.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.36.030. - Director of Parks to post regulations.
+The Director of Parks shall post on or near all entrances to the Rio Grande Skateboarding
+ Park a sign or signs that clearly summarize the regulations set forth at 
+Section 21.36.020
+ above and any other rules or regulations that the Director of Parks deems reasonably
+ necessary for the safe operation of the facility. The sign or signs to be posted shall
+ include the following language:
+ WELCOME
+ To the City
+ Rio Grande Skateboard Park
+ This facility has been designed for use by skateboarders and rollerbladers. In order
+ to provide a safe and enjoyable experience, the following warning and regulations
+ have been posted. Please heed the warning and observe all regulations.
+ WARNING
+ Skateboarding and in-line skating are hazardous recreational activities. Use of this
+ facility may result in serious injury or death. The City does not assume any responsibility
+ for injuries or death. Each person entering the facility assumes all risks associated
+ with the use of this facility.
+ The following rules and regulations have been adopted by the Aspen City Council to
+ protect your safety. Any person failing to follow these rules and regulations shall
+ be subject to eviction from the park and prosecution pursuant to 
+Section 1.04.080
+ of the Aspen Municipal Code.
+ RULES
+ 1.
+ USE THIS FACILITY AT YOUR OWN RISK.
+ 2.
+ HELMETS ARE MANDATORY.
+ 3.
+ BICYCLES AND SCOOTERS/RAZORS ARE PROHIBITED.
+ 4.
+ ALCOHOL, TOBACCO and DRUGS ARE PROHIBITED.
+ 5.
+ HOURS OF OPERATION ARE 8:00 A.M. TO SUNSET.
+ 6.
+ ADDING OR MODIFYING RAMPS IS PROHIBITED.
+ 7.
+ BOTTLES AND GLASS CONTAINERS ARE PROHIBITED.
+ REPORT ALL INJURIES TO THE CITY RECREATION DEPARTMENT - 920-5140.
+ CALL 911 FOR ALL SERIOUS INJURIES OR OTHER MEDICAL EMERGENCIES.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.36.040. - Eviction.
+Any person found to be in violation of this Chapter or a regulation duly posted on
+ the sign required by 
+Section 21.36.030
+ above, shall be subject to eviction from the Rio Grande Skateboard Park.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Sec. 21.36.050. - Penalty.
+The privilege of any person to use the Rio Grande Skateboard Park is expressly conditioned
+ upon compliance by that person with the provisions of this Chapter. A violation of
+ any provision of this Chapter shall be deemed an infraction punishable by a fine and/or
+ incarceration as provided by 
+Section 1.04.080
+ of this Code. In addition, the person shall be subject to eviction from the facility.
+ (
+2-2019
+, § 2(Exh. A), 7-22-2019)
+
+===== Chapter 21.37. - FLAGS AND BANNERS ON LIGHT POLES AND ACROSS MAIN STREET
+
+
+===== Sec. 21.37.010. - Purpose.
+Banners and flags hung from light poles have traditionally been permitted to further
+ a variety of interests, such as to celebrate special events of community interest.
+ The purpose of these policies and regulations is to clarify the manner of displaying
+ banners or flags hung from the City-owned light posts and across Main Street at Third
+ Street.
+ (Ord. No. 
+02-2026
+, § 2(Exh. B), 3-10-2026)
+
+===== Sec. 21.37.020. - Banner standards.
+Banners and flags displayed on light poles or spanning Main Street should comply with
+ the Banner Standards (as adopted in 
+29.01.030
+). Except as specifically set forth herein, Banner Standards shall set forth eligibility,
+ size and material specifications, and applicant procedure. At least one copy of the
+ Banner Standards shall be available for public inspection at the Community Development
+ Department, the Engineering Department and the City of Aspen's website. Banner Standards
+ may be amended from time to time by Resolution of the City Council.
+ (Ord. No. 
+02-2026
+, § 2(Exh. B), 3-10-2026)
+
+===== Sec. 21.37.030. - Eligibility.
+Only City owned banners are permitted to go on light posts or across Main Street.
+ (Ord. No. 
+02-2026
+, § 2(Exh. B), 3-10-2026)
+
+===== Sec. 21.37.040. - Size/number/material.
+Banner Standards shall set forth flag and banner size, number, and material specifications.
+ (Ord. No. 
+02-2026
+, § 2(Exh. B), 3-10-2026)
+
+===== Sec. 21.37.050. - Copy.
+The City reserves the right to request changes to the design, color or copy in order
+ to assist the applicant in complying with this policy.
+ (Ord. No. 
+02-2026
+, § 2(Exh. B), 3-10-2026)
+
+===== Sec. 21.37.060. - Cost/fees/procedures.
+The cost of installation is outlined in the current fee schedule as amended from time
+ to time, and must accompany the application form and be reviewed in the Engineering
+ department 30 days prior to the date the banner will be hung. All organizations will
+ be charged the same rate, accordingly. For the duration of the application process,
+ ownership of the banners shall be transferred to the City of Aspen.
+ (Ord. No. 
+02-2026
+, § 2(Exh. B), 3-10-2026)
+
+===== Sec. 21.37.070. - Banner permit application.
+A banner permit application must be obtained from the Engineering department and completed
+ by the party making the request and submitted to the Engineering department no less
+ than 30 days prior to the date requested to hang the banner. The exact legend of the
+ banner must be indicated in writing (see specific area on application for). Sponsors
+ are advised that banners are most visually effective when kept simple: i.e., event,
+ date organization and logo.
+ (Ord. No. 
+02-2026
+, § 2(Exh. B), 3-10-2026)
+
+===== Sec. 21.37.080. - Exceptions.
+Any exceptions from the above requirements shall require City Council review and approval.
+ (Ord. No. 
+02-2026
+, § 2(Exh. B), 3-10-2026)

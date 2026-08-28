@@ -1,0 +1,1470 @@
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+CHAPTER 8 - INDEX
+
+8-10: ROAD IMPACT FEES ...................................................................... 4
+8-10-10: PURPOSE ...................................................................................... 4
+8-10-20: EXEMPTIONS.............................................................................. 4
+8-10-30: GENERAL ROAD FEE ............................................................... 5
+8-10-40: ROAD FEE SCHEDULE ............................................................. 6
+8-10-60: INDEPENDENT FEE CALCULATION ................................... 8
+8-10-70: CREDITS ..................................................................................... 10
+8-20: ROAD SYSTEM DEDICATIONS ................................................. 12
+8-30: EMPLOYEE HOUSING IMPACT FEE ....................................... 12
+8-30-10: INTENT ....................................................................................... 12
+8-30-30: CALCULATION OF IMPACT FEE—RESIDENTIAL
+EMPLOYEE GENERATION ................................................................... 14
+8-30-50: CALCULATION OF IMPACT FEE—TOURIST/LODGE
+ACCOMMODATION EMPLOYEE GENERATION ........................... 20
+8-30-60: CALCULATION OF IMPACT FEE—UNCLASSIFIED
+DEVELOPMENT ....................................................................................... 20
+8-30-70: OPTIONS TO DEFRAY THE PAYMENT OF IMPACT
+FEES............................................................................................................. 20
+8-30-80: EXEMPTIONS AND CREDITS ............................................... 22
+8-40: PARKS/RECREATION/OPEN SPACE EXACTION – Repealed
+Ord. 024-2021, 06-09-2021 ......................................................................... 24
+8-50: PARKS/OPEN SPACE/AGRICULTURAL PRESERVATION
+FEE ............................................................................................................... 24
+8-60: TRAILS EXACTION ...................................................................... 24
+8-60-10: APPLICABILITY....................................................................... 24
+8-60-20: INTENT ....................................................................................... 24
+8-60-30: TRAILS STANDARDS .............................................................. 25
+8-70: PUBLIC TRAIL FEES .................................................................... 25
+8-80: SCHOOL LAND DEDICATION STANDARDS.......................... 25
+8-80-10: APPLICABILITY....................................................................... 25
+8-80-20: INTENT ....................................................................................... 26
+8-80-30: ASPEN SCHOOL DISTRICT DEDICATIONS AND
+PAYMENTS ................................................................................................ 26
+8-80-40: ROARING FORK SCHOOL DISTRICT DEDICATIONS
+AND PAYMENTS ...................................................................................... 28
+8-80-50: PROCEDURES FOR LAND DEDICATION AND CASH
+PAYMENT .................................................................................................. 29
+8-80-60: USE OF LAND AND USE OF FUNDS .................................... 30
+Pitkin County Land Use Code        CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                                                Page 1
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+8-90: PUBLIC TRANSPORTATION FEES........................................... 31
+8-100: HEALTH AND HUMAN SERVICES FEES .............................. 31
+
+
+
+
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                         Page 2
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+INDEX OF TERMS
+
+Annual adjustment, 9                                 Parks/Open Space/Agricultural
+Aspen/Pitkin County Housing Authority,                  Preservation Fee, 24
+  12, 18, 19                                         Parks/Recreation/Open Space
+Board of County Commissioners                           Development Exaction, 21
+  (BOCC), 18, 19, 22, 23, 24, 28, 29                 Pitkin County Comprehensive Plan, 22,
+Building Permit, 5, 18, 23, 29                          24
+Change in Use, 5, 20                                 Pitkin County Road Management and
+Converted/Deed Restricted Units, 18                     Maintenance Plan, 4
+Credits, 11                                          Planning and Zoning Commission, 23
+Deed Restrictions, 18, 19                            Replacement and Remodeling, 4, 19
+Development Application, 22                          Restoration, 19
+Development Exaction, 4, 22                          Road Improvement Plan (20-Year), 4
+Duplex, 22                                           Road Mitigation, 11, 12
+Employee Housing Units, 18                           Road System Dedications, 12
+Fee Administrator, 5, 9, 10                          School District
+Fee Calculation, Independent, 5, 6, 9, 10,              Aspen, 25, 29
+  11, 17                                                Roaring Fork, 25, 27, 28, 29
+Impact Fee For Change Of Use, 21                     School Land Dedication Standards, 25
+Impact Fees                                          Traffic-generating Development, 5, 6, 9,
+  Commercial Development, 14                            10, 11
+  Employee Housing, 12, 13, 17, 19, 20               Trails
+  Residential Development, 13                           Fees, 25
+  Road Fee, 4, 5, 11                                    Standards, 24
+  Schedule, 17, 18                                   Zone Districts
+Independent Fee Calculation, 9                          Village Commercial (VC), 10
+Mobile Home, 28
+
+
+
+
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                       Page 3
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+CHAPTER 8: DEVELOPMENT EXACTIONS AND IMPACT FEES
+
+8-10: ROAD IMPACT FEES
+
+8-10-10: PURPOSE
+
+This provision implements and is consistent with the Pitkin County Road Management
+and Maintenance Plan and the 20-Year Road Improvement Plan. Traffic-generating
+development is required to pay its equitable share of those capital improvements. The
+establishment of a system for the imposition of transportation capital expansion fees is to
+assure that development contributes its equitable share of the cost of providing, and
+benefits from, the provision of road capital improvements. The technical support and
+analysis upon which the road fee is based is the 2020 Transportation Impact Fee Study
+prepared for Pitkin County (the support study), which is incorporated into this Land Use
+Code by reference.
+
+(Code repealed and reenacted (all sections) by Ord. No. 14-D, 2006, 07-05-08; § 8-10-
+10 (part) amended Ord. 034-2020, 08-12-2020; Ord. 003-2020, 02-12-2020
+
+8-10-20: EXEMPTIONS
+
+The following types of activity or development shall be exempt from development
+exactions and impact fee payments. A development or activity exempted from one type
+of development exaction or impact fee shall still be subject to other types of development
+exaction or impact fees not listed in the exemption:
+
+        (a) Development Plans Approved Prior to July 10, 2000 Still Within the Statutory
+        Vesting Period as Set Forth in Chapter 2
+
+        If statutory vesting is determined, the property in issue shall not be subject to any
+        road impact fee.
+
+        (b) Any Property Determined by a Court of Law or the County to be Vested
+        Under the Common Law of the State of Colorado.
+
+        The extent of any common law vesting and the applicability of the road impact
+        fee requirements shall be made on a case-by-case basis by the County Attorney.
+
+        (c) Redevelopment of Preexisting Use: Replacement Units and Remodeling
+
+The redevelopment, replacement, or remodeling of a preexisting residential, commercial
+or tourist accommodation uses shall be exempted from development exactions and
+impact fee requirements for roads if they meet the following standards:
+
+                (1) No Net Increase in Impacts
+
+
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                       Page 4
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+                The applicant shall demonstrate that there is no net increase in any road
+                impacts due to the redevelopment, replacement unit or remodeling.
+
+                (2) Replacement and Remodeling Exemption
+
+                If a residential, commercial, or tourist accommodation unit is being
+                replaced remodeled, the exemption shall be limited to the floor area of the
+                existing unit. Any additional floor area above the floor area of the existing
+                unit shall be subject to development exactions and impact fees for roads.
+
+(Code repealed and reenacted (all sections) by Ord. No. 14-D, 2006, 07-05-08; § 8-10-
+20 (part) amended Ord. 034-2020, 08-12-2020
+
+8-10-30: GENERAL ROAD FEE
+
+Traffic-generating development generates a need for capital improvements to County
+roads that is required to be mitigated through the payment of road fees. The road fee
+schedule is based on two classes of development: residential and non-residential. If the
+type of traffic-generating development proposed is not specified on the fee schedule, the
+fee applicable shall be the most comparable type of land use on the fee schedule, or the
+applicant shall be required to conduct an independent fee calculation study to determine
+the appropriate amount pursuant to Sec. 8-10-60.
+
+        (a) Payment of Fee
+
+        Pursuant to the requirements of this section, the fee shall be paid to the Fee
+        Administrator prior to issuance of a building permit or development permit for
+        any portion of the development subject to the road fee.
+
+        (b) Computed Separately for Amount of Development
+
+        The fee shall be computed separately for the amount of development covered by
+        the permit if the building permit is for less than the entire development subject to
+        the road fee.
+
+        (c) Change in Use
+
+        If the fee is paid for traffic-generating development because of a change in use,
+        the fee shall be determined by computing the difference in the fee schedule
+        between the proposed use and the existing use.
+
+        (d) Expansions of Area
+
+        If the fee is required to be paid for traffic-generating development because of
+        expansion of an existing use, the fee shall be determined by computing the
+
+
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                       Page 5
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+        difference in the fee schedule between the proposed expansion and the existing
+        use.
+
+        (e) Run with Land
+
+        The obligation to pay the fee shall run with the land.
+
+(Code repealed and reenacted (all sections) by Ord. No. 14-D, 2006, 07-05-08; § 8-10-
+30 (part) amended Ord. 034-2020, 08-12-2020
+
+
+8-10-40: ROAD FEE SCHEDULE
+
+        Any person who proposes traffic-generating development, except those exempted
+        or conducting an independent fee calculation pursuant to Sec. 8-10-60, shall pay a
+        transportation capital expansion fee.
+
+        For residential development the impact fee shall be in accordance with the
+        following calculations, as outlined in the support study:
+
+                         0.0017 x proposed heated floor area (sf) + 3.1123 =
+                            X weekday vehicle trip ends per dwelling unit
+
+
+                           X weekday vehicle trip ends per dwelling unit
+                                                  x
+             0.54 adjustment factor for inbound trips, including commuting adjustment
+                                                  x
+                                      2.75 average miles per trip
+                                                  x
+                   1.14 trip length adjustment factor for residential development
+                                                  x
+                                    $602.74 growth cost per VMT
+                                                  =
+                                 transportation capital expansion fee
+
+        By way of example, the table below provides fee calculations in 1,000 sf
+        increments as well as the fee schedule for non-residential development.
+
+
+
+
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                    Page 6
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+
+
+                  TABLE 8-1
+     Impact Fees by Residential Floor Area
+Square Feet of Heated
+        Space                 Impact Fee
+        1,000                    $4,908
+        2,000                    $6,642
+        3,000                    $8,377
+        4,000                   $10,111
+        5,000                   $11,846
+        6,000                   $13,581
+        7,000                   $15,315
+        8,000                   $17,050
+        9,000                   $18,785
+       10,000                   $20,519
+       11,000                   $22,254
+       12,000                   $23,989
+       13,000                   $25,723
+       14,000                   $27,458
+   15,000 & Larger              $29,193
+
+                              TABLE 8-2
+
+ Impact Fees for non-residential development (per 1,000 square
+                feet of floor area, except lodging)
+          Development Type                        Impact Fee
+               Industrial                            $3,699
+          Retail/Restaurant                         $11,262
+                 Office                              $7,264
+           Hotel (per room)                          $6,235
+          Motel (per room)                           $2,498
+
+The above fee schedules are administratively adjusted annually
+(by Code Provision) based on CPI. Click below to access the
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                         Page 7
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+current fee schedule:
+
+2026 Residential Road Impact Fee Worksheet – Effective
+01/01/2026
+
+2026 – Non Residential Road Impact Fees Worksheet – Effective
+01/01/2026
+
+(Code repealed and reenacted (all sections) by Ord. No. 14-D, 2006, 07-05-08; § 8-10-
+40 (part) amended Ord. 023-2009, 09-23-2009
+
+8-10-50: ANNUAL ADJUSTMENT
+
+Beginning in 2010, at the end of each year the transportation impact fee schedule shall be
+adjusted to account for construction cost inflation, pursuant to the provisions of this
+section. On January 1 following each calendar year during which the fee schedule was
+not comprehensively updated based on an update of the study, an adjusted fee schedule
+shall become effective. The County shall make the adjusted transportation impact fee
+schedule publicly available. The County shall calculate adjustments to the impact fee
+rates by multiplying them by a ratio based on Denver-Aurora-Lakewood CPI-U from the
+preceding year.
+
+(Code repealed and reenacted (all sections) by Ord. No. 14-D, 2006, 07-05-08; § 8-10-
+50 (part) amended Ord. 23-09, 09-23-09; Ord. 034-2020, 08-12-2020
+
+8-10-60: INDEPENDENT FEE CALCULATION
+
+        (a) Applicability
+
+                The fee established in this section 8-10-60 may be computed by the use of
+                an independent fee calculation study pursuant to the procedures of this
+                Sec. 8-10-60 if:
+
+                (1) The Fee Administrator determines that the land development activity
+                proposed is not one of the types listed on the fee schedule and is not
+                comparable to any land use on the fee schedule; or
+
+                (2) The applicant believes it can be demonstrated that the nature, timing
+                or location of the proposed traffic-generating development make it likely
+                that the impacts generated will cost substantially less to mitigate than the
+                amount of the fee that would be generated by the use of the fee schedule;
+                or
+
+                (3) The proposed traffic-generating development is "transit oriented,"
+                located within one-half mile of an existing or proposed mass transit stop,
+                and the applicant believes it can be demonstrated that the proposed
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                      Page 8
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+                development will generate fewer traffic trips than assumed by the fee
+                schedule; or
+
+                (4) The Fee Administrator determines that the nature, timing, or location
+                of the proposed traffic-generating development make it likely that the
+                impacts generated will cost substantially more to mitigate than the amount
+                of the fee that would be generated by the use of the fee schedule. It shall
+                not be grounds for an independent fee calculation that the applicant
+                believes that the applicant as an individual will not generate as many
+                traffic trips as assumed by the fee schedules; or
+
+                (5) The property is located within the Village Commercial (VC) zone
+                district.
+
+        (b) Applicant to Prepare
+
+        The preparation of the independent fee calculation study shall be the
+        responsibility of the applicant and shall be submitted to the Fee Administrator.
+
+        (c) Portion Subject to Study
+
+        The independent fee calculation study may provide alternative data in one or both
+        of two areas:
+
+                (1) The number of average daily traffic trips generated by the land use
+                types in the proposed development; and/or
+
+                (2) The average trip length in miles on County roads.
+
+        (d) Qualifications for Study
+
+        The independent fee calculations may include independent sources, provided that:
+
+                (1) The independent source is an accepted standard source of
+                transportation engineering or planning data or information.
+
+                (2) The independent source is a local study of trip characteristics carried
+                out by a qualified traffic planner or engineer pursuant to an accepted
+                methodology of transportation planning or engineering.
+
+                (3) The "percent new trips" factor used in the independent fee calculation
+                study shall be based on actual surveys conducted in Pitkin County.
+
+        (e) Standards
+
+
+
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                     Page 9
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+        To qualify for an independent fee calculation, the applicant shall demonstrate that
+        it is reasonably likely that the use of the structure (by any person(s) subject to
+        development exactions and/or impact fees) for public roads will result in the
+        generation of fewer traffic trips than assumed by the fee schedule. If, on the basis
+        of generally recognized principles of impact analysis it is determined the data,
+        information and assumptions used by the applicant to calculate the independent
+        fee calculation study satisfies the requirements of this section, the fee determined
+        in the independent calculation study shall be deemed the fee for the proposed
+        traffic-generating development. The adjustment shall be set forth in a Fee
+        Agreement.
+
+        (f) Fee Agreement
+
+        The Fee Agreement shall be in a form approved by the County Attorney and shall
+        memorialize the fee amount to be paid pursuant to the independent fee calculation
+        study.
+
+        (Code repealed and reenacted (all sections) by Ord. No. 14-D, 2006, 07-05-08; §
+        8-10-50 (part) amended Ord. 034-2020, 08-12-2020
+
+8-10-70: CREDITS
+
+        (a) Prior Road Mitigation for System Improvements
+
+        Any person initiating traffic-generating development may apply for a credit
+        against traffic fees otherwise due, for any contribution, payment, construction or
+        dedication of land for any system improvements on a County road. No credits
+        shall be provided for project-related improvements. Prior road mitigation for
+        system improvements shall be credited against the road fee contained in this
+        provision as follows:
+
+                (1) Credit Is an Offset Against Fees Owed
+
+                The person initiating traffic-generating development shall be required to
+                pay the difference between the road fee required by this provision and the
+                prior mitigation. There shall be no entitlement to any refunds for fees paid
+                in excess of the current fee schedule.
+
+                (2) Calculation of Credit
+
+                Credit shall be in an amount equal to the value of the contribution or
+                payment at the time it was made to Pitkin County, the costs of road
+                construction at the time of its completion, or the fair market value of the
+                land dedicated at the time of dedication. An adjustment for inflation shall
+                then be applied to the credit at the annual CPI rate.
+
+
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                      Page 10
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+                (3) Apportionment of Credit
+
+                If road mitigation for system improvements was performed for a
+                subdivision as a whole, then any credits shall be applied as follows:
+
+                         (1) The credit for the road mitigation performed shall first be
+                         applied to any existing development in the subdivision and/or
+                         planned unit development; and
+
+                         (2) Any remaining credit shall be apportioned equally among the
+                         remaining undeveloped lots or parcels.
+
+        (b) No Credit If No Payment
+        There shall be no credit for any road mitigation required through a development
+        approval unless the property owner, or the property owner’s predecessor in
+        interest, actually provided the mitigation prior to July 10, 2000.
+
+
+
+
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                  Page 11
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+
+
+8-20: ROAD SYSTEM DEDICATIONS
+
+[Reserved]
+
+8-30: EMPLOYEE HOUSING IMPACT FEE
+
+8-30-10: INTENT
+
+The purpose of the employee housing impact fee is to require the applicable development
+to defray the cost of employee housing by mitigating the impacts of development to the
+employee housing inventory managed or controlled by Pitkin County or its housing
+designee, the Aspen/Pitkin County Housing Authority (APCHA). All provisions of
+Section 8-30 are self-executing and severable.
+
+The employee housing impact fee constitutes a law of general applicability of Pitkin
+County and as such shall be applicable to all property in unincorporated Pitkin County.
+The calculation of the fee shall discriminate between different types of development and
+the intensity of the development as reflected in the size of the improvements as measured,
+where appropriate, through the square footage of heated floor area. Concerning
+residential development, a further distinction will be made between local resident
+occupancy and non-local resident occupancy.
+
+Authority for this impact fee is found in the laws of the state of Colorado and in
+particular in C.R.S. § 29-20-104.5.
+
+Payment of any applicable impact fee will occur prior to the issuance of a building permit
+or the change of use of a property that increases employee generation pursuant to Section
+2-40-130. Development shall mitigate the following percentage of impact:
+
+Residential local occupancy and non-local occupancy 100%
+
+Commercial 100%
+
+Tourist/Lodge accommodations 100%
+
+Unclassified development 100%
+
+(Code repealed and reenacted (all sections) by Ord. No. 14-D, 2006, 07-05-08; § 8-30-
+10 amended (part) Ord. 27-07, 11-14-07) Ord. 003.2020, 02-12-2020; Ord. 034-2021,
+08-11-2021
+
+8-30-20: CALCULATION OF THE FEE—COST OF HOUSING
+
+
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                    Page 12
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+The impact fee shall be determined for development activity as the product of the cost of
+housing an employee and the number of employees generated by the development
+activity.
+
+    (a) Affordable Price. The cost to house an employee shall be determined by
+    calculating the affordable price of housing for the target income class and the market
+    price for housing units of the size typical of the employee housing inventory. The
+    difference in these calculations shall be the basis of the cost to house an employee.
+
+        (1) Target Income for Pitkin County Employee.
+        The target income for employee housing is 80% of the area median income (AMI)
+        for Pitkin County. The average household in Pitkin County, as reported by the US
+        census is 2.09 people. The AMI data utilized shall be for a two-person household
+        as reported by the United States Department of Housing and Urban Development.
+
+        (2) Available Income.
+        The percentage of income attributable to housing costs shall be 30% of gross
+        income. This 30% figure shall include all housing costs, including but not limited
+        to principal and interest payments for a 30-year fixed interest loan, taxes,
+        insurance, assessments and mortgage insurance.
+
+        (3) Interest.
+        Interest rates for a 30-year fixed rate loan shall be based upon inquiry to local
+        lending institutions and adding a premium to that rate of 1%. This is to allow for
+        housing purchases by individuals who cannot qualify for the best market rates
+        available.
+
+        (4) Down Payment.
+        A down payment at the time of purchase will be assumed to be 5% of the total
+        purchase price.
+
+The factors listed above in paragraphs 1 through 4 will be used to calculate the maximum
+affordable purchase price for a housing unit by a two-person household earning the target
+income amount.
+
+    (b) The Market Price of Unrestricted Housing. The market price of free-market
+    housing shall be based upon the following enumerated factors.
+
+            (1) Sales Data. The market sales data for residential properties shall be
+            tabulated on a per square foot basis of heated floor area. Sales data shall be
+            utilized from the Pitkin County Assessor’s Office. This data shall be collected
+            for all areas of Pitkin County including municipalities. The sales data for the
+            three most recent calendar years will be utilized to calculate a rolling median
+            value of retail sales. Excluded from this data will be sales of unheated floor
+            area, sales of restricted properties, sales of fractional ownerships, sales of
+            mobile homes, sales of mixed commercial/residential structures, sales of
+
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                     Page 13
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+            properties with more than one residence and sales involving properties of
+            more than 5 acres.
+
+            (2) Unit Size. The average size of an employee housing unit will be assumed
+            to be 1100 ft.² of heated area.
+
+            (3) Market Price. The market sales of residential properties calculated on a per
+            square foot of heated floor area basis shall be multiplied with the average size
+            of an employee unit to yield the market price of a residential unit of 1100 ft.²
+            of floor area.
+
+    (c) Cost of Employee Housing.
+
+            (1) To the unit market price of unrestricted housing will be added a 10%
+            administration fee. The 10% calculation shall be based upon the difference
+            between market price and affordable purchase price for an 1100 square foot
+            unit. This fee will pay for the expenses in administering the employee housing
+            program to utilize the collected impact fee. The difference between the
+            adjusted total market price including the administration fee and the affordable
+            price is the subsidy for a unit of employee housing. APCHA data details an
+            average of 1.75 employees per unit of housing. Therefore, the cost to house
+            one employee is the level of per employee subsidy, or the cost to house an
+            employee component of the impact fee.
+
+            (Code repealed and reenacted (all sections) by Ord. No. 14-D, 2006, 07-05-
+            08; § 8-30-20 amended (part) Ord. 034-021, 08-11-2021
+
+8-30-30: CALCULATION OF IMPACT FEE—RESIDENTIAL EMPLOYEE
+GENERATION
+
+The employee generation calculation for residential development shall discriminate
+between local and non-local resident occupancy. Local residency shall be occupancy by a
+household or individuals whose legal residency has been established as the property to be
+developed. The non-local resident fee shall be collected for all residential development
+unless the property is restricted through a covenant limiting the occupancy of the
+residence in a manner to guarantee it is not being occupied by a non-local household or
+individuals.
+
+Employee generation caused by residential development is calculated in terms of both
+construction activity and the use and maintenance of the completed residence.
+
+    (a) Construction Impacts.
+
+    Table 8-3 charts the residence size to number of permanent employees generated for
+    the construction activity and the dwelling units needed to house these employees.
+    This table displays the number of employees it takes to construct the unit and the
+
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                      Page 14
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+    number of dwelling units required to house construction workers based on the size of
+    house being constructed. Construction employees will require housing only during
+    the construction period, but the average construction worker career is 40 years. The
+    calculation of construction employee years is therefore divided by 40 to convert to
+    needed housing. The employee equivalent is then divided by the number of
+    employees per dwelling unit (1.75) to calculate the fraction of a dwelling unit needed
+    to house the employees engaged in residential construction of homes of different
+    sizes.
+Table 13: Construction Employment and Need for Housing in Pitkin County
+        TABLE 8-3: CONSTRUCTION EMPLOYMENT AND NEED FOR HOUSING IN PITKIN COUNTY
+
+              Unit Size           Employee Years     Permanent           Dwelling Units
+                                                     Employment
+
+                 500                   0.270                0.007                0.004
+
+                1,000                  0.541                0.014                0.008
+
+                2,000                  1.082                0.027                0.015
+
+                3,000                  1.623                0.041                0.023
+
+                4,000                  2.163                0.054                0.031
+
+                5,000                  2.704                0.068                0.039
+
+                6,000                  3.245                0.081                0.046
+
+                7,000                  3.786                0.095                0.054
+
+                8,000                  4.327                0.108                0.062
+
+                9,000                  4.868                0.122                0.070
+
+               10,000                  5.408                0.135                0.077
+
+               12,000                  6.490                0.162                0.093
+
+        Table 8-3 reflects survey data, census data and data from APCHA.
+
+    (b) Use and Maintenance Impacts.
+    The calculation of use and maintenance activity as an employment generator utilizes
+    survey data from property owners in Pitkin County. The data relates these impacts to
+    the size of the residential development. The data also reflects a significant difference
+    between whether a dwelling is used by a local resident or a non-local resident.
+
+        (1) The collected data is expressed by two separate equations, one for local
+        resident occupancy and one for non-local resident occupancy.
+
+        Ln(y All Homes Other than Non-Locally Occupied) = -4.64138 + (0.000328 *
+        Size in
+        Sq.Ft.)
+
+
+
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                      Page 15
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+          Ln(y Non-Locally Occupied Home) = -4.64138 + (0.000328 * Size in Sq.Ft.) +
+                                         2.00514
+
+        (2) The exponential relationship is specified as follows:
+
+                         y = -4.67138 e (0.000328 x) + 2.01
+                Where y = employment and x = square footage
+
+        The exponential relationship above effectively describes employment as a
+        function of home size for unit of 9,000 square feet and under. For units larger
+        than 9,000 square feet, it is recommended that the ratios for the 9,000 square foot
+        unit be applied on a proportional basis per 1,000 square feet. The results of
+        applying this formula, as adjusted, to local occupancy homes and non-locally
+        occupied homes is reflected in Table 8-4 below.
+(d)
+                                             (e)       Table : 8-4
+                               (f)      Modeled Relationship Between Home Size
+                                      and Post Construction Employment
+                         Size          (g)    Local     (h)      Non-Locally Occupied
+                            (i) 5      (j)      0.011           (k)      0.082
+                       (l)      1      (m)      0.013           (n)      0.096
+                       (o)      2      (p)      0.018           (q)      0.134
+                       (r)      3      (s)      0.025           (t)      0.186
+                        Size           (u)     Local    (v)    Non-Locally Occupied
+                       (w)      4      (x)      0.035           (y)      0.258
+                       (z)      5      (aa)     0.048           (bb)     0.358
+                       (cc)     6      (dd)     0.067           (ee)     0.497
+                       (ff)     7      (gg)     0.093           (hh)     0.691
+                       (ii)     8      (jj)     0.129           (kk)     0.959
+                       (ll)     9      (mm) 0.179               (nn)     1.331
+                          10,000            0.199                    1.479
+                          11,000            0.219                    1.627
+                         12,000             0.239                    1.774
+                         13,000             0.259                    1.922
+                         14,000             0.279                    2.070
+                         15,000             0.299                    2.218
+                        (oo)     Source: RRC
+
+        (3) The formula to determine the impact fee amount for each specific residential
+            development is as follows:
+
+                 (a)      For residential development of 9,000 square feet or less:
+
+                          (1) Construction Employment for all Units = {[0.541 * (Unit FT²
+                          * .001)] \ 40}
+
+
+
+Pitkin County Land Use Code      CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                     Page 16
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+                         (2) Post-Construction Employment – Locally Occupied Unit =
+                         Exponent [ -4.67138 + (0.000328 * Unit FT² )]
+
+                         (3) Post-Construction Employment – Non-Locally Occupied
+                         Home = Exponent [ -4.67138 + (0.000328 * Unit FT² ) + 2.00514]
+
+                         (4) Total Employees = Construction Employment + Post-
+                         Construction Employment
+
+                (b)      For Units over 9,000 square feet the ratios of 0.179 for local
+                         occupancy, and 1.331 for non-local occupancy shall be utilized.
+
+        (4) The calculation of the housing impact fee is development specific and
+        performed administratively. A preliminary calculation can be done utilizing the
+        link to the fee schedule below:
+
+https://www.pitkincounty.com/DocumentCenter/View/355/Affordable-Housing-
+Impact-Fee-Calculation-Sheet-XLS
+
+8-30-40: CALCULATION OF IMPACT FEE-COMMERCIAL EMPLOYEE
+GENERATION
+
+The impact fee for commercial development or land use will vary based on size and type
+of commercial development. This interrelationship is demonstrated on Table 8-5. The
+number of employees generated for specific unit sizes as measured in square feet of floor
+area can be extrapolated from the data on this table. To determine the exact impact fee
+multiply the employee generation rate from Table 8-5 with the current cost to house a
+single employee as determined in Section 8-30-20.
+
+
+
+
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                   Page 17
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+
+
+          TABLE 8-5: Employees Generated by Size of Development
+          Office - General
+          Unit Size in    No. of               Unit Size in sq.   No. of
+          sq. ft.         Employees            ft.                Employees
+                          Generated                               Generated
+          1,000           4.5                  10,000             45
+          2,500           11.25                15,000             67.5
+          5,000           22.5                 20,000             90
+          7,500           33.75
+          Office – Real Estate
+          Unit Size in    No. of               Unit Size in sq.   No. of
+          sq. ft.         Employees            ft.                Employees
+                          Generated                               Generated
+          1,000           5.9                  10,000             59
+          2,500           14.75                15,000             88.5
+          5,000           29.5
+          7,500           44.25
+          Office – Non-Profit
+          Unit Size in    No. of               Unit Size in sq.   No. of
+          sq. ft.         Employees            ft.                Employees
+                          Generated                               Generated
+          1,000           3.8                  10,000             38
+          2,500           9.5                  15,000             57
+          5,000           19                   20,000             76
+          7,500           28.5
+          Retail – Guest Market
+          Unit Size in    No. of               Unit Size in sq.   No. of
+          sq. ft.         Employees            ft.                Employees
+                          Generated                               Generated
+          1,000           2.9                  10,000             29
+          2,500           7.25                 15,000             43.5
+          5,000           14.5                 20,000             58
+          7,500           21.75                25,000             72.5
+          Service – Repair, Personal, Business
+          Unit Size in    No. of               Unit Size in sq.   No. of
+          sq. ft.         Employees            ft.                Employees
+                          Generated                               Generated
+          1,000           1.13                 10,000             11.32
+Pitkin County Land Use Code    CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                          Page 18
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+
+          TABLE 8-5: Employees Generated by Size of Development
+          2,500           2.83                 15,000             16.98
+When                                                                              a
+          5,000           5.66                 20,000             22.64
+          7,500           8.49                 25,000             28.31
+          Restaurant/Bar
+          Unit Size in    No. of               Unit Size in sq.   No. of
+          sq. ft.         Employees            ft.                Employees
+                          Generated                               Generated
+
+
+
+
+          1,000           7.4                  10,000             37
+
+          2,500           18.5                 15,000             55.5
+
+          Government
+
+          Unit Size in    No. of               Unit Size in sq.   No. of
+          sq. ft.         Employees            ft.                Employees
+                          Generated                               Generated
+
+
+
+
+          1,000           3.9                  10,000             39
+
+          2,500           9.75                 15,000             58.5
+
+          5,000           19.5                 20,000             78
+
+          7,500           29.25                25,000             97.5
+
+          (Code revised (all sections) by Ord. No. 14-D, 2006, 07-05-08; § 8-
+          30-40 amended by Ord. 27-07, 11-14-07)
+
+
+
+
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                             Page 19
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+commercial development facility changes in use from one category of use to another
+more intensive category in terms of employee generation, an impact fee shall be imposed
+according to this section for the increase in employee generation.
+
+8-30-50: CALCULATION OF IMPACT FEE—TOURIST/LODGE
+ACCOMMODATION EMPLOYEE GENERATION
+
+    (a) The impact fee for tourist/lodge accommodation development or land use will
+        vary based on the number of accommodation rooms to be developed. There are
+        two types of rooms, historic/standard and luxury.
+
+    (b) The formula to determine the impact fee amount for tourist/lodge accommodation
+    development or land use is as follows:
+
+            (1) Number of rooms times employee generation rate of 0.3 employees per
+                room for historic/standard rooms or 1.1 employees per room for luxury
+                rooms.
+
+        (2) Number of employees times the cost of housing one employee as determined
+        in section 8-30 -20.
+
+8-30-60: CALCULATION OF IMPACT FEE—UNCLASSIFIED
+DEVELOPMENT
+
+The employee housing impact fee calculation is based upon three different classes of
+development: residential, commercial and tourist/lodge accommodations. If the type of
+development proposed is not specified as one of these three classes of development, the
+fee applicable shall be calculated based on the most comparable type of development and
+land use category described herein. If a property owner believes that there is no
+appropriate comparison between the proposed development or land use and the three
+classes of development described or that the specific instance of unclassified
+development would generate employees at a significantly lower rate than indicated by the
+impact fee calculation, then the property owner may submit an independent fee
+calculation as described in section 2-40-130 to suggest an alternative impact fee. The
+impact fee shall be the number of employees times the cost of housing one employee as
+determined in section 8-30-20.
+
+8-30-70: OPTIONS TO DEFRAY THE PAYMENT OF IMPACT FEES
+
+In order to mitigate the impacts of development upon the employee housing capital
+facilities, a developer or property owner may be allowed to avoid full payment of the
+scheduled impact fee through one or a combination of the following events. These events
+shall include and be limited to the construction of deed restricted employee housing, the
+acquisition and deed restriction of existing residential housing units, or the dedication of
+real property to Pitkin County that will be used for the construction of employee housing.
+In no event shall the exercise of any of these three options cause a developer or property
+
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                      Page 20
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+owner to exceed the impact fee schedule with the value of any construction, acquisition
+or dedication. The decision of whether or not to accept an offered alternative to full
+payment of the impact fee is a discretionary decision of the Board of County
+Commissioners. The Board of County Commissioners may accept or reject such offer
+based upon any reasonable consideration including, but not limited to any of the
+following: the type and location of the development to be mitigated; location of the
+property that is offered; the physical condition of the offered property; the ability to
+utilize the property in the employee housing program; the need for the type of property
+offered:
+
+    (a) Construction Requirements for Employee Housing Units
+
+    Any employee housing units developed in lieu of payment of a full impact fee shall
+    meet the following guidelines:
+
+        (1) All construction must comply with all regulations and required permits of the
+        Pitkin County Code.
+
+        (2) Size and materials used in the construction of employee housing shall be
+        specifically approved by either the Board of County Commissioners. All
+        employee housing units constructed shall be ready for occupancy prior to the
+        issuance of a Certificate of Occupancy for the free-market development for which
+        the deed restricted housing is in mitigation.
+
+        (3) A deed restriction to be recorded against the property shall be reviewed and
+        accepted by the Board of County Commissioners and its County Attorney prior to
+        acceptance of the unit for mitigation of development impacts and/or prior to
+        issuance of a building permit for the unit.
+
+    (b) Requirements for Converted/Deed Restricted Units
+
+    Free-market units acquired in lieu of full payment of the scheduled impact fee shall
+    meet the following requirements:
+
+        (1) All units must be specifically approved for mitigation by the Board of County
+        Commissioners. The grant of this acceptance will be at the discretion of the
+        Board of County Commissioners considering factors including but not limited to
+        the location of the units, physical quality of the housing units and cost of
+        maintenance of the units.
+
+        (2) The acquired and restricted units shall be ready for occupancy before the
+        issuance of a Certificate of Occupancy for the constructed free-market
+        development whose impact the deed restricted units mitigate.
+
+        (3) Prior to acceptance, the deed restriction recorded against the converted units
+        shall be approved by the Board of County Commissioners or its County Attorney.
+
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                    Page 21
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+
+
+    (c) Dedication of Real Property
+
+     All real property proposed by a developer or property owner for dedication to Pitkin
+     County in lieu of full payment of the scheduled employee housing impact fee, shall
+     be specifically accepted by the Board of County Commissioners through enactment
+     of a County ordinance. The Board of County Commissioners may reject or accept
+     any offered real property based upon any reasonable consideration. Included in the
+     criteria for consideration but not representative of all factors that may be considered
+     by the Board of County Commissioners in accepting a real property dedication will
+     be: the location of the property; the size of the property to accommodate
+     development of employee housing; the existing zoning of the property; the
+     environmental, topographic and soils condition of the offered property; and the
+     presence of any infrastructure or utilities.
+
+    (d) Removal of Constructed Employee Housing
+
+    If the obligation of payment of the impact fee was satisfied through the construction
+    of employee housing as provided in paragraph (a) above and the property owner
+    wishes to eliminate that constructed employee housing, such a request may be made
+    to the Community Development Department and determined by the Board of County
+    Commissioners. If the removal of the employee housing unit is approved, then the
+    property owner shall be responsible, prior to the unit’s removal, for the payment of
+    the impact fee originally satisfied by the constructed unit, at the rate of payment at the
+    time of the unit’s removal.
+
+8-30-80: EXEMPTIONS AND CREDITS
+
+    (a) Exemptions from Payment of Scheduled Impact Fees
+
+        (1) Employee Housing
+
+        No employee housing impact fee shall be imposed on the construction of deed
+        restricted employee housing as defined from time to time by the Board of County
+        Commissioners.
+
+        (2) Replacement, Restoration or Remodel of Existing Units
+
+        No employee housing impact fee shall be charged for replacement or restoration
+        for an improvement that was lost or damaged through fire, age or other event not
+        precipitated by the owner of the property. This exemption shall extend only so far
+        as replacement or restoration for the unit is being sought in its same location and
+        at the same size. No employee housing impact fee shall be charged for remodel
+        construction that does not increase the size of the residential structure if a fee for
+        the existing residence was already paid. No exemption shall be recognized for
+        expansion of an existing structure except for that portion for which a fee was
+
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                        Page 22
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+        already paid. Therefore, if a fee was paid on the construction of a 10,000 square
+        foot home and the home is expanded to 11,000 square feet, a fee on the additional
+        1,000 square feet will be owed in the amount of the difference in the fee for a
+        10,000 square foot home and an 11,000 square foot home.
+
+        (3) Structures of five thousand seven hundred fifty (5,750) square feet or less of
+        heated space shall not be assessed an impact fee. Heated space shall be heated
+        square footage calculated as all interior space measured interior wall to interior
+        wall including all interior partitions. Multiple residential structures on one
+        property shall be considered as one structure for fee calculation purposes.
+        (4) Agricultural structures and activity will not be assessed an impact fee. Any
+        other structures or activities associated with or located on property with
+        agricultural activity or structures will be subject to the terms of this Chapter.
+
+    (b) Credits
+
+        (1) Previous Payment and Exaction
+
+            (a) Any fee imposed by this Chapter shall be subject to offset and reduced to
+            reflect all previous payments, exactions, dedications or other mitigation made
+            in relation to the proposed use and development.
+
+            (b) The value of any payment, exactions, dedications or other mitigation
+            made to Pitkin County shall be adjusted upward to reflect the present value
+            not the value at the time of the original payment, exaction or dedication. This
+            upward adjustment shall be based upon the annualized rate of inflation as
+            published in the Consumer Price Index (Denver-Aurora-Lakewood CPI-W) as
+            established by the United States Bureau of Labor Statistics. If this index
+            should be discontinued, then reference will be to Denver-Aurora-Lakewood
+            CPI-U, and if this is not available, then to CPI-W All Cities.
+
+            (c) If the previous dedication, contribution or exaction was made as a part of
+            a larger approval, i.e., subdivision or PUD review process, then the previous
+            contribution, dedication or exaction shall be apportioned between all the
+            properties of the approved development for which the previous contribution,
+            dedication or exaction was made.
+
+        (2) Change in Use
+
+        When the imposition of the employee housing impact fee is required due to a
+        change in use, credit shall be recognized for any legally established use.
+
+8-30-90: IMPACT FEE FOR SMALL ESTABLISHED COMMERCIAL
+BUSINESSES
+
+
+
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                     Page 23
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+        (a) A “small established commercial business” (a commercial business that has
+        eight (8) or fewer full time equivalent employees, that is less than five thousand
+        (5,000) sq. ft. of floor area, and that has operated continuously as the same type of
+        business with the same ownership, and in the same location in Pitkin County for a
+        period exceeding twenty (20) years) that relocates and abandons an old facility
+        and that constructs and owns a new facility to accommodate the same small
+        established commercial business shall be required to pay only the employee
+        housing impact fee that would be imposed by Section 8-30-40 on the amount of
+        additional floor area by which the new facility exceeds the previously occupied
+        facility.
+
+        (b) If a new facility is exempted in conformance with Section 8-30-80(a) above,
+        and the use of the facility changes prior to occupancy of the new facility or within
+        five (5) years of occupancy of the new facility, an impact fee shall be required for
+        the new facility in accordance with the formula and computation of fees
+        established in Section 8-30-40. The fee owed will be that in effect at the time of
+        the change in occupancy.
+
+        (c) A business utilizing this provision for reduction in/or exemption from the
+        impact fee shall be subject to periodic employee audits (not more than once every
+        two years) which shall be undertaken by Pitkin County and which will be funded
+        by the business. Any increase in full time equivalent employees documented by
+        an audit will require the business to pay additional employee impact fees at 100%
+        of the amount that would be imposed for the additional employees by utilizing the
+        formula and computation of fees established in Section 8-30-40.
+
+ (Code repealed and reenacted (all sections) by Ord. No. 14-D, 2006, 07-05-08; § 8-10-
+60 (part) amended Ord. 23-09, 09-23-09); Ord. 003-2020, 02-12-2020
+
+8-40: PARKS/RECREATION/OPEN SPACE EXACTION – Repealed Ord. 024-
+2021, 06-09-2021
+
+8-50: PARKS/OPEN SPACE/AGRICULTURAL PRESERVATION FEE
+
+[Reserved]
+
+8-60: TRAILS EXACTION
+
+8-60-10: APPLICABILITY
+
+The trails development exaction standards are applicable to new residential and
+commercial subdivisions and tourist accommodation developments.
+
+8-60-20: INTENT
+
+
+
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                       Page 24
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+Pitkin County established a trails program to satisfy trails needs of residents and visitors.
+The program is intended to provide:
+
+        (a) Trails for diversified segments of the population including: nordic skiers,
+        mountain bike riders, road bike riders, hikers, horse back riders, fisherman,
+        hunters, senior and handicapped citizens;
+
+        (b) Recreational trails, commuting trails and dual purpose trails for recreation and
+        commuting; and
+
+        (c) Multiple access points to the United States Forest Service trails system and
+        public lands.
+
+8-60-30: TRAILS STANDARDS
+
+        (a) General
+
+        Pitkin County trails standards are based upon consideration of the Pitkin County
+        Comprehensive Plan and adopted open space and trails plans.
+
+        (b) Standards
+
+                (1) Whenever a tract to be subdivided includes any part of a trail or trails
+                designated on trail or master plans or historically used trails, the developer
+                shall plat and grant public easements consistent with County Trail
+                standards and specifications and in a location acceptable to the Board of
+                County Commissioners.
+
+             (2) Whenever a tract of land is traversed by or abuts a river or creek, the
+                 developer shall plat and grant a public fishing easement to include the
+                 stream and the land area five feet (5') beyond the ordinary high water
+                 mark on the stream bank.
+
+        (Code repealed and reenacted (all sections) by Ord. 014-D-2006, Section 8-60-
+        30 amended (in part) Ord. 011-2022, 02-23-2022
+
+8-70: PUBLIC TRAIL FEES
+
+[Reserved]
+
+8-80: SCHOOL LAND DEDICATION STANDARDS
+
+8-80-10: APPLICABILITY
+
+Pursuant to C.R.S. 30-28-101 et. seq. , school land dedication standards shall be assessed
+upon all new subdivisions containing residential units within unincorporated Pitkin
+
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                        Page 25
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+County that are located within the boundaries of the Aspen School District or the Roaring
+Fork School District (RE-1).
+
+8-80-20: INTENT
+
+The Aspen and Roaring Fork School Districts require land for necessary school
+functions, which may include, but are not limited to, school buildings, support facilities,
+open space and recreation areas and housing for employees and their families. The
+purpose of this Section is to ensure that as development occurs within the School
+Districts and school enrollment grows, the current level of service provided to students
+can be maintained. This is accomplished by the adoption of standards for new
+subdivisions to provide land, or cash-in-lieu thereof to the County, for use by the School
+District. The standards are based on the number of students the development generates
+and the School Districts current level of service standard for land area provided per
+student.
+
+8-80-30: ASPEN SCHOOL DISTRICT DEDICATIONS AND PAYMENTS
+
+        (a) Land Dedication Standards
+
+        For lands within the Aspen School District boundaries, school land dedications
+        shall be assessed according to the following schedule:
+
+   TABLE 8-5: Aspen School District School Land Dedications
+   Unit Type                   Land Dedication Standard
+   Dormitory                   0.0000 acres (0 sq. ft.)
+   Studio/1 Bedroom            0.0012 acres (52 sq. ft.)
+   2 Bedroom                   0.0095 acres (416 sq. ft.)
+   3 Bedroom                   0.0162 acres (707 sq. ft.)
+   4 Bedroom                   0.0248 acres (1,081 sq. ft.)
+   5 Bedroom                   0.0284 acres (1,236 sq. ft.)
+
+        (b) Cash-in-Lieu Payment Formula
+
+        For lands within the Aspen School District Boundaries, an applicant may make a
+        cash payment in-lieu of dedicating land to the County, or may make a cash
+        payment in combination with a land dedication, to comply with the standards of
+        this Section. Because of the cost of subdivided land in Pitkin County, the School
+        District and Pitkin County have decided to require payment of a cash-in-lieu
+        amount that is less than the full market value of the land area that would result
+        from application of these land dedication standards. Because there is not a single
+        formula that works equally well for both small and large lots, two formulas have
+        been established. Applicants may use the formula that results in the lesser of the
+        two payment amounts. Regardless of that formula is chosen, any individual cash-
+        in-lieu payment shall not be required to exceed $4,260 for a single dwelling unit.
+
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                     Page 26
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+        The formulas to determine the amount of the cash-in-lieu payment for each
+        residential dwelling unit are as follows:
+
+                (1) Formula 1
+
+                Market value of land multiplied by the applicable land dedication standard
+                multiplied by 0.33 equals the amount of the cash payment. For example,
+                for a property having a market land value of $100,000, on which a four
+                bedroom house is proposed, the payment would be:
+
+                         $100,000 x 0.0248 x 0.33 = $818.40.
+
+                (2) Formula 2
+
+                The market value of the land divided by the total number of square feet of
+                land within the property equals the market value of one square foot of the
+                property. The market value of one square foot of the property multiplied
+                by the number of square feet of land required to be dedicated to the county
+                equals the amount of the cash payment. For example, for a ten acre
+                property having a market land value of $1,000,000 on which a four-
+                bedroom house is proposed, the payment would be:
+
+                         $1,000,000/43,560 x 10 = $2.30
+
+                         $2.30 x 1,081 = $2,486
+
+                (3) Current Market Value
+
+                Current market value means the value of a subdivided lot at the time of the
+                cash-in-lieu payment, including site improvements such as streets and
+                utilities, but excluding the value of residential dwelling units and other
+                structures on the property. When more than one residential dwelling unit
+                is to be built on a lot, then each unit shall be assigned its proportionate
+                share of the current market value of the lot.
+
+                (4) Substantiation
+
+                Market value may be substantiated by a documented purchase price (if an
+                arms length transaction nor more than two (2) years old) or other mutually
+                agreed upon recognized means.
+
+                (5) Appraisal
+
+                In the event the developer and the County fail to agree on market value,
+                such value shall be established by a qualified real estate appraiser
+                acceptable to both parties. The developer shall pay for the appraisal.
+
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                     Page 27
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+
+
+                (6) Mixed Use Developments
+
+                When the proposed subdivision contains a mix of residential, commercial,
+                and other uses, the required dedication shall be based solely on the number
+                of proposed residential dwelling units.
+
+8-80-40: ROARING FORK SCHOOL DISTRICT DEDICATIONS AND
+PAYMENTS
+
+        (a) General Formula
+
+        Within the Roaring Fork School Districts, required land dedications or fees-in-
+        lieu of land dedications for school purposes shall be based on the following
+        formula:
+
+                Land area required per student x students generated per dwelling unit =
+                land dedication standard
+
+        (b) Land Area Required Per Student
+
+        In applying the general formula in subsection (a) above, the following
+        requirements for land area per student shall be used:
+
+    TABLE 8-6: Roaring Fork School District Land Requirements per Student
+                              Reasonable Capacity Recommended Acreage
+    Elementary School         550                    15.5
+    Middle School             600                    26.0
+    High School               800                    38.0
+    Totals                    1950                   79.
+    Total Ac./Student                                .04077
+    Total Sq.Ft./Student                             1,776
+
+        (c) Student Generation Rates
+In applying the general formula in subsection (a) above, the following requirements for
+land area per student shall be used:
+
+ TABLE 8-7: Roaring Fork School District Student Generation Rates
+ Single-Family                         .49 student / dwelling unit
+ Multi-Family                          .38 student / dwelling
+ Mobile Home, Trailer                  .71 student / mobile home or trailer
+
+        (d) Land Dedication Requirements
+
+        Applying the factors listed in subsections (a) through (c) above results in the
+        Roaring Fork School District school land dedication requirements shown below:
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                     Page 28
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+
+
+ TABLE 8-8: Roaring Fork School District Land Dedication Requirements
+ Single-Family                             870 sq.ft. per unit or .020 ac.
+ Multi-Family                              675 sq. ft. per unit or .015 ac.
+ Mobile Home, Trailer                      1,261 sq. ft. per unit or .029 ac.
+
+        (e) Cash-in-Lieu of Land Dedication
+
+        At the discretion of the Roaring Fork School District, a developer of residential
+        housing may make a cash payment in lieu of dedicating land, or may make a cash
+        payment in combination with a land dedication. The formula to determine the
+        cash-in-lieu payment is as follows:
+
+                Market value of land per acre * land dedication standard from subsection
+                (d) above * no. of dwelling units = cash-in-lieu payment required.
+
+8-80-50: PROCEDURES FOR LAND DEDICATION AND CASH PAYMENT
+
+        (a) Land Dedication
+
+        Lands to be dedicated to the County to fulfill the standards of this section shall be
+        identified on the detailed subdivision plan and shall be dedicated to the County at
+        the time of final subdivision plat approval.
+
+                (1) Acceptance
+
+                Acceptance of the lands to be dedicated shall be at the discretion of the
+                Board of County Commissioners.
+
+                (2) Criteria
+
+                Prior to acceptance, the Board of County Commissioners shall consider
+                the comments of the School District to determine whether the lands
+                proposed to be dedicated are of adequate size and can be suitably
+                developed for school purposes or whether the lands have the capability of
+                being sold, with the proceeds being used for school purposes. The Board
+                shall also consider the probable impacts on neighboring properties of the
+                development of the land for school purposes. When the lands proposed to
+                be dedicated are not adequate or suitable for school purposes and cannot
+                feasibly be sold, the Board shall require a cash payment in-lieu of the land
+                dedication.
+
+                (b) Cash-in-Lieu Payment
+
+
+
+
+Pitkin County Land Use Code    CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                       Page 29
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+                Payment of cash-in-lieu of a land dedication shall be made to the County
+                prior to and on a proportional basis to the issuance of a building permit for
+                residential dwelling units.
+
+8-80-60: USE OF LAND AND USE OF FUNDS
+
+        (a) Land
+
+        All lands dedicated to the County pursuant to this section shall be held by the
+        County for the Aspen School District or the Roaring Fork School District, as
+        applicable, until such time as they shall be requested by the School District for
+        school purposes.
+
+                (1) Maintenance
+
+                The applicable School District shall be responsible for the maintenance of
+                said lands in a reasonable manner while they are being held by the County.
+
+                (2) Sale of Land
+
+                The Board of County Commissioners may, at the request of the applicable
+                School District, sell lands that have been dedicated to the County pursuant
+                to this section. The proceeds from the sale shall be transferred to the
+                designated interest bearing account into which funds collected from
+                payments in-lieu of school land dedications are transferred.
+
+        (b) Funds
+
+        All funds collected pursuant to this section shall be transferred by the building
+        inspector to the finance director, for deposit in a designated interest bearing
+        account.
+
+                (1) County Shall Hold Funds
+
+                The County shall hold the funds until such time as they shall be requested
+                by the applicable School District for the acquisition of land for school
+                purposes, or for other capital outlays or growth-related planning functions
+                for education purposes, at which time they shall be released to the
+                applicable School District.
+
+                (2) Administrative Fee
+
+                The County shall be entitled to retain one (1) percent of the funds
+                collected to compensate the County for its administrative expenses of
+                collecting the cash-in-lieu payments. Said administrative fees shall be
+
+
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                       Page 30
+Chapter 8 – Development Exactions and Impacts Fees
+
+
+                deposited in the County’s General Revenue Fund, to be expended as the
+                County shall determine in its sole discretion.
+
+        (c) Use of Land or Funds for Housing
+
+        If the applicable School District decides that land or funds dedicated pursuant to
+        this Section should be used for housing, then the School District shall place a
+        deed restriction on those housing units, restricting their occupancy solely to
+        employees of the applicable School District and their families. In the event the
+        inventory of housing exceeds the applicable School District’s needs, the School
+        Board may allow occupancy of the units through the Housing Authority.
+
+        (d) Periodic Review
+
+        In order to ensure that these land dedication standards are fair and represent the
+        current level of service provided by the applicable School District, the formula
+        and dedication schedule shall be reviewed by the County, together with the
+        applicable School District, and amended as necessary within three (3) years of its
+        effective date and every three (3) years thereafter.
+
+8-90: PUBLIC TRANSPORTATION FEES
+
+[Reserved]
+
+8-100: HEALTH AND HUMAN SERVICES FEES
+
+[Reserved]
+
+
+
+
+Pitkin County Land Use Code   CHAPTER 8 – DEVELOPMENT EXACTIONS AND IMPACT FEES
+July 2006                                                                                    Page 31
+

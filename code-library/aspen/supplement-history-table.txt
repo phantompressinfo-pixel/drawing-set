@@ -1,0 +1,489 @@
+# CITY OF ASPEN MUNICIPAL CODE — SUPPLEMENT HISTORY TABLE
+# Source: Municode (api.municode.com), Supp. No. 7 Update 1, codified through Ord. No. 06-2026 (enacted 2026-03-24)
+# Retrieved: 2026-07-22
+
+
+===== SUPPLEMENT HISTORY TABLE
+The table below allows users of this Code to quickly and accurately determine what
+ ordinances have been considered for codification in each supplement. Ordinances that
+ are of a general and permanent nature are codified in the Code and are considered
+ "Included." Ordinances that are not of a general and permanent nature are not codified
+ in the Code and are considered "Omitted."
+ In addition, by adding to this table with each supplement, users of this Code of Ordinances
+ will be able to gain a more complete picture of the Code's historical evolution.
+ Ord. No.
+ | 
+ Date Adopted
+ | 
+ Included/Omitted
+ | 
+Supp. No. 1
+ | 
+15-2014
+ | 
+  5-27-2014
+ | 
+ Included
+ | 
+5-2018
+ | 
+  2-26-2018
+ | 
+ Included
+ | 
+3-2020
+ | 
+  4-28-2020
+ | 
+ Included
+ | 
+9-2020
+ | 
+  1-28-2020
+ | 
+ Included
+ | 
+10-2020
+ | 
+  8-25-2020
+ | 
+ Included
+ | 
+13-2020
+ | 
+  9-22-2020
+ | 
+ Included
+ | 
+17-2020
+ | 
+ 11-24-2020
+ | 
+ Included
+ | 
+20-2020
+ | 
+ 11-24-2020
+ | 
+ Included
+ | 
+Supp. No. 2
+ | 
+2-2019
+ | 
+  7-22-2019
+ | 
+ Included
+ | 
+10-2021
+ | 
+  5-11-2021
+ | 
+ Included
+ | 
+11-2021
+ | 
+  5-11-2021
+ | 
+ Included
+ | 
+12-2021
+ | 
+  5-11-2021
+ | 
+ Included
+ | 
+13-2021
+ | 
+  5-11-2021
+ | 
+ Included
+ | 
+16-2021
+ | 
+  7-13-2021
+ | 
+ Omitted
+ | 
+19-2021
+ | 
+  8-31-2021
+ | 
+ Included
+ | 
+20-2021
+ | 
+ 11-23-2021
+ | 
+ Included
+ | 
+22-2021
+ | 
+ 11-23-2021
+ | 
+ Included
+ | 
+Supp. No. 3
+ | 
+1-2022
+ | 
+  2- 8-2022
+ | 
+ Included
+ | 
+5-2022
+ | 
+  4-12-2022
+ | 
+ Included
+ | 
+9-2022
+ | 
+  6-28-2022
+ | 
+ Included
+ | 
+11-2022
+ | 
+  5-24-2022
+ | 
+ Included
+ | 
+13-2022
+ | 
+  6-28-2022
+ | 
+ Included
+ | 
+14-2022
+ | 
+  6-30-2022
+ | 
+ Included
+ | 
+16-2022
+ | 
+ 11-29-2022
+ | 
+ Included
+ | 
+Supp. No. 4
+ | 
+19-2022
+ | 
+ 11-29-2022
+ | 
+ Included
+ | 
+01-2023
+ | 
+  1-24-2023
+ | 
+ Included
+ | 
+05-2023
+ | 
+  2-28-2023
+ | 
+ Included
+ | 
+04-2023
+ | 
+  2-28-2023
+ | 
+ Included
+ | 
+06-2023
+ | 
+  3-14-2023
+ | 
+ Included
+ | 
+08-2023
+ | 
+  4-25-2023
+ | 
+ Included
+ | 
+09-2023
+ | 
+  5- 9-2023
+ | 
+ Included
+ | 
+12-2023
+ | 
+ 11-14-2023
+ | 
+ Included
+ | 
+14-2023
+ | 
+ 10-10-2023
+ | 
+ Included
+ | 
+15-2023
+ | 
+ 11-28-2023
+ | 
+ Included
+ | 
+17-2023
+ | 
+ 11-28-2023
+ | 
+ Included
+ | 
+19-2023
+ | 
+ 11-28-2023
+ | 
+ Included
+ | 
+22-2023
+ | 
+ 11-28-2023
+ | 
+ Included
+ | 
+23-2023
+ | 
+ 12-12-2023
+ | 
+ Included
+ | 
+25-2023
+ | 
+ 11-28-2023
+ | 
+ Included
+ | 
+Supp. No. 5
+ | 
+81-2008(Res.)
+ | 
+  8-25-2008
+ | 
+ Included
+ | 
+122-2017(Res.)
+ | 
+  9- 5-2017
+ | 
+ Omitted
+ | 
+023-2021
+ | 
+ 12- 7-2021
+ | 
+ Included
+ | 
+106-2022(Res.)
+ | 
+  8-29-2022
+ | 
+ Included
+ | 
+16-2023
+ | 
+  9-26-2023
+ | 
+ Included
+ | 
+01-2024
+ | 
+  2-27-2024
+ | 
+ Included
+ | 
+03-2024
+ | 
+  3-26-2024
+ | 
+ Included
+ | 
+047-2024(Res.)
+ | 
+  4-23-2024
+ | 
+ Omitted
+ | 
+08-2024
+ | 
+  8-27-2024
+ | 
+ Included
+ | 
+09-2024
+ | 
+  8-27-2024
+ | 
+ Included
+ | 
+10-2024
+ | 
+  7-23-2024
+ | 
+ Included
+ | 
+11-2024
+ | 
+  7-23-2024
+ | 
+ Included
+ | 
+14-2024
+ | 
+ 12-17-2024
+ | 
+ Included
+ | 
+15-2024
+ | 
+  9-24-2024
+ | 
+ Included
+ | 
+17-2024
+ | 
+ 11-19-2024
+ | 
+ Included
+ | 
+18-2024
+ | 
+ 10-22-2024
+ | 
+ Included
+ | 
+19-2024
+ | 
+ 11-12-2024
+ | 
+ Included
+ | 
+20-2024
+ | 
+ 11-19-2024
+ | 
+ Included
+ | 
+21-2024
+ | 
+  1-14-2025
+ | 
+ Included
+ | 
+Supp. No. 6
+ | 
+01-2025
+ | 
+  2-11-2025
+ | 
+ Included
+ | 
+02-2025
+ | 
+  2-25-2025
+ | 
+ Included
+ | 
+075-2025(Res.)
+ | 
+  5-27-2025
+ | 
+ Omitted
+ | 
+04-2025
+ | 
+  6-10-2025
+ | 
+ Included
+ | 
+077-2025(Res.)
+ | 
+  6-24-2025
+ | 
+ Omitted
+ | 
+07-2025
+ | 
+  8-26-2025
+ | 
+ Included
+ | 
+08-2025
+ | 
+ 11-18-2025
+ | 
+ Included
+ | 
+09-2025
+ | 
+  8-26-2025
+ | 
+ Included
+ | 
+10-2025
+ | 
+ 11-18-2025
+ | 
+ Omitted
+ | 
+11-2025
+ | 
+ 11-18-2025
+ | 
+ Included
+ | 
+13-2025
+ | 
+ 11-18-2025
+ | 
+ Included
+ | 
+14-2025
+ | 
+ 12- 2-2025
+ | 
+ Included
+ | 
+Supp. No. 7
+ | 
+16-2025
+ | 
+ 11-18-2025
+ | 
+ Included
+ | 
+18-2025
+ | 
+  1-13-2026
+ | 
+ Included
+ | 
+01-2026
+ | 
+  3-10-2026
+ | 
+ Included
+ | 
+02-2026
+ | 
+  3-10-2026
+ | 
+ Included
+ | 
+03-2026
+ | 
+  3-10-2026
+ | 
+ Included
+ | 
+06-2026
+ | 
+  3-24-2026
+ | 
+ Included
+ |

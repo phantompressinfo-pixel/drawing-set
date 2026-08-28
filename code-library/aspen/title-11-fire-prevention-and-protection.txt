@@ -1,0 +1,752 @@
+# CITY OF ASPEN MUNICIPAL CODE — TITLE 11 - FIRE PREVENTION AND PROTECTION
+# Source: Municode (api.municode.com), Supp. No. 7 Update 1, codified through Ord. No. 06-2026 (enacted 2026-03-24)
+# Retrieved: 2026-07-22
+
+
+===== TITLE 11 - FIRE PREVENTION AND PROTECTION
+
+
+===== Chapter 11.04. -         FIRE PREVENTION AND PROTECTION        
+Footnotes: 
+ --- (
+1
+) ---
+Editor's note—
+ Section 1 of Ordinance No. 27-1973, repealed Ch. 9, pertaining to fire prevention
+ and protection generally, fireworks and flammable liquids and certain other explosives.
+ Former Ch. 9 was derived from Code 1962, §§ 1-3-5, 6-1-12, 6-1-37, 6-8-1—6-8-10; Ord.
+ No. 18-1967, § 1 and Ord. No. 19-1970, § 1. Section 2 of Ordinance No. 27-1973 amended
+ the Code by adding former §§ 9-1—9-4 as a new Ch. 9 (Ch. 11.04) as herein set out.
+Cross reference— 
+ Buildings and Building Regulations, Title 8; Chief of Fire Department to be ex officio member of Board of Appeals and Examiners,
+ § 8.08.020; Separate containers required for ashes, § 12.04.040; Control of ashes during transportation, § 12.04.090; Duty of superintendent of waterworks to maintain fire hydrant, § 25.08.020(d); access to fire hydrants by fire department, § 25.08.030.
+State Law reference— 
+ 3
+ Fire safety assistance by State Division of Fire Safety, C.R.S. § 24-33.5-120; Building
+ and Fire Regulations, C.R.S. § 31-15-601 et seq.; Codes adopted by reference, C.R.S.
+ § 31-16-201 et seq.
+
+===== Sec. 11.04.010. - Fire limits.
+The fire limits of the City shall be the same as the territorial limits thereof, including
+ additions thereto and all provisions of this Chapter shall be enforceable within said
+ limits.
+ (Code 1971, § 9-1; Ord. 
+No. 27-1973
+, § 2)
+
+===== Sec. 11.04.020. - Adoption of the International Fire Code.
+Pursuant to the power and authority conferred by the laws of the State of Colorado
+ and the Charter of the City of Aspen, Colorado, it is hereby adopted as the fire code
+ of the City of Aspen, Colorado, by reference thereto, the International Fire Code,
+ 2009 edition, including the appendix, except Sections A, E, F and G of said appendix
+ of such code published by the International Code Council Inc. 4051 West Flossmoor
+ Road, Country Club Hills, Illinois, 60478-5795 all to have the same force and effect
+ as though set forth herein in every particular.
+ (
+Ord. No. 1-2003
+, § 1; 
+Ord. No. 20-2004
+, § 1; 
+Ord. No. 37-2011
+§ 1)
+Charter reference— 
+ Authority of City to adopt standard codes, 
+§ 5.04.130
+.
+State Law reference— 
+ Authority to adopt codes by reference, C.R.S. § 31-16-201.
+
+===== Sec. 11.04.030. - Amendments.
+The International Fire Code herein adopted shall be amended as follows:
+Sec. 101.1 Title.
+ These regulations shall be known as the Fire Code of the 
+Aspen Fire Protection District
+, hereinafter referred to as "this code."
+Sec. 102.8 Subjects not regulated by this code.
+ Where no applicable standards or requirements are set forth in this code, or are contained
+ within other laws, codes, regulations, ordinances or bylaws adopted by the jurisdiction,
+ compliance with the most current applicable standards of the National Fire Protection
+ Association or other nationally recognized fire safety standards, as approved, shall
+ be deemed as prima facie evidence of compliance with the intent of this code. Nothing
+ herein shall derogate from the authority of the fire code official to determine compliance
+ with codes or standards for those activities or installations within the fire code
+ official's jurisdiction or responsibility.
+ Exception: When that current cycle is less than a year from the previous cycle, the
+ previous cycle may be used with the approval of the fire code official.
+Sec. 102.9 Matters not provided for.
+ Requirements that are essential for the public safety of an existing or proposed activity,
+ building or structure, or for the safety of the occupants thereof, which are not specifically
+ provided for by this code shall be determined by the fire code official. The most
+ current NFPA code cycle or other nationally recognized fire safety standards, as approved
+ shall be utilized.
+ Exception: When that current cycle is less than a year from the previous cycle, the
+ previous cycle may be used with the approval of the fire code official.
+Sec. 103.2 Appointment.
+ The fire code official shall be appointed by the chief appointing authority of the
+ jurisdiction; and the fire code official shall not be removed from office except for
+ cause and after full opportunity to be heard on specific and relevant charges by and
+ before the appointing authority. For the purposes of this code the term fire code
+ official there may be inserted fire marshal.
+Sec. 104.6.3 Fire records.
+ The fire department shall keep a record of fires occurring within its jurisdiction
+ and of facts concerning the same, including statistics as to the extent of such fires
+ and the damage caused thereby, together with other information as required by the
+ fire code official. Copies of all such records shall be forwarded to the office of
+ the fire marshal.
+Sec. 104.10 Fire investigations.
+ The fire code official, the fire chief or other responsible authority shall have the
+ authority to investigate the cause, origin and circumstances of any fire, explosion
+ or other hazardous condition. Information that could be related to trade secrets or
+ processes shall not be made part of the public record except as directed by a court
+ of law.
+Sec. 108.1 Board of appeals.
+ Appeals shall be in accordance with Section 
+8.08
+ of the Municipal Code of the City of Aspen or Section 
+Title 11
+ sec 04.040.112.1 of the Pitkin County Code.
+Sec. 109.2.2 Compliance with orders and notices.
+ A notice of violation issued or served as provided by this code shall be complied
+ with by the owner, operator, occupant or other person responsible for the condition
+ or violation to which the notice of violation pertains.
+ (1)
+ If the building or other premises is owned by one person and occupied by another,
+ under lease or otherwise, and the notice of violation requires additions to or changes
+ in the building or premises such as would be considered real estate and become the
+ property of the owner, said notice and order shall be directed to such owner of the
+ building or premises.
+ (2)
+ Every notice of violation pursuant to this Chapter shall set forth a time by which
+ compliance with the notice violation is required. The time specified shall be reasonable
+ according to the circumstances of the particular hazards or condition to which the
+ notice and order pertains. Immediate compliance may be required in any case which
+ represents extreme or imminent danger to persons or property.
+ (3)
+ Except for cases where immediate compliance is required, violations pursuant to this
+ Chapter may be appealed as set forth in Section 108.1.
+ (4)
+ In cases where immediate compliance is required, the notice of violation so stating
+ shall be final and conclusive.
+Sec. 202 General Definitions.
+ "Guest" shall mean any person hiring or occupying a room or bed for living or sleeping
+ purposes.
+ "Street" shall mean any thoroughfare, alley or public space not less than sixteen
+ (16) feet in width which has been dedicated or deeded to the public for public use.
+Sec. 307.1.1 Prohibited open burning.
+ Open burning that is offensive or objectionable because of smoke emissions or when
+ atmospheric conditions or local circumstances make such fires hazardous shall be prohibited.
+ from May 31 to October 1.
+Exception:
+ Open burning may be permitted or prohibited at any time when in the opinion of the
+ fire code official the atmospheric conditions are conducive for safe burning.
+Sec. 308.3 Group A occupancies.
+ Open-flame devices shall not be used in a Group A occupancy.
+ Exceptions:
+ 1.
+ Open-flame devices are allowed to be used in the following situations, provided approved
+ precautions are taken to prevent ignition of a combustible material or injury to occupants:
+ 1.1.
+ Where necessary for ceremonial or religious purposes in accordance with Section 308.1.7.
+ 1.2.
+ On stages and platforms as a necessary part of a performance in accordance with Section
+ 308.3.2.
+ 1.3.
+ Where candles on tables are securely supported on substantial noncombustible bases
+ and the candle flames are protected.
+ 2.
+ Heat-producing equipment complying with Chapter 6 and the International Mechanical
+ Code.
+ 3.
+ Gas lights are allowed to be used provided adequate precautions satisfactory to the
+ fire code official are taken to prevent ignition of combustible materials.
+ 4.
+ The use of indoor pyrotechnic displays in a Group A occupancy shall be prohibited.
+Exceptions:
+ Indoor pyrotechnics shall be permitted if all the following conditions are met:
+ (1)
+ A permit shall be issued for each display.
+ (2)
+ The building is fully equipped with an approved fire sprinkler system.
+ (3)
+ The building is fully equipped with an approved and monitored fire alarm system.
+ (4)
+ The display is handled and performed by a certified pyrotechnician, possessing a valid
+ certificate issued by the State of Colorado.
+ (5)
+ There are at least two standby personnel equipped with the appropriate fire extinguisher
+ and familiar in the use of that fire extinguisher.
+ (6)
+ A safety plan is filed and approved by the Fire Marshal's office.
+ (7)
+ In accordance with NFPA 160 and NFPA 1126.
+Sec. 308.3.2 Theatrical performances.
+ Where approved, open flame devices and pyrotechnic devices used in conjunction with
+ theatrical performances are allowed to be used when the following conditions are met:
+ (1)
+ A permit shall be issued for each display.
+ (2)
+ The building is fully equipped with an approved fire sprinkler system
+ (3)
+ The building is fully equipped with an approved and monitored fire alarm system
+ (4)
+ The display is handled and performed by a certified pyrotechnician, possessing a valid
+ certificate issued by the State of Colorado
+ (5)
+ There are at least two standby personnel equipped with the appropriate fire extinguishers
+ and familiar in the use of that fire extinguisher.
+ (6)
+ A safety plan is filed and approved by the Fire Marshal's office.
+ (7)
+ In accordance with NFPA 160 and NFPA 1126
+Sec. 310.9 Hotels, motels, rooming or lodging houses.
+ It shall be unlawful for any person to cause a fire through the use or misuse of tobacco
+ in any form or of matches or lighters used in connection therewith, in any hotel,
+ motel, rooming or lodging house. All managers or operators of hotels, motels, rooming
+ or lodging houses shall post in a conspicuous place within such hotel, motel, rooming
+ or lodging house a copy of Section 310.9 along with the penalty imposed for such violation.
+ Any person violating said section shall be guilty of a misdemeanor. Such posting shall
+ be done at no expense to the City.
+Sec. 507.5.4.1 Snow removal.
+ Snow removal operations shall not prevent fire hydrants from being immediately discernible
+ or hinder gaining immediate access.
+Sec. 903.2 Where required.
+ Approved automatic sprinkler systems in new buildings and structures shall be provided
+ in the locations described in Sections 903.2.1 through 903.2.14.
+Exception:
+ Spaces or areas in telecommunications buildings used exclusively for telecommunications
+ equipment, associated electrical power distribution equipment, batteries and standby
+ engines, provided those spaces or areas are equipped throughout with an automatic
+ smoke detection system in accordance with Section 907.2 and are separated from the
+ remainder of the building by not less than 1-hour fire barriers constructed in accordance
+ with Section 707 of the International Building Code or not less than 2-hour horizontal
+ assemblies constructed in accordance with Section 712 of the International Building
+ Code, or both.
+Sec. 903.2.13 R-1, R-2.
+ Every apartment house, town house, lodging house, dormitory, convent, monastery, rooming
+ house, condominium or hotel two stories or more in height and containing four or more
+ dwelling units shall have installed therein an approved automatic sprinkler system
+ throughout the premises. Fire separations shall not constitute separate buildings
+ for this purpose. This includes all R-3 occupancies.
+Sec. 903.2.14 One and two family dwellings and auxiliary buildings.
+ Any residential occupancy or auxiliary building, including attached garages, in excess
+ of 5,000 square feet or in a location that is difficult to access as determined by
+ the fire code official, shall be equipped with an approved automatic fire sprinkler
+ system including the installation of a fire department connection.
+ For residential automatic fire sprinkler systems a minimum of a three sprinkler head
+ hydraulic calculation shall be submitted for approval, a larger number of sprinkler
+ head calculation may be required depending on the structural design. Fire separations
+ shall not constitute separate buildings for this purpose. This is includes all R-3
+ occupancies.
+Sec. 903.4 Sprinkler system supervision and alarms.
+ All valves controlling the water supply for automatic sprinkler systems, pumps, tanks,
+ water levels and temperatures, critical air pressures and water-flow switches on all
+ sprinkler systems shall be electrically supervised by a listed fire alarm control
+ unit.
+ Automatic sprinkler systems protecting one, two or multiple family dwellings that
+ are not monitored shall operate in the following manner:
+ (1)
+ All water flow activations shall be capable of sounding an interior audible alarm
+ notifying all occupants simultaneously.
+ (2)
+ All water flow activations shall be capable of activating an exterior audible/visual
+ alarm. This alarm shall be located so as to be visible from the nearest fire department
+ access road. A second visual device may be required to delineate the fire department
+ connection.
+ (3)
+ The activation of any water control device shall be capable of activating the light
+ portion only of the exterior audible/visual signal.
+Exceptions:
+ 1.
+ Limited area systems serving fewer than 20 sprinklers.
+ 3.
+ Jockey pump control valves that are sealed or locked in the open position.
+ 3.
+ Control valves to commercial kitchen hoods, paint spray booths or dip tanks that are
+ sealed or locked in the open position.
+ 4.
+ Valves controlling the fuel supply to fire pump engines that are sealed or locked
+ in the open position.
+ 5.
+ Trim valves to pressure switches in dry, pre-action and deluge sprinkler systems that
+ are sealed or locked in the open position.
+Sec. 903.4.2 Alarms.
+ Approved audible devices shall be connected to every automatic sprinkler system. Such
+ sprinkler water-flow alarm devices shall be activated by water flow equivalent to
+ the flow of a single sprinkler of the smallest orifice size installed in the system.
+ Alarm devices shall be provided on the exterior of the building in an approved location.
+ Where a fire alarm system is installed, actuation of the automatic sprinkler system
+ shall actuate the building fire alarm system.
+ For one and two family dwelling and R-3 occupancies: Interior audible water flow signals
+ capable of notifying all occupants simultaneously shall be provided. A visual and
+ audible water flow alarm shall be installed on the exterior of the building. This
+ alarm shall be located so as to be visible from the nearest fire department access
+ road. A second visual device may be required to delineate the fire department connection.
+ Where the R-3 occupancy is a duplex, triplex or greater, audible alarms shall notify
+ all of the occupants simultaneously upon a water flow activation. Exterior visual
+ and audible alarms shall activate on the unit of origin only.
+Sec. 906.1 Where required.
+ Portable fire extinguishers shall be installed in the following locations.
+ 1.
+ In new and existing Group A, B, E, F, H, I, M, R-1, R-2, R-4 and S occupancies.
+ 2.
+ Within 30 feet (9144 mm) of commercial cooking equipment.
+ 3.
+ In areas where flammable or combustible liquids are stored, used or dispensed.
+ 4.
+ On each floor of structures under construction, except Group R-3 occupancies, in accordance
+ with Section 1415.1.
+ 5.
+ Where required by the sections indicated in Table 906.1.
+ 6.
+ Special-hazard areas, including but not limited to laboratories, computer rooms and
+ generator rooms, where required by the fire code official.
+Sec. 907.1.4 Designer requirements.
+ All plans for fire alarm systems submitted for approval shall have affixed the signature
+ of a NICET Level 3 or higher in the field of fire alarm design.
+Exception:
+ Where the fire alarm system designer has the equivalent of NICET Level 3 training,
+ all certificates and documentation shall be presented for compliance.
+Sec. 907.1.5 Installer requirements.
+ All fire alarm system installations shall be supervised by a person having a NICET
+ Level 2 or higher in the field of fire alarm installation.
+Exception:
+ Where the fire alarm system installer has the equivalent of NICET Level 2 training,
+ all certificates and documentation shall be presented for compliance.
+Sec. 907.1.6 Required types of systems.
+ All fire alarm systems required by this code shall be addressable, analog systems.
+Exception:
+ With the approval of the Fire Marshal a conventional system may be used if that system
+ is used only to monitor a fire sprinkler system.
+Sec. 907.2.1 Group A.
+ A manual and automatic fire alarm system that activates the occupant notification
+ system in accordance with Section 907.6 shall be installed in Group A occupancies
+ having an occupant load of 100 or more. Portions of Group E occupancies occupied for
+ assembly purposes shall be provided with a fire alarm system as required for the Group
+ E occupancy.
+Sec. 907.2.2 Group B.
+ A manual and automatic fire alarm system shall be installed in Group B occupancies
+ where one of the following conditions exists:
+ 1.
+ The combined Group B occupant load of all floors is 100 or more.
+ 2.
+ The Group B occupant load is more than 50 persons above or below the lowest level
+ of exit discharge.
+ 3.
+ The Group B fire area contains a Group B ambulatory health care facility
+Sec. 907.2.3 Group E.
+ A manual and automatic fire alarm system that activates the occupant notification
+ system in accordance with Section 907.6 shall be installed in Group E occupancies.
+ When automatic sprinkler systems or smoke detectors are installed, such systems or
+ detectors shall be connected to the building fire alarm system.
+ Exceptions:
+ 1.
+ A manual fire alarm system is not required in Group E occupancies with an occupant
+ load of less than 50.
+ 2.
+ Manual fire alarm boxes are not required in Group E occupancies where all of the following
+ apply:
+ 2.1.
+ Interior corridors are protected by smoke detectors.
+ 2.2.
+ Auditoriums, cafeterias, gymnasiums and similar areas are protected by heat detectors
+ or other approved detection devices.
+ 2.3.
+ Shops and laboratories involving dusts or vapors are protected by heat detectors or
+ other approved detection devices.
+ 2.4.
+ The capability to activate the evacuation signal from a central point is provided.
+ 2.5.
+ In buildings where normally occupied spaces are provided with a two-way communication
+ system between such spaces and a constantly attended receiving station from where
+ a general evacuation alarm can be sounded, except in locations specifically designated
+ by the fire code official.
+ 2.6
+ Where the building is equipped throughout with an approved automatic sprinkler system
+ and the alarm notification devices will activate upon sprinkler water flow. Where
+ the building is equipped throughout with an approved automatic sprinkler system and
+ the alarm notification devices will activate upon sprinkler water flow and manual
+ activation is provided from a normally occupied location.
+Sec. 907.2.7 Group M.
+ A manual and automatic fire alarm system that activates the occupant notification
+ system in accordance with Section 907.6 shall be installed in Group M occupancies
+ where one of the following conditions exists:
+ 1.
+ The combined Group M occupant load of all floors is 500 or more persons.
+ 2.
+ The Group M occupant load is more than 100 persons above or below the lowest level
+ of exit discharge.
+Exceptions:
+ 1.
+ A manual fire alarm system is not required in covered mall buildings complying with
+ Section 402 of the International Building Code.
+Sec. 907.2.8.1 Manual fire alarm system.
+ A manual fire alarm system that activates the occupant notification system in accordance
+ with Section 907.6 shall be installed in Group R-1 occupancies.
+Sec. 907.2.8.2 Automatic smoke detection system.
+ An automatic smoke detection system that activates the occupant notification system
+ in accordance with Section 907.6 shall be installed throughout all interior corridors
+ serving sleeping units and in all common areas, laundry rooms, and mechanical rooms.
+Sec. 907.2.9 Where required.
+ Every apartment house, town house, lodging house, dormitory, convent, monastery, rooming
+ house, condominium or hotel two stories or more in height and containing four or more
+ dwelling units shall have installed therein an approved automatic and manually operated
+ fire alarm system so designed that all occupants of the building may be warned simultaneously.
+ Fire alarm systems shall be installed in accordance with I.F.C. Section 907.2 and
+ nationally recognized standards. Fire separations shall not constitute separate buildings
+ for this purpose. This includes all R-3 occupancies other than single family dwellings.
+Sec. 907.2.9.1 Manual fire alarm system.
+ A manual fire alarm system that activates the occupant notification system in accordance
+ with Section 907.6 shall be installed in Group R-2 occupancies where they are two
+ stories or more in height and containing four or more dwelling units.
+Sec. 907.6.2.2.5 Interior alarms.
+ An inside audible alarm is to be installed whenever an alarm is required by Chapter
+ 9 of the International Fire Code and Chapter 9 of the International Building Codes.
+ In the case of public assembly areas with an occupant load of one hundred (100) or
+ more persons or where, in the opinion of the Building Official or the Fire Marshal,
+ the installation of an inside alarm may result in creating panic, the alarm signal
+ shall be installed in an attended area (e.g. projection booth, manager's office) from
+ where there can be effectuated an orderly evacuation of the assembly area pursuant
+ to the system approved by the Building Official or Fire Marshal.
+Sec. 907.6.2.3.1.2 Exterior visual requirements.
+ The exterior visual signals shall meet the following requirements:
+ (1)
+ The light used shall be of the strobe type producing at least one million candle power,
+ or incandescent flashing type which can be plainly seen for at least 1,500 feet in
+ all directions of approach.
+ (2)
+ Lights are to be red in color for systems equipped with a fire department connection
+ and yellow in color for systems not having a fire department connection.
+ (3)
+ In systems with fire department connections the light is to be located at least 12
+ ft. above and as directly vertical to the fire department connection as possible.
+ In systems without fire department connections the light is to be located so as to
+ be visible from the nearest street.
+ (4)
+ A sign with the words "Fire, Call Fire Department" (black on a white background and
+ large enough to be visible from the center of the adjacent street) shall be mounted
+ directly above the light.
+ (5)
+ The light shall not replace the audible alarms but is to be used in conjunction with
+ it.
+ (6)
+ The visual and audio signal shall be together on a circuit separate from all others
+ except exit signs.
+Sec. 913.4 Valve supervision.
+ Where provided, the fire pump suction, discharge and bypass valves, and the isolation
+ valves on the backflow prevention device or assembly shall be supervised open by one
+ of the following methods:
+ 1.
+ Central-station, proprietary or remote-station signaling service.
+ 2.
+ Local signaling service that will cause the sounding of an audible signal at a constantly
+ attended location.
+ 3.
+ Sealing of valves and approved weekly recorded inspection where valves are located
+ within fenced enclosures under the control of the owner.
+Sec. 1008.1.9.10 Stairway doors.
+ Interior stairway means of egress doors shall be openable from both sides without
+ the use of a key or special knowledge or effort.
+Exceptions:
+ 1.
+ Stairway discharge doors shall be openable from the egress side and shall only be
+ locked from the opposite side.
+ 2.
+ This section shall not apply to doors arranged in accordance with Section 403.5.3
+ of the International Building Code.
+ 3.
+ In stairways serving not more than two stories, doors are permitted to be locked from
+ the side opposite the egress side, provided they are openable from the egress side
+ and capable of being unlocked simultaneously without unlatching upon a signal from
+ the fire command center, if present, or a signal by emergency personnel from a single
+ location inside the main entrance to the building.
+Sec. 1028.12 Seat stability.
+ In places of assembly, the seats shall be securely fastened to the floor.
+Exceptions:
+ 1.
+ In places of assembly or portions thereof without ramped or tiered floors for seating
+ and with 75 or fewer seats, the seats shall not be required to be fastened to the
+ floor.
+ 2.
+ In places of assembly or portions thereof with seating at tables and without ramped
+ or tiered floors for seating, the seats shall not be required to be fastened to the
+ floor.
+ 3.
+ In places of assembly or portions thereof without ramped or tiered floors for seating
+ and with greater than 75 seats, the seats shall be fastened together in groups of
+ not less than three or the seats shall be securely fastened to the floor.
+ 4.
+ In places of assembly where flexibility of the seating arrangement is an integral
+ part of the design and function of the space and seating is on tiered levels, a maximum
+ of 75 seats shall not be required to be fastened to the floor. Plans showing seating,
+ tiers and aisles shall be submitted for approval.
+ 5.
+ Groups of seats within a place of assembly separated from other seating by railings,
+ guards, partial height walls or similar barriers with level floors and having no more
+ than 14 seats per group shall not be required to be fastened to the floor.
+ 6.
+ Seats intended for musicians or other performers and separated by railings, guards,
+ partial height walls or similar barriers shall not be required to be fastened to the
+ floor.
+Sec. 2204.3 Unattended self-service motor fuel-dispensing facilities.
+ Unattended self-service motor fuel-dispensing facilities shall comply with Sections
+ 2204.3.1 through 2204.3.7. A safety plan and safety equipment technical data shall
+ be submitted for review prior to approval. Unsupervised private dispensing shall be
+ by permit only.
+Sec. 3301.1.3 Fireworks.
+ The possession, manufacture, storage, sale, handling and use of fireworks are prohibited.
+Exceptions:
+ 1.
+ Storage and handling of fireworks as allowed in Section 3304.
+ 2.
+ Manufacture, assembly and testing of fireworks as allowed in Section 3305.
+ 3.
+ The use of fireworks for fireworks displays as allowed in Section 3308.
+ 4.
+ The possession, storage, sale, handling and use of specific types of Division 1.4G
+ fireworks where allowed by applicable laws, ordinances and regulations, provided such
+ fireworks comply with CPSC 16 CFR, Parts 1500 and 1507, and DOTn 49 CFR, Parts 100-185,
+ for consumer fireworks.
+ 5.
+ The storage, sale, use and handling of toy caps, sparklers and smoke snakes shall
+ be permitted.
+Sec. 3301.2.4 Financial responsibility.
+ Before a permit is issued, as required by Section 3301.2, the applicant shall file
+ with the City of Aspen or Pitkin County a corporate surety bond in a principal sum
+ equal to the amount required by the Colorado state statutes, Pitkin County, or the
+ City of Aspen, of persons engaging in similar activities, or a public liability insurance
+ policy for the same amount, for the purpose of the payment of all damages to persons
+ or property which arise from, or are caused by, the conduct of any act authorized
+ by the permit upon which any legal judgment results. The fire code official may specify
+ a greater or lesser amount when, in his opinion, conditions at the location of use
+ indicate a greater or lesser amount is required. Public agencies shall be exempt from
+ this bond requirement.
+Sec. 3301.4 Qualifications.
+ Persons in charge of magazines, blasting, fireworks display or pyrotechnic special
+ effect operations shall not be under the influence of alcohol or drugs which impair
+ sensory or motor skills, shall be at least 21 years of age and shall demonstrate knowledge
+ of all safety precautions related to the storage, handling or use of explosives, explosive
+ materials or fireworks. The handling and firing of explosives shall only be performed
+ by the person possessing a valid explosives certificate issued by the State of Colorado.
+Sec. 3304.10.8 Storage exceeding 50 lbs.
+ Storage of explosives in quantities exceeding fifty (50) pounds shall be in a Type
+ I magazine, except that a Type 3 magazine may be used for temporary storage of a larger
+ quantity of explosives at the site of blasting operations where such amount constitutes
+ not more than one day's supply for use in current operations. At the end of the day's
+ operations any remaining explosives shall be safely destroyed or returned to a Type
+ 1 magazine.
+Sec. 3304.10.9 Storage less than 50 lbs.
+ Storage of explosives in quantities of fifty (50) pounds or less shall be in Type
+ I or Type II magazine, except that explosives in any quantity when stored in remote
+ locations shall be in Type I, bullet resistant magazines.
+Sec. 3308.1.2 Indoor pyrotechnic displays
+ The use of indoor pyrotechnic displays shall be prohibited.
+Exception:
+ Indoor pyrotechnics shall be permitted if all the following conditions are met:
+ (1)
+ A permit shall be issued for each display.
+ (2)
+ The building is fully equipped with an approved fire sprinkler system.
+ (3)
+ The building is fully equipped with an approved and monitored fire alarm system.
+ (4)
+ The display is handled and performed by a certified pyrotechnician and possessing
+ a valid certificate issued by the State of Colorado.
+ (5)
+ There are at least two standby personnel equipped with the appropriate fire extinguisher
+ and familiar in the use of that fire extinguisher.
+ (6)
+ A safety plan is filed and approved by the Fire Marshal's office.
+ (7)
+ In accordance with NFPA 160 and NFPA 1126.
+Sec. 3404.2.13.2.4 Above-ground tanks.
+ Hereafter no tank for the storage of flammable fluid in excess of ten (10) gallons
+ shall be erected, repaired, renewed or replaced either wholly or partially above ground.
+ Where in the opinion of the fire code official an existing tank constitutes a fire
+ hazard through neglect or disrepair, he shall order such tank removed; however, tanks
+ or other facilities for the storage of Class 6 fuel oil may be installed above ground
+ if approved by the fire code official and in accordance with existing codes and regulations
+ pertaining to above ground storage.
+Sec. 3406.2.4 Capacity limits.
+ The capacity of permanent above-ground tanks containing Class l or ll liquids shall
+ not exceed 1,100 gallons (4164 L). The capacity of temporary above-tanks containing
+ Class l or ll liquids shall not exceed 500 gallons (1892 L). Tanks shall be of the
+ single-compartment design.
+ A permit shall be obtained from the Fire Marshal for the storage or keeping of volatile
+ inflammable fluids in excess of five (5) gallons in any building and of ten (10) gallons
+ on any premises. The Fire Marshal is further authorized to issue temporary permits
+ for the above ground storage of such fluids in tanks which shall not exceed a five
+ hundred (500) gallon capacity for the purpose of providing fuel for heavy equipment
+ used in building construction, earth moving, earth grading or similar operations and
+ such permits may be issued only for sites where there are not close hazards. Such
+ temporary permits shall be issued with the time limits set which shall conform to
+ the reasonably necessary time for completion of the individual job for which the permit
+ is issued.
+Sec. 3406.6.1.12 Delivery hose length.
+ The maximum length of the delivery hose used to connect the tank vehicles being filled
+ shall not exceed twenty (20) feet.
+Sec. 3406.6.1.13 Delivery vehicle capacity.
+ Tank delivery vehicles used for the delivery of flammable liquids as defined in this
+ Article, having an aggregate capacity in excess of one thousand five hundred (1,500)
+ gallons shall be equipped with a single cargo tank mounted thereon, self-propelled
+ and of the diesel powered type.
+Sec. 3406.6.1.14 Delivery vehicle single compartment capacities.
+ It shall be unlawful for any motor vehicle having a tank capacity in excess of five
+ thousand (5,000) gallons aggregate, or with any one compartment thereof in excess
+ of two thousand five hundred (2,500) gallon individual capacity, to deliver flammable
+ liquids to any place of storage within the corporate limits of the city.
+Sec. 3406.6.1.15 Delivery periods.
+ It shall be unlawful for any motor vehicle transporting flammable liquids in excess
+ of five thousand (5,000) gallons, or any motor vehicle transporting LP gas in excess
+ of two thousand five hundred (2,500) gallons liquid, or any vehicle transporting explosives
+ and other dangerous articles, to remain within the city for a period exceeding one
+ hour, unless as provided herein.
+Sec. 3406.6.1.16 Noncompliant motor vehicles.
+ It shall be unlawful for any motor vehicle other than a tank delivery vehicle as defined
+ herein to deliver flammable liquids, LP gas, or other dangerous articles to any place
+ of storage within the corporate limits of the city.
+Sec. 3803.4 Multiple LP-gas container installations.
+ Multiple LP-gas container installations with a total water storage capacity of more
+ than 180,000 gallons (681 300 L) [150,000-gallon (567 750 L) LP-gas capacity] shall
+ be subdivided into groups containing not more than 180,000 gallons (681 300 L) in
+ each group. Such groups shall be separated by a distance of not less than 50 feet
+ (15 240 mm), unless the containers are protected in accordance with one of the following:
+ 1.
+ Mounded in an approved manner.
+ 2.
+ Protected with approved insulation on areas that are subject to impingement of ignited
+ gas from pipelines or other leakage.
+ 3.
+ Protected by firewalls of approved construction.
+ 4.
+ Protected by an approved system for application of water as specified in Table 6.4.2
+ of NFPA 58.
+ 5.
+ Protected by other approved means.
+ Where one of these forms of protection is provided, the separation shall not be less
+ than 25 feet (7620 mm) between LP-gas container groups It shall be unlawful for any
+ motor vehicle having a tank capacity in excess of two thousand five hundred (2,500)
+ gallons liquid capacity to deliver LP gas to any place of storage within the corporate
+ limits of the city.
+Sec. 3803.5 Noncompliant vehicles.
+ It shall be unlawful for any motor vehicle other than a tank delivery vehicle as defined
+ herein to deliver flammable liquids, LP gas, or other dangerous articles to any place
+ of storage within the corporate limits of the city.
+Sec. 4603.6 Fire alarm systems.
+ An approved fire alarm system shall be installed in existing buildings and structures
+ in accordance with Sections 4603.6.1 through 4603.6.7 and provide occupant notification
+ in accordance with Section 907.6 unless other requirements are provided by other sections
+ of this code. All fire alarm systems shall be installed and in operation within one
+ year of notification by the fire prevention bureau.
+Sec. 4603.6.5.1 Group R-1 hotel and motel manual fire alarm system.
+ A manual fire alarm system that activates the occupant notification system in accordance
+ with Section 907.6 shall be installed in existing Group R-1 hotels and motels two
+ stories or more in height and with four or more dwelling units.
+Sec. 4603.6.5.1.1 Group R-1 hotel and motel automatic smoke detection system.
+ An automatic smoke detection system that activates the occupant notification system
+ in accordance with Section 907.6 shall be installed in existing Group R-1 hotels and
+ motels throughout all interior corridors serving sleeping rooms.
+Sec. 4603.6.6 Group R-2.
+ An automatic and manual fire alarm system that activates the occupant notification
+ system in accordance with Section 907.6 shall be installed in existing Group R-2 a
+ occupancies two stories or more in height and containing four or more dwelling or
+ sleeping units. Fire alarm systems shall be installed in accordance with I.F.C. Section
+ 907.2 and nationally recognized standards. Fire separations shall not constitute separate
+ buildings for this purpose.
+Sec. 4604.5 Illumination emergency power.
+ The power supply for means of egress illumination shall normally be provided by the
+ premises' electrical supply. In the event of power supply failure, illumination shall
+ be automatically provided from an emergency system for the following occupancies where
+ such occupancies require two or more means of egress:
+ 1.
+ Group A having 50 or more occupants.
+ Exception: Assembly occupancies used exclusively as a place of worship and having
+ an occupant load of less than 300.
+ 2.
+ Group B occupancies with 100 or more total occupants. For high-rise buildings and
+ smoke proof enclosures, see the Building Code. Emergency systems shall be supplied
+ from storage batteries or an on-site generator set and the system shall be installed
+ in accordance with the requirements of the Electrical Code.
+ 3.
+ Group E in interior stairs, corridors, windowless areas with student occupancy, shops
+ and laboratories.
+ 4.
+ Group F having more than 100 occupants.
+ Exception: Buildings used only during daylight hours which are provided with windows
+ for natural light in accordance with the International Building Code.
+ 5.
+ Group I.
+ 6.
+ Group M.
+Exception:
+ Buildings less than 3,000 square feet (279m2) in gross sales area on one story only,
+ excluding mezzanines.
+ 7.
+ Group R-1.
+ Exception:
+ Where each sleeping unit has direct access to the outside of the building at grade.
+ 8.
+ Group R-2.
+Exception:
+ Where each dwelling unit or sleeping unit has direct access to the outside of the
+ building at grade.
+ 9.
+ Group R-4.
+Exception:
+ Where each sleeping unit has direct access to the outside of the building at ground
+ level.
+ (
+Ord. No. 13-1996
+, § 2; 
+Ord. No. 35-2002
+, § 2; 
+Ord. 1-2003
+, § 2; 
+Ord. No. 20-2004
+, § 2; 
+Ord. No. 37-2011, § 2)
+
+===== Sec. 11.04.040. - Penalties for violations.
+Any person, firm or corporation violating any provision of the International Fire
+ Code or amendments thereto or any other provisions of this Chapter shall be deemed
+ guilty of a misdemeanor and each person shall be deemed guilty of a separate offense
+ for each and every day or portion thereof during which any violation of any of the
+ provisions of the International Fire Code or this Chapter is committed, continued
+ or permitted and upon conviction of any such violation such person shall be punished
+ by a fine, imprisonment or both a fine and imprisonment, as set forth in 
+Section 1.04.080
+ of this Code.
+ (Code 1971, § 9-4; 
+Ord. No. 27-1973
+, § 2; Ord. No. 13-1977, § 4; Ord. No. 57-1986, § 4; Ord. No. 9-1989, § 4; Ord. 
+No. 12-1996
+, § 8)
+
+===== Sec. 11.04.050. - Purpose.
+The International Fire Code, 2003 Edition, hereinabove adopted by reference is to
+ govern the maintenance of building and premises; to safeguard life, health, property
+ and public welfare by regulating the storage, use and handling of dangerous and hazardous
+ materials, substances and processes and by regulating the maintenance of adequate
+ egress facilities.
+ (
+Ord. No. 1-2003
+, § 3; 
+Ord. No. 20-2004
+, § 3)
+
+===== Sec. 11.04.060. - Copies on file.
+(a)
+ Three (3) copies of the primary code and secondary code being considered for adoption
+ by this Ordinance, all certified to be true copies by the Mayor and City Council,
+ shall be on file with the City Clerk and shall be open for public inspection in his
+ or her office at City Hall, any weekday between the hours of 9:00 a.m. and 5:00 p.m.,
+ at least fifteen (15) days preceding the public hearing on the ordinance codified
+ herein.
+ (b)
+ One (1) copy of the Code may be kept in the office of the chief enforcement officer
+ instead of in the office of the City Clerk. The City Clerk shall at all times maintain
+ a reasonable supply of copies of the Code available for purchase by the public.
+ (
+Ord. No. 1-2003
+, § 4; 
+Ord. No. 20-2004
+, §§ 4, 5)

@@ -1,0 +1,2024 @@
+Chapter 5 - Dimensional Requirements
+
+
+CHAPTER 5 - INDEX
+
+
+5-10: DIMENSIONAL STANDARDS TABLES...................................... 4
+
+5-10-10: USE OF THE TABLES ........................................................... 4
+
+5-10-20: REDUCTION IN DENSITY FOR STEEP SLOPES ............... 14
+
+5-20: RULES OF MEASUREMENT .................................................... 15
+
+5-20-10: MEASUREMENT OF LOT AREA ......................................... 16
+
+5-20-20: NO GUARANTEE OF MAXIMUM DENSITY OR FLOOR AREA 16
+
+5-20-30: MEASUREMENT OF ROAD SETBACKS ............................ 16
+
+5-20-40: MEASUREMENTS OF YARD SETBACKS .......................... 16
+
+5-20-50: MEASUREMENT OF STREAM SETBACKS........................ 17
+
+5-20-60: MEASUREMENT OF BUILDING HEIGHT ........................... 17
+
+5-20-70: MEASUREMENT OF FLOOR AREA.................................... 21
+
+5-20-80: MEASUREMENT OF GROSS FLOOR AREA ...................... 37
+
+5-20-90: MEASUREMENT OF USABLE OPEN SPACE .................... 37
+
+5-20-100: PERMITTED ENCROACHMENTS INTO SETBACKS ....... 37
+
+FROM ROADS AND PROPERTY LINES ............................................ 37
+
+
+
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                             Page 1
+Chapter 5 - Dimensional Requirements
+
+
+
+INDEX OF TERMS                                                           Allocation......................................... 5, 8
+
+_________________________________                                     Highways
+
+                                                                         Arterial ................................. 5, 8, 10, 12
+Accessory Use or Structure (see also Use,                             Hotel ................................................... 7, 13
+   Accessory and Temporary) ........ 5, 8, 12
+                                                                      Lot Area, (Minimum)............... 5, 8, 10, 12
+Activity Envelope .................................... 7
+                                                                      Lot Split ................................................. 25
+Balcony .................................................. 18
+                                                                      Lot Width, (Minimum) ............ 5, 8, 10, 12
+Below Grade Space .......................... 19, 20
+                                                                      Measurement
+Board of County Commissioners (BOCC)
+                                                                         Building Height.................................. 15
+    ............................................................. 9
+                                                                         Floor Area .......................................... 18
+Building Permit ...................................... 11
+
+Community Development Director........ 15
+
+Crawl Space ........................................... 19
+                                                                         Lot or Parcel Area .............................. 14
+Deck ....................................................... 18
+                                                                         Usable Open Space ............................ 25
+Development Application ...................... 15
+                                                                      Motel/Lodge....................................... 7, 13
+Dimensional Requirements
+                                                                      Open Space (Minimum Usable)5, 8, 10, 12
+   Affordable Housing Zone Districts.... 11
+                                                                      Pitkin County Comprehensive Plan ....... 11
+   Commercial Zone Districts ................ 13
+                                                                      Redstone Historic Preservation
+   Rural and Conservation Zone Districts 7
+                                                                         Commission (RHPC) ......................... 22
+   Urban/Suburban Residential Zone
+                                                                      Rural Zone Districts (see also Zone
+       Districts ............................................ 8
+                                                                         Districts)............................................... 4
+Duplex ................................................ 9, 10
+                                                                      Setback
+Employee Housing Guidelines .............. 11
+                                                                         Front ........................................... 5, 8, 12
+Encroachment ............................ 15, 16, 26
+                                                                         Rear ............................................ 5, 8, 12
+Grade, Existing .............. 13, 16, 18, 21, 26
+                                                                         Road ................................................... 15
+Growth Management Quota System
+                                                                         Side ............................................ 5, 8, 12
+   (GMQS)
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                                                         Page 2
+Chapter 5 - Dimensional Requirements
+
+
+   Stream ................................................ 15    Mobile Home Park (MHP) .................. 8
+
+   Yard ................................................... 15   Moderate Density Residential – 15,000
+
+Single Family Dwelling ............. 10, 11, 13                     Sq. Ft. Lot (R-15A) ...................... 8, 9
+
+Slope                                                            Public (PUB) ........................................ 4
+
+   Reduction in Density ......................... 14             Public and Institutional (P-I).............. 13
+
+   Steep................................................... 14   RESOURCE – 160 ACRE (RS-160) . 25
+
+Stairway ................................................. 18    RESOURCE – 20 ACRE (RS-20) ..... 25
+
+Two-Step Review..................................... 7           Resource – 30 Acre (RS-30) ........ 14, 25
+
+Use                                                              Rural..................................................... 4
+
+   Principal ................................... 8, 10, 12       Rural and Remote (RR) ................. 7, 16
+
+Vested Rights ........................................... 7      Rural Business (B-1) ........................ 5, 7
+
+Zone Districts                                                   Ski-Recreation (SKI-REC) .............. 5, 7
+
+   Affordable Housing PUD (AH/PUD) 10                            Transitional Residential – 1 (TR-1) . 5, 7
+
+   AGRICULTURAL/RESIDENTIAL – 2                                  Transitional Residential – 2 (TR-2) . 5, 7
+
+       ACRE (AR-10) .............................. 25            Village Commercial (VC) ............ 12, 21
+
+   Low Impact Residential – 35 Acre                              Village Residential – 6,000 Sq. Ft. Lot
+       (LIR-35) ....................................... 5, 7        (VR) ........................................... 8, 21
+
+   Medium Density Residential – 6,000
+       Sq. Ft. Lot (R-6)......................... 8, 10
+
+
+
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                                                 Page 3
+Chapter 5 Dimensional Requirements
+
+
+CHAPTER 5: DIMENSIONAL REQUIREMENTS
+
+This Chapter 5 contains information related to dimensional requirements of development –
+including minimum lot sizes, maximum heights, minimum setbacks, open space
+requirements, building size restrictions, and similar dimensional standards. All primary and
+accessory structures are subject to the dimensional standards set forth in this Chapter.
+However, these general standards may be further limited or modified by other applicable
+sections of this Land Use Code. In particular, some uses are subject to use-specific standards
+in Chapter 4 that impose stricter requirements than set forth in these tables. In addition, all
+development is subject to the requirements of Chapter 7, which may impose stricter
+requirements in some cases.
+
+5-10: DIMENSIONAL STANDARDS TABLES
+
+5-10-10: USE OF THE TABLES
+
+        (a) The general dimensional requirements for each zone district are set forth in
+        Tables 5-10 A, B, C, and D below. Each table addresses a different set of zone
+        districts:
+
+               Table A:        Rural Zone Districts
+
+               Table B:        Urban / Suburban Residential Zone Districts
+
+               Table C:        Affordable Housing Zone Districts
+
+               Table D.        Business and Special Purpose Zone Districts
+
+        (b) Throughout this Land Use Code, references to “Table 5-1” shall be a reference to
+        all of the information contained in the four sub-tables 5-1.A, B, C, and D.
+
+        (c) Where two rows in these tables are separated by a dashed line, rather than a solid
+        line, the two rows represent alternative measures of that dimension, the most
+        restrictive of which shall apply.
+
+        (d) Each of the four sub-tables 5-1.A, B, C and D contain footnotes that immediately
+        follow each sub-table and should be reviewed in conjunction with the sub-table.
+
+        (e) Dimensional requirements for the PUB, I, U and AC/REC-2 zone districts are set
+        foth in Sec. 3-80.
+
+        (f) Dimensional requirements for the CD-PUD zone district are set forth in Section 3-
+        70-40.
+
+
+
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                    Page 4
+                         Chapter 5 Dimensional Requirements
+
+
+                           RS -    RR          RS -       RS -      LIR-        TR-1        TR-2         RS -       RS -      AR -       AR- 2   B-1     SKI-     WOMP      VLP
+ TABLE 5-1.A:              G                   160        35        35                                   30         20        10                         REC      Overlay
+ Dimensional                       NOTE                                         NOTE        NOTES
+ Requirements                      1                                NOTE        3           3, 4, 5
+ Rural Zones                                                        2
+ LOTS
+Minimum Lot Area          N/A     35          160        35        35          35          35           30         20        10          2       MF =   M         Note 17   M
+(ac.)                                                                                                                                            15,000
+                                                                                                                                                 OTH =
+                                                                                                                                                 6,000
+                                                                                                                                                 NOTE 6
+Minimum Usable Open                                                                                                                              800    M         Note 17   M
+Space per Dwelling
+Unit (sq. ft.)
+Minimum Lot Width         N/A       400        400        400         N/A                                 400         400      400       200     50      M        Note 17   M
+(ft.)
+MINIMUM SETBACKS
+From Arterial Highways
+Structures / Outside      100 ft. setback for buildings/ 100 ft. setback for outside uses                                                                M        Note 17   M
+Uses (ft.)                NOTE 7
+From Major Roads
+Structures / Outside      100 ft. setback for buildings/ 50 ft. setback for outside uses                                                                 M        Note 17   M
+Uses(ft.)                 NOTE 7
+From Collector Streets
+Structures/ Outside       50 ft. setback for buildings/ 25 ft. setback for outside uses                                                                  M        Note 17   M
+Uses(ft.)                 NOTE 7
+From Property Lines
+Front Setback (ft.)       SR        SR         (1) Lot Size ≤ 3 ac = 30 ft.;                                                                     30      M        Note 17   M
+                                               (2) Lot > 3 ac. and ≤ 10 acres = 50 ft.;
+                                               (3) Lot > 10 acres = 100 ft.
+Side Setback (ft.)        SR        SR         (1) Lot < 7,500 sq. ft. = 5 ft.; (2) Lot ≥ 7,500 & < 30,000 sq. ft. = 10 ft.;                     10      M        Note 17   M
+                                               (3) Lot Size ≥ 30,000 & < 43,560 sq. ft. = 15 ft.; (4) Lot ≥ 43,560 & < 3 ac. = 20 ft.;
+                                               (5) Lot ≥ 3 ac. & <20 ac. = 30 ft.; (6) Lot ≥ 20 ac. = 50 ft.
+Rear Setback (ft.)        SR        SR         (1) Lot Size < 30,000 sq. ft. = 10 ft.;                                                           10      M        Note 17   M
+                                               (2) Lot ≥ 30,000 sq. ft. & < 10 ac. = 30 ft.;
+                                               (3) Lot ≥ 10 ac. = 50 ft.
+From Streams (ft.)        100                                                                                                                            M        Note 17
+                          NOTE 14, 15 and 16
+MAXIMUM HEIGHT
+Maximum Height of         20        20 NOTE 28            28          28            20         20         28          28       28        28      28      M        Note 17   M
+Principal Structure (ft.)           8
+Maximum Height of         20        12 NOTE 20            20          20            15         15         20          20       20        20      20      M        Note 17   M
+Accessory Structure                 9
+(ft.)
+Maximum Height of         Refer N/A            Refer to Sec. 5-20-70(j)             N/A        N/A        Refer to Sec. 5-20-70(j)               N/A     N/A      Note 17   M
+Exempt Agricultural       to Sec.
+Buildings                 5-20-
+                          70(j)
+MAXIMUM FLOOR AREA
+Gross Floor Area          N/A       NOTE 10 5,750         5,750       5,750         1,000      2,500      5,750       5,750    5,750     5,750   NOTE    M        Note 17   M
+Exempt From GMQS                               NOTE       NOTE                                 NOTE 4     NOTE        NOTE     NOTE      NOTE    11
+(Without GMQS                                  11         11                                              11          11       11        12      NOTE
+Allocation or TDR                                                                                                                                13
+Purchase) (Base                                                                                           NOTE                 NOTE
+Maximum Floor Area                                                                                        18                   19
+Gross Floor Area After N/A          NOTE 10 9,250         9,250       9,250         1,000      3,500      9,250       9,250    9,250     9,250   8,000   M        Note 17   M
+GMQS Allocation                                           NOTE        NOTE 2                              NOTE        NOTE     NOTE      NOTE    NOTE
+and/or TDR Purchase                                       11                                              11          11       11        11      11
+(Final Maximum Floor                                                                                                  NOTE     NOTE
+Area                                                                                                                  18       19
+
+                                    Code repealed and reenacted (all sections) by Ord. 014-D-2006, 07-05-08; § 5-10-10 – Table 5-1.A (part)
+                                    amended Ord. 30-06, 10-11-06; Ord. 012-2008, 04-09-08; Ord. 023-07, 08-28-07; Ord. 024-08, 07-23-08; Ord.
+                                    019-09, 06-24-09; Ord. 011-11, 08-10-11; Ord. 005-14, 03-12-14); Ord. 037-18, 08-22-18; Ord. 011-2020,
+                                    03-25-2020; Ord. 011-2022, 02-23-2022 ; Ord.036-2023, 11-15-2023
+
+
+
+                         Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+                         July 2006                                                                                                                             Page 5
+NOTES FOR TABLE 5-1.A – Dimensional Requirements for Rural and Conservation Zone Districts
+ABBREVIATIONS
+M = As approved in Master Plan for SKI-REC zone district; HML = Hotel/Motel/Lodge; MF/L= Multi-family limited to 1,2, or 3 Bedrooms;
+MF/ST = Multi-family Studio; MF/UL = Multi-family with more than 3 bedrooms; OTH = Other
+NOTE 1: In the RR zone district, the maximum size of the Activity Envelope defined for each principal use shall be one-half (1/2) acre.
+Dimensional standards in the RR zone district may be varied by special review pursuant to the provisions of Sec. 3-40-20.
+NOTE 2: As an alternative to the strict application of the area and bulk requirements, parcels in the LIR-35 zone district may be developed
+as a cluster option, pursuant to the standards in Sec. 3-40-50(d), provided that the application includes the entirety of the unsubdivided parcel
+and adjacent parcels held in common ownership as configured on January 16, 2000. If the cluster option is used: (1) There shall be no more
+than one (1) principal single family dwelling unit per eighty (80) acres. Actual lots may be smaller if accompanied with a preserved open
+space parcel that maintains one unit per 80-acre density. (2) Maximum allowed final maximum floor area of all buildings shall be 9,250
+square feet.; of which (a) 8,250 square feet shall be exempt from growth management; and (b) additional square footage up to 9,250 square
+feet may only be obtained through successful growth management competition or for use of transferable development rights.
+NOTE 3: The maximum potential density and developability for properties within the TR-1 and TR-2 zone district shall be based on the
+entire unsubdivided parcel. All buildings shall be included in the calculation of the floor area.
+NOTE 4: For lands rezoned to a TR-2 zone district effective on or before January 26, 2005 existing vested rights in prior development
+approvals are recognized, and property owners may continue to rely on those vested rights until their expiration. Residential development in
+place or approved prior to January 26, 2005, shall not be deemed non-conforming relative to the Pitkin County Land Use Code.
+NOTE 5: As an alternative to the strict application of the area and bulk requirements, parcels in the TR-2 zone district may be developed as
+a cluster option, pursuant to the standards in Sec. 3-40-70(d), provided that the application includes the entirety of the unsubdivided parcel
+and adjacent parcels held in common ownership as configured on January 16, 2000. If the cluster option is used: (1) There shall be no more
+than one (1) principal single family dwelling unit per fifty (50) acres. Actual lots may be smaller if accompanied with a preserved open
+space parcel that maintains one unit per 50 acre density. (2) Maximum final allowed floor area of all buildings shall be 3,500 square feet, all
+of which shall be exempt from growth management; and no additional floor area may be obtained through the use of either TDRs or
+additional growth management allocations. Heights and setbacks may be modified through the Two-Step Review process.
+NOTE 6: Minimum lot area per principal use or dwelling unit (in square feet) shall be: MF/UL = 5,500; MF/L =3,200; MF/ST = 2,500.
+NOTE 7: Off-street parking, signs, and lights shall meet the setback requirements for outside uses. Access roads, highway regulatory and
+directional signs, safety lighting, and safety features shall be allowed between the right-of-way and the setbacks listed. Off street parking and
+lights don’t need to meet the setback required on collector streets.
+NOTE 8: In the RR zone district, building height is measured pursuant to Sec. 5-20-60(h)
+NOTE 9: Not applicable to structures existing on the 5th of July, 2006.
+NOTE 10: Floor area In the RR zone district is addressed in Section 5-20-70(i).
+ NOTE 11: The final maximum floor area shall not be exceeded. GMQS allotments shall not be granted and Transferable Development
+Rights (TDR) shall not be utilized to exceed the final maximum floor area. These maximums shall also apply to a dwelling unit which is to
+be located on a parcel containing five hundred (500) acres. The final maximum floor areas for residential development in certain Overlay
+Zone Districts shall be set forth per Table 5-1.A (a).
+
+Code repealed and reinstated (all sections) by Ord. 014-D-2006, 07-05-08; § 5-10-10 – Table 5-1.A (part) amended by Ord. 30-06, 10-11-
+06; Ord. 012-2008, 04-09-08; Ord. 023-07, 08-28-07; Ord. 022-08, 7-09-08; Ord. 024-08, 07-23-08, Ord. 019-09, 06-24-09; Ord. 001 A &
+B-11, 01-12-11; Ord. 005-14, 03-12-14); Ord. 011-2020, 03-25-2020 ; Ord. 036-2023, 11-15-2023
+
+
+
+
+Pitkin County Land Use Code                     CHAPTER 5 – PERMITTED USES
+July 2006                                                                                                                              Page 6
+Chapter 5 Dimensional Requirements
+
+
+
+
+Table 5-1.A(a)
+
+ Location                              Final Maximum        Overlay Zone         Additional Criteria
+                                       Floor Area           District Code
+                                       (square feet)        Reference
+
+ Basalt Urban Growth Boundary          5,750 SF             3-40-160
+ Overlay Zone District
+
+ Brush Creek Master Plan Area          5,750 SF             3-40-170
+ Overlay Zone District
+
+ Emma Master Plan Area                 8,250 SF             3-40-180
+ Overlay Zone District
+
+ Maroon Creek Caucus Area              5,750 SF             3-40-150
+
+ Fryingpan Valley Master Plan          5,750 SF             3-40-130             Gross floor area for principal structure, including all
+ Area Overlay Zone District                                                      below-grade space and attached accessory
+                                                                                 structures, shall be limited to 4,000 sq. ft.; up to
+                                                                                 1,750 sq. ft. of gross floor area shall be allowed for
+                                                                                 accessory structures and uses that are detached from
+                                                                                 principal structure.
+
+ The Valleys of Capitol Creek          5,750 SF             3-40-190
+ and Lower Snowmass Creek
+ Master Plan Area Overlay Zone
+ District
+
+NOTE 12: (1) Lot size 0--25,000 sq. ft. = .13 up to a maximum of 3,250 sq. ft. of floor area; (2) Lot size 25,001--50,000 sq. ft. =
+3,250 sq. ft. of floor area, plus 9 sq. ft. of floor area for each additional 100 sq. ft. in lot area up to a maximum of 5,500 sq. ft. of
+floor area; (3) Lot size 50,001--100,000 sq. ft. = 5,500 sq. ft. of floor area plus 5 sq. ft. of floor area for each additional 100 sq. ft.
+in lot area up to a maximum of 8,000 sq. ft. of floor area; (4) Lot size 100,000 and larger = 8,000 sq. ft. of floor area plus 1 sq. ft.
+of floor area for each additional 100 sq. ft. in lot area. Lots in the Preserve Subdivision are each allowed 12,873 sf of Gross Floor
+Area exempt from Growth Management without GMQS allocation or TDR purchase. Refer to 6 -30-100(b)(6)
+NOTE 13: Notwithstanding any other provision of this Land Use Code, the base maximum gross floor area shall not exceed
+4,000 square feet for lots and parcels ≤ 1 acre; for lots and parcels >1 acre, then base maximum gross floor area shall not exceed
+5,750 square feet plus 1,000 square feet for each 10,000 square feet that parcel size exceeds one acre, up to a maximum of 8,000
+square feet on any one B-1 lot or parcel.
+NOTE 14: An additional setback may be required or a lesser setback may be allowed pursuant to Sec. 7-20-80.
+NOTE 15: Development of a micro hydroelectric energy system may be allowed in a setback pursuant to Section 7-20-80 (c) and
+4-30-50(m).
+NOTE 16: Stream restoration projects may encroach into this setback pursuant to Sections 7-20-40 and 7-20-80
+NOTE 17: All areas mapped within the WOMP Overlay Zone District shall be subject to Section 3-70-50.
+NOTE 18: For the six 35+ acre parcels known informally as Star Mesa, 15,000 of Gross Floor Area is exempt from GMQS for
+each lot. Refer to Sec. 6-30-100(b(4)
+NOTE 19: Lots in the Eagle Pines Subdivision are each allowed 11,500 sf of Gross Floor Area exempt from Growth
+Management without GMQS allocation or TDR purchase. Refer to Sec. 6-30-100(b)(5).
+Code repealed and reinstated (all sections) by Ord. 014-D-2006, 07-05-08; § 5-10-10 – Table 5-1.A (part) amended by Ord. 30-06, 10-11-06;
+Ord. 012-2008, 04-09-08; Ord. 023-07, 08-28-07; Ord. 022-08, 7-09-08; Ord. 024-08, 07-23-08, Ord. 019-09, 06-24-09; Ord. 001 A & B-11, 01-
+12-11; Ord. 005-14, 03-12-14); Ord. 011-2020, 03-25-2020 ; Ord. 036-2023, 11-15-2023
+
+
+
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                                                          Page 7
+                     Chapter 5 Dimensional Requirements
+
+
+                                                   R - 30     R -15          R-15A            R-15B          R-6      RMF VR            MHP     WOMP
+                                                                                                                                                Overlay
+TABLE 5-1.B: Dimensional Requirements
+Urban/Suburban Residential Zone Districts Other
+Than Affordable Housing Districts
+
+
+LOTS
+Minimum Lot Area (sq. ft.)                                                                    15,000                       5,000      NOTE 14
+                                                                                                                                 NOTE
+                                                   30,000     15,000         15,000           NOTE 11        6,000    1    NOTE
+                                                                                                                                 2
+                                                                                                                      Acre 1
+Minimum Lot Area Per Principal Use or Dwelling                                                15,000                  .14        NOTE NOTE 14
+                                                   30,000     15,000         15,000                          6,000         5,000
+Unit (sq. ft.)                                                                                NOTE 11                            2
+Maximum Lot Area Per Principal Use or Dwelling                                                                                                  NOTE 14
+                                                                                                             11,999
+Unit (sq. ft.)
+Minimum Usable Open Space per Dwelling Unit                                                   3,000                   500               NOTE NOTE 14
+                                                   6,600      3,000          3,000                           1,500             1,500
+(sq. ft.)                                                                                                                               2
+Minimum Lot Width (sq. ft.)                        100        75             75               75             60       75   50
+Maximum Dwelling Units Per Acre                                                                                       10.5
+MINIMUM SETBACKS
+From Arterial Highways
+Structures / Outside Uses (ft.)                    100 ft. setback for buildings / 100 ft. setback for outside uses                             NOTE 14
+                                                                                                                               N/A      N/A
+                                                   NOTE 3
+From Major Roads
+Structures / Outside Uses (ft.)                    100 ft. setback for buildings / 50 ft. setback for outside uses                              NOTE 14
+                                                                                                                               N/A      N/A
+                                                   NOTE 3
+From Collector Streets
+Structures / Outside Uses (ft.)                    50 ft. setback for buildings / 25 ft. setback for outside uses                               NOTE 14
+                                                                                                                               N/A      N/A
+                                                   NOTE 3
+From Property Lines
+Front Setback (ft.)                                (1) Lot Size ≤ 3 ac = 30 ft.;                                      5 feet                    NOTE 14
+                                                                                                                                        NOTE
+                                                   (2) Lot > 3 ac. and ≤ 10 acres = 50 ft.;                                    30
+                                                                                                                                        2
+                                                   (3) Lot > 10 acres = 100 ft.
+Side Setback (ft.)                                                                                                    5 feet Min 7       NOTE 14
+                                                   (1) Lot < 7,500 sq. ft. = 5 ft.; (2) Lot ≥ 7,500 & < 30,000 sq.           per
+                                                   ft. = 10 ft.;                                                             side
+                                                                                                                                    NOTE
+                                                   3) Lot Size ≥ 30,000 & < 43,560 sq. ft. = 15 ft.; (4) Lot ≥               and 20
+                                                                                                                                    2
+                                                   43,560 & < 3 ac. = 20 ft.;                                                total
+                                                   (5) Lot ≥ 3 ac. & <20 ac. = 30 ft.; (6) Lot ≥ 20 ac. = 50 ft.             both
+                                                                                                                             sides
+Rear Setback (ft.)                                 (1) Lot Size < 30,000 sq. ft. = 10 ft.;                            20            NOTE NOTE 14
+                                                   (2) Lot ≥ 30,000 sq. ft. & < 10 ac. = 30 ft.;                      feet 10       2
+                                                   (3) Lot ≥ 10 ac. = 50 ft.
+From Streams (ft.)                                                                                                    100      20   NOTE NOTE 14
+                                                   100
+                                                                                                                               NOTE 2
+                                                   NOTE 4, 12 and 13
+                                                                                                                               4
+MAXIMUM HEIGHT
+Maximum Height of Principal Structure (ft.)                                                        28                 28       NOTE NOTE NOTE 14
+                                                   28              28             28                         28
+                                                                                                                               5    2
+Maximum Height of Accessory Structure (ft.)                                                        20                 20       NOTE NOTE NOTE 14
+                                                   20              20             20                         20
+                                                                                                                               6    2
+Maximum Height of Exempt Agricultural Buildings Refer to Sec.                                      N/A                N/A                       NOTE 14
+                                                                   N/A            N/A                        N/A               N/A      N/A
+                                                5-20-70(j)
+MAXIMUM FLOOR AREA
+Allowable floor area based on Floor Area Ratio                                                     NOTE 10            .50 NOTE NOTE NOTE 14
+                                                .13                .16            NOTE 7                     .30
+(FAR)                                                                                                                 Note 8   2
+                     Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+                     July 2006                                                                                                         Page 8
+                 Chapter 5 Dimensional Requirements
+
+
+                                                  R - 30   R -15       R-15A         R-15B       R-6      RMF VR       MHP        WOMP
+                                                                                                                                  Overlay
+TABLE 5-1.B: Dimensional Requirements
+Urban/Suburban Residential Zone Districts Other
+Than Affordable Housing Districts
+
+
+                                                                                                          14
+Gross Floor Area Exempt from Growth                                                    5,750              Note                    NOTE 14
+                                                  5,750                                                        NOTE
+Management (without GMQS Allocation or TDR)                    5,750       5,750                 5,750    15        N/A
+                                                  NOTE 9                                                       8
+(Base Maximum Floor Area) (sq. ft.)
+Gross Floor Area After GMQS Allocation and/or                                          5,750              Note NOTE               NOTE 14
+                                                  9,250        9,250       9,250                 4,000              N/A
+TDR Purchase (Final Max. Floor Area (sq. ft.)                                                             15   8
+                 (Code repealed and reenacted (all sections) by Ord. 014-D-2006, 07-05-06; § 5-10-10
+                 Table-5-1.B (part) amended Ord. 026-06, 09-13-06; Ord. 012-08, 04-09-08; Ord. 024-08,
+                 07-23-08; Ord. 019-09, 06-24-09; Ord. 011-11, 08-10-11; Ord. 029-12, 10-24-12; Ord. 033-
+                 12, 11-14-12; Ord. 005-14, 03-12-14); Ord. 002-2013, 01-23-2013; Ord. 036-2023, 11-15-
+                 2023
+
+                     NOTES TO TABLE 5-1.B: Dimensional Requirements for Residential Zone Districts Other Than
+                     Affordable Housing Districts
+                     NOTE 1: 5,000 square feet, which shall include any land areas within the Redstone A Lots (as defined
+                     in this Land Use Code)
+                     NOTE 2: Dimensional requirements for the MHP zone district are found in Table 7-4. The dimensional
+                     requirements for the Aspen Village Subdivision, Lazy Glen Subdivision, and Woody Creek Subdivision,
+                     are described in the PUD Development guide approved by Pitkin County for each development.
+                     NOTE 3: Off-street parking, signs, and lights shall meet the setback requirements for outside uses.
+                     Access roads, highway regulatory and directional signs, safety lighting, and safety features shall be
+                     allowed between the right-of-way and the setbacks listed. Off street parking and lights don’t need to meet
+                     the setback required on collector streets.
+                     NOTE 4: An additional setback may be required or a lesser setback may be allowed pursuant to Sec. 7-
+                     20-80.
+                     NOTE 5: Maximum height principal structures: twenty-four (24) feet to the top of ridge; fourteen (14)
+                     feet to the top of eave (dormers excluded). See also Sec. 5-20-60(i) for Building Height calculation
+                     methodology.
+                     NOTE 6: Maximum height accessory structures: twenty-one (21) feet to the top of ridge; twelve (12) feet
+                     to the top of eave (dormers excluded). See also Sec. 5-20-60(i) for Building Height calculation
+                     methodology.
+                     NOTE 7: The allowable floor area shall be based on the least restrictive of the following formulas: (a)
+                     3,500 square feet (plus 30% for pre-existing duplexes); or (b) floor area ratio (FAR) = .20 (plus 30% of
+                     allowed floor area for pre-existing duplexes). Only duplex units that existed prior to 1974 are permitted
+                     in the R-15A zone district, and no dwelling unit in the R-15A zone district shall exceed 5,500 square feet
+                     of floor area. Each dwelling unit on a pre1974 duplex lot is exempt from Growth Management up to the
+                     Base Maximum of 5,750 square feet of gross floor area.
+                     NOTE 8: (1) Lot with 50-74 ft. frontage = 2,000 square feet; (2) Lot with 75-99 ft. frontage = 2,300
+                     square feet; (3) Lot with 100 ft or larger frontage = 2,500 square feet. See also Sec. 5-20-70 for Floor
+                     Area calculation methodology.
+                     NOTE 9: In the Meadowood Subdivision, Lots 3 and 4, Block 1, Filing 1, are allowed an additional
+                     4,400 sf of floor area. All other lots in the Meadowood Subdivision are allowed an additional 2,528 sf of
+                     floor area. Refer to Sec. 6-30-100(b)(3)
+                     NOTE 10: The allowable floor area shall be based on the least restrictive of the following formulas: (a)
+                     3,500 square feet; or (b) floor area ratio (FAR) = .20. Duplexes are prohibited in the R-15B zone district
+
+                 Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+                 July 2006                                                                                            Page 9
+Chapter 5 Dimensional Requirements
+
+
+   and no dwelling shall exceed 3,500 square feet in floor area, and 5,750 in gross floor area (max sq. ft.).
+   NOTE 11: For the R-15B zone district, the 15,000 square foot minimum relates to Lot Size, and not Lot
+   Area as defined in Section 11, Definitions.
+   NOTE 12: Development of a micro hydroelectric energy system may be allowed in a setback pursuant to
+   Section 7-20-80(c) and 4-30-50(m).
+   NOTE 13: Stream restoration projects may encroach into this setback pursuant to Sections 7-20-40 and
+   7-20-80
+   NOTE 14: The individual floor area cap per unit in the RMF Zone District is 2,855 square feet
+   NOTE 15: See Le Chamonix PUD guide for Growth Management Exemption and Maximum floor Area
+   NOTE 16: All areas mapped within the WOMP Overlay Zone District shall be subject to Section 3-70-
+   50.
+
+(Code repealed and reenacted (all sections) by Ord. 014-D-2006, 07-05-08; § 5-10-10
+Table-5-1.B (part) amended Ord. 026-06, 09-13-06; Ord. 012-08, 04-09-08; Ord. 024-08,
+07-23-08; Ord. 001AB-11, 01-12-11; Ord. 011-11, 08-10-1; Ord.002-13, 01-23-2013; Ord.
+005-14, 03-12-14); Ord. 045-2019, 12-18-19; Ord. 011-2022, 02-23-2022
+
+
+
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                          Page 10
+                  Chapter 5 Dimensional Requirements
+
+
+
+TABLE 5-1.C: Dimensional Standards for         AH                AH-PUD Zone District
+Affordable Housing Zone Districts              Zone District     For Lands                For Lands     For Lands      For Lands WOMP
+                                                                 Previously Zoned AH2/PUD Previously    Previously     Zoned     Overlay
+                                                                                          Zoned         Zoned          AH/PUD zone District
+                                                                                          AH3/PUD       AHP/PUD        after
+                                                                                                                       July 5,
+                                                                                                                       2006
+LOTS
+Minimum Lot Area (sq. ft.)                     6,000             3,000                    6,000         Per                        NOTE 8
+                                                                                                        Adopted      Per Adopted
+                                                                                                        PUD          PUD
+                                                                                                        NOTE 1
+Minimum Lot Area Per Principal Use or
+Dwelling Unit (sq. ft.):
+For Single Family Dwellings and Duplexes SFD = 3,000             SFD= 3000                SFD = 6,000                              NOTE 8
+on all lots                                    DUP = 3,000       DUP = 1,500              DUP = 3,500
+For MF dwellings (1) on a lot of < 27,000                                                                                          NOTE 8
+sq. ft.; or                                                      MF/S = 300; MF/1 = 400
+                                               MF/S = 1,000
+(2) on a lot > 27,000 sq. ft. and < 1 ac. when                   MF/2 = 800; MF/3 = 1,200 MF/S = 1,000
+                                               MF/1= 1,250
+approved by special review pursuant to Sec.                      MF/U = 400 sq. ft. per BR MF/1 = 1,250
+                                               MF/2 = 2,000
+2-40-20.                                                                                   MF/2 = 2,000
+                                               MF/3 = 3,000
+For MF dwellings on a lot > 27,000 sq. ft.                       MF/S = 1,000; MF/1 =      MF/3 = 3,000 Per          Per Adopted NOTE 8
+                                               MF/U =
+(unless varied by special review)                                1,250                     MF/U = 400 Adopted        PUD
+                                               400 sq. ft. per
+                                                                 MF/2 = 2,100; MF/3 =      sq. ft. per BR PUD        NOTE 2
+                                               BR
+                                                                 3,630
+                                                                 MF/U 1,000 sq. ft. per BR
+Minimum Usable Open Space per Dwelling                           Per Adopted PUD                                                   NOTE 8
+                                       1,200                                               1,200
+Unit (sq. ft.)                                                   NOTE 1
+                                                                                           Per Adopted                             NOTE 8
+Minimum Lot Width (sq. ft.)                    30                Per Adopted PUD           PUD
+                                                                                           NOTE 1
+MINIMUM SETBACKS
+From Arterial Highways
+Structures / Outside Uses (ft.)                200 / 100                                                                           NOTE 8
+From Major Roads
+Structures / Outside Uses (ft.)                100 / 50                                                                            NOTE 8
+From Collector Streets
+                                                                 Per Adopted PUD
+Structures / Outside Uses (ft.)                50 / 25                                                                             NOTE 8
+From Property Lines                            Same as R-6
+From Streams (ft.)                             100                                                                                 NOTE 8
+                                               NOTE 3, 6, and
+                                               7
+MAXIMUM HEIGHT
+Maximum Height of Structures (ft.)             Principal = 28 Per Adopted PUD                                                      NOTE 8
+                                               Accessory = 20
+MAXIMUM DWELLING UNIT SIZE
+                                                                                                                       Per       NOTE 8
+                                                                                                                       Adopted
+                                                                                                                       PUD up
+                                               Total of all                                             Per Adopted
+Maximum Floor Area per Dwelling Unit                             Per Adopted PUD                                       to a
+                                               units =                                                  PUD
+and/or Maximum House Size                                        NOTE 4                                                maximum
+                                               .50 FAR                                                  NOTE 5
+                                                                                                                       of .50
+                                                                                                                       FAR of
+                                                                                                                       fathering
+
+                  Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+                  July 2006                                                                                               Page 11
+Chapter 5 Dimensional Requirements
+
+                                                                                      parcel
+
+(Code repealed and reenacted (all sections) Ord. 014-D-2006, 07-05-08; § 5-10-10 Table-5-
+1.C (part) amended Ord. 012-08, 04-09-08; Ord. 024-08, 07-23-08; Ord. 005-14, 03-12-14)
+
+
+NOTES TO TABLE 5-1.C: Dimensional Requirements for Affordable Housing Zone Districts
+ABBREVIATIONS
+DUP = Duplex; MF/S = Multi-Family Studio; MF/1 = Multi-family 1 Bedroom; MF/2 = Multi-
+family 2 Bedroom; MF/3 = Multi-family 3 Bedroom;
+MFU = Multi-family with more than 3 Bedrooms; SFD = Single Family Dwelling
+NOTE 1: For lands previously zoned AH2/PUD, AH3/PUD, and AHP-PUD, review and
+approval of AHP-PUD applications shall be based upon the criteria in Sec. 3-50-80 including
+but not limited to neighborhood compatibility and adjacent zone district regulations.
+NOTE 2: As a general guideline, development density may be double that of the underlying
+zone district. Additional density may be approved in specific cases where it is consistent with
+the Pitkin County Comprehensive Plan and the development has been designed to avoid or
+mitigate adverse impacts on surrounding properties.
+NOTE 3: An additional setback may be required or a lesser setback may be allowed pursuant to
+Sec. 7-20-80.
+NOTE 4: The FARs shall be applied to the proposed fathering parcel. Floor area allocations on
+newly proposed subdivided lots shall be determined as part of the PUD review, but in no case
+shall they cumulatively exceed the provisions in this Table. Sites may be developed up to
+eighty-five percent (85%) of the allowed floor area. Up to one hundred percent (100%) of the
+floor area may be permitted by special review, pursuant to Sec. 2-40-20.
+NOTE 5: (1) Free market dwelling units = 5,000 square feet; (2) Resident Occupied dwelling
+units = Maximum allowed by the employee housing guidelines in effect at the time of building
+permit issuance; (3) Category dwelling units = Must comply with minimum net livable square
+footage required by housing guidelines -- maximum 250 square foot garage for MF/S and 1-BR
+units; maximum 500 square foot garage for Other MF units with 2 or more bedrooms; (4) Floor
+area for the development shall not exceed two times the maximum floor area allowed in the
+applicable zone district prior to the rezoning.
+NOTE 6: Development of a micro hydroelectric energy system may be allowed in a setback
+pursuant to Section 7-20-80(c) and 4-30-50(m).
+NOTE 7: Stream restoration projects may encroach into this setback pursuant to Sections 7-20-
+40 and 7-20-80.
+NOTE 8: All areas mapped within the WOMP Overlay Zone District shall be subject to Section
+3-70-50.
+
+(Code repealed and reenacted (all sections) Ord. 014-D-2006, 07-05-08; § 5-10-10 Table-5-
+1.c (part) amended Ord. 012-08; 04-09-08; Ord. 024-08, 07-23-08; Ord. 001 AB-11, 01-12-
+11; Ord. 005-14, 03-12-14)
+
+
+
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                Page 12
+                 Chapter 5 Dimensional Requirements
+
+
+
+
+                                                  VC              B-2             P- I     T                                  WOMP
+TABLE 5-1.D: Dimensional Requirements
+                                                                                                                              Overlay Zone
+Commercial and Special Purpose Zone Districts
+                                                                                                                              District
+LOTS
+Minimum Lot Area (sq. ft. unless otherwise noted) 5,000          MF = 15,000                                                     NOTE 10
+                                                                                   M        15,000
+                                                  NOTE 1         OTH = 6,000
+Minimum Lot Area Per Principal Use or Dwelling MF/UL = 5,500                                                                     NOTE 10
+                                                                 MF/UL = 4,000              MF/UL = 4,400; MF/1L = 2,600;
+Unit (sq. ft.)                                    MF/1L = 3,200
+                                                                 MF/1 = 3,200 M             MF/ST = 2,100; HML = 1,750;
+                                                  MF/ST = 2,500
+                                                                 MF/ST = 2,500              DRM = 2,000; OTH = 15,000
+                                                  HML = 2,200
+Minimum Usable Open Space per Dwelling Unit Greater of                                                                           NOTE 10
+                                                                 1,200             M        1,200
+(sq. ft.)                                         1,200 or 25%
+Minimum Lot Width (sq. ft.)                       50             50                M        75                                   NOTE 10
+MINIMUM SETBACKS
+From Arterial Highways
+Structures / Outside Uses (ft.)                                  200 ft. setback for buildings / 100 ft. setback for outside     NOTE 10
+                                                  N/A
+                                                                 uses NOTE 2
+From Major Roads
+Structures / Outside Uses (ft.)                                  100 ft. setback for buildings / 50 ft. setback for outside uses NOTE 10
+                                                  N/A
+                                                                 NOTE 2
+From Collector Streets
+Structures / Outside Uses (ft.)                                  50 ft. setback for buildings / 25 ft. setback for outside uses NOTE 10
+                                                  N/A
+                                                                 NOTE 2
+From Property Lines
+Front Setback (ft.)                               30             30                M                       30                    NOTE 10
+Side Setback (ft.)                                Min 7 per side                                                                 NOTE 10
+                                                  and 20 total   10                M                       10
+                                                  both sides
+Rear Setback (ft.)                                10             10                M                       20                    NOTE 10
+From Streams (ft.)                                20             100                                                             NOTE 10
+                                                                                   M                       100
+                                                  NOTE 3, 8 and NOTE 3, 8 and
+                                                                                                           NOTE 3, 8 and 9
+                                                  9              9
+MAXIMUM HEIGHT
+Maximum Height of Principal Structure (ft.)       NOTE 4         28                M                       28                    NOTE 10
+Maximum Height of Accessory Structure (ft.)       NOTE 5         20                M                       20                    NOTE 10
+Maximum Height of Exempt Agricultural                                                                      Refer to Sec. 5-20- NOTE 10
+                                                  N/A            N/A               N/A
+Buildings                                                                                                  70(j)
+MAXIMUM GROSS FLOOR AREA
+Allowable Floor Area based on Floor Area Ratio                                                             .53                   NOTE 10
+                                                  NOTE 6         .36               .50
+(FAR)                                                                                                      NOTE 7
+
+                 Code repealed and reenacted (all sections) by Ord. 014-D-2006, 07-05-08; § 5-10-10 Table-
+                 5-1.D (part) amended Ord. 024-08, 07-23-08; Ord. 011-11, 08-10-11; Ord. 005-14, 03-12-
+                 14)
+
+
+
+
+                 Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+                 July 2006                                                                                                Page 13
+Chapter 5 Dimensional Requirements
+
+NOTES TO TABLE 5-1.D: Dimensional Requirements for Commercial Zone Districts
+ABBREVIATIONS
+M = As approved in Master Plan for P-I zone district; DRM = Dormitory (6-8 persons); DUP = Duplex; HML =
+Hotel/Motel/Lodge; MF/1L= Multi-family 1 Bedroom Unlimited; MF/ST = Multi-family Studio; MF/1 = Multi-
+family 1 Bedroom; MF/3 = Multi-family 3 Bedroom; MF/UL = Multi-family with more than 3 bedrooms; OTH
+= Other; SFD = Single Family Dwelling
+NOTES
+NOTE 1: 5,000 sq. ft., which shall include any land areas within the Redstone A Lots (as
+defined in this Land Use Code)
+NOTE 2: Off-street parking, signs, and lights shall meet the setback requirements for outside
+uses. Access roads, highway regulatory and directional signs, safety lighting, and safety
+features shall be allowed between the right-of-way and the setbacks listed. Off street parking
+and lights don’t need to meet the setback required on collector streets.
+NOTE 3: An additional setback may be required or a lesser setback may be allowed pursuant
+to Sec. 7-20-80.
+NOTE 4: Maximum height principal structures: Twenty-four (24) feet to the top of ridge;
+Sixteen (16) feet to the top of eave. (dormers excluded). See also Sec. 5-20-60(i) for Building
+Height calculation methodology.
+NOTE 5: Maximum height accessory structures: Twenty-one (21) feet to the top of ridge;
+Twelve (12) feet to the top of eave. (dormers excluded). Accessory structure height is
+measured from existing grade. See also Sec. 5-20-60(i) for Building height calculation
+methodology.
+NOTE 6: (1) Lot with 50-74 ft. frontage = 2,200 square feet; (2) Lot with 75-99 ft. frontage =
+2,500 square feet; (3) Lot with 100 ft or larger frontage = 2,800 square feet; (4) A
+hotel/motel/ lodge/tourist accommodation may apply by special review for a floor area ratio
+of up to .53. See also Sec. 5-20-70 for Floor Area calculation methodology.
+NOTE 7: For properties located outside of an urban growth boundary, and zoned T prior to
+the 5th of July, 2006 future, non-residential structures constructed after the 5th of July, 2006
+shall be limited to 15,000 square feet of floor area. Final maximum floor area for residential
+structures shall be limited to 5,750 sq.ft. of gross floor area.
+NOTE 8: Development of a micro hydroelectric energy system may be allowed in a setback
+pursuant to Section 7-20-80(c) and 4-30-50(m).
+NOTE 9: Stream restoration projects may encroach into this setback pursuant to Sections 7-
+20-40 and 7-20-80.
+NOTE: 10: All areas mapped within the WOMP Overlay Zone District Shall be subject to
+Section 3-70-50.
+(Code repealed and reenacted (all sections) by Ord. 014-D-2006; § 5-10-10 Table-5-1.D
+(part) amended Ord. 012-08, 04-09-08; Ord. 024-08, 07-23-08; Ord. 005-14, 03-12-14)
+
+
+
+5-10-20: REDUCTION IN DENSITY FOR STEEP SLOPES
+
+The permitted density of development on lands with steep slopes shall be as follows:
+
+        (a) There shall be a reduction in density from that which is allowable in the zone
+        district whenever more than thirty (30) percent of the total land area of a project is
+        encumbered by slopes of forty-five (45) percent and greater. The gross allowable
+        density of the project shall be reduced by one (1) percent for each one (1) percent
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                           Page 14
+Chapter 5 Dimensional Requirements
+
+
+        exceeding thirty (30) percent of land area having slopes of forty-five (45) percent and
+        greater.
+
+        (b) The calculation of the formula in subdivision A is as follows: Assuming a three
+        thousand one hundred (3,100) acre parcel of land on which fifty (50) percent of the
+        total land area has slopes greater than forty-five (45) percent, the gross allowable
+        zoned density is three thousand one hundred (3,100) acres divided by thirty (30) (one
+        unit per thirty (30) acres) = one hundred three (103) units allowed. The density
+        reduction is calculated as follows:
+
+                (1) Fifty (50) percent (percentage of land area having slopes of forty-five (45)
+                percent or greater) – Thirty (30) percent (no density reduction for up to thirty
+                (30) percent coverage) = Twenty (20) percent (percent reduction of gross
+                allowable density) x 103 units (gross allowable zoned density) = 20.6 or 21
+                unit reduction. 103 units - 21 units = 82 units (net density).
+
+        (c) An example of the application of the formula to a three thousand one hundred
+        (3,100) acre parcel in RS-30 where the gross zoned density is one hundred three (103)
+        units is given below, assuming different amounts of land with slopes greater than
+        forty-five (45) percent.
+                 TABLE 5-2: Density Reductions for Steep Slopes
+                Land Area in Excess of Density        Units          Net Units
+                45%                    Reduction      Substracted
+                 0-30%                 0%             0              103
+                 45                    15             15             88
+                 50                    20             21             82
+                 60                    30             31             72
+                 75                    45             46             57
+                 85                    55             57             46
+                 95                    65             67             36
+
+       (d) In order to determine the amount of land area having slopes of forty-five (45)
+       percent and greater, the applicant shall submit a slope analysis using ten (10) foot
+       contoured topography obtained from the Pitkin County Geographic Information
+       Systems (GIS) Department. In the event that ten (10) foot contours do not provide
+       enough detail to adequately determine slope, a certified survey delineating two (2)
+       foot contours may be required at the County Planner’s discretion.
+(Code repealed and reenacted (all sections) by Ord. 014-D-2006, 07-05-06; § 5-10-20 (part)
+amended Ord. 023-07, 08-28-07)
+
+5-20: RULES OF MEASUREMENT
+
+This section sets forth the rules that Pitkin County will use to measure those dimensional
+standards set forth in this Chapter, as well as similar dimensional parameters referenced
+throughout this Land Use Code. Many of the terms used in this section are defined in
+Chapter 11.
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                    Page 15
+Chapter 5 Dimensional Requirements
+
+
+5-20-10: MEASUREMENT OF LOT AREA
+
+        Lot area is used as a basis of determining allowable floor area in zone districts that
+        have floor area ratios. In calculating Lot Area, the following areas shall be excluded
+        from Lot Size:
+
+        (a) Areas under streams, lakes, and other natural water courses up to the ordinary
+        water mark;
+
+        (b) Areas within any public or private access easement or right-of-way.
+
+        (c) Areas within any public trail or trail easement, either platted, deeded or otherwise
+        conveyed to the County for market value after January 1, 2006.
+
+        (Code repealed and reenacted (all sections) by Ord. 014-D-2006, 07-05-06; § 5-20-
+        10 (part) amended Ord. 001A & B-11, 01/12/11); Ord. 011-2022, 02-23-2022
+
+
+5-20-20: NO GUARANTEE OF MAXIMUM DENSITY OR FLOOR AREA
+
+Table 5-1 above sets forth maximum FAR or size of development in each zone district. A
+subdivision or other development application is not automatically entitled to the maximum
+density and/or floor area allowed in the zone district in which the land is located. Density and
+permitted floor area shall be established based upon compliance with adopted standards and
+consideration of adopted plans and policies.
+
+5-20-30: MEASUREMENT OF ROAD SETBACKS
+
+Road setback is measured horizontally from edge of right-of-way.
+
+5-20-40: MEASUREMENTS OF YARD SETBACKS
+
+        (a) Front yard setbacks are measured as the least horizontal distance between any
+        point on the front lot line and point of the structure or use (such distance being
+        referred to as the "front yard setback"). If there is uncertainty as to which yard is the
+        front yard for a parcel, then the front yard shall be designated as the one from which
+        access is taken, or if access is taken from more than one adjacent road, then the
+        Community Development Director shall determine which yard is the front yard for
+        zoning purposes, based on which is the predominant access road and which
+        designation will minimize adverse impacts on surrounding properties.
+
+        (b) Rear yard setbacks are measured as the least horizontal distance between any
+        point on the rear lot line and point of the structure or use (such distance being referred
+        to as the "rear yard setback"). In the event of a triangular lot, the owner shall
+        designate one line as the side and one as the rear lot line.
+
+
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                      Page 16
+Chapter 5 Dimensional Requirements
+
+
+        (c) Side yard setbacks are measured as the least horizontal distance between any
+        point of the structure or use (such distance being referred to as the "side yard
+        setback"). In the event of a triangular lot, the owner shall designate one line as the
+        side and the other as the rear lot line.
+
+        (d) Whenever, due to irregular or unique property outlines or other circumstances,
+        more than one setback requirement could apply to one property frontage, the most
+        restrictive of the multiple setbacks shall be used, so that the setback from the right-of-
+        way is maximized.
+
+5-20-50: MEASUREMENT OF STREAM SETBACKS
+
+        (a) General
+
+        Setbacks from streams shall be measured horizontally from the ordinary identifiable
+        ordinary high water mark on each side of any river, stream, or creek.
+
+        (b) Permitted Encroachments into Stream Setbacks
+
+        Paved or gravel trails, bridges, irrigation structures, flood control devices and
+        underground utilities may be constructed and maintained in the setback area if
+        approved by the Community Development Director according to the standards in Sec.
+        7-20-80 and the procedures in Sec. 2-30-20. Any approval shall require a finding that
+        there is no practical alternative location outside of the setback area and that any
+        disturbed areas will be revegetated.
+
+        (Code repealed and reenacted (all sections) by Ord. 014-D-2006, Section 5-20-50
+        amended (in part) Ord. 011-2022, 02-23-2022
+
+
+5-20-60: MEASUREMENT OF BUILDING HEIGHT
+
+Maximum permitted building height shall be measured based on the criteria in a-g, except as
+modified in (h) for the RR zone district in (i) for the VC and VR zone districts, and in (k) for
+Accessible ANSI Residences.
+
+        (a) On Pitched and Gambrel Roofs
+
+                (1) There shall be no mid-point of a roof that exceeds the prescribed height
+                above existing or finished grade, whichever is lower. The mid-point of the
+                roof shall be defined as the point that is halfway between the top of the ridge,
+                and the eave-point. The eave-point is that point in the roof plane that is
+                directly above the outside of the wall below. In the case of a covered deck or
+                patio, the eave-point shall be the point that is directly above the outside face
+                of the structure, or three (3) feet in from the edge of the roof, whichever is
+                more restrictive.
+
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                        Page 17
+Chapter 5 Dimensional Requirements
+
+
+                (2) There shall be no point of any ridge or other roof peak that exceeds the
+                prescribed height above the existing or finished grade, whichever is lower, by
+                more than five (5) feet.
+
+                (3) There shall be no eave-point that exceeds the prescribed height above
+                existing or finished grade, whichever is lower. Exception to this is if the ridge
+                lines that extend to the outside face of a building to form a gabled end will be
+                permitted, to the extent that they conform to subsection (2) above.
+
+        (b) On Flat, Shed, Dome and Barrel Roofs
+
+        No roof point shall exceed the prescribed height above the existing or finished grade,
+        whichever is lower.
+
+        (c) Multiple Roofs
+
+        Where a building has multiple roofs, all roofs shall comply with these standards.
+
+        (d) Measurement Vertically
+
+                (1) All measurements shall be made vertically; i.e., each point of a roof shall
+                be measured to the point of grade that is directly below it--vertical and plumb.
+                Exterior window wells and stairwells shall be considered finished grade for
+                roof points located above the well. Roof points that are not at the exterior of
+                the building will be measured against existing grade only.
+
+                (2) Cupolas shall be allowed on agricultural structures to the extent that the
+                eave point of the cupola does not exceed three (3) feet above the ridge of the
+                underlying roof, and the peak or ridge of the cupola does not exceed five (5)
+                feet above the ridge of the underlying roof.
+
+        (e) Encroachments
+
+        Antennae, chimneys, flues, vents, and similar structures shall not exceed the
+        prescribed height limit by more than ten (10) feet. Water towers, mechanical
+        equipment, solar equipment, and similar equipment shall not exceed the prescribed
+        height limit by more than three (3) feet.
+
+        (f) Maximum Height with Encroachments
+
+        The maximum height of a building’s tallest elevation shall not exceed forty (40) feet
+        measured from natural or finished grade, whichever is more restrictive, to the highest
+        part of the building, excepting chimneys.
+
+        (g) Building Components
+
+
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                     Page 18
+Chapter 5 Dimensional Requirements
+
+
+        For the purpose of measuring building height, any individual building component that
+        is located within twenty (20) feet (as measured from any point from outside wall to
+        outside wall) of the principal structure shall be considered a part of the principal
+        structure.
+
+        (h) RR Zone District
+
+        In the RR zone district, all methods of calculation shall remain the same as in all
+        other zone districts as described within this definition with the exception that
+        subsections (a), (f) and (g) above do not apply. Building height shall be measured to
+        the top of ridge or to the top of the parapet surface of a flat roof, as measured from
+        existing or finished grade, whichever is lower.
+
+        (i) VC and VR Zone Districts
+
+        In the VC and VR zone districts, principal building height on all roof forms is
+        measured from both the top of the ridge and from the top of the eave (excluding
+        dormers), to the existing grade. Accessory building height on all roof forms is
+        measured from the existing grade. “Dormer” is defined in the Redstone Historic
+        Design Guidelines.
+
+        All measurements shall be made vertically; i.e., each point of a roof shall be
+        measured to the point of grade that is directly below it—vertical and plumb.
+
+        Antennae, chimneys, flues, vents, and similar structures shall not exceed the
+        prescribed height limit by more than ten (10) feet. Water towers, mechanical
+        equipment, solar equipment, and similar equipment shall not exceed the maximum
+        allowed ridge height.
+
+        When developing in the floodplain, the established floodplain elevation may be
+        substituted for existing grade for up to two feet (2’) of elevation.
+
+        Subsection (g) above does not apply in the VC and VR zone district.
+
+        (j) Exempt Agricultural Buildings
+
+        The height of agricultural buildings that are exempt from floor area pursuant to Sec.
+        5-20-70(j) shall be limited as follows:
+
+               (1) Hay Storage Building:
+                               30’ Maximum to Top of             20’ Maximum to Top of
+                               Ridge                             Ridge
+20 to <35 acres                224 square feet                   336 square feet
+35 to <70 acres                448 square feet                   672 square feet
+70 to <160 acres               672 square feet                   1,008 square feet
+160 + acres                    Unlimited                         Unlimited
+
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                   Page 19
+Chapter 5 Dimensional Requirements
+
+
+                (2) Livestock Run-In or Loafing Shed: shall not exceed 12 feet (12’) to the
+                top of the ridge with a minimum 3:12 roof pitch with a shed roof
+
+                (3) Agricultural Equipment Storage Building: shall not exceed 16 feet (16’)
+                to the top of the ridge
+
+                (4) Barns:
+
+                        (a) <10 acres: 20’ to the midpoint; 25’ to the top of the ridge.
+
+                       (b) 10 to < 35 acres: 25’ to midpoint/30’ to top of ridge (for one
+                principal barn; additional barns shall not exceed 20’ to midpoint/25’ to top of
+                ridge)
+                       (c) 35+ acres: 28’ to midpoint/33 to top of ridge (for one principal
+                barn/additional barns shall not exceed 20’ to midpoint/25’ to top of ridge)
+
+                         (d) On flat (less than 3:12 pitch) shed, dome or barrel roofs on any
+                size lot or parcel, no roof point shall exceed 20’ above the existing or finished
+                grade, whichever is more restrictive.
+
+                (5) Greenhouses:
+
+                        (a) Customarily accessory to a principal residential use:
+
+                             i.   Lot/parcel of less than 30,000 sf: 10’ maximum to top of ridge
+                                     or highest point of the roof
+
+                             ii. Lot/parcel of 30,000 sf to less than 10 acres: 16’ maximum to
+                                    top of ridge or highest point of the roof
+
+                             iii. Lot/parcel of 10 acres or more: 20’ maximum to top of ridge
+                                     or highest point of the roof.
+
+                        (b) Not customarily accessory to a principal residential use: 28’
+                            maximum, if approved through Special Review pursuant to Sec. 2-
+                            30-30(h)(2).
+
+        (k) Accessible ANSI Residences
+
+        Residences compliant with Sections 1004 and 1005 of the 2009 American National
+        Standard, as amended (ANSI) shall be allowed one Qualified Elevator, which may
+        exceed the height limitations above, when the Qualified Elevator provides the
+        following:
+
+                (1) Provides required access to all or part of each of the floor levels within the
+                residence, and
+
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                     Page 20
+Chapter 5 Dimensional Requirements
+
+
+                 (2) Is required in order to provide access from vehicle to residence, only to
+                the following extent:
+
+                        (a) The elevator shaftway may be extended by ten feet (10 ft) to reach
+                        the level of vehicular access connecting it as a principal entrance to the
+                        residence, and
+
+                        (b) Only the shaftway enclosure shall be considered exempt from
+                        height limitations and shall not be raised farther than the minimum
+                        clearance required by the elevator manufacturer for low head room
+                        installation with minimal thickness of roof construction above, but in
+                        no case to exceed 30 inches above the applicable height limit.
+
+                No exemption from height restrictions shall be available for Qualified
+                Elevators where a portion of the shaftway wall meets grade on the perimeter
+                of the front façade of a residence.
+
+                A Qualified Elevator is defined as one which is designed for residential use,
+                equipped and certified for low service headroom, accommodates accessibility,
+                and is sufficient in size to allow and assistant to ride in the elevator as needed.
+
+ (Code repealed and reenacted (all sections) by Ord. 014-D-2006, 07-05-06; § 5-20-60
+(part) amended Ord. 001A, 001B-11, 01-12-11 Ord. 011-11, 08-10-11; Ord. 038-12, 12-19-
+12; Ord. 032-14, 10-08-14); Ord. 031-2013, 12-18-2013
+
+5-20-70: MEASUREMENT OF FLOOR AREA
+
+Floor area shall be measured based on the criteria in (a-e) except as modified in (g) for lots in
+the Urban Growth Boundary area that are located in zone districts with floor area ratios, in
+(h) for the VC and VR zone districts, and in (i) for the RR zone district.
+
+        (a) General
+
+        In measuring floor area, all dimensions shall be taken from the outside face of
+        framing or other primary wall members or from the center line of walls separating
+        adjoining units of a building or portion thereof. For strawbale or log wall
+        construction and for foundation walls, all dimensions shall be taken from the
+        centerline of the wall. Veneer facades up to eight (8) inches in thickness shall be
+        excluded from the calculation of floor area; that portion of a façade which exceeds
+        eight (8) inches shall be included. Fireplaces, elevators, stairs and similar features are
+        included in the floor area on each floor. Structures that do not exceed thirty (30)
+        inches in height measured above or below finished and natural grades, and that are
+        not covered by a roof or horizontal projection from a building are exempt from floor
+        area calculations.
+
+        A minimum of two percent (2%) of the total floor area as calculated under the latest
+        adopted Building Codes, or fifty (50) sq. ft., whichever amount is greater, shall be a
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                       Page 21
+Chapter 5 Dimensional Requirements
+
+
+        dedicated mechanical area of at least seven feet (7’) in height, which area shall
+        contain mechanical, electrical and plumbing equipment, but no laundry or other
+        household uses or appliances. The mechanical area may be dispersed in more than
+        one location.
+
+        Mechanical areas less than two percent (2%) of the total floor area may be permitted
+        when the building permit application includes a complete mechanical plan showing
+        placement of all proposed systems and compliance with the latest adopted Building
+        Codes. Mechanical plans must be provided by a mechanical contractor or engineer,
+        or other professional approved by the Building Official.
+
+        (b) Roof and Deck Overhangs
+
+        The floor area of a building, or portion of a building, not provided with surrounding
+        exterior walls shall include the area under the horizontal projection of roofs or floors,
+        when the roof or floor exceeds eight (8) feet. These architectural projections are
+        exempt for eight (8) feet of the perimeter of each story of the structure. This
+        exemption cannot be used to transfer space between floors. Roof and deck overhangs
+        greater than eight (8) feet may only be converted to enclosed interior areas when the
+        resulting floor area does not exceed maximum floor area that would otherwise be
+        applicable to the property under Table 5-1.
+
+        (c) Decks, Balconies, Stairways and Similar Features
+
+        Structures that exceed thirty (30) inches above natural or finished grade, and that are
+        not covered by a roof or architectural projection from a building, are exempt from
+        floor area for up to fifteen (15) percent of the approved floor area for the subject
+        parcel or lot. Any areas in excess of fifteen (15) percent shall be counted toward
+        floor area. Decks, balconies, stairways, and similar features with a horizontal
+        projection greater than eight (8) feet may only be converted to enclosed interior areas
+        when the resulting floor area does not exceed maximum floor area that would
+        otherwise be applicable to the property under Table 5-1.
+
+        Pergolas and open shade structures shall be considered part of the fifteen (15) percent
+        of the approved floor area for decks, balconies, stairways, and similar features as
+        specified above, so long as the following criteria are met: Overall height cannot
+        exceed twelve (12) feet above finished or existing grade, whichever is most
+        restrictive. At least seventy (70) percent of the area of such structures shall be open
+        to the sky. There shall be no more than two (2) layers of structure above the column
+        capitals. Principal beams shall be a minimum of ten (10) feet on center and have a
+        maximum dimension of six (6) inches in width and twelve (12) inches in depth.
+        Secondary beams shall be spaced at a minimum of twenty-four (24) inches on center
+        and have a maximum dimension of four (4) inches in width and ten (10) inches in
+        depth. There shall be no walls. The doubling of beams over the columns shall be
+        permitted.
+
+        (d) Crawl Spaces
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                     Page 22
+Chapter 5 Dimensional Requirements
+
+
+
+                (1) A Horizontal Crawl Space means an area below the first usable floor of a
+                building or portion of a building, excluding decks, patios and terraces.
+                Horizontal Crawl Spaces are exempt from floor area calculations when less
+                than five (5) feet six (6) inches in height. Horizontal Crawl Spaces do not
+                exceed the footprint of the exterior walls of the structure above, except that
+                crawl spaces may be detached from the principal structure when used for
+                exterior uses such as jacuzzis, spas, hospitality bars, water features, sprinkler
+                systems, and pool mechanical areas. Such Crawl Spaces shall be no larger
+                than necessary to accommodate necessary mechanical equipment and may not
+                be used for other uses.
+
+                (2) A Vertical Crawl Space means an enclosed, unfinished, and non-habitable
+                area that may exceed five feet six inches (5’6”) in height and is located
+                between the exterior of a foundation wall and the surface of the finished grade
+                of a vertical or nearly vertical slope, which slope is retained by an engineered
+                system which requires a separation between the foundation wall and the
+                surface of the finished grade of the slope.
+
+                Vertical Crawl Spaces shall be exempt from floor area calculations, provided
+                they comply with the following:
+
+                        (a) That the design is supported by an engineering/geologic study
+                        approved by the Community Development Department, which requires
+                        a separation between an engineered system and the exterior wall; and
+
+                        (b) The horizontal dimensions measured from the base of the exterior
+                        wall to the engineered system does not exceed six feet six inches
+                        (6’6”;) and
+
+                        (c) The area shall remain unfinished and contain no hard floors; and
+
+                        (d) The area shall be limited to containing non-spark producing
+                        mechanical, plumbing, electrical, telephone, cable, audio, and water
+                        systems. Storage shall be prohibited; and
+
+                        (e) Access to the area is limited to the dimensional requirements
+                        necessary for removal and repair or replacement of systems
+                        equipment; and
+
+                        (f) The Vertical Crawl Space may be covered at the top with a
+                        waterproof structural lid that does not have any habitable enclosed
+                        space above; and
+
+                        (g) The height of the Vertical Crawl Space shall not exceed twenty-
+                        five feet (25’.)
+
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                      Page 23
+Chapter 5 Dimensional Requirements
+
+
+        (e) Attic
+
+        Attic means an area between roof framing and the ceiling framing of the room(s)
+        below. Attics are exempt from the calculation of floor area when less than five (5)
+        feet six (6) inches in height.
+
+        (f) Gas Station Canopies
+        Up to one thousand (1,000) square feet of gas station canopy shall be exempt from the
+        calculation of floor area for any approved gas station.
+
+        (g) Additional Provisions for Zone Districts within the Urban Growth Boundary Area
+        Subject to Floor Areas Ratios
+
+                (1) Exempt Below Grade Spaces for Principal Single-Family and Duplex
+                Residences
+
+                For the R-15, R-15A, R-30, and AR-2 zone districts within the Urban Growth
+                Boundary Area, spaces below grade shall be exempt from Floor Area
+                calculations for up to a maximum of four thousand (4,000) square feet, and in
+                the R-15B zone district, as provided in Note 10 of Table 5-1.B, provided such
+                spaces comply with a-h below:
+
+                        (a) Exempt below grade spaces are located below both the natural and
+                        finished grades. If any part of the below-grade space is exposed above
+                        natural or finished grade (such as walk-out basement, walls or courts)
+                        the entire below-grade area shall be included in the floor area
+                        calculations. Exempt Below-grade spaces are no greater than twenty
+                        (20) feet in depth and no more than a single story. For purposes of this
+                        definition, “story” shall mean that portion of a building included
+                        between the upper surface of a floor and the upper surface of the floor
+                        next above.
+
+                        (b) Exempt below grade spaces are accessed only by stairway or
+                        elevator from the story directly above, or through a door from a garage
+                        adjacent to the below-grade area.
+
+                        (c) Exempt below grade spaces are no greater than twenty (20) feet in
+                        depth and no more than a single story. For purposes of this definition,
+                        “story” shall mean that portion of a building included between the
+                        upper surface of a floor and the upper surface of the floor above.
+
+                        (d) Exempt below grade spaces do not contain doors to the exterior of
+                        the structure.
+
+                        (e) Exempt below-grade bedrooms are allowed no more than one (1)
+                        egress window per bedroom. Exempt below grade spaces that contain
+                        no bedrooms are allowed only one egress window. When below grade
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                     Page 24
+Chapter 5 Dimensional Requirements
+
+
+                        egress is achieved through one or more below grade bedrooms, no
+                        additional egress shall be provided. Egress window well size shall not
+                        exceed the minimum allowed by the International Building
+                        Code/International Residential Code.
+
+                        (f) Habitable exempt below-grade spaces may be provided with
+                        aggregate glazing area of not more than eight (8) percent of the
+                        habitable area of the room. For purposes of this exemption,
+                        “habitable” shall mean a space in a building for living, sleeping, eating
+                        or cooking. Unfinished basements shall be considered habitable
+                        spaces. Bathrooms, toilet rooms, closets, halls, storage or utility
+                        spaces and similar areas shall not be considered habitable spaces.
+                        Window wells for natural light have a maximum dimension of three
+                        (3) feet from the exterior wall. The maximum window well width
+                        shall be no more than the width of the window. Skylights and bay
+                        window-like glazing are prohibited in below grade spaces.
+
+                        (g) Foundation walls for exempt below-grade spaces may be exposed
+                        above natural and finished grade to the minimum degree required by
+                        the IRC pertaining to foundation design.
+
+                        (h) Up to ten (10) percent of any particular below-grade wall surface
+                        may extend above natural grade so long as the finished grade covers
+                        the wall surface that would otherwise be exposed.
+
+                        (i) Garages up to seven hundred and fifty (750) square feet may be
+                        incorporated into below-grade space and shall not affect this
+                        exemption as long as the only sections of building so exposed are
+                        directly related to the garage structure.
+
+                        (j) Floor area below natural and finished grade which exceeds the four
+                        thousand (4,000) square foot exemption shall count toward the
+                        calculation of allowable floor area.
+
+                (2) Garages and Carports
+
+                For the purposes of calculating floor area ratio and allowable floor area for a
+                lot where the principle use is single family residence, garage and carport floor
+                area shall be exempted up to a maximum of seven hundred fifty (750) square
+                feet. On a lot which contains a duplex, garage and carport floor area shall be
+                exempted up to a maximum of one thousand (1000) square feet. All garage or
+                carport space in excess of the exempted areas shall be included as part of the
+                residential floor area calculation. When an existing legal single-family or
+                duplex dwelling exceeds the allowed floor area, the exempt garage space shall
+                be reduced by subtracting the excess floor area from the exempt garage space.
+
+        (h) Additional Provisions for VC and VR Districts
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                     Page 25
+Chapter 5 Dimensional Requirements
+
+
+
+        In the VR and VC zone district, floor area is measured pursuant to a-e above except
+        as noted below.
+
+        In the VC and VR zone districts only: Spaces below natural and finished grade are
+        exempt from floor area calculations up to a maximum of nine hundred ninety-nine
+        (999) square feet of floor area. Floor area below grade that exceeds the nine hundred
+        ninety-nine (999) square foot exemption shall count in the calculation of floor area.
+        To be exempt from floor area, below grade areas must meet the following conditions:
+
+                (1) The pergolas and open shade structure allowance in (c) (2) above is not
+                available.
+
+                (2) Spaces below natural and finished grade are exempt from floor area
+                calculations up to a maximum of nine hundred ninety-nine (999) square feet
+                of floor area. Floor area below grade that exceeds the nine hundred ninety-
+                nine (999) square foot exemption shall count in the calculation of floor area.
+                To be exempt from floor area, below grade areas must meet the following
+                conditions:
+
+                        (a) The structure must be principally residential or commercial, or
+                        accessory thereto; and
+
+                        (b) Below grade areas shall not exceed a maximum depth of ten (10)
+                        feet as measured from floor to ceiling and shall include no more than a
+                        single story; and
+
+                        (c) Below grade areas cannot exceed the building footprint of the
+                        ground floor; and
+
+                        (d) Below grade uses are limited to non-habitable uses such as baths,
+                        laundry, mechanical, halls, utility, storage, etc., and shall not include
+                        garages or any uses that require natural light or ventilation pursuant to
+                        the applicable adopted building code; and
+
+                        (e) No more than one (1) egress may be allowed and is to be provided
+                        by a window that does not exceed the minimum requirements of the
+                        applicable adopted building code. No new exterior staircases may be
+                        allowed to access below grade areas; and
+
+                        (f) No more than one (1) window well may be allowed, but not to
+                        exceed the minimum area allowed by the applicable adopted building
+                        code, and not to be located on the street facade; and
+
+                        (g) The foundation wall or footing may be exposed no more than two
+                        (2) feet above existing grade.; and
+
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                     Page 26
+Chapter 5 Dimensional Requirements
+
+
+                        (h) If any part of the below grade space is exposed above natural or
+                        finished grade (such as walk-out basements, walls or courts) the entire
+                        below grade area shall be included in the floor area calculation; and
+
+                        (i) All dirt and other material excavated to allow for the below grade
+                        area must be removed from the site; and
+
+                        (j) All below grade areas must be approved by the Redstone Historic
+                        Preservation Commission, to the extent Redstone Design Guidelines
+                        are applicable.
+
+                3. Historic Accessory Buildings (Outbuildings)
+
+                        (a) Accessory Buildings that are determined to be historic are exempt
+                            from floor area calculations up to a maximum of 150 square feet or
+                            the size of the building, whichever is less.
+
+                        (b) To be exempt, an application shall be made to the RHPC which
+                        includes evidence of the historic significance and integrity of the
+                        building.
+
+
+        (i) Provisions for the RR Zone District
+
+        In the Rural and Remote zone district, the following provisions shall apply:
+
+                (1) Maximum footprint per principal structures shall not exceed 1,000 square
+                feet, except without special review approval. In measuring the footprint, all
+                dimensions shall be taken from the outside face of framing or other primary
+                wall members.
+
+                (2) Maximum allowed floor area shall not exceed 1,000 square feet, except as
+                may be allowed through special review to retain an existing structure when a
+                new structure is proposed. Up to 600 square feet of a legally created structure
+                existing prior to January 2, 1996, that is retained pursuant to special review,
+                shall be excluded from the maximum allowed floor area for a new, separate
+                structure; floor area in excess of 600 square feet shall be included in floor area
+                calculations. The entire floor area of an historic structure shall be excluded
+                from the maximum allowed floor area.
+
+                (3) Decks, porches, etc. shall not exceed a maximum of 500 square feet as
+                measured from the outside face of the material. Structures including, but not
+                limited to decks, porches, slabs, patios and terraces, shall be included in this
+                calculation, and these structures shall be contiguous to the building footprint.
+
+                (4) Platforms and tree houses shall not exceed 250 square feet, which is
+                included in the maximum allowed floor area of 1,000 square feet.
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                      Page 27
+Chapter 5 Dimensional Requirements
+
+
+
+                (5) Outhouse, storage and mechanical enclosures shall not exceed a total of
+                160 square feet, which is excluded from maximum allowed floor area of 1,000
+                square feet.
+
+        (j) Floor Area Exemptions for Agricultural Buildings:
+
+        Agricultural Buildings shall be exempt from floor area, subject to the following
+        criteria, on properties utilized for an agricultural operation as defined in Chapter 11 in
+        those zone districts where Agricultural Buildings are listed as an allowed principal
+        agricultural or accessory use in Table 4-1, or in the RS-G, LIR-35 or T zone districts,
+        if approved as a special review use.
+
+                (1) Hay Storage Building: To be exempt from floor area, a hay storage
+                building must meet all of the following criteria:
+
+                        (a) A hay storage building shall have a maximum of three (3) walls.
+                        The fourth side of the building may have a fence or gate to exclude
+                        wildlife, but shall not be fully enclosed.
+
+                        (b) A hay storage building shall be used only for the protection and
+                        storage of hay.
+
+                         (c) A hay storage building shall not exceed the following
+                        sizes/heights based on acreage.
+
+                                     30’ Maximum to Top of         20’ Maximum to Top of
+                                     Ridge                         Ridge
+20 to <35 acres                      224 square feet               336 square feet
+35 to <70 acres                      448 square feet               672 square feet
+70 to <160 acres                     672 square feet               1,008 square feet
+160 + acres                          Unlimited                     Unlimited
+
+                        (d) Additional square footage for a hay storage building may be
+                        approved pursuant to Sec. 2-30-20(g)(19) of this Code, Flexibility for
+                        Agricultural Support. Otherwise, any additional square footage for a
+                        hay storage building shall count as floor area.
+
+                         (e) A hay storage building shall not have an excavated, raised or slab
+                        foundation.
+
+                         (f) A hay storage building shall not contain any mechanical or
+                        plumbing equipment. Electrical equipment shall be limited to
+                        necessary lighting.
+
+                (2) Livestock Run-In or Loafing Shed: To be exempt from floor area, a
+                livestock run-in or loafing shed must meet all of the following criteria;
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                      Page 28
+Chapter 5 Dimensional Requirements
+
+
+
+                        (a) A livestock run-in or loafing shed shall have a maximum of three
+                        (3) walls. The fourth side may have a fence or gate, but shall not be
+                        fully enclosed.
+
+                        (b) A livestock run-in or loafing shed shall be used only for livestock
+                        protection.
+
+                        (c) A livestock run-in or loafing shed shall have a maximum size
+                        based on acreage as shown below:
+
+                                (1) <20 acres: one (1) shed of up to 300 square feet. Staff
+                                may approve additional exempt sheds at building permit
+                                application, based on a demonstration of need by the property
+                                owner.
+
+                                (2) 20+ acres: unlimited number of sheds at 300 square feet
+                                each
+
+                        (d) A livestock run-in or loafing shed shall not exceed 12 feet (12’) to
+                        the top of the ridge with a minimum 3:12 roof pitch with a shed roof.
+
+                        (e) A livestock run-in or loafing shed shall not have an excavated,
+                        raised or slab foundation.
+
+                        (f) A livestock run-in or loafing shed shall not contain any
+                        mechanical, electrical or plumbing equipment.
+
+                        (g) A livestock run-in or loafing shed may be movable.
+
+                (3) Agricultural Equipment Storage Buildings: To be exempt from floor area,
+                an agricultural equipment storage building must meet all of the following
+                criteria:
+
+                        (a) An agricultural equipment storage building shall be used only for
+                        storage of equipment utilized for an on-site agricultural operation. The
+                        building may contain a workshop/work area utilized for equipment
+                        repair and maintenance as a secondary use to the equipment storage.
+
+                        (b) An agricultural equipment storage building shall have a maximum
+                        size based on acreage as shown below:
+
+                                (1) 20 to <160 acres: 990 square feet.
+
+                                (2) 160+ acres: Unlimited
+
+
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                     Page 29
+Chapter 5 Dimensional Requirements
+
+
+                                (3) Additional square footage for an agricultural equipment
+                                storage building may be approved pursuant to Sec. 2-30-
+                                20(g)(19) of this Code, Flexibility for Agricultural Support.
+                                Otherwise any additional square footage for an agricultural
+                                equipment storage building shall count as floor area.
+
+                        (c) An agricultural equipment storage building shall not exceed 16’ to
+                        the top of the ridge.
+
+                        (d) An agricultural equipment storage building may have an
+                        excavated, raised or slab foundation.
+
+                        (e) An agricultural equipment storage building shall not contain any
+                        plumbing equipment other than a hose bib, but may contain
+                        mechanical or electrical equipment.
+
+                (4) Barns: To be exempt from floor area, a barn must meet all of the
+                following criteria:
+
+                        (a) A barn shall be designed and used to shelter or enclose livestock,
+                        feed, or field equipment, or for other purposes in support of an on-site
+                        agricultural operation.
+
+                        (b) A barn shall not exceed the following height based on acreage as
+                        shown below.
+
+                                (1) < 10 acres: 20’ to the midpoint/ 25’ to the top of the ridge
+
+                                (2) 10 to <35 acres: 25’ to the midpoint/30’ to the top of the
+                                ridge (for one principal barn; additional barns shall not exceed
+                                20’ to midpoint/25’ to top of ridge)
+
+                                (3) 35+ acres: 28’ to midpoint/33 to top of ridge (for one
+                                principal barn; additional barns shall not exceed 20’ to
+                                midpoint/25’ to top of ridge)
+
+                                (4) On flat (less than 3:12 pitch), shed, dome or barrel roofs on
+                                any size lot or parcel, no roof point of a barn shall exceed 20’
+                                above the existing or finished grade, whichever is more
+                                restrictive.
+
+                        (c) A barn shall not exceed the following size based on acreage:
+
+                                (1) <5 acres: Barns count as floor area.
+
+                                (2) 5 to < 20 acres: 1,160 square feet for a barn(s) is exempt
+                                from floor area
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                       Page 30
+Chapter 5 Dimensional Requirements
+
+
+
+                                (3) 20 to <30 acres: 1,740 square feet for a barn(s) is exempt
+                                from floor area
+
+                                (4) 30 to <70 acres: 4,060 square feet for a barn(s) is exempt
+                                from floor area
+
+                                (5) 70 to < 160 acres: 58 square feet per acre for a barn(s) is
+                                exempt from floor area
+
+                                (6) 160+ acres: Unlimited square footage for barns is exempt
+                                from floor area
+
+                                (7) Additional square footage for a barn(s) may be approved
+                                pursuant to Sec. 2-30-20(g)(19) of this Code, Flexibility for
+                                Agricultural Support. Otherwise any additional square footage
+                                for a barn(s) shall count as floor area.
+
+                        (d) A barn may contain mechanical, electrical and plumbing
+                        equipment.
+
+                        (e) A barn may contain no more than one (1) toilet room (toilet and
+                        lavatory only) not to exceed 20 square feet, unless the toilet room is
+                        designed to be accessible, in which case it shall not exceed 43 square
+                        feet. Showers and bathing facilities are prohibited, with the exception
+                        of a safety shower. A dog wash shall not be permitted within the
+                        bathroom.
+
+                        (f) A barn may contain office space of no more than 120 square feet
+                        related to the on-site agricultural operation. Any additional office
+                        space shall count as floor area.
+
+                        (g) Human amenities are prohibited within a barn.
+
+                (5) Greenhouses: To be exempt from floor area, a greenhouse must meet all
+                of the following criteria:
+
+                        (a) Customarily accessory to a principal residential use:
+
+                            (1) Products grown on the property may only be sold on the
+                                premises subject to compliance with the standards in Sec. 4-30-
+                                50 for an Agricultural Stand and approval of a Temporary Use
+                                Permit pursuant to Sec. 2-30-20.
+
+                            (2) The greenhouse shall be detached from residential buildings.
+                                The greenhouse may be attached to a “U” occupancy building
+                                as classified in the International Building Code.
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                     Page 31
+Chapter 5 Dimensional Requirements
+
+
+
+                            (3) A greenhouse shall be exempt from floor area up to the
+                                following sizes based on zone district and acreage:
+
+                                       (a) Lot/parcel < 1 acre: 320 square feet.
+                                       (b) Lot/parcel of 1 to <5 acres: 600 square feet.
+                                       (c) Lot/parcel of 5 to <10 acres: 1,000 square feet.
+                                       (d) Lot/parcel of 10 to <35 acres: 1,300 square feet.
+                                       (e) Lot/parcel of 35 acres or more: 1,600 square feet.
+
+                            (4) A greenhouse of 200 square feet or less shall not contain any
+                                mechanical, electrical or plumbing equipment. A greenhouse
+                                in excess of 200 square feet shall not contain any plumbing
+                                equipment other than a hose bib, but may contain mechanical
+                                or electrical equipment.
+
+                            (5) No light shall emanate from the interior of the greenhouse such
+                                that it is visible from the exterior of the greenhouse from two
+                                (2) hours after dusk until two (2) hours before dawn.
+
+                            (6) Additional square footage for an accessory greenhouse(s) of up
+                                to 3,000 square feet may be approved pursuant to Sec. 2-30-
+                                20(g)(19) of this Code, Flexibility for Agricultural Support.
+                                Otherwise any additional square footage for a greenhouse(s)
+                                shall count as floor area or shall be approved through Special
+                                Review.
+
+                        (b) Not customarily accessory to a principal residential use:
+
+                            (1) Any greenhouse(s) that contains 3,000 square feet or more
+                                requires Special Review approval. If approved, the
+                                greenhouse(s) shall be exempt from floor area.
+
+                            (2) The greenhouse(s) may contain mechanical, electrical and
+                                plumbing equipment.
+
+                            (3) The greenhouse(s) may contain no more than one (1)
+                                accessible toilet room (toilet and lavatory only) not to exceed
+                                43 square feet. Showers and bathing facilities are prohibited,
+                                with the excepton of a safety shower.
+
+                            (4) The greenhouse(s) may contain one office space of no more
+                                than 120 square feet related to the on-site agricultural
+                                operation.
+
+                        (c) Any greenhouse that is no longer is a useable condition fo rhte
+                            intended purpose shall be removed or demolished.
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                     Page 32
+Chapter 5 Dimensional Requirements
+
+
+
+                (6) Agricultural Buildings Constructed Prior to October 18, 2011:
+                Agricultural buildings legally constructed prior to October 18, 2011 shall
+                count towards the floor area exemptions for agricultural buildings provided
+                herein.
+
+                        (a) If the total size of the agricultural building(s) on the lot or parcel is
+                        less than the maximum size permitted in this Sec. 5-20-70(j), then the
+                        existing agricultural building(s) can be replaced and can be expanded,
+                        up to a total of the size permitted in this Sec. 5-20-70(j) for each type
+                        of agricultural building.
+
+                        (b) If the total size of the agricultural building(s) on the lot or parcel is
+                        more than the maximum size permitted in this Sec. 5-20-70(j), then the
+                        existing agricultural building(s) may be replaced, but may not be
+                        expanded without obtaining additional exempt floor area pursuant to
+                        Sec. 2-30-20(g)(19), a GMQS allotment or transferable development
+                        rights.
+
+                (7) Occupancy Covenant and Agreement: An Occupancy Covenant and
+                Agreement shall be recorded against a property that takes advantage of a floor
+                area exemption for an agricultural building, prior to issuance of a building
+                permit for a new or expanded agricultural building. The Occupancy Covenant
+                and Agreement shall specify that the exempt floor area may only be used in
+                association with the raising, producing, or keeping of plants or livestock, or
+                cultivation and management of other crops or farm products, and that any area
+                not consistent with those uses would count as floor area. The Occupancy
+                Covenant and Agreement shall also allow the county to inspect the
+                agricultural building at any time for compliance with the specified use
+                limitations, subject to the provision of reasonable notice to the property
+                owner. The form of the Occupancy Covenant and Agreement shall be
+                approved by the County Attorney.
+
+                (8) Common Agricultural Buildings: Within a Board approved subdivision
+                or PUD in the AR-10, RS-20, RS-30, RS-35, LIR-35 or RS-160 zone districts,
+                where agricultural buildings are limited to a common lot/parcel and prohibited
+                on individual lots/parcels as part of the subdivision or PUD approval, the total
+                acreage of all of the lots within the subdivision or PUD may be utilized to
+                determine the common agricultural building floor area exemption. This
+                provision may be utilized for a common parcel within a development of
+                parcels in excess of thirty-five (35) acres not within a Board approved
+                subdivision or PUD pursuant to the procedures of Sec. 2-30-20 and the criteria
+                of Sec. 2-30-30(h)(2).
+
+                (9) Review Provision: This floor area exemption for agricultural buildings
+                (Sec. 5-20-70.i) as a whole shall be reviewed by the Board of County
+                Commissioners after four years from October 18, 2011. The purpose of the
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                         Page 33
+Chapter 5 Dimensional Requirements
+
+
+                review will be to review how the exemptions have been used, and whether the
+                exemptions shall be retained, modified or repealed.
+
+        (k) Floor Area Exemptions for American Nation Standards Institute (ANSI)
+        Residences
+
+                (1) In the AH-1-3, R-6, R-15, R-15A, R-15B, R-30, AR-2 zone districts, floor
+                    area and Growth Management exemptions are provided for ANSI
+                    residences
+
+                The following exemptions shall only be available where:
+
+                        (1) A secondary egress to grade is provided, and;
+
+                        (2) Compliance with ANSI Section 1004 is met pertaining to the
+                            following elements:
+
+                                (a) Access from a parking area to the entrance of the
+                                    residence;
+
+                                (b) Elevator access between floors (where applicable); and
+
+                                (c) Access to dining, social and living areas, and related toilet
+                                    areas. These exemptions are cumulative.
+
+                        (a) A 350 square foot exemption is available where 100% of one
+                            single-family residence per site provides compliance with Section
+                            1005 of the ANSI as amended (2009). In addition to compliance
+                            with the requirements noted in (1) above, access must be provided
+                            to the kitchen and at least one bedroom and bath facility; or
+
+                            A 150 square foot exemption is available where a portion of a new
+                            or existing residence is proposed to comply with Section 1004,
+                            ANSI. In addition to providing compliance with the requirements
+                            noted in (1) above, access must be provided to the kitchen or an
+                            area intended for limited food preparation. An additional fifty (50)
+                            square feet exemption shall be available where access to bedroom
+                            and bath facilities are provided in compliance with ANSI section
+                            1004.
+
+                        (b) A Qualified Elevator plus the associated unobstructed access
+                        directly in front of the elevator shall be exempt from floor area
+                        calculations for 100 square feet (100 sq. ft.) per floor or level that is
+                        ANSI-compliant. A qualified Elevator is defined as one, which is
+                        designed for residential use, equipped and certified for low service
+                        headroom, accommodates accessibility, and is sufficient in size to
+                        allow an assistant to ride in the elevator as may be needed.
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                           Page 34
+Chapter 5 Dimensional Requirements
+
+
+
+                        (c) One accessory structure constructed prior to December 19, 2012,
+                        which contains at least 250 square feet (250 sq. ft.) of livable area may
+                        be increased by up to 50 square feet (50 sq. ft.) exempt from floor area
+                        calculation when accessible sink and toilet facilities and accessible
+                        exterior access to the residence is provided.
+
+                        (d) Only for an existing, multi-level, single-family residence to be
+                        remodeled/renovated, where at least 65% of the residence is retained
+                        after the remodel/renovation, then interior stairs and/or ramps and
+                        direct access to the same, (whether the stairs and/or ramps are new or
+                        replaced), shall be exempt from floor area calculations for 100 square
+                        feet (100 sq. ft.) per floor or level.
+
+                        (5) In the AR-10, RS-20, RS-30, RS-35, RS-160, and LIR zone
+                        districts, the following Growth Management exemption is provided for
+                        ANSI residences:
+
+                        For an existing, multi-level, single family residence to be
+                        remodeled/renovated, the Qualified Elevator exemption noted in
+                        Section 5-20-70 (k)(1)(b) shall be provided where:
+
+                                (1) A secondary egress to grade is provided.
+
+                                (2) One Hundred percent (100%) of a single-family residence
+                                    provides compliance with Section 1005 of the American
+                                    National Standard, as amended (2009)(ANSI), and
+
+                                (3) Compliance with ANSI Section 1004 is met pertaining to
+                                    the following elements:
+
+                                       (a) Access from a parking area to the entrance of the
+                                           residence,
+
+                                       (b) Elevator access between floors (where applicable),
+
+
+                                       (c) Access to kitchen, dining, social and living areas,
+                                           and related toilet area, and
+
+                                       (d) Access to bedroom and bath facilities
+
+                        (3) Spaces permitted as “below grade” and exempted through 5-20-70
+                        (g) (1) shall not be included in determining the percent of compliance
+                        or retention of a residence, and shall not be modified with an egress
+                        door or external ramp.
+
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                        Page 35
+Chapter 5 Dimensional Requirements
+
+
+                        (4) Occupancy Covenant and Agreement
+
+                        An Occupancy Covenant and Agreement shall be recorded against a
+                        property that takes advantage of a floor area exemption for an ANSI
+                        Residence. The Occupancy Covenant and Agreement shall specify
+                        that the exempt floor area may only be permitted for proposed or
+                        demonstrated compliance with ANSI (2009) as required in Section 5-
+                        20-70 of the Pitkin County Land Use Code. The Occupancy Covenant
+                        and Agreement shall also allow the County to inspect the ANSI
+                        Residence at any time for compliance with the specified limitations,
+                        subject to the provision of reasonable notice to the property owner. It
+                        shall be noted that these exemptions do not create any non-conformity
+                        relative to floor area, growth management, or building height, and that
+                        the lot is not entitled to retain the square footage provided by these
+                        exemptions when redeveloping with a non-ANSI compliant residence.
+                        The form of the Occupancy Covenant and Agreement shall be
+                        approved by the County Attorney.
+
+                                  (4) Sunset Provision – Repealed and Revoked Ordinance No.
+                                      006-2016
+
+        (l) Floor Area Exemption for Energy Storage Buildings:
+
+                Exterior Energy Storage Buildings shall be exempt form floor area, subject to
+                the following criteria:
+
+                    (1) The building is only used for exterior energy storage
+
+                    (2) Buildings for Exterior Energy Storage that are not associated with a
+                        solar farm or solar facility:
+
+                             a. A maximum of thirty-six (36) square feet shall be exempt from
+                             total gross allowed floor area.
+
+                             b. Buildings shall be no higher than ten (10) feet tall to the roof
+                             ridge as measured from existing or finished grade, whichever is
+                             more restrictive.
+
+                    (3) For Solar Farms:
+
+                        a.   Accessory buildings for energy storage shall be exempt for a
+                             maximum of one-thousand (1,000) square feet of floor area.
+
+                    (4) For Solar Facilities
+
+                             a.   Accessory building floor area shall not be exempt.
+
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                          Page 36
+Chapter 5 Dimensional Requirements
+
+
+(Code repealed and reenacted (all sections) by Ord. No. 14-D, 2006; § 5-20-70 (part)
+amended Ord. 010-2008, 03-26-08; Ord. 001A & 001B-11, 01-12-11 Ord. 011-11, 08-10-
+11; Ord. 038-12, 12-19-12; Ord. 019-2013, 08-14-13; Ord. 032-14, 10-08-2014; (Ord.
+006.16, 02-24-2016); Ord. 040-2019, 11-20-2019; Ord. 031-2013, 12-18-2013; Ord. 024-
+2021, 06-09-2021; Ord. 039-2022, 09-14-2022
+
+5-20-80: MEASUREMENT OF GROSS FLOOR AREA
+
+Gross floor area is calculated by adding areas included in the measurement of floor area,
+pursuant to Sec. 5-20-70, and the following exemptions from floor area: below-grade space,
+garages and carports, and ANSI compliant residences pursuant to Sec. 5-20-70(g)(1 and 2)
+and (k). Gross floor area measurement excludes agricultural buildings as specified in Sec. 5-
+20-70(j) and other floor area types exempt from the calculation of floor area pursuant to Sec.
+5-20-70(a-e).
+
+(Code repealed and reenacted (all sections) by Ord. 014D-2006; § 5-20-70 (part) amended
+by Ord. 010-08, 03-26-08 Ord. 038-12, 12-19-2012)
+
+5-20-90: MEASUREMENT OF USABLE OPEN SPACE
+
+Usable open space is measured as that portion of the lot or parcel not occupied by structures,
+but excluding rights-of-way, streets, parking areas, and slopes over thirty (30) percent.
+
+5-20-100: PERMITTED ENCROACHMENTS INTO SETBACKS
+FROM ROADS AND PROPERTY LINES
+
+In measuring a front, side, or rear yard setback, the horizontal distance between the lot line
+and the closest projection of the principal or accessory structures shall be used. Required
+front, rear, and side setback areas shall be unoccupied and unobstructed from the natural
+grade skyward, except as provided below:
+
+        (a) Changing existing grade less than thirty (30) inches in height as measured above
+        or below natural grade; uncovered porches, slabs, patios, terraces, walks, steps, decks,
+        retaining walls and similar structures that do not exceed thirty (30) inches above or
+        below natural grade – no restriction;
+
+        (b) Driveways and associated retaining walls that do not exceed six (6) feet in height
+        as measured above or below the natural grade.
+
+        (c) Fences and walls used as fences as provided in the definition of "Development"
+        within this section.
+
+        (d) Berms that do not exceed four (4) feet in height as measured from the natural
+        grade.
+
+
+
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                    Page 37
+Chapter 5 Dimensional Requirements
+
+
+        (e) Fences, walls used as fences, berms, hedges, or similar obstructions erected or
+        maintained within twenty (20) feet of any street corner shall not exceed forty-two
+        (42) inches in height as measured from street grade.
+
+        (f) Grade changes required to meet compliance for Accessible ANSI Residences
+        permitted pursuant to Section 5-20-70 (k), provided the grade change does not
+        exceed four (4) feet in height as measured above or below the natural grade.
+
+        (Code repealed and reenacted (all sections) by Ord. 014D-2006; § 5-20-100 (part)
+        amended by Ord. 038-12, 12-1-2012
+
+
+
+
+Pitkin County Land Use Code CHAPTER 5 – DIMENSIONAL REQUIREMENTS
+July 2006                                                                                     Page 38
+
