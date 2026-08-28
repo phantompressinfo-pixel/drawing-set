@@ -114,9 +114,23 @@ and its §1015.3 adds Exception 9 (18 in. guards where the open side is under
   - No residential units on the parcel: no exclusion at all.
 - **Attic** (d)(4): unfinished + necessity-only access = exempt; ≤30" clear height
   exempt regardless of access; whole-room rule if any portion counts.
-- **Demolition** §26.580.040: 40% threshold; wall + roof above finished grade
-  minus fenestration; re-skin over remaining structure doesn't count (c)(7);
-  cumulative over 10 years (d).
+- **Demolition** §26.580.040 (definition/threshold is in Chapter 26.580, "Demolition"
+  itself — confirmed 2026-08-28 against the stored Title 26 text's own
+  definitions section, which cross-references 26.580.040 directly): 40%
+  threshold; wall + roof above finished grade minus fenestration; re-skin over
+  remaining structure doesn't count (c)(7); cumulative over 10 years (d).
+  Some older documents (a 2019 City zoning checklist, since superseded by a
+  Land Use Code reorganization) cite §26.575.020(h) for the measurement method
+  instead — that's stale, not a second valid citation; use 26.580.040.
+- **Demolition allotments**: only **six (6) demolition/redevelopment
+  allotments per calendar year**, first-come-first-served (in effect since an
+  ordinance effective 2022-08-08). This is a hard annual cap independent of
+  the 40% threshold and the mitigation/FTE math below — a project can clear
+  every calculation and still not be able to proceed if the year's six are
+  gone. Present in the stored text (search "allotment" in
+  `code-library/aspen/title-26-land-use-regulations.txt`) but easy to miss
+  since it isn't in Chapter 26.580 itself — confirm current count with the
+  City before telling anyone a demolition can proceed.
 - **Mitigation** §26.470.090(a): net increase ÷ 1,000 × 0.107 = FTE. Crossing 40%
   demolition forfeits credit for existing area (§26.470.140(b)).
 - **Aspen did NOT adopt the 2021 IRC** (§8.16.010; IBC §101.4.11 as amended by
