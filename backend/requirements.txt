@@ -1,3 +1,2 @@
 anthropic>=1.0.0
 functions-framework>=3.5.0
-pydantic>=2.0.0

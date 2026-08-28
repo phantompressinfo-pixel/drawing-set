@@ -87,12 +87,6 @@
         card.innerHTML = `<span class="error">${data.error || "Something went wrong. Try again."}</span>`;
       } else {
         card.textContent = data.answer;
-        if (data.sources && data.sources.length) {
-          const src = document.createElement("div");
-          src.className = "sources";
-          src.textContent = "Source: " + data.sources.join(", ");
-          card.appendChild(src);
-        }
       }
     } catch (err) {
       card.innerHTML = `<span class="error">Couldn't reach the assistant. Check your connection and try again.</span>`;

@@ -29,21 +29,6 @@ Load it whenever the task involves: floor area or height calculations, demolitio
 percentages, mitigation/FTE, a screenshot of a calc table or zoning sheet, or
 drafting a response to City zoning review comments.
 
-## Office package (project-number-free, portable to other AI tools)
-
-`gem-package/` holds a self-contained version of this knowledge built for a
-shared **Gemini Gem** (Google Workspace): `GEM-INSTRUCTIONS.txt`,
-`SETUP-README.md`, `USER-GUIDE.md`, and ten `knowledge-files/`. Files 01–05 are
-the tool-agnostic method — how to answer, the steps and **where to measure** for
-each calculation package, blank chart templates for every sheet, the mistake
-catalog and reviewer comments, and the IBC/IRC jurisdictional split. Files 06–10
-are the code text.
-
-**These carry no project numbers by design** — the numbers change every project;
-the method does not. Use them as the generic layer; use
-`references/case-log-844-roaring-fork.md` only for that specific project's
-continuity.
-
 ## Need the model code text itself? Use the `us-building-codes` skill
 
 Aspen's Title 8 adopts the IBC and amends it — it does not reprint it. When a

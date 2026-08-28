@@ -1,12 +1,12 @@
 ---
 name: office-standards-qa
-description: Answer office staff questions about internal Eigelberger Architecture & Design standards — drawing standards, sheet naming/numbering, layer conventions, title block/template use, deliverable checklists, file naming, submission packages. Use whenever someone on the Office Standards tab/context asks "how do we do X here", "what's our standard for X", "which template do I use", or similar. Do not use for building-code questions (see building-code-qa) — this skill is for internal-process questions only.
+description: Answer office staff questions about internal Eigelberger Architecture & Design standards — drawing standards, sheet naming/numbering, layer conventions, title block/template use, deliverable checklists, file naming, submission packages. Use whenever someone on the Office Standards tab/context asks "how do we do X here", "what's our standard for X", "which template do I use", or similar. Do not use for building-code questions (see us-building-codes / aspen-pitkin-code) — this skill is for internal-process questions only.
 ---
 
 # Office Standards Q&A
 
-Same audience as building-code-qa: non-technical, wants a fast plain-English
-answer, not a lecture.
+Same non-technical audience as the building-code skills: wants a fast
+plain-English answer, not a lecture.
 
 ## Process
 
@@ -31,5 +31,6 @@ answer, not a lecture.
   and a plausible-sounding invented answer defeats that.
 - Don't mix in building-code content here, even if related (e.g. a sheet
   naming question that touches a code-required drawing) — answer the
-  process question, and point to building-code-qa separately if a code
-  question is also being asked.
+  process question, and point to the `us-building-codes` /
+  `aspen-pitkin-code` skills separately if a code question is also being
+  asked.

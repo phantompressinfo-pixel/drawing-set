@@ -1,32 +1,38 @@
 """Building-code Q&A backend for the Eigelberger office assistant.
 
-Deployed as a Google Cloud Function (2nd gen) or Cloud Run service. Reads
-the building code text out of knowledge/building-code/, answers with
-Claude Sonnet 5 first, and escalates to Claude Opus 5 only when Sonnet
-itself flags the question as needing deeper reasoning (cross-referencing
-sections, resolving a conflict) rather than a direct lookup. This keeps
-the common case cheap without giving up quality on the hard cases.
+Deployed as a Google Cloud Function (2nd gen) or Cloud Run service.
+Answers using Claude with two search tools over code-library/ (model
+codes in code-library/us-building-codes/, and the City of Aspen /
+Pitkin County code text in code-library/aspen/ and code-library/pitkin/)
+instead of stuffing the whole library into context - code-library/ is far
+too large for that; targeted search is both cheaper and how a person
+would actually answer these questions.
 
-This backend answers ONLY building-code questions from
-knowledge/building-code/ - it does not touch the office-standards/
-contracts Google Drive folder. That's a separate, later integration.
+Claude Sonnet 5 handles every question first, running its own search
+loop. It can call escalate_to_expert_review instead of answering when a
+question needs real cross-referencing or judgment rather than a direct
+lookup; when it does, the question is re-run from scratch on Claude
+Opus 5 with a fresh search loop.
+
+This backend answers ONLY building-code questions - it does not touch
+the office-standards/contracts Google Drive folder. That's a separate,
+later integration.
 """
 
-import json
 import logging
 import os
-from pathlib import Path
 from typing import Optional
 
 import anthropic
 import functions_framework
+from anthropic import beta_tool
 from flask import Request, jsonify
-from pydantic import BaseModel, Field
+
+import code_search
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-KNOWLEDGE_DIR = Path(__file__).resolve().parent.parent / "knowledge" / "building-code"
 SONNET_MODEL = "claude-sonnet-5"
 OPUS_MODEL = "claude-opus-5"
 
@@ -36,62 +42,134 @@ ALLOWED_ORIGIN = os.environ.get("ALLOWED_ORIGIN", "*")
 
 SYSTEM_INSTRUCTIONS = """You are the building-code assistant for Eigelberger Architecture & Design, answering non-technical office staff (not architects or code officials).
 
-Rules:
-- Answer ONLY using the building code text provided below. Never use general training knowledge about building codes - codes are jurisdiction- and edition-specific, and a plausible-sounding guess here is a liability problem, not just an inconvenience.
-- If the provided text doesn't cover the question, say so plainly in "answer" (e.g. "That's not covered by the documents loaded yet - ask a licensed architect") and leave "sources" empty. Do not guess.
-- Keep "answer" short: the direct answer first, then one or two sentences of "why" only if it's not obvious. Plain English, no unexplained jargon, no essay.
-- Always name which document (and section/page, if visible) the answer came from in "sources".
-- Whenever the question touches code compliance, safety, or anything that would end up on a stamped drawing, end "answer" with a one-line reminder that this is a starting point for a licensed architect to verify, never a substitute for one. Skip that line only for a pure definitional question with no compliance decision attached.
-- Set "escalate" to true only when answering genuinely requires cross-referencing multiple sections, resolving an apparent conflict between sections, or a judgment call beyond a direct lookup - not just because the topic sounds complex. Most questions should NOT escalate.
+You have two search tools over the office's stored code library - use them, never answer from memory:
+- search_model_codes: the model code text (IBC/IRC/IEBC, ADA standards) as adopted by Colorado and GSA.
+- search_local_code: the City of Aspen Municipal Code and Pitkin County Code / Land Use Code.
+
+Critical rule specific to this library: Aspen and Pitkin County both amend a
+number of IBC/IRC sections locally, and Colorado's own adopted text already
+diverges from the ICC model in places. search_model_codes results carry two
+flags for this:
+- "superseded_locally_by": the model text in this result is NOT current - a
+  local jurisdiction amends this section. Before answering, call
+  search_local_code for that jurisdiction and quote ITS text as the actual
+  requirement, and say explicitly that the model code text is superseded.
+- "not_icc_model_text_colorado_amended": Colorado has already modified this
+  section away from the ICC model text, but Aspen/Pitkin still adopt the ICC
+  version - so this stored row is not what applies to an Aspen/Pitkin
+  project. Say so plainly rather than presenting it as the requirement.
+Never present flagged text as the current requirement without surfacing the flag.
+
+General rules:
+- Answer ONLY from what your searches return. If nothing relevant turns up, say so plainly and suggest asking a licensed architect - do not fill the gap from general training knowledge about codes.
+- Keep the answer short: the direct answer first, one or two sentences of "why" only if useful. Plain English, no unexplained jargon, no essay.
+- Always name what you're citing: jurisdiction, document/edition, and section/title (e.g. "Aspen Municipal Code Title 8" or "Colorado IBC 2021 Section 1015.2").
+- Whenever the question touches code compliance, safety, or anything that would end up on a stamped drawing, end with one line: this is a starting point for a licensed architect to verify, never a substitute for one. Skip that line only for a pure definitional question with no compliance decision attached.
+- If the parcel's jurisdiction (City of Aspen vs. unincorporated Pitkin County) isn't given and it changes the answer, ask rather than guessing.
+
+If a question genuinely requires cross-referencing multiple sections, resolving a conflict between them, or a judgment call beyond a direct lookup - not just because the topic sounds complex - call escalate_to_expert_review instead of answering yourself, then stop.
 """
 
 
-class CodeAnswer(BaseModel):
-    answer: str = Field(description="The plain-English answer for the staff member.")
-    sources: list[str] = Field(description="Document names / sections the answer came from. Empty if not found in the documents.")
-    escalate: bool = Field(description="True only if this question needs deeper reasoning than a direct lookup.")
+def _build_tools(escalation: dict):
+    @beta_tool
+    def search_model_codes(
+        query: Optional[str] = None,
+        jurisdiction: Optional[str] = None,
+        code: Optional[str] = None,
+        chapter: Optional[int] = None,
+        section: Optional[str] = None,
+        category: Optional[str] = None,
+        responsibility: Optional[str] = None,
+        occupancy: Optional[str] = None,
+        ifc_type: Optional[str] = None,
+        phase: Optional[str] = None,
+        limit: int = 15,
+    ) -> dict:
+        """Search the model building code dataset: IBC, IRC, IEBC, and the ADA standards.
+
+        Args:
+            query: regex searched over section id, title, and body. Omit to filter by metadata only.
+            jurisdiction: "colorado", "gsa", or "ada".
+            code: "ibc", "irc", or "iebc".
+            chapter: chapter number.
+            section: exact section id, e.g. "1015.2".
+            category: code_category, e.g. "means_of_egress".
+            responsibility: e.g. "architect", "structural_engineer".
+            occupancy: e.g. "Residential (R)" or just "R".
+            ifc_type: e.g. "Stair", "Guard", "Wall".
+            phase: "concept", "sd", "dd", "cd", or "ca".
+            limit: max hits to return (default 15).
+        """
+        return code_search.search_model_codes(
+            query=query,
+            jurisdiction=jurisdiction,
+            code=code,
+            chapter=chapter,
+            section=section,
+            category=category,
+            responsibility=responsibility,
+            occupancy=occupancy,
+            ifc_type=ifc_type,
+            phase=phase,
+            limit=limit,
+        )
+
+    @beta_tool
+    def search_local_code(query: str, jurisdiction: Optional[str] = None, limit: int = 10) -> dict:
+        """Search the City of Aspen Municipal Code and Pitkin County Code / Land Use Code text.
+
+        Args:
+            query: regex searched over the code text.
+            jurisdiction: "aspen", "pitkin", or omit to search both.
+            limit: max hits to return (default 10).
+        """
+        return code_search.search_local_code(query, jurisdiction=jurisdiction, limit=limit)
+
+    @beta_tool
+    def escalate_to_expert_review(reason: str) -> str:
+        """Flag that this question needs deeper review on a stronger model instead of a direct answer.
+
+        Only call this for genuine cross-referencing/judgment calls, not because
+        a topic sounds complex. After calling this, stop - do not attempt your
+        own answer.
+
+        Args:
+            reason: why this question needs deeper reasoning.
+        """
+        escalation["flag"] = True
+        escalation["reason"] = reason
+        return "Noted - this question will be re-run for deeper review."
+
+    return [search_model_codes, search_local_code, escalate_to_expert_review]
 
 
-def load_code_text() -> str:
-    """Concatenate all building code documents into one block for the prompt cache.
+def run_agent(client: anthropic.Anthropic, model: str, question: str):
+    """Runs the search/answer loop once on the given model.
 
-    Only .txt/.md files are read directly - a PDF needs to be converted to
-    text first (see backend/README.md) since this backend does no
-    PDF parsing itself.
+    Returns (answer_text, escalated, escalation_reason, tool_log).
     """
-    if not KNOWLEDGE_DIR.exists():
-        return ""
-    parts = []
-    for path in sorted(KNOWLEDGE_DIR.glob("*.txt")) + sorted(KNOWLEDGE_DIR.glob("*.md")):
-        if path.name.lower() == "readme.md":
-            continue
-        parts.append(f"=== {path.name} ===\n{path.read_text(encoding='utf-8', errors='ignore')}")
-    return "\n\n".join(parts)
+    escalation = {"flag": False, "reason": None}
+    tools = _build_tools(escalation)
 
-
-def build_system_block(code_text: str) -> list[dict]:
-    """One cached block: instructions + all code text share a single cache_control breakpoint.
-
-    Every staff member's question shares this same prefix, so the whole
-    office rides on one cache entry - the point of the exercise. Any byte
-    changed here (including load_code_text() output) invalidates it, so
-    this stays static between document updates.
-    """
-    if not code_text:
-        code_text = "(No building code documents have been loaded into knowledge/building-code/ yet.)"
-    combined = f"{SYSTEM_INSTRUCTIONS}\n\nBUILDING CODE DOCUMENTS:\n\n{code_text}"
-    return [{"type": "text", "text": combined, "cache_control": {"type": "ephemeral", "ttl": "1h"}}]
-
-
-def ask(client: anthropic.Anthropic, model: str, system_blocks: list[dict], question: str):
-    response = client.messages.parse(
+    runner = client.beta.messages.tool_runner(
         model=model,
-        max_tokens=1024,
-        system=system_blocks,
+        max_tokens=4096,
+        system=[{"type": "text", "text": SYSTEM_INSTRUCTIONS, "cache_control": {"type": "ephemeral"}}],
+        tools=tools,
         messages=[{"role": "user", "content": question}],
-        output_format=CodeAnswer,
     )
-    return response.parsed_output, response
+
+    tool_log = []
+    last = None
+    for message in runner:
+        last = message
+        for block in message.content:
+            if block.type == "tool_use":
+                tool_log.append({"tool": block.name, "input": block.input})
+
+    answer_text = "".join(b.text for b in last.content if b.type == "text") if last else ""
+    return answer_text, escalation["flag"], escalation["reason"], tool_log
 
 
 def _cors_headers() -> dict:
@@ -119,30 +197,26 @@ def building_code_qa(request: Request):
         return jsonify({"error": "Missing 'question'."}), 400, _cors_headers()
 
     client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY from the environment
-    code_text = load_code_text()
-    system_blocks = build_system_block(code_text)
 
-    parsed, response = ask(client, SONNET_MODEL, system_blocks, question)
+    answer, escalated, reason, tool_log = run_agent(client, SONNET_MODEL, question)
     model_used = SONNET_MODEL
 
-    if parsed.escalate:
-        logger.info("Escalating to Opus 5: %r", question)
-        parsed, response = ask(client, OPUS_MODEL, system_blocks, question)
+    if escalated:
+        logger.info("Escalating to Opus 5: %r (reason: %s)", question, reason)
+        answer, _, _, opus_tool_log = run_agent(client, OPUS_MODEL, question)
         model_used = OPUS_MODEL
+        tool_log += opus_tool_log
 
-    logger.info(
-        "model=%s cache_read=%s cache_write=%s input=%s output=%s",
-        model_used,
-        response.usage.cache_read_input_tokens,
-        response.usage.cache_creation_input_tokens,
-        response.usage.input_tokens,
-        response.usage.output_tokens,
+    logger.info("model=%s tool_calls=%s", model_used, [t["tool"] for t in tool_log])
+
+    return (
+        jsonify(
+            {
+                "answer": answer,
+                "model_used": model_used,
+                "searches_run": len(tool_log),
+            }
+        ),
+        200,
+        _cors_headers(),
     )
-
-    return jsonify(
-        {
-            "answer": parsed.answer,
-            "sources": parsed.sources,
-            "model_used": model_used,
-        }
-    ), 200, _cors_headers()

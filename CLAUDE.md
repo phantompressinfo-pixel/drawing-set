@@ -11,15 +11,19 @@ Non-technical staff, asking two kinds of questions on two separate tabs of
 the company site:
 
 1. **Building Code** — questions about code compliance, egress, zoning,
-   occupancy, accessibility, etc. Answers must be grounded in
-   `knowledge/building-code/`.
+   occupancy, accessibility, etc., specific to City of Aspen / Pitkin County
+   projects. Answers must be grounded in `code-library/` — see the
+   `us-building-codes` and `aspen-pitkin-code` skills below.
 2. **Office Standards** — questions about internal drawing standards,
    templates, naming conventions, deliverable checklists. Answers must be
-   grounded in `knowledge/office-standards/`.
+   grounded in `knowledge/office-standards/` (fallback mirror) or the real
+   Google Drive source — see below.
 
-Route each question to the matching skill (`building-code-qa` or
-`office-standards-qa`) based on which tab/context it came from, or based on
-the content of the question if that's ambiguous.
+Route each question to the matching skill based on which tab/context it
+came from, or based on the content of the question if that's ambiguous:
+`aspen-pitkin-code` governs local (Aspen/Pitkin) code and zoning questions,
+`us-building-codes` for model code text lookups, `office-standards-qa` for
+internal-process questions.
 
 ## Answer style (applies everywhere)
 
@@ -52,30 +56,28 @@ assume one architecture covers both.
 
 Decided: a custom backend (`backend/`) using the Claude API directly with
 an API key (not a per-seat Claude Project) — cheaper for 30 people asking
-occasional questions, avoids per-seat licensing. It reads
-`knowledge/building-code/` directly, so **this repo is the actual live
-data source for that tab**, not a staging mirror. See `backend/README.md`
-for the architecture (Sonnet 5 first, escalates to Opus 5 only for
-questions that need real cross-referencing, prompt-cached so the whole
-office shares one cached read of the code text) and deployment steps.
-
-Nothing will be answered from until real documents replace the
-placeholder in `knowledge/building-code/README.md` — a PDF needs to be
-converted to text first (the backend doesn't parse PDFs itself).
+occasional questions, avoids per-seat licensing. It searches `code-library/`
+directly (the full Aspen/Pitkin code text plus the model IBC/IRC/IEBC/ADA
+text as adopted by Colorado and GSA), so **this repo is the actual live
+data source for that tab**. See `backend/README.md` for the architecture
+(Sonnet 5 runs its own search loop first, escalates to Opus 5 only for
+questions that need real cross-referencing) and deployment steps.
 
 Skills in `.claude/skills/` (below) apply when this repo is opened in
 Claude Code directly — they do **not** apply to `backend/`, which calls
-the raw Claude API and has no skill-loading. The same grounding/style
-rules are duplicated into `backend/app.py`'s system prompt so both paths
-stay consistent; if the rules in this file change, update both places.
+the raw Claude API and has no skill-loading. The backend reuses the same
+search logic directly (`backend/code_search.py` imports
+`.claude/skills/us-building-codes/scripts/codesearch.py`) rather than
+duplicating it, but the system prompt in `backend/app.py` is a separate
+copy of the grounding/style rules — if the rules in this file or in the
+skills change, update `backend/app.py` too.
 
 ### Office Standards tab — Google Drive, not this repo
 
 Still the original plan: a dedicated, locked, read-only Google Drive
 folder holds office templates, standards, and contract materials. The
-Drive folder is separate from `knowledge/building-code/` — building code
-content lives in this repo (see above), office-standards content lives in
-Drive.
+Drive folder is separate from `code-library/` — building code content
+lives in this repo (see above), office-standards content lives in Drive.
 
 - "Read-only" is enforced at the Drive sharing-permission level — make
   sure the folder (and everything under it) is shared as Viewer, not
@@ -89,11 +91,17 @@ Drive.
 - `knowledge/office-standards/` below is a fallback/staging mirror only,
   not the primary source, until/unless that decision changes.
 
+## Building code library
+
+`code-library/` holds the actual source text: City of Aspen and Pitkin
+County code/land-use code, and the model IBC/IRC/IEBC/ADA text as adopted
+by Colorado and GSA. See `code-library/README.md` and the
+`us-building-codes` / `aspen-pitkin-code` skills for how it's organized,
+searched, and kept current (including the amendment-tracking that flags
+where Aspen/Pitkin locally amend a model code section).
+
 ## Knowledge folder
 
-- `knowledge/building-code/` — **primary source** for the Building Code
-  tab (see above). Currently just a placeholder README — no real
-  documents yet.
 - `knowledge/office-standards/` — fallback/staging mirror only (see
   above); the real source is the Google Drive folder.
 
