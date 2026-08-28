@@ -21,7 +21,27 @@ import re
 from pathlib import Path
 from typing import Optional
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
+def _find_repo_root() -> Path:
+    """Locate the directory containing code-library/ and .claude/.
+
+    In a normal checkout that's the repo root, one level above this file
+    (backend/code_search.py). In a Cloud Functions deploy bundle built by
+    prepare_deploy.sh, code-library/ and .claude/ are copied as siblings
+    of this file instead (Cloud Functions requires main.py, and whatever
+    it imports, at the top of --source), so check that layout too rather
+    than hardcoding one. CODE_ASSISTANT_ROOT overrides both if set.
+    """
+    override = os.environ.get("CODE_ASSISTANT_ROOT")
+    if override:
+        return Path(override).resolve()
+    here = Path(__file__).resolve().parent
+    for candidate in (here, here.parent):
+        if (candidate / "code-library").is_dir():
+            return candidate
+    return here.parent  # dev-repo layout, even if code-library/ isn't populated yet
+
+
+REPO_ROOT = _find_repo_root()
 CODE_LIBRARY = REPO_ROOT / "code-library"
 
 csv.field_size_limit(10_000_000)

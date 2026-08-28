@@ -71,29 +71,36 @@ escalate to Opus.
    version supports it (a recent 1.x release).
 
 2. **Deploy to Google Cloud Functions (2nd gen)** — fits naturally next
-   to a Google Workspace / Google Sites setup. Deploy from the **repo
-   root**, not `backend/`, since `app.py` reads `code-library/` and
-   `.claude/skills/us-building-codes/scripts/codesearch.py` via paths
-   relative to the repo root:
+   to a Google Workspace / Google Sites setup.
+
+   Cloud Functions' Python buildpack requires `main.py` and
+   `requirements.txt` at the top of `--source`, with no way to point it at
+   a file in a subdirectory — but `app.py` needs `code-library/` and
+   `.claude/skills/us-building-codes/scripts/codesearch.py` from the repo
+   root. Run the bundler first, which assembles a self-contained,
+   flattened copy at `backend/.deploy/` (git-ignored) with `app.py`
+   renamed to `main.py` and both of those paths copied in alongside it
+   (PDFs excluded — the search tools never open them, and they're most of
+   the bulk):
+   ```bash
+   backend/prepare_deploy.sh
+   ```
+   It prints the exact `gcloud functions deploy` command to run against
+   `backend/.deploy` once it's done — re-run the script (it's cheap)
+   whenever `code-library/` or the `us-building-codes` skill changes, then
+   redeploy:
    ```bash
    gcloud functions deploy building-code-qa \
      --gen2 \
      --runtime=python312 \
      --region=us-central1 \
-     --source=. \
+     --source=backend/.deploy \
      --entry-point=building_code_qa \
      --trigger-http \
      --allow-unauthenticated \
      --set-secrets=ANTHROPIC_API_KEY=anthropic-api-key:latest \
      --set-env-vars=ALLOWED_ORIGIN=https://sites.google.com
    ```
-   You'll need a small tweak either way: Cloud Functions packages only
-   the `--source` directory, so either point `--source` at the repo root
-   and add an `entry_point` shim that imports `backend/app.py`, or copy/
-   symlink `code-library/` and `.claude/skills/us-building-codes/scripts/`
-   into `backend/` at deploy time. Pick whichever fits your deploy
-   pipeline — the important part is that both paths are present relative
-   to wherever `app.py` actually runs.
    - Store the API key in **Secret Manager** (`anthropic-api-key`), not as
      a plain `--set-env-vars` value.
    - Set `ALLOWED_ORIGIN` to your actual published Google Site's origin
