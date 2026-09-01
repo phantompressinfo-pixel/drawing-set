@@ -20,6 +20,7 @@ FB = "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf"
 FR = "/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf"
 FM = "/usr/share/fonts/truetype/liberation/LiberationMono-Regular.ttf"
 FMB = "/usr/share/fonts/truetype/liberation/LiberationMono-Bold.ttf"
+FMD = "/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf"  # has the ↗ glyph
 def f(path, size): return ImageFont.truetype(path, size)
 
 NAV = ["Home", "Announcements", "Office Standards", "Templates", "Forms",
@@ -90,7 +91,7 @@ def light_card(d, box, card, radius=10):
         d.text((x0 + 22, ty), line, font=f(FR, 16), fill=CHAR); ty += 22
     d.line([x0 + 22, y1 - 46, x1 - 22, y1 - 46], fill=HAIR, width=2)
     d.text((x0 + 22, y1 - 34), fmt, font=f(FM, 13), fill=MUTE)
-    d.text((x1 - 92, y1 - 34), "Open ↗", font=f(FM, 13), fill=NAVY)
+    d.text((x1 - 92, y1 - 34), "Open ↗", font=f(FMD, 13), fill=NAVY)
 
 
 def dark_card(d, box, card, panel=(14, 48, 92), border=(44, 84, 132),
@@ -112,7 +113,7 @@ def dark_card(d, box, card, panel=(14, 48, 92), border=(44, 84, 132),
         d.text((x0 + 22, ty), line, font=f(FR, 16), fill=body_col); ty += 22
     d.line([x0 + 22, y1 - 46, x1 - 22, y1 - 46], fill=border, width=2)
     d.text((x0 + 22, y1 - 34), fmt, font=f(FM, 13), fill=body_col)
-    d.text((x1 - 92, y1 - 34), "Open ↗", font=f(FM, 13), fill=(150, 190, 235))
+    d.text((x1 - 92, y1 - 34), "Open ↗", font=f(FMD, 13), fill=(150, 190, 235))
 
 
 def wrap(text, n):

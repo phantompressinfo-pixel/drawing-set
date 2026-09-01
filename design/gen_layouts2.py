@@ -2,7 +2,7 @@
 import os
 from PIL import Image, ImageDraw, ImageFilter
 from gen_layouts import (
-    W, H, NAVY, NAVY_DEEP, NAVY_MID, CHAR, PAPER, WHITE, HAIR, MUTE, ICE,
+    FMD, W, H, NAVY, NAVY_DEEP, NAVY_MID, CHAR, PAPER, WHITE, HAIR, MUTE, ICE,
     REDLINE, GOOD, FB, FR, FM, f, NAV, ACTIVE, TITLE, SUB, CARDS,
     lin_grad, radial_glow, light_card, dark_card, wrap, grid, shadow,
 )
@@ -278,7 +278,7 @@ def layout_15():
         d.text((240, y + 28), card[1], font=f(FB, 24), fill=NAVY)
         d.text((900, y + 34), card[2], font=f(FR, 17), fill=CHAR)
         d.text((W - 260, y + 34), card[3], font=f(FM, 15), fill=MUTE)
-        d.text((W - 120, y + 30), "Open ↗", font=f(FM, 15), fill=NAVY)
+        d.text((W - 120, y + 30), "Open ↗", font=f(FMD, 15), fill=NAVY)
         d.line([60, y + 96, W - 60, y + 96], fill=(222, 228, 236), width=2)
         y += 96
     return im
@@ -546,7 +546,7 @@ def layout_23():
         d.text((box[0] + 28, y + 56), card[1], font=f(FB, 27), fill=NAVY)
         d.text((box[0] + 28, y + 100), card[2], font=f(FR, 17), fill=CHAR)
         d.text((box[0] + 28, y + 136), card[3], font=f(FM, 13), fill=MUTE)
-        d.text((box[2] - 100, y + 132), "Open ↗", font=f(FM, 14), fill=NAVY)
+        d.text((box[2] - 100, y + 132), "Open ↗", font=f(FMD, 14), fill=NAVY)
         y += 194
     return im
 
@@ -589,7 +589,7 @@ def layout_24():
         d.text((60, y + 16), card[1], font=f(FB, 24), fill=NAVY)
         d.text((700, y + 22), card[2], font=f(FR, 17), fill=CHAR)
         d.text((W - 300, y + 22), card[3], font=f(FM, 14), fill=MUTE)
-        d.text((W - 140, y + 18), "Open ↗", font=f(FM, 15), fill=NAVY)
+        d.text((W - 140, y + 18), "Open ↗", font=f(FMD, 15), fill=NAVY)
         d.line([60, y + 74, W - 60, y + 74], fill=(216, 224, 234), width=2)
         y += 84
     return im
