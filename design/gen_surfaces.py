@@ -85,9 +85,9 @@ def header(im, d, t):
 
 # ---------------------------------------------------------------- cards
 def grid(im, d, t, y0):
-    cols, rows, gap = 4, 3, 22
+    cols, rows, gap = 3, 2, 24
     cw = (CX1 - CX0 - gap * (cols - 1)) / cols
-    ch = 218
+    ch = 224
     for i, doc in enumerate(DOCS[:cols * rows]):
         c, r = i % cols, i // cols
         x, y = CX0 + c * (cw + gap), y0 + r * (ch + gap)
