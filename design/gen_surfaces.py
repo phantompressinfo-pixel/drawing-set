@@ -42,7 +42,9 @@ class T:
     """Surface theme."""
     def __init__(self, name, field, card, title, sub, label, bubble_fill, bubble_text,
                  bubble_edge=None, rail_fill=WHITE, rail_text=CHAR, rail_head=NAVY,
-                 rail_active=NAVY, rail_active_text=(255, 255, 255)):
+                 rail_active=NAVY, rail_active_text=(255, 255, 255),
+                 search_fill=(255, 255, 255), search_text=MUTE, search_edge=None,
+                 search_btn=NAVY, search_btn_text=(255, 255, 255)):
         self.__dict__.update(locals()); del self.self
 
 
@@ -67,11 +69,28 @@ def rail(im, d, t):
     return d
 
 
+def search_bar(im, d, t, y, height=66):
+    d.rounded_rectangle([CX0, y, CX1, y + height], radius=height // 2,
+                        fill=t.search_fill, outline=t.search_edge, width=2)
+    cy = y + height // 2
+    d.ellipse([CX0 + 28, cy - 11, CX0 + 50, cy + 11], outline=t.search_text, width=3)
+    d.line([CX0 + 48, cy + 9, CX0 + 58, cy + 19], fill=t.search_text, width=3)
+    d.text((CX0 + 74, cy - 11), "Search standards, templates, forms, SOPs, Revit standards…",
+           font=f(FM, 16), fill=t.search_text)
+    bw = 138
+    d.rounded_rectangle([CX1 - bw - 11, y + 11, CX1 - 11, y + height - 11],
+                        radius=(height - 22) // 2, fill=t.search_btn)
+    tw = d.textlength("SEARCH", font=f(FB, 15))
+    d.text((CX1 - 11 - bw / 2 - tw / 2, cy - 9), "SEARCH", font=f(FB, 15), fill=t.search_btn_text)
+    return y + height
+
+
 def header(im, d, t):
-    d.text((CX0, 50), "Office Standards", font=f(FB, 42), fill=t.title)
-    d.text((CX0 + 2, 110), "Drafting conventions, CAD standards, file naming, and deliverables.",
+    d.text((CX0, 46), "Office Standards", font=f(FB, 42), fill=t.title)
+    d.text((CX0 + 2, 106), "Drafting conventions, CAD standards, file naming, and deliverables.",
            font=f(FR, 18), fill=t.sub)
-    x, by = CX0, 168
+    sy = search_bar(im, d, t, 160)
+    x, by = CX0, sy + 26
     for label, ic in ACTIONS:
         tw = int(d.textlength(label, font=f(FB, 15))) + 88
         d.rounded_rectangle([x, by, x + tw, by + 56], radius=28, fill=t.bubble_fill,
@@ -145,7 +164,7 @@ def make(name, field_fn, card_fn, **kw):
         d = ImageDraw.Draw(im)
         d = rail(im, d, t)
         d, y = header(im, d, t)
-        grid(im, d, t, y + 40)
+        grid(im, d, t, y + 34)
         return im
     LAYOUTS.append((name, render))
 
@@ -204,7 +223,8 @@ make("34  SOFT LIGHT", soft_light,
                                         NAVY, MUTE, (233, 238, 245), False, False,
                                         elevate=(214, 221, 232)),
      title=NAVY, sub=CHAR, label=MUTE,
-     bubble_fill=(255, 255, 255), bubble_text=NAVY, bubble_edge=HAIR)
+     bubble_fill=(255, 255, 255), bubble_text=NAVY, bubble_edge=HAIR,
+     search_edge=HAIR)
 
 make("35  ELEVATED NAVY", navy_bloom,
      lambda im, d, b, doc, t: card_body(im, d, b, doc, t, (12, 52, 102), None, 20,
@@ -231,7 +251,9 @@ make("38  MONOCHROME", mono,
      title=(244, 246, 249), sub=(158, 170, 186), label=(158, 170, 186),
      bubble_fill=None, bubble_text=(230, 235, 242), bubble_edge=(74, 86, 102),
      rail_fill=(24, 30, 40), rail_text=(196, 204, 216), rail_head=(255, 255, 255),
-     rail_active=(255, 255, 255), rail_active_text=(18, 24, 34))
+     rail_active=(255, 255, 255), rail_active_text=(18, 24, 34),
+     search_fill=(30, 38, 50), search_text=(146, 158, 174), search_edge=(58, 70, 86),
+     search_btn=(240, 243, 247), search_btn_text=(18, 24, 34))
 
 make("39  TINTED CARDS", navy_bloom,
      lambda im, d, b, doc, t: card_body(im, d, b, doc, t,
