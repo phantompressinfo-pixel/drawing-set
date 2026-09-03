@@ -19,6 +19,22 @@ Residential Code (IRC) within this code shall be deleted and the requirement of 
 as it pertains to one- and two-family dwellings and townhouses shall apply."* Occupancy is
 Group R-3. Do not cite IRC R311 or R312 on this sheet.
 
+> **Zoning is not the controlling code here, but it confirms the occupancy.** R-15
+> (Moderate-Density Residential, §26.710.050(a)) permits a detached residential dwelling,
+> a duplex, or two detached dwellings as of right (§26.710.050(b)(1)–(3)). Those are IBC
+> **Group R-3**, which is what makes the R-3 exceptions cited throughout these notes
+> available. A triplex or fourplex — permitted in R-15 only at 100% deed-restricted
+> affordable housing, §26.710.050(b)(4) — would be **Group R-2**, and the exceptions then
+> read "within individual dwelling units in Group R-2"; re-check §1015.3 and §1015.4 if the
+> use changes. Title 26 contains no handrail or guard design provisions of its own.
+>
+> One R-3 exception carries a story limit: **§1015.3 Exc. 1** (36" guards at landings and
+> floors) applies to Group R-3 **not more than three stories above grade in height**.
+> R-15's 25 ft height limit (§26.710.050(d)(7)) makes that a non-issue on a normal house,
+> but confirm the story count — basements below grade are not stories above grade.
+> §1015.3 Exc. 2 and Exc. 3, which govern the guard at the open side of the stair, carry no
+> story limit.
+
 **2. HANDRAILS REQUIRED.** Stairways shall have handrails on each side and comply with
 §1014; stairways within dwelling units and spiral stairways are permitted to have a
 handrail on one side only (§1011.11). Handrails serving flights of stairways shall be
