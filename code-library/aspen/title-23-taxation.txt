@@ -1,0 +1,3238 @@
+# CITY OF ASPEN MUNICIPAL CODE — TITLE 23 - TAXATION
+# Source: Municode (api.municode.com), Supp. No. 7 Update 1, codified through Ord. No. 06-2026 (enacted 2026-03-24)
+# Retrieved: 2026-07-22
+
+
+===== TITLE 23 - TAXATION
+Footnotes: 
+ --- (
+1
+) ---
+Charter reference— 
+ Levying of taxes to be done by ordinance, § 4.8; ordinance levying yes not to be passed as emergency ordinance, § 4.11; taxation generally, § 12.1.
+Cross reference— 
+ Tax levy and assessment for sale of alcoholic beverages, § 5.12.010 et seq.; licenses and permits generally, Title 14.
+State Law reference— 
+ Taxation, C.R.S. §§ 31-20-101, 39-1-101 et seq.
+
+===== Chapter 23.04. -         GENERAL PROVISIONS        
+Footnotes: 
+ --- (
+2
+) ---
+Editor's note—
+ Ord. No. 26-1992, repealed the provisions of former Art. III, relative to licenses
+ and tax for retail sales and services and enacted new Arts. I and II [Ch. 23.04 through
+ 23.32] to read as herein set out subsequently renumbering former Art. II as Art. III
+ [Ch. 23.36]. The provisions of former Art. III derived from Ord. No. 16-1970; Ord.
+ No. 28-1970; and Ord. No. 15-A-1972.
+Charter reference— 
+ Taxation, Art. XII.
+Cross reference— 
+ Administration generally, Title 2; licenses and permits generally, Title 14.
+
+===== Sec. 23.04.010. - Words and phrases defined.
+When not clearly indicated otherwise by the context, the following words and phrases
+ as used in this Title, shall have the following meanings:
+Business
+ means all activities engaged in or caused to be engaged in with the object of gain,
+ benefit or advantage, direct or indirect. It shall include any business, trade, occupation,
+ profession or calling of any kind and all other kinds of activities and matters, together
+ with all devices, machines, vehicles and appurtenances used therein, any of which
+ are conducted for private profit or benefit, either directly or indirectly, within
+ the City.
+Business License
+ means an Aspen City business license required pursuant to Section 
+14.08
+ and shall also be considered a combined sales tax license for businesses remitting
+ Visitor Benefit and Short-Term Rental tax.
+Carrier Access services
+ means the services furnished by a local exchange company to its customers who provide
+ telecommunications services, which allow them to provide such telecommunications services.
+Charitable organization
+ means any entity which:
+ (a)
+ Has obtained tax exempt status as a charitable not-for-profit organization pursuant
+ to Section 501(c)(3) of the Internal Revenue Code; and
+ (b)
+ Is a religious organization or an organization which exclusively, and in a manner
+ consistent with existing laws and for the benefit of an indefinite number of persons,
+ freely and voluntarily ministers to the physical, mental or spiritual needs of persons
+ and which thereby lessens the burdens of government.
+City
+ means the municipality of Aspen.
+Code
+ means the Aspen Municipal Code.
+Community Organization
+ means a nonprofit entity organized and operated exclusively for the promotion of
+ social welfare, primarily engaged in promoting the common good and general welfare
+ of the community, so long as:
+ (a)
+ No part of the net earnings of which inures to the benefit of any private shareholder
+ or individual;
+ (b)
+ No substantial part of the activities of which is carrying on propaganda, or otherwise
+ attempting to influence legislation; and
+ (c)
+ Which does not participate in, or intervene in (including the publishing or distributing
+ of statements), any political campaign on behalf of any candidate for public office.
+Construction equipment
+ means any equipment including mobile machinery and mobile equipment, which is used
+ to erect, install, alter, demolish, repair, remodel, or otherwise make improvements
+ to any real property, building, structure or infrastructure.
+Construction materials
+ means tangible personal property which, when combined with other tangible personal
+ property, loses its identity to become an integral and inseparable part of a completed
+ structure or project including public and private improvements. This term includes,
+ but is not limited to such things as: asphalt, bricks, builders' hardware, caulking
+ material, cement, concrete, conduit, electric wiring and connections, fireplace inserts,
+ electrical heating and cooling equipment, flooring, glass, gravel, insulation, lath,
+ lead, lime, lumber, macadam, millwork, mortar, oil, paint, piping, pipe valves and
+ pipe fittings, plaster, plumbing fixtures, putty, reinforcing mesh, road base, roofing,
+ sand, sanitary sewer pipe, sheet metal site lighting, steel, stone stucco, tile, trees,
+ shrubs and other landscaping materials, wallboard, wall coping, wallpaper, weather
+ stripping, wire netting and screen, water mains and meters and wood preserver. The
+ above materials, when used for forms, or other items which do not remain as an integral
+ or inseparable part of a completed structure or project, are not construction materials.
+Contractor
+ means any person who shall build, construct, reconstruct, alter, expand, modify,
+ or improve any building, dwelling, structure, infrastructure, or other improvement
+ to real property for another party pursuant to an agreement. For purposes of this
+ definition, Contractor also includes subcontractor.
+Dwelling Unit
+ means a building or any portion of a building designed for occupancy as complete,
+ independent living quarters for one (1) or more persons, having direct access from
+ the outside of the building or through a common hall and having living, sleeping,
+ kitchen and sanitary facilities for the exclusive use of the occupants.
+Engaged in business in the City
+ means performing or providing services or selling, leasing, renting, delivering or
+ installing tangible personal property, products, or services for storage, use or consumption,
+ within the City. This term includes, but is not limited to, any one (1) of the following
+ activities by a person: (a) Directly, indirectly, or by a subsidiary maintains a building,
+ store, office, salesroom, warehouse, or other place of business within the taxing
+ jurisdiction; (b) Sends one (1) or more employees, agents or commissioned sales persons
+ into the taxing jurisdiction to solicit business or to install, assemble, repair,
+ service, or assist in the use of its products, or for demonstration or other reasons;
+ (c) Maintains one (1) or more employees, agents or commissioned sales persons on duty
+ at a location within the taxing jurisdiction; (d) Owns, leases, rents or otherwise
+ exercises control over real or personal property within the taxing jurisdiction; (e)
+ is a retailer or vendor in the state of Colorado that makes more than one (1) delivery
+ into the taxing jurisdiction within a twelve (12) month period; or (f) makes retail
+ sales sufficient to meet the definitional requirements of economic nexus as set forth
+ in 
+23.04.010
+.
+Finance Director
+ means the 
+Finance Director
+ of the City or such other person designated by the City. The term shall also include
+ such person's designee.
+Gross Sales
+ means the total amount received in money, credit, property or other consideration
+ valued in money for all sales, leases or rentals of tangible personal property or
+ services.
+Lodging Services
+ means the furnishing of rooms or accommodations by any person, partnership, association,
+ corporation, estate or any other combination of individuals by whatever name known
+ to a person who, for a consideration, uses, possesses or has the right to use or possess
+ any room in a hotel, inn, bed and breakfast residence, apartment hotel, lodging house,
+ motor hotel, guest house, guest ranch, trailer coach, mobile home, auto camp, trailer
+ court and park or similar establishment, for a period of less than thirty (30) days
+ under any concession, permit, right of access, license to use or other agreement or
+ otherwise.
+Manufacturing
+ means the operation or performance of an integrated series of operations which places
+ a product, article, substance, commodity, or other tangible personal property in a
+ form, composition or character different from that in which it was acquired whether
+ for sale or for use by a manufacturer. The change in form, composition or character
+ must result in a different product having a distinctive name, character or use from
+ the raw or prepared materials.
+Marketplace
+ means a physical or electronic forum, including, but not limited to, a store, a booth,
+ an internet website, a catalog, or a dedicated sales software application, where tangible
+ personal property, taxable products, or taxable services are offered for sale.
+Marketplace Facilitator
+ means a person who:
+ (a)
+ (1)
+ Contracts with a marketplace seller or multichannel seller to facilitate for consideration,
+ regardless of whether or not the consideration is deducted as fees from the transaction,
+ the sale of the marketplace seller's tangible personal property, products, or services
+ through the person's marketplace;
+ (2)
+ Engages directly or indirectly, through one (1) or more affiliated persons, in transmitting
+ or otherwise communicating the offer or acceptance between a purchaser and the marketplace
+ seller or multichannel seller; and
+ (3)
+ Either directly or indirectly, through agreements or arrangements with third parties,
+ collects payment from the purchaser on behalf of the seller.
+ (b)
+ "Marketplace Facilitator" does not include:
+ (1)
+ A marketplace facilitator, marketplace seller or multichannel seller that offers or
+ facilitates the advertising, booking, or collection of sales and fees for short-term
+ rentals subject to the permit requirements of 
+Chapter 26.530
+ of the City of Aspen Municipal Code;
+ (2)
+ A person that exclusively provides internet advertising services or lists products
+ for sale, and that does not otherwise meet this definition.
+Marketplace Seller
+ means a person, regardless of whether or not the person is engaged in business in
+ the city, which has an agreement with a marketplace facilitator and offers for sale
+ tangible personal property, products, or services through a marketplace owned, operated,
+ or controlled by a marketplace facilitator.
+Multichannel seller
+ means a retailer that offers for sale tangible personal property, commodities, or
+ services through a marketplace owned, operated, or controlled by a marketplace facilitator,
+ and through other means.
+Municipality.
+ Any municipal corporation or similar form of local government including any city,
+ town or city and county, whether organized pursuant to charter, constitution or statute,
+ in Colorado or another state, except counties, school districts or special districts
+ and the city.
+Person.
+ Any individual, firm, partnership, joint venture, corporation, estate or trust, receiver,
+ trustee, assignee, lessee or any person acting in a fiduciary or representative capacity,
+ whether appointed by court or otherwise, or any group or combination acting as a unit.
+Price
+ or 
+purchase price.
+ (a)
+ The price to the consumer, exclusive of any direct tax imposed by the federal government
+ or by this Chapter and, in the case of all retail sales involving the exchange of
+ property, also exclusive of the fair market value of the property exchanged at the
+ same time and place of the exchange, if:
+ (1)
+ Such exchanged property is to be sold thereafter in the usual course of the retailer's
+ business; or
+ (2)
+ Such exchanged property is a vehicle and is exchanged for another vehicle and both
+ vehicles are subject to licensing, registration or certification under the laws of
+ this State, including but not limited to vehicles operating upon public highways,
+ off-highway recreation vehicles, watercraft and aircraft. Any money or other consideration
+ paid over and above the value of the exchanged property is subject to tax.
+ (b)
+ The terms 
+price
+ or 
+purchase price
+ include:
+ (1)
+ The amount of money received or due in cash and credits.
+ (2)
+ Property at fair market value taken in exchange but not for resale in the usual course
+ of the retailer's business.
+ (3)
+ Any consideration valued in money, such as trading stamps or coupons whereby the manufacturer
+ or someone else reimburses the retailer for part of the purchase price and other media
+ of exchange.
+ (4)
+ The total price charged on credit sales, including finance charges which are not separately
+ stated. An amount charged as interest on the unpaid balance of the purchase price
+ is not part of the purchase price, unless the amount added to the purchase price is
+ included in the principal amount of a promissory note; except the interest or carrying
+ charge set out separately from the unpaid balance of the purchase price on the face
+ of the note is not part of the purchase price. An amount charged for insurance on
+ the property sold and separately stated is not part of the purchase price.
+ (5)
+ Installation, delivery and wheeling-in charges included in the purchase price and
+ not separately stated.
+ (6)
+ Transportation and other charges to effect delivery of tangible personal property
+ to the purchaser.
+ (7)
+ Indirect federal manufacturers' excise taxes, such as taxes on automobiles, tires
+ and floor stock.
+ (8)
+ The gross purchase price of articles sold after manufacturing or after having been
+ made to order, including the gross value of all materials used, labor and service
+ performed and the profit thereon.
+ (c)
+ The terms 
+price
+ or 
+purchase price
+ do not include:
+ (1)
+ Any sales or use tax imposed by the State or by any political subdivision thereof.
+ (2)
+ The fair market value of property exchanged if such property is to be sold thereafter
+ in the retailer's usual course of business. This is not limited to exchanges in Colorado.
+ Out-of-state trade-ins are an allowable adjustment to the 
+purchase price
+.
+ (3)
+ Discounts from the original price if such discount and the corresponding decrease
+ in sales tax due are actually passed on to the purchaser. An anticipated discount
+ to be allowed for payment on or before a given date is not an allowable adjustment
+ to the price in reporting gross sales.
+Public.
+ Any individual, firm, co-partnership, joint venture, corporation, society, club,
+ league, association, joint stock company, estate or trust, receiver, trustee, assignee,
+ lessee or any person acting in a fiduciary or representative capacity, whether appointed
+ by court or otherwise, or any group or combination acting as a unit and the plural
+ as well as the singular number.
+Purchase
+ or 
+sale.
+ (a)
+ The acquisition for any consideration by any person of tangible personal property
+ or taxable services that are purchased, leased, rented, sold, used, stored, distributed
+ or consumed, but excludes a bonafide gift of property or services. These terms include
+ capital leases, installment and credit sales and property and services acquired by:
+ (1)
+ Transfer, either conditionally or absolutely, of title or possession, or both, to
+ tangible personal property.
+ (2)
+ A lease, lease-purchase agreement, rental, or grant of a license, including royalty
+ agreements; to use tangible personal property or taxable services. The use of coin-operated
+ devices, except coin-operated telephones, which do not vend articles of tangible personal
+ property, shall be considered short term rentals of tangible personal property.
+ (3)
+ Performance of taxable services; or
+ (4)
+ Barter or exchange for other property or services including coupons.
+ (b)
+ The terms 
+purchase
+ and 
+sale
+ do not include:
+ (1)
+ A division of partnership assets among the partners according to their interests in
+ the partnership;
+ (2)
+ The formation of a corporation by the owners of a business and the transfer of their
+ business assets to the corporation in exchange for all of the corporation's outstanding
+ stock, except qualifying shares, in proportion to the assets contributed;
+ (3)
+ The transfer of assets of shareholders in the formation or dissolution of professional
+ corporations;
+ (4)
+ The dissolution and the pro rata distribution of a corporation's assets to its stockholders;
+ (5)
+ A transfer of a partnership interest;
+ (6)
+ The transfer in a reorganization qualifying under Section 368(a)(1) of the Internal
+ Revenue Code of 1954, as amended;
+ (7)
+ The formation of a partnership by the transfer of assets to the partnership or transfers
+ to a partnership in exchange for proportionate interests in the partnership;
+ (8)
+ The repossession of personal property by a chattel mortgage holder or foreclosure
+ by a lienholder;
+ (9)
+ The transfer of assets from a parent corporation to a subsidiary corporation or corporations
+ which are owned at least eighty percent (80%) by the parent corporation, which transfer
+ is solely in exchange for stock or securities of the subsidiary corporation;
+ (10)
+ The transfer of assets from a subsidiary corporation or corporations which are owned
+ at least eighty percent (80%) by the parent corporation to a parent corporation or
+ to another subsidiary which is owned at least eighty percent (80%) by the parent corporation,
+ which transfer is solely in exchange for stock or securities of the parent corporation
+ or the subsidiary which received the assets; or
+ (11)
+ The transfer of assets between parent and closely held subsidiary corporations, or
+ between subsidiary corporations closely held by the same parent corporation or between
+ corporations which are owned by the same shareholders in identical percentage of stock
+ ownership amounts, computed on a share-by-share basis, when a tax imposed by this
+ Title was paid by the transferor corporation at the time it acquired such assets,
+ except to the extent that there is an increase in the fair market value of such assets
+ resulting from the manufacturing, fabricating or physical changing of the assets by
+ the transfer or corporation. To such an extent any transfer referred to in this Subsection
+ (11) shall constitute a sale. For the purpose of this Subsection (11), a closely held
+ subsidiary corporation is one in which the parent corporation owns stock possessing
+ at least eighty percent (80%) of the total combined voting power of all classes of
+ stock entitled to vote and owns at least eighty percent (80%) of the total number
+ of shares of all other classes of stock.
+Retail sales.
+ All sales made within the City except wholesale sales.
+Retailer
+ or 
+vendor
+ means any person selling, leasing, renting, or granting a license to use tangible
+ personal property or services at retail. The terms "retailer" shall include, but is
+ not limited to, any:
+ (a)
+ Auctioneer;
+ (b)
+ Salesperson, representative, peddler or canvasser, who makes sales as a direct or
+ indirect agent of or obtains such property or services sold from a dealer, distributor,
+ supervisor or employer;
+ (c)
+ Charitable organization or governmental entity which makes sales of tangible personal
+ property to the public, notwithstanding the fact that the merchandise sold may have
+ been acquired by gift or donation or that the proceeds are to be used for charitable
+ or governmental purposes;
+ (d)
+ Retailer-contractor, when acting in the capacity of a seller of building supplies,
+ construction materials, and other tangible personal property;
+ (e)
+ Marketplace facilitator, marketplace seller, or multichannel seller.
+Retailer-Contractor
+ means a contractor who is also a retailer of building supplies, construction materials,
+ or other tangible personal property, and purchases, manufactures, or fabricates such
+ property for sale (which may include installation), repair work, time and materials
+ jobs, and/or lump sum contracts.
+Return.
+ The sales tax reporting form used to report sales tax.
+Sale that Benefits a Colorado School
+ means a sale of a commodity or service from which all proceeds of the sale, less
+ only the actual cost of the commodity or service to a person or entity as described
+ in this Code, are donated to a school or a school-approved student organization.
+Sales tax.
+ The tax to be collected and remitted by a retailer on sales taxes under this Title.
+School
+ means a public or nonpublic school for students in kindergarten through twelfth (12th)
+ grade or any portion thereof.
+State.
+ The State of Colorado.
+Tangible Personal Property
+ means personal property that can be one (1) or more of the following: seen, weighed,
+ measured, felt, touched, stored, transported, exchanged, or that is in any other manner
+ perceptible to the senses.
+Tax.
+ The tax due from a retailer.
+Tax Deficiency or Deficiency
+ means any amount of tax, penalty, interest, or other fee that is not reported and/or
+ not paid on or before the date that any return or payment of the tax is required under
+ the terms of this Code.
+Taxable sales.
+ Gross sales less any exemptions and deductions specified in this Title.
+Taxable services.
+ Services subject to the tax pursuant to this Title.
+Taxpayer.
+ Any person obligated to collect and/or pay tax under the terms of this Title.
+Telecommunications services.
+ The transmission of any two-way interactive electromagnetic communications including,
+ but not limited to voice, image, data and any other information, by the use of any
+ means, but not limited to wire, cable, fiber optical cable, microwave, radio wave
+ or any combinations of such media. This term includes, but is not limited to basic
+ local exchange telephone service, toll telephone service and teletypewriter service,
+ including but not limited to residential and business service, directory assistance,
+ cellular mobile telephone, or telecommunication service, specialized mobile radio
+ and two-way pagers and paging service, including any form of mobile two-way communication.
+ This term does not include separately stated non-transmission services which constitute
+ computer-processing applications used to act on the information to be transmitted.
+Total tax liability.
+ The total of all tax, penalties or interest owed by a taxpayer and shall include
+ tax collected in excess of such tax computed on total sales.
+Use
+ means the exercise, for any length of time by any person within the City of any right,
+ power or dominion over tangible personal property or services when rented, leased
+ or purchased at retail from sources either within or without the City from any person
+ or vendor or used in the performance of a contract in the City whether such tangible
+ personal property is owned or not owned by the taxpayer. Use also includes the withdrawal
+ of items from inventory for consumption.
+ (Code 1971, § 21-1.1;§ 3; 
+Ord. No. 11-2000
+, § 1, 
+Ord. No. 24-2017
+; Ord. No. 
+023-2021
+, 12-7-2021; Ord. No. 
+19-2023
+, §§ 1, 2, 11-28-2023; Ord. No. 
+18-2024
+, § 4(Exh. D), 10-22-2024)
+
+===== Sec. 23.04.020. - Exemption; burden of proof.
+The burden of proving that any retailer is exempt from collecting or paying tax shall
+ be on the retailer under such reasonable requirements of proof as the Finance Director
+ may prescribe.
+ (Code 1971, § 21-1.2; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.04.030. - Deductions and credits.
+(a)
+ Deductions from gross sales. If included in reported gross sales, the following are
+ deductible from gross sales:
+ (1)
+Refunds.
+ The price of admissions, accommodations, tangible personal property or taxable services
+ returned by a purchaser when the price and the tax collected are refunded in cash
+ or by credit.
+ (2)
+Bad debts.
+ Taxable sales which are found to be worthless and are actually and properly charged
+ off as bad debts for Federal income tax purposes. Any amount so deducted and subsequently
+ collected by the taxpayer shall be subject to the tax.
+ (3)
+Interest and finance charges.
+ The amount of interest or finance charges on credit extended in connection with any
+ sale, provided that the interest or finance charges are separately stated from the
+ price.
+ (b)
+Credits from tax due.
+ (1)
+Application of credit.
+ Amounts previously paid pursuant to a tax levied by the City may be credited against
+ the tax due on transactions or items when the present owner or user has previously
+ paid a legally imposed sales tax on the transaction or item; except that the amount
+ of such credit shall not exceed the amount of tax on such transaction or item computed
+ at the rate established by 
+Section 23.32.060
+.
+ (Code 1971, § 21-1.3; 
+Ord. No. 26-1992
+, § 3; Ord. No. 
+18-2024
+, § 6, 10-22-2024)
+
+===== Sec. 23.04.040. - Acquisition, inception or cessation of business.
+(a)
+Purchase of an existing business.
+ (1)
+Seller's responsibilities.
+ Any person engaged in business in the City who sells such business shall file a final
+ return. The reporting period for such return shall end on the date of the transfer
+ of ownership of the business.
+ (2)
+Purchaser's responsibilities.
+ a.
+ Any person who purchases an existing business shall be responsible for determining
+ the total tax liability from that business and shall withhold from the initial purchase
+ payment an amount sufficient to cover all such total tax liability, unless the former
+ owner produces a receipt from the City showing that the total tax liability has been
+ paid or a certificate from the City that there is no total tax liability.
+ b.
+ Any amount so withheld shall be paid to the City within ten (10) days of the date
+ of the sale of the business.
+ c.
+ Any purchaser who fails to withhold such total tax liability or fails to pay to the
+ City the amount so withheld within the ten (10) day period allowed shall, as well
+ as the seller, be liable for any unpaid total tax liability.
+ (b)
+Acquisition of an existing business by means other than purchase.
+ Any person who acquires or takes control of an existing business or the assets of
+ an existing business by means other than purchase shall be responsible for payment
+ of any total tax liability from that business.
+ (c)
+Cessation of business.
+ Every person engaged in business in the City who quits doing business in the City
+ shall file a final return. The reporting period for such return shall end on the last
+ day of the business in the City.
+ (Code 1971, § 21-1.4; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.04.050. - [Applicability]
+This chapter shall not apply to 
+Chapter 23.32
+ - Sales Tax.
+ (Ord. No. 
+18-2024
+, § 5, 10-22-2024)
+
+===== Chapter 23.08. - TAXPAYER'S RESPONSIBILITIES
+
+
+===== Sec. 23.08.010. - Retailer responsible for collection and payment of tax.
+Every retailer engaged in business in the City shall be liable and responsible for
+ payment of an amount equivalent to the taxable sales multiplied by the specified rate.
+ (a)
+ Tax added to price. Retailers shall add the tax imposed, or the average equivalent
+ thereof, to the price, showing such tax as a separate and distinct item. Except as
+ provided in this Subsection, no retailer shall advertise, or hold out or state to
+ the public or to any consumer, directly or indirectly, that the tax or any part thereof
+ shall be assumed or absorbed by the retailer, or that it will not be added to the
+ price or, if added, that it or any part thereof shall be refunded.
+ (1)
+ Sales tax may be included in the price of any malt, vinous or spirituous liquor sold
+ by the drink.
+ (2)
+ Sales tax may be included in the price of items sold from coin-operated devices or
+ the price of utilizing such devices.
+ (3)
+ Sales tax may be included in the price of an admissions charge.
+ (b)
+ Tax constitutes debt. Any tax added to the price by a retailer shall constitute a
+ debt from the purchaser to the retailer until paid and shall be recoverable at law
+ in the same manner as other debts.
+ (c)
+ Excess tax. No retailer shall retain any tax collected in excess of the tax computed,
+ but shall report such excess collections on the return for the period in which it
+ was collected and include it in the calculation of tax due.
+ (d)
+ Disputed tax. When a dispute arises between a retailer and a purchaser who claims
+ that the sale is exempt from the tax, the retailer shall collect and the purchaser
+ shall pay such tax. The purchaser may then submit a claim for refund to the City within
+ sixty (60) days of the date of purchase. Any such tax refunded by the City will be
+ paid directly to the purchaser.
+ (Code 1971, § 21-2.1; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.08.020. - Trust status of tax in possession of retailer.
+All tax collected by a retailer shall be the property of the City and remain public
+ money in the hands of such retailer, who shall hold the same in trust for the sole
+ use and benefit of the City until paid to the City.
+ (Code 1971, § 21-2.2; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.08.030. - Filing returns; due date.
+(a)
+ Every taxpayer shall file a return, whether or not tax is due, and remit any tax due
+ to the City on or before the twentieth day following the end of the reporting period.
+ (b)
+ A retailer engaged in business in the City at two (2) or more locations, whether inside
+ or outside the City, who collects tax, may file a single return encompassing all locations
+ when accompanied by a supplemental schedule showing the gross sales and net taxable
+ sales for each location.
+ (c)
+ For good cause shown in a written request of a taxpayer, the Finance Director may
+ extend the time for making returns and paying any tax due.
+ (d)
+ No person shall make any false statement in connection with a return.
+ (Code 1971, § 21-2.3; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.08.040. - Reporting periods.
+(a)
+ Unless otherwise required or approved, taxpayers shall file returns and pay taxes
+ as follows:
+ (1)
+ A taxpayer whose monthly tax due to the City is less than ten dollars ($10.00) may
+ file returns and pay sales tax monthly or annually at the end of the calendar year.
+ (2)
+ A taxpayer who in any month has a monthly tax due to the City of ten dollars ($10.00)
+ or more shall file returns and pay tax monthly and continue to pay monthly for each
+ month for the remainder of the calendar year.
+ (b)
+ The reporting period for a final return shall end on the date of the transfer of ownership
+ of the business, or the last day of business.
+ (c)
+ The reporting period for a temporary business shall end on the day the temporary location
+ closes or special event concludes.
+ (d)
+ In order to ensure collection of tax, the Finance Director may require a taxpayer
+ to remit tax and file returns on a more frequent basis than set forth in this Section.
+ (e)
+ If the accounting methods employed by the taxpayer, or other conditions are such that
+ returns made on a calendar month basis will impose unnecessary hardship, the Finance
+ Director may, upon written request of the taxpayer, accept returns at such intervals
+ as will, in the opinion of the Finance Director, better suit the convenience of the
+ taxpayer, but not jeopardize the collection of the tax.
+ (f)
+ If any taxpayer who has been granted permission to file returns and pay tax on other
+ than a monthly basis becomes delinquent, authorization for such alternative method
+ of reporting may be revoked by the Finance Director immediately following notice of
+ such revocation, and the taxpayer shall file returns and pay tax on a monthly basis
+ as if the alternate method of reporting and paying the tax had never been granted.
+ (Code 1971, § 21-2.4; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.08.050. - Duty to keep books and records.
+Every person engaged in business in the City shall keep and preserve for at least
+ three (3) years after the date of the taxable transaction suitable records which will
+ allow the accurate determination of any tax due.
+ (Code 1971, § 21-2.5)
+
+===== Sec. 23.08.060. - [Applicability.]
+This chapter shall not apply to 
+Chapter 23.32
+ - Sales Tax.
+ (Ord. No. 
+18-2024
+, § 5, 10-22-2024)
+
+===== Chapter 23.12. - ADMINISTRATION
+
+
+===== Sec. 23.12.010. - Authority of the Finance Director.
+The administration of this Title is hereby vested in the Finance Director.
+ (a)
+Forms and procedures.
+ The Finance Director shall prescribe forms and administrative procedures for the
+ ascertainment, assessment and collection of the tax not inconsistent with this Title.
+ (b)
+Regulations.
+ The Finance Director may formulate and promulgate appropriate regulations to effectuate
+ the purpose of this Title as provided by this Code.
+ (c)
+Additional information.
+ The Finance Director may require any person to make additional returns, render statements,
+ furnish records or make informational reports to determine whether or not such person
+ is liable for payment or collection of the tax.
+ (d)
+Subpoenas.
+ The Finance Director may issue a subpoena to command a person to attend and give
+ testimony or to produce books, accounts and records.
+ (1)
+ Any subpoena issued under the terms of this Title shall be served as set forth in
+ the Colorado Rules of Civil Procedure or Municipal Court Rules, including the payment
+ of witness fees. When the witness is subpoenaed at the insistence of the City, such
+ fees shall be paid by the City. When a witness is subpoenaed at the insistence of
+ the taxpayer, the Finance Director may require that the cost of service of the subpoena
+ and the fee be paid by the taxpayer. In the discretion of the Finance Director, a
+ deposit to cover the cost of the subpoena and witness fees may be required.
+ (2)
+ If a subpoena issued by the Finance Director is duly served and the respondent fails
+ to attend, give testimony, or to produce books, accounts and records as commanded,
+ the Finance Director may request the City Attorney to file a motion with the Municipal
+ Court of the City for an order enforcing the subpoena.
+ (e)
+Oaths.
+ The Finance Director is authorized to administer oaths and take testimony at the
+ hearing.
+ (f)
+Agents.
+ The Finance Director may designate agents to assist in the performance of the duties
+ and responsibilities set forth in this Title.
+ (g)
+Liquor licenses.
+ Prior to the renewal, transfer or issuance of a license to sell any malt, vinous
+ or spirituous liquor, the Finance Director shall certify to the City Clerk that all
+ returns have been filed and taxes paid.
+ (h)
+Partial payments.
+ The Finance Director may accept any partial payment made and apply such payments
+ towards the tax due. Deposit of such payments shall not in any way imply that the
+ remaining balance is or has been abated.
+ (i)
+Motor vehicle registrations.
+ If the Finance Director determines that a person has registered or caused to be registered
+ a motor vehicle outside the City, and that such motor vehicle should have been registered
+ at an address in the City, the Finance Director is authorized to assess a civil penalty
+ of five hundred dollars ($500.00) against the person. A written notice of the penalty
+ assessment shall be issued, paid and protested in the same manner as a notice of assessment.
+ The Finance Director may enforce collection of the penalty assessment in the same
+ manner as provided in this Title for the collection of tax due. Assessment and collection
+ of this penalty shall not preclude the collection of any tax due or fee or the imposition
+ of any other civil or criminal penalty provided by law.
+ (j)
+Notices.
+ Notices required by this Title shall be in writing and delivered in person or sent
+ post paid by first class mail to the last known address of the taxpayer.
+ (Code 1971, § 21-3.1; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.12.020. - Audit of records.
+(a)
+ For the purpose of ascertaining the correct amount of total tax liability from any
+ person engaged in business in the City, the Finance Director may authorize an agent
+ to conduct an audit by examining any relevant books, accounts and records of such
+ person.
+ (b)
+ All books, accounts and records shall be open at any time during regular business
+ hours for examination by the Finance Director or an authorized agent of the Finance
+ Director. If any taxpayer refuses to voluntarily furnish any of the foregoing information
+ when requested by the Finance Director or authorized agent, the Finance Director may
+ issue a subpoena to require that the taxpayer or their representative attend a hearing
+ or produce any such books, accounts and records for examination.
+ (c)
+ Any tax deficiency or overpayment ascertained through audit shall be computed by one
+ (1) or more of the following methods as the Finance Director or agent of the Finance
+ Director deems appropriate:
+ (1)
+ By identifying transactions on which the tax was not properly or accurately collected
+ or paid.
+ (2)
+ By identifying other irregularities in the calculation of tax due.
+ (3)
+ By using either of the above methods on a representative sample of the taxpayer's
+ records, and using the results to project the amount of tax deficiency or overpayment,
+ if any.
+ (d)
+ Any charitable organization claiming exemption under the provisions of this Title
+ is subject to audit in the same manner as any other person engaged in business in
+ the City.
+ (e)
+ Coordinated audit. Any taxpayer licensed in this City pursuant to 
+Section 23.32.020
+, and holding a similar sales tax license in at least four (4) other Colorado municipalities
+ that administer their own sales tax collection, may request a coordinated audit as
+ provided herein.
+ (1)
+ Within fourteen (14) days of receipt of notice of an intended audit by any municipality
+ that administers its own sales tax collection, the taxpayer may provide to the Finance
+ Director of this City, by certified mail return receipt requested, a written request
+ for a coordinated audit indicating the municipality from which the notice of intended
+ audit was received and the name of the official who issued such notice. Such request
+ shall include a list of those Colorado municipalities using local collection of their
+ sales tax in which the taxpayer holds a current sales tax license and a declaration
+ that the taxpayer will sign a waiver of any passage-of-time based limitation upon
+ this City's right to recover tax owed by the taxpayer for the audit period.
+ (2)
+ Except as provided in Paragraph (6) below, any taxpayer that submits a completed request
+ for a coordinated audit and promptly signs a waiver of the statute of limitations
+ may be audited by this City during the twelve (12) months after such request is submitted
+ only through a coordinated audit involving all municipalities electing to participate
+ in such an audit.
+ (3)
+ If this City desires to participate in the audit of a taxpayer that submits a completed
+ request for a coordinated audit pursuant to Paragraph (2) above, the Finance Director
+ shall so notify the Finance Director of the municipality whose notice of audit prompted
+ the taxpayer's request within ten (10) days after receipt of the taxpayer's request
+ for a coordinated audit. The Finance Director shall then cooperate with other participating
+ municipalities in the development of arrangements for the coordinated audit, including
+ arrangement of the time during which the coordinated audit will be conducted, the
+ period of time to be covered by the audit and a coordinated notice to the taxpayer
+ of those records most likely to be required for completion of the coordinated audit.
+ (4)
+ If the taxpayer's request for a coordinated audit was in response to a notice of audit
+ issued by this City, this City's finance director shall facilitate arrangements between
+ this City and other municipalities participating in the coordinated audit unless and
+ until an official from some other participating municipality agrees to assume this
+ responsibility. The Finance Director shall cooperate with other participating municipalities
+ to, whenever practicable, minimize the number of auditors that will be present on
+ the taxpayer's premises to conduct the coordinated audit on behalf of the participating
+ municipalities. Information obtained by or on behalf of those municipalities participating
+ in the coordinated audit may be shared only among such participating municipalities.
+ (5)
+ If the taxpayer's request for a coordinated audit was in response to a notice of audit
+ issued by this City, this City's finance director shall, once arrangements for the
+ coordinated audit between this City and other participating municipalities are completed,
+ provide written notice to the taxpayer of which municipalities will be participating,
+ the period to be audited and the records most likely to be required by participating
+ municipalities for completion of the coordinated audit. The Finance Director shall
+ also propose a schedule for the coordinated audit.
+ (6)
+ The coordinated audit procedure set forth in this Section shall not apply:
+ a.
+ When the proposed audit is a jeopardy audit;
+ b.
+ To audits for which a notice of audit was given prior to the effective date of this
+ Section;
+ c.
+ When a taxpayer refuses to promptly sign a waiver of the statute of limitations; or
+ d.
+ When a taxpayer fails to provide a timely and complete request for a coordinated audit
+ as provided in Paragraph (1) of this Subsection.
+ (Code 1971, § 21-3.2; 
+Ord. No. 26-1992,
+ § 3)
+
+===== Sec. 23.12.030. - Tax information confidential.
+All specific information gained under the provisions of this Title, which is used
+ to determine the total tax liability from a taxpayer, whether furnished by the taxpayer
+ or obtained through audit, shall be treated by the City and its officers, employees
+ or legal representatives as confidential.
+ (a)
+ Except in accordance with judicial order or as otherwise provided by law, the City
+ Manager, Finance Director and agents, clerks and employees thereof shall not divulge
+ or make known in any way any information disclosed in any document, report or return
+ filed under this Title except such information as is displayed on the tax license.
+ The officials charged with the custody of documents, reports and returns shall not
+ be required to produce any of them or evidence of anything contained in them in any
+ action or proceeding in any court, except on behalf of the City Manager in an action
+ or proceeding under the provisions of this Title when the report of a fact shown thereby
+ is directly involved in such action or proceeding, in either of which events the court
+ may require the production of, and may admit into the evidence, so much of said reports
+ or of the facts shown thereby as are pertinent to the action or proceeding, and no
+ more.
+ (b)
+ Nothing contained in this Section shall be construed to prohibit the delivery to a
+ person or a duly authorized representative thereof of a copy of any return or report
+ filed in connection with such person's tax. Copies of such records may be certified
+ by the City Manager or an agent thereof and when so certified shall be evidence equally
+ with the originals and may be received as evidence of their contents.
+ (c)
+ Nothing in this Section shall be construed to prohibit the publication of statistics
+ so classified as to prevent the identification of particular reports or returns and
+ the items thereof or the inspection of returns by the City Attorney or other legal
+ representatives of the City.
+ (d)
+ Notwithstanding the provisions of this Section, the City Manager may furnish to the
+ taxing official of the State, its political subdivisions, any other state, or political
+ subdivision or the United States, any information contained in tax returns and related
+ documents filed pursuant to this Title or in the report of an audit or investigation
+ made with respect to a return, if the recipient jurisdiction agrees with the City
+ Manager to grant similar privileges to the City and provided further that such information
+ shall be used by the recipient jurisdiction only for tax purposes.
+ (Code 1971, § 21-3.3; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.12.040. - Timely payment; computation of dates.
+(a)
+ Timely payment shall be evidenced by the postmark date if mailed; otherwise timely
+ payment shall be evidenced by the City Cashier validation date.
+ (b)
+ Any due date, payment date or deadline for paying the total tax liability or providing
+ information or taking other action, which falls on a Saturday, Sunday or legal holiday
+ recognized by either the Federal government, the State or the City, shall be extended
+ to the first business day following such weekend or holiday.
+ (Code 1971, § 21-3.4; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.12.050. - [Applicability.]
+This chapter shall not apply to 
+Chapter 23.32
+ - Sales Tax.
+ (Ord. No. 
+18-2024
+, § 5, 10-22-2024)
+
+===== Chapter 23.16. - TAX OVERPAYMENTS
+
+
+===== Sec. 23.16.010. - Overpayment from returns.
+If the amount remitted with the return is more than the total tax liability as computed
+ from information in such return, a notice of overpayment will be issued. After examining
+ such notice, the taxpayer may either submit a claim for refund or report the correct
+ total tax liability by filing an amended return. No refund of such overpayment shall
+ be paid unless a signed claim for refund is submitted on or before the thirtieth day
+ after the date of the notice of overpayment.
+ (Code 1971, § 21-4.1; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.16.020. - Tax overpayment determined through audit.
+If the City ascertains through an audit of a taxpayer's records that the total tax
+ liability is less than the full amount paid, a notice of overpayment shall be issued.
+ Such notice will serve as documentation for a claim for refund, if such claim is signed
+ and submitted by the taxpayer within thirty (30) days of the date of the notice of
+ overpayment.
+ (Code 1971, § 21-4.2; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.16.030. - Refunds of disputed tax.
+Refunds of tax paid to a retailer by a purchaser who claims that the sale is exempt
+ from the tax may be requested by such purchaser by signing and submitting a claim
+ for refund on or before sixty (60) days from the date of such purchase.
+ (Code 1971, § 21-4.3; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.16.040. - Claim for refund.
+No tax overpayment shall be refunded unless a claim for refund is signed and submitted
+ to the City by the taxpayer.
+ (a)
+Application.
+ An application for refund of tax shall:
+ (1)
+ Be made on a claim for refund form furnished by the City;
+ (2)
+ Be signed by the taxpayer; and
+ (3)
+ Include adequate documentation of the claim.
+ (b)
+Decision.
+ The Finance Director shall examine the claim for refund and give written notice to
+ the taxpayer of the amount to be refunded or denied.
+ (c)
+Refunds not assignable.
+ The right of any person to obtain a refund pursuant to this Title shall not be assignable.
+ (d)
+False statements.
+ No person shall make any false statements in connection with a claim for refund.
+ (Code 1971, § 21-4.4)
+
+===== Sec. 23.16.050. - [Applicability.]
+This chapter shall not apply to 
+Chapter 23.32
+ - Sales Tax.
+ (Ord. No. 
+18-2024
+, § 5, 10-22-2024)
+
+===== Chapter 23.20. - TAX DEFICIENCIES
+
+
+===== Sec. 23.20.010. - Underpayments from returns.
+If the amount remitted with a return is less than the tax computed from information
+ in such return, a notice of assessment shall be issued.
+ (Code 1971, § 21-5.1; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.20.020. - Tax deficiencies from failure to file or failure to provide records for audit.
+(a)
+ If any taxpayer neglects or refuses to obtain a retail sales tax license, the amount
+ of the total tax liability shall be estimated, based upon such information as may
+ be available and a notice of assessment shall be issued.
+ (b)
+ If any taxpayer neglects or refuses to file a return by the due date, the total tax
+ liability shall be estimated, based upon such information as may be available, and
+ a notice of assessment shall be issued.
+ (c)
+ If any taxpayer neglects or refuses to provide adequate books, accounts and records
+ requested for audit, the total tax liability shall be estimated, based upon such information
+ as may be available, and a notice of assessment shall be issued.
+ (d)
+ Estimated total tax liability shall be adjusted if a return reporting actual total
+ tax liability is filed.
+ (Code 1971, § 21-5.2; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.20.030. - Tax deficiencies determined through audit.
+If the City ascertains through an audit of the taxpayer's records that the tax due
+ has not been fully reported or paid by the applicable due date, a notice of assessment
+ shall be issued.
+ (Code 1971, § 21-5.3; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.20.040. - Penalties.
+(a)
+Penalty for late payment of sales tax.
+ A penalty of fifteen dollars ($15.00) or ten percent (10%) of the tax deficiency,
+ whichever is greater, shall be levied on any tax deficiency.
+ (b)
+Penalty for fraud.
+ If any tax deficiency is due to fraud or the intent to evade the tax, the penalty
+ shall be fifty percent (50%) of the total tax deficiency.
+ (c)
+Penalty for repeated enforcement.
+ If three (3) notices of assessment have been issued to the same taxpayer within thirty-six
+ (36) consecutive months, a special penalty of fifteen percent (15%) of the total tax
+ liability, or twenty five dollars ($25.00), whichever is greater, shall be levied
+ in addition to the penalties levied in (a) above.
+ (d)
+Abatement of penalty.
+ Any penalty assessed in this Title may be abated by the Finance Director if the Finance
+ Director finds good cause therefore and:
+ (1)
+ If the taxpayer submits a written request for such abatement on or before the payment
+ due date of the applicable notice of assessment; or
+ (2)
+ If no assessment was issued within sixty (60) days after payment of the tax.
+ (Code 1971, § 21-5.4; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.20.050. - Interest.
+(a)
+ Interest shall be levied on any tax deficiency at the rate of one and one-half percent
+ (1½%) per month.
+ (b)
+ Interest shall be calculated for each month or portion of a month from the due date
+ that a tax deficiency remains unpaid.
+ (c)
+ When a timely protest is made to a notice of assessment, no additional interest shall
+ be assessed on any tax upheld by the Finance Director for the period between the interest
+ date of such assessment and the payment date established in an informal meeting, or
+ thirty (30) days after the date of a findings of fact, conclusion and decision issued
+ after a hearing.
+ (d)
+ Any interest properly assessed on a tax deficiency may be abated by the Director of
+ Finance as provided above for the abatement of penalties.
+ (Code 1971, § 21-5.5; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.20.060. - Notice of assessment.
+The Finance Director or specifically authorized agent shall issue a notice of assessment
+ for any tax deficiency, penalties or interest due.
+ (a)
+ Notices of assessment shall be in writing and delivered in person or sent postpaid
+ by first class mail to the last known address of the taxpayer.
+ (b)
+ The payment due date for the total tax liability pursuant to a notice of assessment
+ shall be twenty (20) days after the date of the notice of assessment.
+ (Code 1971, § 21-5.6; 
+Ord. No. 26-1992, § 
+ 3)
+
+===== Sec. 23.20.070. - Abatement of deficiency.
+The Finance Director shall promulgate policies and procedures for processing tax deficiency
+ abatements, which shall include a provision that all abatements in excess of five
+ thousand dollars ($5,000.00) shall require the prior approval of the City Manager
+ and that all abatements in excess of five hundred dollars ($500.00) shall be reported
+ to the City Manager. All tax deficiency abatements shall only be made in accordance
+ with said policies and procedures.
+ (Code 1971, § 21-5.7)
+
+===== Sec. 23.20.080. - [Applicability.]
+This chapter shall not apply to 
+Chapter 23.32
+ - Sales Tax.
+ (Ord. No. 
+18-2024
+, § 5, 10-22-2024)
+
+===== Chapter 23.24. - TAXPAYER'S REMEDIES
+
+
+===== Sec. 23.24.010. - Protest of notice of assessment or denial of refund.
+(a)
+ Any notice of assessment may be protested by the taxpayer to whom it is issued.
+ (1)
+ A protest of a notice of assessment issued to a vendor or taxpayer for failure to
+ file a return, for underpayment of tax owed or as a result of an audit shall be submitted
+ in writing to the Finance Director within twenty (20) calendar days from the date
+ of the notice of assessment. Any such protest shall identify the amount of tax disputed
+ and the basis for the protest.
+ (2)
+ When a timely protest is made, no further enforcement action will be instituted by
+ the City for the portion of the assessment being protested unless the taxpayer fails
+ to pursue the protest in a timely manner.
+ (b)
+ Protest of denial of refund. A protest of a denial of a refund shall be submitted
+ in writing to the Finance Director within twenty (20) calendar days from the date
+ of the denial of the refund and shall identify the amount of the refund requested
+ and the basis for the protest.
+ (c)
+ Any timely protest entitles a taxpayer to a hearing under the provisions of this Title.
+ (Code 1971, § 21-6.1; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.24.020. - Hearings.
+(a)
+ The City shall commence a hearing within sixty (60) days after the City's receipt
+ of the taxpayer's written protest; except the City may extend such period if the delay
+ is requested by the taxpayer. The Finance Director shall notify the taxpayer in writing
+ of the time and place of such hearing.
+ (b)
+ Every hearing shall be held in the City before the Finance Director or his designated
+ representative.
+ (c)
+ The taxpayer may assert any facts, make any arguments and file any briefs and affidavits,
+ which, in the opinion of the taxpayer, are pertinent to the protest. The filing of
+ briefs shall not be required.
+ (d)
+ Based on the evidence presented at the hearing, the Finance Director or his designated
+ representative shall issue a findings of fact, conclusions and decision which may
+ modify or abate the tax, penalties and interest protested at the hearing, approve
+ a refund or uphold the assessment.
+ (e)
+ After such hearing, the taxpayer shall not be entitled to a second hearing on the
+ same notice of assessment or denial of refund.
+ (f)
+ Unless the decision of the Finance Director is appealed as provided in this Title,
+ the remaining total tax liability, if any, shall be paid on or before thirty (30)
+ days after the date of the findings of fact, conclusions and decision.
+ (Code 1971, § 21-6.2; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.24.030. - Appeals.
+(a)
+ Subsequent to a hearing, the taxpayer may appeal the decision of the Finance Director
+ to the Pitkin County District Court pursuant to Rule 106 (a)(4) of the Colorado Rules
+ of Civil Procedure.
+ (b)
+ An appeal of a final decision of the Finance Director in a hearing held pursuant to
+ this Section shall be commenced within thirty (30) days of such decision.
+ (c)
+ Upon the appeal to the District Court the taxpayer shall either file with the Finance
+ Director a bond for twice the unpaid amount or deposit the unpaid amount with the
+ Finance Director.
+ (Code 1971, § 21-6.3; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.24.040. - [Applicability.]
+This chapter shall not apply to 
+Chapter 23.32
+ - Sales Tax.
+ (Ord. No. 
+18-2024
+, § 5, 10-22-2024)
+
+===== Chapter 23.28. - ENFORCEMENT
+
+
+===== Sec. 23.28.010. - Lien for tax due.
+(a)
+Issuance.
+ If any total tax liability is not paid by the payment date of a notice of assessment,
+ the Finance Director may issue a notice of lien on the real and personal property
+ of the taxpayer. Such lien shall specify the name of the taxpayer, the total tax liability,
+ the date of the accrual thereof, the location of the property and shall be certified
+ by the Finance Director.
+ (b)
+Filing.
+ The notice of lien shall be filed in the office of the clerk and recorder of any
+ County in Colorado in which the real or personal property of the taxpayer is located.
+ Such filing shall create a lien on such property in that County and constitute a notice
+ thereof.
+ (c)
+Priority.
+ The attachment and priority of such lien shall be as follows:
+ (1)
+ Such lien shall be a first and prior lien upon the goods, stock in trade and business
+ fixtures owned or used by any taxpayer, including those used under lease, installment
+ sale or other contract agreement, and shall take precedence on all such property over
+ all other liens or claims of whatsoever kind or nature.
+ (2)
+ Such lien on the real and tangible personal property of the taxpayer that is not goods,
+ stock in trade and business fixtures shall be a first and prior lien except as to
+ preexisting claims or liens of a bona fide mortgagee, pledgee, judgment creditor or
+ purchaser whose rights have attached and been perfected prior to the filing of the
+ notice of lien.
+ (3)
+ The personal property of an owner who has made a bona fide lease to a taxpayer shall
+ be exempt from the lien created in this Subsection if such property can reasonably
+ be identified from the lease description, and if the lessee is given no right to become
+ the owner of the property leased. This exemption shall be effective from the date
+ of the execution of the lease if the lease is recorded with the county clerk and recorder
+ of the county where the property is located or based.
+ (4)
+ Motor vehicles which are properly registered in this State, showing the lessor as
+ owner thereof, shall be exempt from such lien except that such lien shall apply to
+ the extent that the lessee has an earned reserve, allowance for depreciation not to
+ exceed the fair market value or similar interest, which is, or may be, credited to
+ the lessee.
+ (5)
+ Where a lessor and lessee are blood relatives by law or have twenty-five percent (25%)
+ or more common ownership, a lease between such lessee and such lessor shall not be
+ considered as bona fide for purposes of this Section.
+ (d)
+Enforcement against real property.
+ If a notice of lien is filed against real property, the Finance Director may request
+ the City Attorney to file a civil action to enforce such lien. The court may determine
+ the interest in the property of each party, decree a sale of the real property and
+ distribute the proceeds according to such findings. Procedures for the action and
+ the manner of sale, the period for and manner of redemption from the sale and the
+ execution of deed of conveyance shall be in accordance with the law and practice relating
+ to foreclosures of mortgages upon real property. In any such action, the court may
+ appoint a receiver of the real property involved in such action if equity so requires.
+ (Code 1971, § 21-7.1; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.28.020. - Perpetuance of lien.
+(a)
+ Any lien for total tax liability shall continue until a release of lien is filed by
+ the Finance Director.
+ (b)
+ Any person who purchases or repossesses real or personal property upon which a lien
+ has been filed by the Finance Director for total tax liability shall be liable for
+ the payment of such total tax liability up to the value of the property taken or acquired.
+ (Code 1971, § 21-7.2: 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.28.030. - Release of lien.
+Upon payment of the total tax liability or enforcement of the lien, the Finance Director
+ shall file a release of lien with the county clerk and recorder of the county in which
+ the lien was filed.
+ (Code 1971, § 21-7.3; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.28.040. - Civil action to recover tax due.
+(a)
+ Any unpaid total tax liability shall constitute a debt of the taxpayer to the City,
+ and the Finance Director may request the City Attorney to file a civil action to collect
+ such total tax liability.
+ (b)
+ The return filed by a taxpayer or the notice of assessment issued by the Finance Director
+ shall be prima facie proof of the total tax liability.
+ (c)
+ If a judgment is obtained by the City, collection of the total tax liability may be
+ made by attachment, garnishment or other means authorized by law. When attachment
+ is sought, no bond shall be required of the Finance Director nor shall any sheriff
+ require of the Finance Director an indemnity bond for executing the writ of attachment
+ or writ of execution upon any judgment.
+ (Code 1971, § 21-7.4: 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.28.050. - Jeopardy assessment.
+(a)
+Issuance.
+ If the collection of any total tax liability from a taxpayer, whether or not previously
+ assessed, will be jeopardized by delay, the Finance Director may declare the taxable
+ period immediately terminated, determine the total tax liability and issue a jeopardy
+ assessment and demand for payment. Any total tax liability so assessed shall be due
+ and payable immediately.
+ (b)
+Security for payment.
+ Enforcement of a jeopardy assessment and demand for payment may be stayed if the
+ taxpayer gives security for payment which is satisfactory to the Finance Director.
+ (c)
+Dispute of jeopardy assessment.
+ If, in the opinion of the taxpayer, the jeopardy assessment is not for the correct
+ amount of total tax liability, the taxpayer shall pay the total tax liability as assessed
+ and submit a claim for refund to the City.
+ (Code 1971, § 21-7.5; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.28.060. - Distraint and sale.
+(a)
+ Unless such property is exempt by state statute from distraint and sale, the Finance
+ Director may sign and issue a warrant directed to any employee or agent of the City,
+ or any sheriff of any county in Colorado, commanding the distraint and sale of personal
+ property of the taxpayer on which a lien has attached for the payment of the total
+ tax liability.
+ (1)
+ Such warrant may be issued if the total tax liability is not paid on or before twenty
+ (20) days from the payment date of a notice of assessment and no protest of such assessment
+ has been timely filed.
+ (2)
+ Such warrant may be issued immediately if a jeopardy assessment and demand for payment
+ has been issued.
+ (b)
+ If the taxpayer does not volunteer entry to the premises, the Finance Director may
+ apply to the Municipal Court of the City for a warrant authorizing any employee or
+ agent of the City to search for and distrain property located inside the City to enforce
+ the collection of total tax liability.
+ (1)
+ The Finance Director shall demonstrate to the court that the premises to which entry
+ is sought contains property that is subject to distraint and sale for total tax liability.
+ (2)
+ If a jeopardy assessment and demand for payment has been issued, the Finance Director
+ shall specify to the court why collection of the total tax liability will be jeopardized.
+ (3)
+ The procedures to be followed in issuing and executing a warrant pursuant to this
+ Subsection shall comply with Rule 241 of the Colorado Municipal Court Rules of Procedure.
+ (c)
+Disposal of distrained property.
+ (1)
+ A signed inventory of the property distrained shall be made by the City or its agent.
+ Prior to the sale, the owner or possessor shall be served with a copy of said inventory,
+ a notice of the sum of the total tax liability and related expenses incurred to date
+ and the time and place of sale.
+ (2)
+ A notice of the time and place of the sale, together with a description of the property
+ to be sold, shall be published in a newspaper of general circulation within the county
+ where distraint is made or, in lieu thereof and in the discretion of the Finance Director,
+ the notice shall be posted at the courthouse of the county where distraint is made
+ and in at least two (2) other places within such county.
+ (3)
+ The time fixed for the sale shall not be less than ten (10) days nor more than sixty
+ (60) days from the date of the distraint. The sale may be postponed by the City of
+ agent for no more than ninety (90) days from the date originally fixed for the sale.
+ (4)
+ The property shall be sold at public auction for not less than a fair minimum price,
+ and if the amount bid for the property is less than the fair minimum price so fixed,
+ the property may be declared to be purchased by the City and the City shall file a
+ release of lien thereof. If the property is purchased by the City, such property may
+ be disposed of in the same manner as other city property.
+ (5)
+ The property may be offered first by bulk bid, then subsequently for bid singularly
+ or by lots, and the City or its agent may accept the higher bid.
+ (6)
+ The property offered for sale may be redeemed if the owner or possessor or other person
+ holding an unperfected chattel mortgage or other right of possession pays the total
+ tax liability and all collection costs no less than twenty-four (24) hours before
+ the sale.
+ (7)
+ The City or its agent shall issue to each purchaser a Certificate of Sale which shall
+ be prima facie evidence of its right to make the sale and transfer to the purchaser
+ all right, title and interest of the taxpayer in and to the property sold.
+ a.
+ When the property sold consists of certificates of stock, the certificate of sale
+ shall be notice to any corporation, company or association to record the transfer
+ on its books and records.
+ b.
+ When the property sold consists of securities or other evidences of debt, the Certificate
+ of Sale shall be good and valid evidence of title.
+ (8)
+ Any surplus remaining after satisfaction of the total tax liability plus any costs
+ of making the distraint and advertising the sale may be distributed by the City first
+ to other jurisdictions which have filed liens or claims of sales and use or personal
+ property ad valorem taxes, and second to the owner or such other person having a legal
+ right thereto.
+ (9)
+ The Finance Director shall submit a written account of the sale to the City Manager.
+ (d)
+Exempt property.
+ Property of the taxpayer subject to distraint shall include the personal property
+ of the taxpayer and the goods, stock in trade and business fixtures owned or used
+ by any taxpayer including those used under lease, installment sale or other contract
+ arrangement. Property exempt from distraint and sale shall include the personal property
+ described as such in Subsection 
+23.28.010
+(c) above.
+ (e)
+Return of the property.
+ The taxpayer or any person who claims ownership interest or right of possession in
+ the distrained property may petition the Municipal Court, if the property was seized
+ pursuant to a warrant issued by the court, for the return of the property.
+ (1)
+ The grounds for return of the property shall be that the person has a perfected interest
+ in such property which is superior to the City's interest or that the property is
+ exempt from the City's lien.
+ (2)
+ The finder of fact shall receive evidence on any issue of fact necessary to the decision
+ of the petition. If the finder of fact determines, by a preponderance of the evidence,
+ in favor of the taxpayer or other petitioner, the property shall be returned.
+ (Code 1971, § 21-7.6; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.28.070. - Status of tax due in bankruptcy and receivership.
+Whenever the business or property of any taxpayer is subject to receivership, bankruptcy,
+ or assignment for the benefit of creditors or distrained for property taxes, the total
+ tax liability shall be a prior and preferred lien against all the property of the
+ taxpayer. No sheriff, receiver, assignee, nor other officer shall sell the property
+ of any such taxpayer under process or order of any court, without first ascertaining
+ from the Finance Director the amount of the total tax liability. The officer shall
+ pay any total tax liability before making payment to any judgment creditor or other
+ claimants.
+ (Code 1971, § 21-7.7; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.28.080. - Violations, summons and complaint; penalty.
+(a)
+ It shall be a violation of this Title to fail to perform any applicable affirmative
+ duty specified in this Title including, but not limited to:
+ (1)
+ The failure of any person engaged in business in the City to obtain a sales tax license;
+ (2)
+ The failure of any taxpayer to file a timely return or to make timely payment of any
+ total tax liability;
+ (3)
+ The failure of any resident individual or business to comply with the registration
+ requirements for automotive vehicles;
+ (4)
+ The making of any false or fraudulent statement by any person in any return, claim
+ for refund or hearing; or
+ (5)
+ The evasion of collection of any tax by any person or the aiding or abetting of any
+ other person in an attempt to evade the timely payment of tax due.
+ (b)
+ The Finance Director may direct the issuance of a complaint and summons to appear
+ before the Municipal Court of the City to any person who the Finance Director reasonably
+ believes has violated any portion of this Title or of the rules and regulations promulgated
+ by the Finance Director to enforce this Title.
+ (c)
+ Violations of this Title shall be punished by a fine, or imprisonment or both, as
+ provided in 
+Section 1.04.080
+ of this Code. Each and every twenty-four (24) hour continuation of any violation
+ shall constitute a distinct and separate offense.
+ (Code 1971, § 21-7.8; 
+Ord. No. 26-1992
+, § 3)
+
+===== Sec. 23.28.090. - Statute of limitations.
+Unless the limitation period has been extended as provided in this Section, the Statute
+ of Limitations for provisions contained in this Title shall be as follows:
+ (a)
+Refunds.
+ (1)
+ Any claim for refund for disputed total tax liability shall be submitted to the City
+ on or before sixty (60) days from the date of such purchase.
+ (2)
+ Any claim for refund resulting from a notice of overpayment shall be submitted to
+ the City on or before thirty (30) days after the date of such notice of overpayment.
+ (3)
+ Any other claim for refund shall be filed on or before one (1) year after the date
+ such overpayment was paid to the City.
+ (b)
+Assessments.
+ No notice of assessment shall be issued more than three (3) years after:
+ (1)
+ The due date of such total tax liability; or
+ (2)
+ For a construction project which requires a city building permit, the date the Final
+ Certificate of Occupancy was issued for such project; or
+ (3)
+ For a construction project not requiring a city building permit, the date of completion
+ of the project.
+ (c)
+Liens.
+ No notice of lien shall be issued more than three (3) years after the due date of
+ the total tax liability. If the limitation period is extended, a notice of lien may
+ be filed on or before thirty (30) days from the date of the notice of assessment issued
+ for such extended period.
+ (d)
+Returns.
+ (1)
+ When a taxpayer fails or refuses to file a return, the total tax liability may be
+ assessed and collected at any time.
+ (2)
+ In the case of a false or fraudulent return filed with intent to evade tax, the total
+ tax liability may be assessed, or proceedings for the collection of such total tax
+ liability may be begun at any time.
+ (e)
+Protests.
+ No protest of a notice of assessment or denial of a claim for refund shall be valid
+ if submitted to the Finance Director in other than written form or after the period
+ allowed in this Title.
+ (f)
+Limitation period; extension.
+ The limitation period may be extended before its expiration.
+ (1)
+ The taxpayer and the Finance Director may agree in writing to extend the period.
+ (2)
+ If the City provides written notice to the taxpayer prior to the expiration of the
+ period of limitation that the latter's records will be audited pursuant to this Title,
+ such period of limitation shall be extended for the audit period until thirty (30)
+ days after the date of the notice of assessment or overpayment issued as a result
+ of such audit. 
+Audit period
+ includes all reporting periods with due dates which fall within the thirty-six (36)
+ month period preceding the date of the notice of audit, or, if a city building permit
+ is required, the period between the issuance of such building permit and the issuance
+ of a final certificate of occupancy.
+ (Code 1971, § 21-7.9; 
+Ord. No. 26-1992
+, § 3; 
+Ord. No. 46-2000
+, § 1)
+
+===== Sec. 23.28.100. - [Applicability.]
+This chapter shall not apply to 
+Chapter 23.32
+ - Sales Tax.
+ (Ord. No. 
+18-2024
+, § 5, 10-22-2024)
+
+===== Chapter 23.32. - SALES TAX
+Footnotes: 
+ --- (
+3
+) ---
+Editor's note—
+ Ord. No. 
+18-2024
+, § 1(Exh. A), adopted Oct. 22, 2024, repealed the former Ch. 23.32, §§ 23.32.010—23.32.150
+ and enacted a new Ch. 23.32 as set out herein. The former Ch. 23.32 pertained to similar
+ subject matter and derived from Code 1971, §§ 21-10.1—21-10.11, 21-10.13, 21-10.14,
+ 21-13.1; 
+Ord. No. 26-1992,
+ § 3; 
+Ord. No. 20-1995,
+ § 1; 
+Ord. No. 42-1995
+, § 1; 
+Ord. No. 19-2000
+ § 1; 
+Ord. No. 7-2001
+, §§ 1—3; 
+Ord. No. 35-2012
+ § 1—3; 
+Ord. No. 4-2018 § 1
+; 
+Ord. No. 8-2018
+; Ord. No. 
+19-2023
+, § 3, 11-28-2023; Ord. No. 
+03-2024
+, § 1, 3-26-2024; Ord. No. 
+09-2024
+, § 2, 8-27-2024)
+
+===== Sec. 23.32.010. - Purpose.
+The purpose of this Article is to impose a tax on:
+ (1)
+ The sale of tangible personal property at retail in the City; and
+ (2)
+ The furnishing of services in the City.
+ (Ord. No. 
+18-2024
+, § 1(Exh. A), 10-22-2024)
+
+===== Sec. 23.32.020. - Definitions.
+All terms used in Chapter 23 shall have the same meaning as provided for in C.R.S.
+ § 39-26-102.
+ (Ord. No. 
+18-2024
+, § 1(Exh. A), 10-22-2024)
+
+===== Sec. 23.32.030. - Marketplace sales.
+Application of state sales tax.
+ Unless otherwise provided in this sales tax code, any amendments thereto, or in C.R.S.
+ Article 2, Title 29, the provisions of C.R.S. Article 26, Title 39, shall govern the
+ collection, administration, and enforcement of this sales tax.
+ (Ord. No. 
+18-2024
+, § 1(Exh. A), 10-22-2024)
+
+===== Sec. 23.32.040. - Rate; imposition and collection; distribution.
+(a)
+Imposition of sales tax
+. Sales tax shall continue to be imposed and collected on all sales of tangible personal
+ property and services described in 
+Section 23.32.040
+(b) and occurring within the City of Aspen. The tax is imposed as provided for in
+ C.R.S. § 29-2-105(1)(d). The sales tax is set at a rate of two and seven tenths of
+ a percent (2.7%) of the amount of each sale. The taxable amount of a sale shall not
+ include the amount of any sales or use tax imposed by C.R.S. Article 26, Title 39.
+ All revenue derived through the general sales tax shall continue to be distributed
+ in accordance with the following:
+ (1)
+ Sales tax receipts derived on or after July 1, 1990, from the one percent (1%) tax
+ levied pursuant to Ordinance No. 16, Series of 1970, shall be set aside in a separate
+ fund entitled "Parks and Open Space Fund," and expended by the City Council solely
+ for the acquisition of parks, trails and open space real property, for the construction
+ of improvements on any real property, owned or purchased by the City for parks, trails
+ and open space purposes, for maintenance of real property owned by the City and used
+ for parks, trails and open space and for payment of indebtedness incurred for acquisition
+ or improvement of parks, trails and open space real property, food tax refunds payable
+ by the City and for such expenditures as may be necessary to protect real property
+ or the improvements thereon owned by the City for parks, trails and open space purposes,
+ and for the payment of sales tax revenue bonds issued by the City;
+ (2)
+ Sales tax receipts derived from the fifteen-one hundredths of one percent (0.15%)
+ additional sales tax levied pursuant to the ballot question approved by City Council
+ in Ordinance 55, Series 2007, shall be set aside in a separate fund designated as
+ the "City Transportation Fund," and shall be expended by the City Council solely for
+ the payment of services, facilities and programs with regard to the City transportation
+ system;
+ (3)
+ Sales tax receipts derived from the forty-five one hundredths of one percent (0.45%)
+ additional sales tax levied pursuant to Ordinance No. 81, Series of 1989, shall be
+ set aside in a separate fund designated as the "Affordable Housing Fund and the Day
+ Care Fund." The City Council will allocate the forty-five one hundredths of one percent
+ (0.45%) sales tax between the funds as it shall from time to time designate. The sales
+ tax from the forty-five one hundredths of one percent (0.45%) sales tax shall be expended
+ by the City Council for the purpose of creating public or private affordable housing
+ and day care opportunities within the city and county, including but not by way of
+ limitation, capital improvements and capital expenditures therefor, land acquisition,
+ payment of indebtedness incurred in connection with any affordable housing or day
+ care expenditures, reserves and for expenditures necessary to protect any such property
+ acquired or capital improvements constructed or purchased from any and all threatened
+ or actual damages, loss, destruction or impairment from any such cause or occurrences.
+ (4)
+ All sales taxes collected by and paid by the County to the City in accordance with
+ Ordinance No. 25, Series of 1985, shall be spent solely for those purposes set forth
+ at Section 1 of said Ordinance.
+ (5)
+ Sales tax receipts derived from the one-half percent (0.5%) sales tax levied pursuant
+ to Ordinance No. 7, Series of 2001, shall be set aside in the separate fund referenced
+ in Paragraph 
+23.32.040
+(a)(1) and expended by the City Council solely for the purpose of buying, improving
+ and maintaining trail, recreation and open space properties and ancillary facilities.
+ (6)
+ Sales tax receipts derived from the sixty hundredths of one percent (0.60%) additional
+ sales tax levied pursuant to the ballot question approved by City Council in Resolutions
+ 84, Series 2012, and approved by the City of Aspen qualified electors on November
+ 6th, 2012, and extended in 2016, 2020 and 2025, and increased pursuant to the ballot
+ question submitted by City Council via Resolution 116, Series of 2025 and approved
+ by the City of Aspen qualified electors on November 4th, 2025 shall be set aside in
+ a separate fund designated as the "Education Fund" and shall be expended by the City
+ Council solely for educational purposes providing support to the Aspen School District
+ No. 1 (RE), through December 31, 2031.
+ (7)
+ The taxes imposed in this Title shall be in addition to all other taxes imposed by
+ law.
+ (b)
+Property and services taxed
+. The sales of tangible personal property and services taxable under this sales tax
+ shall be the same as the sales of tangible personal property and services taxable
+ pursuant to C.R.S. § 39-26-104, subject to the exemptions set forth below in 
+Section 23.32.050
+ of this Code.
+ (c)
+Place of sale
+. For the purpose of this sales tax, all retail sales are sourced as specified in
+ C.R.S. § 39-26-104(3).
+ (d)
+Mobile Telecommunications Services.
+ Without limiting the broad application of 
+Section 23.32.040
+(b) and recognizing that mobile telecommunications services are subject to particular
+ legal requirements, this sales tax shall apply to mobile telecommunications services
+ to the greatest extent permitted under C.R.S. § 29-2-105(1.5).
+ (Ord. No. 
+18-2024
+, § 1(Exh. A), 10-22-2024; Ord. No. 
+16-2025
+, §§ 1, 2, 11-18-2025)
+
+===== Sec. 23.32.050. - Exemptions from sales tax.
+(a)
+General sales tax exemptions.
+ Except as otherwise provided herein or in C.R.S. § 29-2-105(1)(d), the sales of tangible
+ personal property and services taxable under this ordinance shall be subject to the
+ same exemptions as those specified in C.R.S. Part 7, Article 26, Title 39.
+ (b)
+Specific exemptions Required by C.R.S. § 29-2-105(1)(d).
+ Pursuant to C.R.S. § 29-2-105(1)(d)(I)(A)—(R), which requires the City of Aspen to
+ expressly exempt certain sales from the City's sales tax, the City of Aspen does not
+ currently elect to adopt any additional exemptions.
+ (c)
+Food.
+ Notwithstanding any other provision of this sales tax regarding the taxation of food,
+ this sales tax shall not apply to the following:
+ (1)
+ Sales of food purchased with food stamps. For the purposes of this subsection (a),
+ "food" has the same meaning as provided in 7 U.S.C. § 2012, as currently in effect
+ and subsequently amended; and
+ (2)
+ Sales of food purchased with funds provided by the special supplemental food program
+ for women, infants, and children, 42 U.S.C. § 1786. For the purposes of this subsection
+ (b), "food" has the same meaning as provided in 42 U.S.C. § 1786, as currently in
+ effect and subsequently amended.
+ (d)
+Certain construction and building materials.
+ This sales tax shall not apply to the sale of "construction and building materials,"
+ as the term is used in C.R.S. § 29-2-109, if the purchaser of such materials presents
+ to the retailer a building permit or other documentation acceptable to the City of
+ Aspen evidencing that a local use tax has been paid or is required to be paid on the
+ materials.
+ (e)
+Cigarettes.
+ This sales tax shall not apply to sales of cigarettes.
+ (f)
+Sales subject to prior ownership tax.
+ Sales of personal property on which a specific ownership tax has been paid or is
+ payable are exempt from this sales tax when the sale meets both of the following conditions:
+ (i) the purchaser is a nonresident of the City of Aspen or has his principal place
+ of business outside the City of Aspen and (ii) the personal property sold is registered
+ or required to be registered outside the City of Aspen's limits under the law of the
+ State of Colorado.
+ (g)
+Sales subject to prior payment of sales or use tax.
+ This sales tax shall not apply to the sale of tangible personal property or services
+ if the transaction was previously subjected to a sales or use tax lawfully imposed
+ on the purchaser or user by another statutory or home rule city and county, city,
+ or City equal to or in excess of that sought to be imposed by this sales tax. A credit
+ shall be granted against this sales tax with respect to such transaction equal in
+ amount to the lawfully imposed local sales or use tax previously paid by the purchaser
+ or user to the previous statutory or home rule city and county, city, or City. The
+ amount of the credit shall not exceed the sales tax imposed herein.
+ (Ord. No. 
+18-2024
+, § 1(Exh. A), 10-22-2024)
+
+===== Sec. 23.32.060. - Collection, administration, and enforcement.
+Colorado department of revenue to enforce.
+ The collection, administration, and enforcement of this sales tax shall be performed
+ by the executive director of the Colorado Department of Revenue in the same manner
+ as the collection, administration, and enforcement of the Colorado state sales tax,
+ as supplemented by C.R.S. Article 2, Title 29.
+ (Ord. No. 
+18-2024
+, § 1(Exh. A), 10-22-2024)
+
+===== Chapter 23.36. -         REAL PROPERTY TAX RELIEF        
+Footnotes: 
+ --- (
+4
+) ---
+Editor's note—
+ Ord. No. 26-1992, repealed the provisions of former Art. III, relative to licenses
+ and tax for retail sales and services, and enacted new Arts. I and II [Ch. 23.04 through
+ 23.32] to read as herein set out subsequently renumbering former Art. II as Art. III
+ [Ch. 23.36]. The provisions of former Art. III derived from Ord. No. 16-19070; Ord.
+ No. 28-1970; and Ord. No. 15-A-1972.
+
+===== Sec. 23.36.010. - Low-income senior citizen rebate.
+(a)
+Applicability.
+ All qualified persons aged sixty-five (65) years or older who own or rent taxable
+ real property within the municipal boundaries of the City shall receive a rebate on
+ the municipal portion of their real property taxes equal to the tax generated and
+ paid on three (3) mills of assessed valuation or a tax-equivalent in accordance with
+ the provisions of this 
+Section 23.36.010
+.
+ (b)
+Qualifications.
+ (1)
+ Except as provided below for a surviving spouse in Paragraph (5) of this Subsection,
+ persons aged sixty-five (65) years or older or who will attain the age of sixty-five
+ (65) years during the tax year for which a rebate is sought, shall be eligible for
+ a rebate.
+ (2)
+ Any person applying for a rebate must have resided within the City for a period of
+ not less than one (1) year immediately prior to the date of their rebate application.
+ (3)
+ Only property occupied by the rebate applicant as a full-time residence shall qualify
+ for a rebate. Any residence occupied or used in whole or in part by the applicant
+ for professional or business purposes shall be ineligible.
+ (4)
+ If the rebate applicant resides in a multi-unit residential structure that the applicant
+ owns, any rebate allowed the applicant shall not exceed that percentage of taxes paid
+ equal to the portion of the residential structure occupied by the applicant as his
+ or her individual residence.
+ (5)
+ A husband and wife shall be treated as jointly qualifying for a rebate if either meets
+ the age requirements as set forth herein and they jointly meet all other requirements
+ as contained in this Section. A surviving spouse aged sixty (60) years or older shall
+ continue to be eligible to receive a rebate so long as he or she meets all of the
+ other requirements of this Section.
+ (6)
+ Where two (2) or more persons, other than husband and wife, own a residence jointly
+ or in common, each may receive a rebate equal to the percentage of their ownership
+ interest as determined by the Finance Director so long as they meet all of the other
+ requirements contained in this Section.
+ (7)
+ No rebate applicant shall receive a rebate if their annual income from all sources
+ exceeds the following limits:
+ a.
+ $17,580.00 for an individual living alone.
+ b.
+ $21,972.00 for a household containing two (2) or more persons.
+ Income shall include, but not be limited to, employment or investment income, interest
+ payments, rental income, alimony, cash public assistance, pension or annuity benefits,
+ federal social security or supplemental security payments, veteran's benefits, workers
+ compensation, unemployment compensation and any other regularly paid cash support,
+ but shall not include outright bona fide gifts.
+ (8)
+ Persons otherwise qualified to receive a rebate under this Section but who do not
+ own the residence in which they live may receive a tax-equivalent rebate equal to
+ one percent (1%) of their actual rent paid during the taxable year. Rent paid shall
+ not include utility charges, maintenance fees, association fees or food charges. To
+ qualify as a tax-equivalent payment, rent must have been paid as part of a bona fide
+ tenancy or leasing agreement and shall not include any payments made to institutions
+ or facilities commonly known as nursing homes, but shall include rent paid for use
+ of a mobile home or trailer space. No person may receive both a tax-equivalent rebate
+ and a property tax rebate for any single tax year.
+ (c)
+Application procedures.
+ (1)
+ Rebates as authorized by this 
+Section 23.36.010
+ shall commence with the 1991 tax year and must be claimed by written application
+ signed under oath on forms prescribed by the Director of Finance. All rebate applications
+ must be completed and submitted no later than December 31st of the tax year for which
+ a rebate is sought.
+ (2)
+ Any person making application for a rebate must provide proof satisfactory to the
+ Director of Finance of age, ownership, occupancy, income, residency and payment of
+ real property taxes or a tax-equivalent (rent).
+ (3)
+ When two (2) or more persons claim a rebate for the same residence, the Finance Director
+ shall determine the proper rebate allocation, if any.
+ (4)
+ No person shall be eligible or receive more than one (1) rebate for any tax year.
+ (5)
+ The burden of proving eligibility and entitlement to a rebate under this Section shall
+ be on the applicant.
+ (6)
+ If a guardian, conservator or attorney-in-fact has been appointed for a rebate applicant
+ otherwise qualified to claim a rebate under this Section, the guardian, conservator
+ or attorney-in-fact may act for such applicant in claiming the rebate.
+ (d)
+Administration.
+ (1)
+ The Director of Finance shall administer the rebate program as established in this
+Section 23.36.010
+ and shall prepare such forms and adopt such regulations consistent with this Section
+ as he or she deems necessary to implement same. The Director of Finance shall also
+ make known the provisions of this Section by annual written notice to County Senior
+ Services, the County Department of Social Services and such other agencies serving
+ the elderly as he or she may deem appropriate.
+ (2)
+ The Director of Finance shall review the income eligibility limits as specified in
+ this 
+Section 23.36.010
+ on an annual basis and report to the City Council at the time of the adoption of
+ the municipal budget as to whether such limits should be increased, decreased or otherwise
+ modified.
+ (e)
+Rebate program termination.
+ Unless otherwise provided by affirmative legislative action of the City Council,
+ the rebate program as provided in 
+Section 23.36.010
+ shall automatically terminate upon the repeal or nonrenewal of the three (3) mill
+ levy for municipal capital improvements as first adopted by the City pursuant to Ordinance
+ No. 51 (Series of 1990). Any application for rebate pending at the time of termination
+ of the program and not acted upon shall be processed to completion in accordance with
+Section 23.36.010
+ and all persons subsequently found eligible for a rebate shall receive same.
+ (Code 1971, § 21-16; 
+Ord. No. 1-1991
+, § 1)
+
+===== Chapter 23.40. -         TELEPHONE COMPANIES        
+Footnotes: 
+ --- (
+5
+) ---
+Editor's note—
+ Article IV [Ch. 23.40], §§ 21-86—21-93, is derived from Ord. No. 75-1979, §§ 1—8,
+ which ordinance was nonamendatory of this Code.
+
+===== Sec. 23.40.010. - Tax imposed; amount.
+There is hereby levied on and against each telephone utility company operating within
+ the City (hereinafter called the "City") a tax on the occupation and business of maintaining
+ a telephone exchange and lines connected therewith in the City and of supplying local
+ exchange telephone service to the inhabitants of the City. The annual amount of tax
+ levied hereby shall be equal to six dollars ($6.00) per telephone account for which
+ local exchange telephone service is provided within the corporate limits of the City
+ on the effective date as provided in 
+Section 23.40.020
+ below and upon each anniversary of the effective date. The annual amount of tax levied
+ may be amended yearly prior to the anniversary of the effective date hereof by the
+ adoption of an ordinance of the City Council of the City.
+ (Code 1971, § 21-86; 
+Ord. No. 75-1979
+, § 1)
+
+===== Sec. 23.40.020. - When tax due and payable.
+The tax levied by this Chapter shall commence on December 1, 1979, and shall be due
+ and payable in four (4) equal quarterly installments with the first such installment
+ due ninety (90) days after the effective date.
+ (Code 1971, § 21-87; 
+Ord. No. 75-1979
+, § 2)
+
+===== Sec. 23.40.030. - Filing of statement of accounts required.
+Within thirty (30) days after the effective date as provided in 
+Section 23.40.020
+, each telephone utility company subject to this Chapter shall file with the City
+ Clerk, in such form as the Clerk may require, a statement showing the total telephone
+ accounts for which local exchange telephone service was provided within the corporate
+ limits of the City on the effective date. Such statement shall be filed within thirty
+ (30) days after each anniversary of the effective date showing such accounts on the
+ anniversary date.
+ (Code 1971, § 21-88; 
+Ord. No. 75-1979
+, § 3)
+
+===== Sec. 23.40.040. - Failure to pay tax.
+If any telephone utility company subject to the provisions of this Chapter shall fail
+ to pay the taxes as herein provided, the full amount thereof shall be due and collected
+ from such company, and the same together with an addition of eighteen percent (18%)
+ of the amount of taxes due shall be and hereby is declared to be a debt due and owing
+ from such company to the City. The City Attorney of the City upon direction of the
+ City Council shall commence and prosecute to final judgment and determination in any
+ court of competent jurisdiction an action at law to collect the said debt in the name
+ of the people of the State.
+ (Code 1971, § 21-89; 
+Ord. No. 75-1979
+, § 4)
+
+===== Sec. 23.40.050. - Failure to file statement of accounts.
+If any officer, agent or manager of a telephone utility company which is subject to
+ the provisions of this Chapter shall fail, neglect or refuse to make or file the annual
+ statement of accounts provided in 
+Section 23.40.030
+ above, the said officer, agent, manager or person shall, on conviction thereof, be
+ punished by a fine not less than twenty-five dollars ($25.00) nor more than three
+ hundred dollars ($300.00); provided that each day after said statement shall become
+ delinquent during which the said officer, agent, manager or person shall so fail,
+ neglect or refuse to make and file such statement shall be considered a separate and
+ distinct offense.
+ (Code 1971, § 21-90: 
+Ord. No. 75-1979
+, § 5)
+
+===== Sec. 23.40.060. - Examination of books, records.
+The City, its officers, agents or representatives shall have the right, at all reasonable
+ hours and times, to examine the books and records of the telephone utility company,
+ which are subject to the provisions of this Chapter and to make copies of the entries
+ or contents thereof.
+ (Code 1971, § 21-91; 
+Ord. No. 75-1979
+, § 6)
+
+===== Sec. 23.40.070. - Tax not upon those functions relating to interstate commerce.
+The tax herein provided is upon occupations and businesses in the performance of local
+ functions and is not a tax upon those functions relating to interstate commerce. It
+ is expressly understood that none of the terms of this Chapter be construed to mean
+ that any telephone utility company is issued a franchise by the City.
+ (Code 1971, § 21-92; 
+Ord. No. 75-1979
+, § 7)
+
+===== Sec. 23.40.080. - Tax in lieu of other payments other than ad valorem taxes.
+The tax herein provided shall be in lieu of all other payments by or fees and taxes
+ on any telephone utility subject to the provisions of this Chapter, other than ad
+ valorem taxes, and in addition shall be in lieu of any free service furnished the
+ City by any said telephone utility.
+ (Code 1971, § 21-93; 
+Ord. No. 75-1979
+, § 8)
+
+===== Sec. 23.40.090. - Administration.
+The Director of Finance shall administer this 
+Chapter 23.40
+ and shall prepare such forms and adopt such regulations consistent with this Chapter,
+ as he or she deems necessary to implement the same. This 
+Chapter 23.40
+ shall be administered in accordance with 
+Chapters 23.04
+ through 
+23.28
+ of this Title to the extent that they do not conflict with the provisions of this
+ Chapter, for all taxes due or paid after November 1, 2000.
+ (
+Ord. No. 46-2000
+, § 2)
+
+===== Chapter 23.44. - OCCUPATION TAX
+
+
+===== Sec. 23.44.010. - Definitions.
+Whenever in this Chapter the words hereinafter defined or construed in this Section
+ are used, they shall, unless the context requires otherwise, be deemed to have the
+ following meaning:
+Business
+ shall mean any business, trade, occupation, profession or calling of any kind.
+Employee
+ means any person working for pay under the control and direction of an employer.
+Engaged in business
+ shall mean to carry on or take part in the operation of a business as owner, operator
+ or agent.
+Person
+ includes any individual, partnership, association, organization or corporation.
+ (Code 1971, § 21-100; 
+Ord. No. 62-1981
+, § 1)
+
+===== Sec. 23.44.020. - Legislative intent.
+The City Council finds and determines that the businesses and occupations in the City
+ depend for their welfare to a large extent on municipal expenditures. Desiring to
+ have a proper, just and equitable distribution of the tax burdens within the City
+ and considering all matters proper in relation thereto, the City Council finds that
+ the tax imposed on each business herein defined is reasonable, proper, uniform and
+ nondiscriminatory and necessary for a just and proper distribution of the tax burdens
+ within the City.
+ (Code 1971, § 21-101; 
+Ord. No. 62-1981
+, § 1)
+
+===== Sec. 23.44.030. - Tax levy.
+There is hereby levied and assessed for the period of January 1 to December 31 of
+ each year, commencing January 1, 1992, an occupation tax upon every business not exempt
+ from the provisions of this Chapter, based on the number of employees of said business
+ performing within the City, as follows:
+Employees
+ | 
+Tax
+ | 
+ Less than 6
+ | 
+ $150.00
+ | 
+ More than 5, but less than 16
+ | 
+ 200.00
+ | 
+ More than 15, but less than 51
+ | 
+ 400.00
+ | 
+ More than 50
+ | 
+ 750.00
+ | 
+ The number of employees shall be computed on a monthly average during the preceding
+ year. In the event that a business ceases operation during the year, the number of
+ employees shall be computed on the monthly average during the time it was in operation.
+ The number of employees for a new business shall be computed on the estimated monthly
+ average for the ensuing twelve (12) months. For the purpose of this Section, an owner
+ shall be counted as an employee. The tax herein provided is upon business in the performance
+ of local functions and is not a tax upon the functions related to interstate commerce.
+ (Code 1971, § 21-102; 
+Ord. No. 62-1981
+, § 1; 
+Ord. No. 49-1988
+, § 1; 
+Ord. No. 44-1991
+, § 13)
+
+===== Sec. 23.44.040. - Exemptions.
+The following are exempt from the payment of an occupation tax:
+ (a)
+ An employee;
+ (b)
+ Any business exempted by federal or state law;
+ (c)
+ Any business subject to the liquor occupation tax assessed under 
+Title 5
+ of this Code;
+ (d)
+ Any business or enterprise specifically described in 
+Section 14.08.050
+ of this Code as being exempt from the requirement of procuring a business license.
+ (Code 1971, § 21-103; Ord. 
+No. 62-1981
+, § 1)
+
+===== Sec. 23.44.050. - Business tax return.
+Every person engaged in business in the City, unless exempt from the occupation tax
+ by law, shall make and file a business tax return with the Finance Director on a form
+ provided by the City. The return shall show the name and address of the place of business,
+ the number of employees and persons engaged in the operation of the business, together
+ with such other information as may be required by the Finance Director. The return
+ shall be filed and the tax paid on or before January 1st of each year. However, a
+ new business shall file its first return prior to the starting of the business and
+ thereafter on or prior to January 1st of each year.
+ (Code 1971, § 21-104; 
+Ord. No. 62-1981
+, § 1)
+
+===== Sec. 23.44.060. - Tax payment.
+If not paid on or before the first day of January of each year, the tax shall become
+ delinquent on January 2nd of the same year as to all persons engaged in business.
+ All persons engaged in business for a period of less than one (1) year shall have
+ the tax become due and payable prior to the time the person engages in the business,
+ and shall pay the full amount of the tax for each year or any portion thereof. Upon
+ receipt of the tax, it shall be the duty of the Finance Director to execute and deliver
+ to the person paying the tax a revenue receipt showing the name of the person paying
+ the tax, the date of payment, the business paying the tax, the period for which the
+ tax is paid and the place in which the person conducts his business. No refund shall
+ be made to any person who discontinues business during the taxable year. Interest
+ shall accrue on all delinquent taxes from the day of delinquency until paid or collected
+ at the rate of one-and-one-half percent (1½%) per month.
+ (Code 1971, § 21-105; 
+Ord. No. 62-1981
+, § 1)
+
+===== Sec. 23.44.070. - Fees cumulative.
+The payment of the tax imposed by this Chapter shall not relieve the person paying
+ the same from the payment of any other tax now or hereinafter imposed by any ordinance
+ for any business he or she may carry on unless so provided by the ordinance imposing
+ the tax, it being the intent of this Chapter that the occupation tax prescribed in
+ this Chapter applicable to any business shall be cumulative except where otherwise
+ specifically provided.
+ (Code 1971, § 21-106; 
+Ord. No. 62-1981
+, § 1)
+
+===== Sec. 23.44.080. - Separate tax for separate place of business.
+Every person doing business in more than one (1) store, stand or other place of business
+ shall pay a separate tax for each place of business unless such places of business
+ are contiguous to each other. The business may be transferred from one (1) location
+ to another without the payment of additional tax, after giving written notice to the
+ Finance Director.
+ (Code 1971, § 21-107; 
+Ord. No. 62-1981
+, § 1)
+
+===== Sec. 23.44.090. - Unlawful procedure.
+It shall be unlawful for any person or his agent to engage in or carry on a business
+ within the City for which an occupation tax is required without first having paid
+ the tax and obtained a revenue receipt as herein provided. For the purpose of this
+ Section, the opening of a place of business or offering to sell followed by a single
+ sale or the doing of any act or thing in the furtherance of the business shall be
+ construed to be engaging in or carrying on such business.
+ (Code 1971, § 21-108; 
+Ord. No. 62-1981
+, § 1)
+
+===== Sec. 23.44.100. - Civil action for recovery tax due.
+The City shall have the right to recover all sums due under the terms of this Chapter
+ by judgment and execution thereon in a civil action in any court of competent jurisdiction.
+ Such remedies shall be cumulative with all other remedies provided herein for the
+ enforcement of this Chapter.
+ (Code 1971, § 21-109; 
+Ord. No. 62-1981
+, § 1)
+
+===== Sec. 23.44.110. - Violation; penalty.
+Failure to comply with the terms of this Chapter by payment of taxes, filing of a
+ return and otherwise complying with the terms of this Chapter shall constitute an
+ offense in violation thereof, punishable, upon conviction, by a fine, imprisonment
+ or both a fine and imprisonment, as set forth in 
+Section 1.04.080
+ of this Code. Each day that any person shall carry on or engage in any business without
+ payment of the tax shall be deemed a separate offense.
+ (Code 1971, § 21-110; 
+Ord. No. 62-1981
+, § 1; 
+Ord. No. 12-1996
+, § 14)
+
+===== Sec. 23.44.120. - Administration.
+The Director of Finance shall administer this 
+Chapter 23.44
+ and shall prepare such forms and adopt such regulations consistent with this Chapter,
+ as he or she deems necessary to implement the same. This 
+Chapter 23.44
+ shall be administered in accordance with 
+Chapters 23.04
+ through 
+23.28
+ of this Title, to the extent that they do not conflict with the provisions of this
+ Chapter, for all taxes due or paid after November 1, 2000.
+ (
+Ord. No. 46-2000
+, § 3)
+
+===== Chapter 23.48. - REAL ESTATE TRANSFER TAX
+
+
+===== Sec. 23.48.010. - Definitions.
+For the purposes of this Chapter, certain words are defined as follows:
+Consideration
+ means and includes the actual cash paid and/or value of the property delivered, or
+ contracted to be paid or delivered, in return for the transfer of ownership or title
+ to real property and shall include the amount of any lien, mortgage, contract indebtedness,
+ or other encumbrance, either given to secure the purchase price or any part thereof,
+ or remaining unpaid on the property at the time of sale. The term does not include
+ the amount of any outstanding lien or encumbrance in favor of the United States, the
+ State or of a municipal or quasi-municipal governmental corporation or district for
+ taxes, special benefits or improvements.
+Conveyance of ownership
+, for the purpose of this Chapter, means and includes the transfer of more than fifty
+ percent (50%) of the authorized and issued shares of a corporation which has as its
+ principal asset real property situated in the City.
+Deed In Lieu of Foreclosure
+: A conveyance by a property owner to a secured party or wholly owned subsidiary of
+ the secured party of property which is the subject of a mortgage, deed of trust, or
+ other security instrument in consideration of the cancellation of all or part of the
+ indebtedness secured by such security instrument or release of the debtor or guarantor
+ from any personal liability on account of such indebtedness.
+Document
+ means and includes any deed, instrument or writing by which real property located
+ within the City is transferred.
+Real property
+ means and includes all lands or interests in lands within the City to which title
+ or the right to title has been acquired from or ratified by the government of the
+ United States or the State, and shall be construed as coextensive in meaning with
+ the terms "land," "tenements" and "hereditaments" and as embracing all mining claims
+ and other claims and chattels real.
+Transfer
+ means and includes any conveyance of the ownership of a title to real property and
+ is evidenced by any deed or instrument or writing wherein or whereby title to real
+ property situated in the City is granted or conveyed, subject to the exclusions provided
+ in this Chapter.
+ (Code 1971 § 21-120; 
+Ord. No. 67-1994
+, § 1 [part]; 
+Ord. No. 37-2001
+, § 1; 
+Ord. No. 8-2010
+)
+
+===== Sec. 23.48.020. - Lands affected.
+When a document subject to this Chapter includes property located within the City
+ and property located within another City or in the County or other counties, the tax
+ imposed under the authority of this Chapter shall be computed only with respect to
+ property located within the City and the tax shall be assessed on that part of the
+ consideration fairly attributable to the part of such property located within this
+ City.
+ (Code 1971, § 21-121; 
+Ord. No. 67-1994
+, § 1 [part])
+
+===== Sec. 23.48.030. - Director of Finance to enforce.
+(a)
+ The Director of Finance of the City is charged with the enforcement of the provisions
+ of this Chapter and is hereby authorized and empowered to prescribe, adopt and promulgate
+ and enforce rules and regulations pertaining thereto.
+ (b)
+ At the time of any transfer upon which a tax is imposed by this Chapter there shall
+ be made a report to the Director of Finance on forms prescribed by him, setting forth
+ the true, complete and actual consideration for the transfer, the names of the parties
+ thereto, the location of the real estate transferred and such other information as
+ he or she may require.
+ (c)
+ For the purpose of collection of the taxes imposed by this Chapter, the office of
+ the County Clerk and Recorder, together with all banks, title companies, escrow companies,
+ building and loan institutions and real estate agencies permitted as such to do business
+ under the laws of the State and maintaining offices within the City are hereby appointed
+ as authorized agents for the City for the collection of said tax. The Director of
+ Finance is authorized to negotiate with such appointed agents to allow them to retain
+ a reasonable amount of the sum collected to cover their expense in the collection
+ and remittance of said tax.
+ (d)
+ Notwithstanding the provisions of 
+Section 23.48.040
+, if an artifice or device is employed in connection with the transfer of real property,
+ which term "artifice or device" means a transaction or transactions a substantial
+ purpose of which was to evade the provisions of this Chapter and the imposition of
+ the tax hereunder, then such transfer will nevertheless be subject to the real estate
+ transfer tax. "Artifice or device" includes but is not limited to (1) a transfer to
+ a corporation, partnership, limited partnership, joint venture, business trust, or
+ other association or organization followed within three (3) years by an assignment
+ of the controlling interest in such association or organization, or (2) such a transfer
+ plus the intent to ultimately assign the controlling interest in such association
+ or organization.
+ (Code 1971, § 21-122; 
+Ord. No. 67-1994
+, § 1 [part]; 
+Ord. 8-2010
+)
+
+===== Sec. 23.48.040. - Exemptions.
+The real estate transfer tax imposed by this Chapter shall not apply to:
+ (a)
+ Any document wherein the United States, or any agency or instrumentality thereof,
+ the State, any county, city and county, municipality, district or other political
+ subdivision of this State is either the grantor or grantee;
+ (b)
+ Any document wherein the grantee corporation, association or trust has been organized,
+ operated and maintained solely and exclusively for charitable or religious purposes;
+ (c)
+ Any document granting or conveying title to real property in consequence of a gift
+ of such property, where no consideration other than love and affection, charitable
+ donation or nominal compensation is evidenced by the terms of the instrument of transfer;
+ (d)
+ Any document terminating or evidencing termination of a joint tenancy in real property
+ except where additional consideration of value is paid in connection with such termination,
+ or a decree or agreement partitioning real property held under common ownership unless
+ a consideration of value is paid in connection therewith;
+ (e)
+ The transfer of title or change of interest in real property by reason of death, will
+ or decree of distribution;
+ (f)
+ Transfers made pursuant to mergers or consolidations of corporations, or by a subsidiary
+ to a parent corporation for no consideration other than cancellation or surrender
+ of the subsidiary's stock;
+ (g)
+ Any deed or conveyance made and delivered without consideration for the purpose of
+ confirming, correcting, modifying or supplementing a transfer previously recorded;
+ making minor boundary adjustments, removing clouds on titles or granting easements,
+ rights-of-way or licenses;
+ (h)
+ Any decree or order of a court of record determining or resting title, including a
+ final order awarding title pursuant to a condemnation proceeding;
+ (i)
+ Any deed granting or conveying title to cemetery lots;
+ (j)
+ Any lease of any real property (or assignment or transfer of any interest in any such
+ lease) provided such lease by its terms does not constitute a de facto conveyance
+ of the subject property. In the latter event the real estate transfer tax shall be
+ based upon the capitalization at five percent (5%) of the average annual rental over
+ the entire term of the lease, including any renewal term, plus the actual consideration,
+ other than rent, paid or to be paid. When the average annual rental cannot be determined,
+ or at the election of the Director of Finance, the tax shall be based upon the assessed
+ value of the property covered by the lease;
+ (k)
+ Any mineral deed or royalty deed;
+ (l)
+ Transfers to secure a debt or other obligation, or transfers or release of property
+ which is security for a debt or other obligation;
+ (m)
+ Any executory contract for the sale of real property under which the vendee is entitled
+ to or does take possession thereof without acquiring title thereto, or any assignment
+ or cancellation of any such contract;
+ (n)
+ Any deed or conveyance under execution, sale, or foreclosure sale under a power sale
+ or court decree of lien foreclosure; sheriff's deed; public trustee deed or treasurer's
+ deed or deed in lieu of foreclosure provided that the person holding the obligation
+ or instrument upon which the proceeding or sale is based intends, as market conditions
+ will allow, to resell the property in order to satisfy the obligation. If the property
+ is not sold within two (2) years, or within any extension of such time beyond two
+ (2) years as the Finance Director shall allow for good cause shown, then the transfer
+ shall be considered an "artifice" as provided for in this Chapter and taxable as provided
+ for in this Chapter. The Finance Director may place a lien on the subject property
+ equal to the amount of tax that may be levied or other form of security acceptable
+ to the Finance Director.
+ (Code 1971, § 21-123; 
+Ord. No. 67-1994
+, § 1 [part]; 
+Ord. No. 8-2010
+)
+
+===== Sec. 23.48.050. - Application for exemption.
+In the event any document which is exempt from the real estate transfer tax herein
+ imposed does not contain language clearly showing its exempt character, the grantor
+ or grantee may apply for and obtain from the Director of Finance a Certificate of
+ Exemption, which may be affixed to such deed or instrument of transfer. The Certificate
+ of Exemption shall be in substantially the following form:
+ EXEMPTION FROM REAL ESTATE TRANSFER TAX
+ STATE OF ___________ )
+              ) ss.
+ County of ___________ )
+ The undersigned, as grantor or grantee of a deed or instrument of conveyance from___________(grantor)
+ to___________(grantee) dated ___________ transferring the following described property
+ situated in the State of Colorado, County of Pitkin and City of Aspen:
+ (Legal Description)
+ hereby does apply for an exemption from the payment of the Real Estate Transfer Tax
+ imposed by Section ___________ of this Code of the City. The basis of such exemption
+ is as follows:
+ (State briefly grounds for exemption, including applicable section and subdivision
+ of Municipal Code.)
+ (Signature)___________
+ Subscribed and sworn to before me this ___ day of ___________20___.
+ (Signature)___________
+ Notary Public
+ My commission expires: ___________
+ CERTIFICATE OF EXEMPTION
+ I hereby certify that the above-described transfer of real property is exempt from
+ the payment of a Real Estate Transfer Tax under Section ___________ of the Aspen Municipal
+ Code.
+ (Signature)___________
+ Any person whose claim of exemption duly applied for under the provisions of this
+ Section is denied by the Director of Finance may immediately appeal to the City Council
+ for a determination of such exemption and such appeal shall be considered by the City
+ Council at its next regular meeting. In the event of a determination by the City Council
+ favorable to said grantor, any amount previously deposited, or so much thereof as
+ may be allowed by the Council, shall be promptly refunded to said grantor.
+ (Code 1971, § 21-124; 
+Ord. No. 67-1994,
+ § 1 [part])
+
+===== Sec. 23.48.060. - Wheeler Opera House real estate transfer tax.
+(a)
+Tax imposed.
+ There is hereby imposed a real estate transfer tax on every document in writing,
+ wherein or whereby title to real property situated in the City is transferred, which
+ tax shall be measured by the consideration paid or to be paid for such grantor conveyance
+ and shall be due and payable by the grantee at the time of transfer and contemporaneously
+ therewith. No document shall be recorded whereby or wherein title to real property
+ situated in the City is transferred until the real estate transfer tax has been paid.
+ (b)
+Amount of tax.
+ The amount of real estate transfer tax payable shall be computed at the rate of one-half
+ of one percent (.5%) of the consideration paid in return for the transfer of ownership
+ or title.
+ (c)
+Application of funds.
+ All funds received by the City of Aspen pursuant to this 
+Section 23.48.060
+ shall be deposited in the Wheeler Opera House real estate transfer tax special revenue
+ fund, which fund is hereby created. The account shall be subject to appropriation
+ by the City Council of the City of Aspen for the purpose of renovation, reconstruction
+ and maintenance of the Wheeler Opera House, for the payment of principal and interest
+ on bonds issued for such purposes and for the purpose of supporting the cultural,
+ visual and performing arts, including, but not limited to, the capital and operational
+ support of the Red Brick Center for the Arts. The City Council, pursuant to ordinance,
+ and without an election, may borrow money, issue bonds, or otherwise extend the credit
+ of the city for renovation and reconstruction of the Wheeler Opera House provided
+ that the bonds or other obligations shall be made payable from the funds derived from
+ this Chapter. For purposes of this Section, the following definitions shall apply:
+ "Renovation, Reconstruction and Maintenance" shall be defined as those activities,
+ operations, or physical improvements necessary to ensure a performing arts venue that
+ provides arts programming opportunities to the citizens of the community.
+ (d)
+Effective date.
+ The provisions of this 
+Section 23.48.060
+ shall be effective on the first day of January 1980.
+ (e)
+Duration of ordinance.
+ This 
+Section 23.48.060
+ shall continue effective insofar as the levy of the real estate transfer tax is concerned
+ through December 31, 2039; and insofar as the collection of the tax levied in the
+ aforesaid period and actions or proceedings for collecting any tax so levied, including
+ interest and penalties thereon and enforcing any of the provisions of this Chapter
+ are concerned, this Chapter shall continue effective until all of said taxes levied
+ in the aforesaid period are fully paid and any and all suits and prosecutions for
+ the collection of said taxes and for the punishment of violations of this Chapter
+ shall have been fully terminated.
+ (f)
+Provisions irreplaceable or unamendable.
+ Subsections (b) and (c) of this 
+Section 23.48.060
+ providing for the amount of the tax and the application of funds shall be and remain
+ irrepealable and unamendable without the approval of the electorate for the repeal
+ or amendment pursuant to the requirements of 
+Section 12.1
+ of the Charter of the City.
+ (g)
+Administration.
+ The Director of Finance shall administer this 
+Section 23.48.060
+ and shall prepare such forms and adopt such regulations consistent with this Chapter,
+ as he or she deems necessary to implement the same. 
+The Arts and Non Profit Grant Review Committee for the City of Aspen shall submit
+ a report to the City Council on an annual basis describing funding activities for
+ the past year and the available funds for the support of the purposes set forth herein,
+ including the visual and performing arts for the next fiscal year.
+ This 
+Section 23.48.060
+ shall be administered in accordance with 
+Chapters 23.04
+ through 
+23.28
+ of this Title, to the extent that they do not conflict with the provisions of this
+ Section, for all taxes due or paid after November 1, 2000.
+ (Code 1971, § 21-125; 
+Ord. No. 67-1994,
+ § 1 [part]; 
+Ord. No. 46-2000
+, § 4; 
+Ord. No. 11-2008
+; Ord. No. 
+19-2021
+, §§ 1, 2, 8-31-2021)
+
+===== Sec. 23.48.061. - Reserved.
+Editor's note— 
+ Ord. No. 
+19-2021
+, § 3, adopted Aug. 31, 2021, repealed § 23.48.061, which pertained to the Wheeler
+ Opera House Endowment Fund and derived from Ord. No. 
+46-2002
+, § 1; and 
+Ord. No. 3-2010
+.
+
+===== Sec. 23.48.070. - Affordable housing real estate transfer tax.
+(a)
+Tax imposed.
+ There is hereby imposed a real estate transfer tax on every document in writing,
+ whereby title to real property situated in the City is transferred, which tax shall
+ be measured by the consideration paid or to be paid for such grant or conveyance and
+ shall be due and payable by the grantee at the time of transfer contemporaneously
+ therewith. The document shall not be recorded whereby or wherein title to real property
+ situated in the City is transferred until the real estate transfer tax has been paid
+ or exempted.
+ (b)
+Amount of tax.
+ The amount of real estate transfer tax payable shall be computed at the rate of one
+ percent (1%) of the consideration paid in return for the transfer of ownership or
+ title.
+ (c)
+Additional exemptions from tax.
+ In addition to the exemptions set forth at 
+Section 23.48.040
+, the real estate transfer tax imposed by this 
+Section 23.48.070
+ shall not apply to:
+ (1)
+ All deed-restricted employee housing subject to the Aspen/Pitkin County Housing Authority
+ Guidelines, as amended from time to time; and
+ (2)
+ The first one hundred thousand dollars ($100,000.00) of all transactions.
+ (d)
+Application of funds.
+ (1)
+ All funds received by the City pursuant to this 
+Section 23.48.070
+ shall be deposited in a separate fund. The funds shall be subject to appropriation
+ by City Council of the City, or its designee, only for the purpose of acquiring vacant
+ land, acquiring buildings for the purpose of employee housing, for the construction,
+ reconstruction of employee housing, maintenance of employee housing buildings and
+ property, for the operation of employee/community housing projects, for the payment
+ of principal and interest on the bonds issued for such purposes and incidental costs
+ of issuing the bonds and the funding of any reserve therefore and for repayment to
+ the Land Fund for open space acquisitions converted to employee housing purposes and
+ for payment of all costs including, without limitation, legal fees associated therewith.
+ (2)
+ The City Council, pursuant to ordinance, and without an election, may borrow money,
+ issue bonds, or otherwise extend the credit of the City for the acquisition of vacant
+ land, acquisition of existing buildings for employee housing, construction and reconstruction
+ of employee housing, maintenance of employee housing repayment to the Land Fund for
+ open space acquisitions converted to employee housing purposes and operation of employee
+ housing projects, providing that such bonds or other community obligations shall be
+ made payable from the funds derived from this Section.
+ (e)
+Effective date.
+ The provisions of this 
+Section 23.48.070
+ shall be effective upon the last day of April, 1990.
+ (f)
+Duration of tax.
+ This Section shall continue effective insofar as the levy of the real estate transfer
+ tax is concerned through December 31, 2060, and insofar as the collection of the tax
+ levied in the aforesaid period and actions for proceedings for collecting any tax
+ so levied, including interest and penalties thereon, and enforcing any of the provisions
+ in this Section are concerned, this Section shall continue effective until all of
+ said taxes levied in the aforesaid period are fully paid and any and all suits or
+ prosecutions for the collection of said tax and for the punishment of violations of
+ this Chapter shall have been fully terminated.
+ (g)
+Provisions irrepealable or unamendable.
+ Subsections (b) and (d) of this 
+Section 23.48.070
+ providing for the amount of the tax and the application of the funds shall be and
+ remain irrepealable and unamendable without the approval of the electorate of the
+ repeal or the amendment pursuant to the requirements of 
+Section 12.1
+ of the Charter of the City.
+ (h)
+Administration.
+ The Director of Finance shall administer this 
+Section 23.48.070
+ and shall prepare such forms and adopt such regulations consistent with this Chapter,
+ as he or she deems necessary to implement the same. This 
+Section 23.48.070
+ shall be administered in accordance with 
+Chapters 23.04
+ through 
+23.28
+ of this Title, to the extent that they do not conflict with the provisions of this
+ Section, for all taxes due or paid after November 1, 2000.
+ (Code 1971, § 21-126; 
+Ord. No. 67-1994,
+ § 1 (part); Ord. 
+No. 46-2000,
+ § 5; 
+Ord. No. 19-2001
+ § 1; Res. No. 
+81-2008
+, § 2, 8-25-2008; Ord. No. 
+08-2024
+, § 3, 8-27-2024)
+
+===== Sec. 23.48.080. - Penalties and liens.
+(a)
+ All taxes imposed by this Chapter, if not paid when due, shall bear interest at the
+ rate of eighteen percent (18%) per annum until so paid. The amount of the real estate
+ transfer tax imposed by this Chapter and interest due thereon is hereby assessed against
+ the property upon the transfer of which said tax is imposed, and if not paid when
+ due, such tax and interest, if any, shall constitute a lien on the property for the
+ amount thereof, which lien shall continue until the amount thereof is paid or until
+ it is discharged of record by foreclosure or otherwise.
+ (b)
+ Any person who shall fail or refuse to pay any tax due thereunder shall be punished
+ by a fine not exceeding three hundred dollars ($300.00), or imprisonment for a period
+ of not more than ninety (90) days or both such fine and imprisonment.
+ (c)
+ Any remedies provided for herein shall be cumulative, not exclusive and shall be in
+ addition to any other remedies provided by law.
+ (Code 1971, § 21-127; 
+Ord. No. 67-1994
+, § 1 [part])
+
+===== Chapter 23.50. - VISITOR BENEFIT TAX
+
+
+===== Sec. 23.50.010. - Legislative intent.
+The City Council declares that the enactment of a two percent (2.0%) visitor benefit
+ tax and the expenditure of the receipts of such a tax for the promotion of tourism
+ and transportation services within the Roaring Fork Valley will serve a public purpose,
+ will promote the health, safety, prosperity, security and general welfare of the inhabitants
+ and visitors of the City. It is the intent of the City Council to impose a tax upon
+ the leasing or renting of rooms or other accommodations in commercial lodging accommodations
+ by transient persons. The person to whom the accommodations are rented shall pay the
+ tax and the person from whom the accommodations are rented shall be required to collect
+ the tax.
+ (
+Ord. No. 45-2000
+, § 1; 
+Ord No. 31-2010
+ § 2)
+
+===== Sec. 23.50.020. - Definitions.
+As used in this Chapter, unless the context requires otherwise, the following words
+ and phrases shall have the following meanings:
+Accommodation
+ means the providing of a room, space, lodging service or other accommodations at
+ a taxable premises to any person who, for consideration, uses or possesses such room,
+ space, lodging service or other accommodation for a total continuous duration of less
+ than thirty (30) consecutive calendar days.
+Fund
+ means the tourism promotion fund defined in 
+Section 23.50.050
+ of this Code.
+Purchaser
+ means any natural person, or legal entity acting through a natural person, to who
+ accommodations are provided.
+Rent
+ means the consideration received, or compensation charged, for the providing of accommodations.
+Taxable premises
+ means any hotel, apartment-hotel, motel, guest home, condominium, townhouse, townhome,
+ lodge, motor lodge, trailer court, campground or bed and breakfast establishment.
+Tourism
+ means the guidance, management, promotion, encouragement or accommodation of tourists.
+Vendor
+ means any natural person or business entity that provides accommodations for rent
+ at a taxable premises.
+ (
+Ord. No. 45-2000
+, § 1 [part])
+
+===== Sec. 23.50.030. - Imposition of tax.
+There is hereby imposed a visitor benefit tax of two percent (2.0%) upon the rent
+ paid or charged for accommodations provided by a vendor to a purchaser at a taxable
+ premises.
+ (
+Ord. No. 45-2000
+, § 1; 
+Ord. No. 31-2010
+, § 3)
+
+===== Sec. 23.50.040. - Receipts, disposition.
+All monies collected or remitted in accordance with this Chapter shall be credited
+ to the separate fund created by 
+Section 23.50.050
+ below of this Code, and shall be kept separate and distinct from the general fund
+ or any other separate funds maintained by the City.
+ (
+Ord. No. 45-2000
+, § 1 [part])
+
+===== Sec. 23.50.050. - Tourism promotion fund.
+(a)
+ There is hereby created a special separate fund to be known as the City Tourism Promotion
+ Fund. Said fund shall be separate and distinct from any other funds or accounts used
+ or maintained by the City for any other purposes. The monies of said fund shall be
+ expended only for the purposes set forth herein and no others.
+ (b)
+ The fund shall consist of:
+ (1)
+ All monies deposited or transferred thereto in accordance with 
+Section 23.50.040
+ above of this Chapter;
+ (2)
+ Contributions of money, property or services received for use in carrying out the
+ purposes of the fund from any person, corporation or association; and
+ (3)
+ All monies otherwise made available to the fund from whatever source.
+ (c)
+ Any monies not appropriated shall remain in the fund and shall not be transferred
+ to or revert to the general fund of the City at the end of any fiscal year. Any interest
+ earned on the investment or deposit of monies of the fund shall remain in the fund
+ and shall not be credited to the general fund of the City.
+ (d)
+ Twenty-five percent (25%) of all monies in the fund shall be dedicated to transportation
+ services as described below and seventy-five percent (75%) of all monies in the fund
+ shall be dedicated for tourism promotion activities as described below. All appropriations
+ of monies from the fund shall be made by the City Council and only in accordance with
+ the above-described dedication of those funds.
+ (e)
+ Funds dedicated to transportation service in accordance with this Section shall be
+ appropriated by the City Council only for the following purposes:
+ (1)
+ To pay for regional transportation services as provided by the Roaring Fork Regional
+ Transportation Authority or the Roaring Fork Transportation Agency;
+ (2)
+ To contribute to local public transportation services within the City and its immediate
+ environs; or
+ (3)
+ To defray administrative and clerical costs of collecting and administering the tax,
+ provided such expenditures do not exceed the actual costs of such administrative and
+ clerical costs.
+ (f)
+ Funds dedicated to tourism promotion in accordance with this Section shall be appropriated
+ by the City Council to a professional marketing entity such as the Aspen Chamber Resort
+ Association upon the submission and approval of a budget prepared by the Aspen Chamber
+ Resort Association, or other similar organization, only for the following purposes:
+ (1)
+ Planning and implementing the advertisement, promotion and development of tourism
+ and special events in the City;
+ (2)
+ Tourism advertising, written and graphic materials and cooperative and matching promotional
+ materials:
+ (3)
+ Gathering and disseminating information on the tourist industries and attractions
+ of the City;
+ (4)
+ Purchasing such equipment, materials and supplies as shall be necessary, to be used
+ solely for tourist promotion;
+ (5)
+ Contracting for those services and materials as may be incidental, necessary and appropriate
+ to the accomplishment of the purposes of the fund, including but not limited to, administrative,
+ secretarial, clerical or professional services deemed necessary;
+ (6)
+ Attracting conferences, conventions and meetings of a commercial, cultural, educational
+ or social nature to the City;
+ (7)
+ Attracting sporting events and social and cultural events sponsored by nonprofit organizations;
+ (8)
+ Defraying administrative and clerical costs of collecting and administering the tax,
+ provided such expenses do not exceed the actual costs of such administrative and clerical
+ costs.
+ (9)
+ At the discretion of and upon such terms and conditions as may be imposed by City
+ Council, providing funds to support the acquisition or maintenance of administrative
+ space for the professional marketing entity as may be incidental, necessary and appropriate
+ to the accomplishment of the purposes of the fund during the term, and any extensions
+ thereof, of a tourism promotion agreement.
+ (10)
+ Maintaining a capital reserve in an amount determined by the marketing entity and
+ City Council annually.
+ (
+Ord. No. 45-2000
+, § 1; 
+Ord. No. 31-2010
+ § 4; Ord. No. 
+07-2025
+, § 1, 8-26-2025)
+
+===== Sec. 23.50.060. - Administration.
+The administration of this Chapter is hereby vested in the Finance Director. The Finance
+ Director shall prescribe forms and administrative procedures for the ascertainment,
+ assessment and collection of the tax not inconsistent with this Chapter, and for the
+ enforcement of this Chapter. This 
+Chapter 23.50
+ shall be administered in accordance with 
+Chapters 23.04
+ through 
+23.28
+ of this Title, to the extent that they do not conflict with the provisions of this
+ Chapter.
+ (
+Ord. No. 45-2000
+, § 1 [part])
+
+===== Sec. 23.50.070. - Civil action for recovery of tax due.
+The City shall have the right to recover all sums due under the terms of this Chapter
+ by judgment and execution thereon in a civil action in any court of competent jurisdiction.
+ Such remedies shall be cumulative with all other remedies provided herein for the
+ enforcement of this Chapter.
+ (
+Ord. No. 45-2000
+, § 1 [part])
+
+===== Sec. 23.50.080. - Violation; penalty.
+Failure to comply with the terms of this Chapter by payment of taxes, filing of a
+ return and otherwise complying with the terms of this Chapter shall constitute an
+ offense in violation thereof, punishable, upon conviction, by a fine, imprisonment
+ or both a fine and imprisonment, as set forth in 
+Section 1.04.080
+ of this Code.
+ (
+Ord. No. 45-2000
+, § 1 [part])
+
+===== Chapter 23.52. - USE TAX ON CONSTRUCTION MATERIALS
+Footnotes: 
+ --- (
+6
+) ---
+Editor's note—
+ Ord. No.
+09-2024
+, § 3, adopted Aug. 27, 2024, amended the title of Chapter 23.52 to read as herein
+ set out. The former Chapter 23.52 title pertained to Use Tax.
+
+===== Sec. 23.52.010. - Legislative Intent.
+H.B. 1007, enacted by the Fifty-fifth Colorado General Assembly and approved by the
+ Governor on June 6, 1985, sets forth procedures for the collection of sales and use
+ taxes by home rule cities. This Chapter contains provisions which are consistent with
+ some of those set forth in H.B. 1007. The City Council finds that Article XX of the
+ Colorado Constitution grants plenary power to home rule cities to levy and collect
+ taxes within the City limits. The City Council does not endorse restrictions on the
+ taxing power of home rule cities. Thus, it is the intent of the City Council in enacting
+ provisions consistent with H.B. 1007 to assist the business community, but not in
+ any way to prejudice the City's right to fully exercise its Constitutional authority
+ to levy and collect taxes within its boundaries.
+
+===== Sec. 23.52.020. - Words and Phrases Defined:
+Unless the context clearly indicates otherwise, the following words and phrases as
+ used in this Chapter shall have the following meaning:
+Tax
+ means the use tax due from a consumer or the sales tax due from a retailer or the
+ sum of both due from a retailer who also consumes.
+Use Tax
+ means the tax paid or required to be paid by a consumer for using, storing, distributing
+ or otherwise consuming inside the corporate limits of the City of Aspen construction
+ materials as defined in this Chapter that are acquired inside or outside of the corporate
+ limits of the City of Aspen upon which a City of Aspen sales tax is not paid.
+
+===== Sec. 23.52.030. - Rate; Imposition and Collection; Distribution; Effective date
+(a)
+Use Tax Levy.
+ There is hereby levied a tax or excise upon the privilege of using, storing, distributing,
+ or otherwise consuming in the City construction materials as defined in this Chapter
+ from sources inside or outside the City, on which the City sales tax has not been
+ paid. For sales transacted on or after January 10, 2008, the rate levied shall be
+ two and one tenth percent (2.1%).
+ (b)
+Imposition and Collection.
+ The tax specified in this Section is imposed upon the owner and general contractor,
+ jointly defined as the purchaser. Any seller shall collect the tax and remit it to
+ the City pursuant to 
+Chapter 23.08
+.
+ (c)
+Application of funds.
+ All funds received by the City pursuant to this Chapter (Use taxes) shall be deposited
+ in a separate fund. The funds shall be subject to appropriation by City Council of
+ the City, or its designee, only for the purposes to pay the cost of operation, maintenance,
+ capital replacement, or improvement of the City transit service and pedestrian improvements;
+ all in accordance with the purposes and limitations imposed by the ballot measure
+ authorizing the collection of the use tax.
+ (d)
+Effective date.
+ The provisions of the Chapter shall be effective upon the tenth day of 2008 (January
+ 10, 2008) and shall continue to be levied and collected until amended or repealed
+ by ordinance. The tax imposed in this Chapter shall be in addition to all other taxes
+ imposed by law.
+
+===== Sec. 23.52.040. - Exemptions; Applicability.
+The following list of exemptions cannot be increased by implication or similarity.
+ In all cases, the burden of proof is upon the taxpayer to establish an exemption.
+ The following are exempt from the use tax imposed by this Chapter:
+ (a)
+ The first one hundred thousand dollars ($100,000.00) of master building permit valuation;
+ (b)
+ The storage, use, or consumption of any tangible personal property the sale of which
+ is subject to a retail sales tax imposed by the City;
+ (c)
+ The storage, use, or consumption of any tangible personal property purchased for resale
+ in the City of Aspen, either in its original form or as an ingredient of a manufactured
+ or compounded product, in the regular course of a business.
+ (d)
+ The storage, use, or consumption of tangible personal property brought into the City
+ of Aspen by a nonresident thereof for his or her own storage, use, or consumption
+ while temporarily within the City of Aspen; however, this exemption does not apply
+ to the storage, use, or consumption of tangible personal property brought into this
+ state by a nonresident to be used in the conduct of a business in this state;
+ (e)
+ The storage, use, or consumption of tangible personal property by the United States
+ government, or the State of Colorado, or its institutions, or its political subdivision
+ in their governmental capacities only or by religious or charitable corporations in
+ the conduct of their regular religious or charitable functions;
+ (f)
+ The storage, use, or consumption of tangible personal property by a person engaged
+ in the business of manufacturing or compounding for sale, profit, or use of any article,
+ substance, or commodity, which tangible personal property enters into the processing
+ of or becomes an ingredient or component part of the product or service which is manufactured,
+ compounded, or furnished, and the container, label, or the furnished shipping case
+ thereof;
+ (g)
+ The use, storage, or consumption of any article of tangible personal property the
+ sale or use of which has already been subjected to a legally imposed sales or use
+ tax of another statutory or home rule town, city, or city and county equal to or in
+ excess of the use tax imposed herein. A credit shall be granted against the town's
+ use tax with respect to a person's use, storage, or consumption in the City of tangible
+ personal property purchased by him in a previous statutory or home rule town, city,
+ or city and county. The amount of the credit to equal the tax paid by him by reason
+ of the imposition of a sales or use tax of the previous statutory or home rule town,
+ city, or city and county on his purchase or use of the property. The amount of credit
+ shall not exceed the amount of the Use Tax imposed herein.
+ (h)
+ The storage, use, or consumption of tangible personal property and household effects
+ acquired outside of the town and brought into it by a nonresident acquiring residency;
+ (i)
+ The storage of construction and building materials; and
+ (j)
+ Any transaction which the City of Aspen is prohibited from taxing under the Constitution
+ and laws of the United States of America, or under the Constitution of the State of
+ Colorado.
+
+===== Sec. 23.52.050. - Provisions Relative to Building Permits.
+(a)
+ Every person who is required to obtain a City building permit shall remit use tax
+ on construction materials used on that project, whether purchased from sources inside
+ or outside the City, by one of the following methods:
+ (1)
+Estimated prepayment.
+ The estimated cost of construction materials shall be calculated by multiplying the
+ total valuation of the construction project, entered on the building permit by the
+ City Building Division, by fifty percent (50%). Use tax on such estimated cost of
+ construction materials shall be paid at the time the building permit is issued. Use
+ tax on the actual cost of materials may be subsequently determined through final reconciliation
+ of actual tax paid to the amount of the initial deposit. Purchaser shall have ninety
+ (90) days beginning with the date of issuance of a Certificate of Occupancy to file
+ a final use tax return or waive its right to final reconciliation. Purchaser's right
+ to final reconciliation under this Section shall be considered waived if a final use
+ tax return is not so filed. If use tax is prepaid, interest on any tax deficiency
+ related to construction materials shall be computed from the date of issuance of the
+ certificate of occupancy. All projects permitted on or after January 10, 2008, shall
+ be required to use this method of payment.
+ (2)
+Actual cost.
+ The actual cost of construction materials shall be reported and paid on monthly returns.
+ If use tax is paid on an actual cost basis, interest on any tax deficiency shall be
+ computed from the date on which tax is due.
+ (3)
+Previously permitted projects.
+ Purchasers of construction materials for projects permitted prior to the effective
+ date of this ordinance shall have ninety (90) days from the effective date of this
+ ordinance to demonstrate compliance. Compliance shall be considered complete when
+ the purchaser either provides an estimated prepayment of use taxes in accordance with
+ paragraph (a)(1) of this Section, or purchaser submits an initial monthly use tax
+ return in accordance with paragraph (a)(2) of this Section.
+ (b)
+ Nothing in this Section shall be interpreted to reallocate the responsibility for
+ payment of use tax imposed by law.
+ (
+Ord. 55-2007)
+
+===== Chapter 23.53. - USE TAX ON AUTOMOTIVE VEHICLES
+
+
+===== Sec. 23.53.010. - Legislative intent.
+H.B. 1007, enacted by the Fifty-fifth Colorado General Assembly and approved by the
+ Governor on June 6, 1985, sets forth procedures for the collection of sales and use
+ taxes by home rule cities. This Chapter contains provisions which are consistent with
+ some of those set forth in H.B. 1007. The City Council finds that Article XX of the
+ Colorado Constitution grants plenary power to home rule cities to levy and collect
+ taxes within the City limits. The City Council does not endorse restrictions on the
+ taxing power of home rule cities. Thus, it is the intent of the City Council in enacting
+ provisions consistent with H.B. 1007 to assist the business community, but not in
+ any way to prejudice the City's right to fully exercise its Constitutional authority
+ to levy and collect taxes within its boundaries.
+ (Ord. No. 
+09-2024
+, § 4, 8-27-2024)
+
+===== Sec. 23.53.020. - Words and phrases defined.
+Unless the context clearly indicates otherwise, the following words and phrases as
+ used in this Chapter shall have the following meaning:
+Tax
+ means the use tax due from a consumer or the sales tax due from a retailer or the
+ sum of both due from a retailer who also consumes.
+Use Tax
+ means the tax paid or required to be paid by a consumer for using, storing, or otherwise
+ consuming inside the corporate limits of the City of Aspen an automotive vehicle as
+ defined in this Title that is acquired inside or outside of the corporate limits of
+ the City of Aspen upon which a City of Aspen sales tax is not paid.
+ (Ord. No. 
+09-2024
+, § 4, 8-27-2024)
+
+===== Sec. 23.53.030. - Rate; imposition and collection distribution; effective date.
+(a)
+Use Tax Levy.
+ There is hereby levied a tax or excise upon the privilege of purchasing, using, storing,
+ or otherwise consuming in the City an automotive vehicle as defined in this Title
+ from sources inside or outside the City, on which the City sales tax has not been
+ paid. For sales, registration and use of an automotive vehicle on or after January
+ 1, 2025, the rate levied shall be two and one tenth percent (2.1%).
+ (b)
+Imposition and Collection.
+ The tax specified in this Section is imposed upon the owner of the motor vehicle,
+ defined as the purchaser. The tax shall be collected and remit it to the City pursuant
+ to 
+Chapter 23.08
+ prior to registration of the vehicle.
+ (c)
+Application of funds.
+ All funds received by the City pursuant to this Chapter (Use Tax on Automotive Vehicles)
+ shall be subject to appropriation by City Council of the City, or its designee, only
+ for the purposes to pay the cost of maintenance of roads and bridges and other transit
+ related infrastructure; all in accordance with the purposes and limitations imposed
+ by the ballot measure authorizing the collection of the use tax.
+ (d)
+Effective date.
+ The provisions of the Chapter shall be effective upon the first day of 2025 (January
+ 1, 2025) and shall continue to be levied and collected until amended or repealed by
+ ordinance. The tax imposed in this Chapter shall be in addition to all other taxes
+ imposed by law.
+ (Ord. No. 
+09-2024
+, § 4, 8-27-2024)
+
+===== Chapter 23.54. - SHORT-TERM RENTAL TAX
+
+
+===== Sec. 23.54.010. - Legislative intent.
+The City Council finds and determines that the short-term rental market in the City
+ has increased the pressures on the community to provide essential services and affordable
+ housing, and imposing a tax on short-term rentals as set forth herein is an equitable
+ means of recovering costs to the community incurred through the deliver of essential
+ services to residential and lodging exempt properties used as short-term rentals,
+ including community policing, utilities services, transit, transportation, and pedestrian
+ infrastructure, and affordable housing.
+ (
+Ord. No. 09-2023
+, § 1, 5-9-2023)
+
+===== Sec. 23.54.020. - Definitions.
+Unless the context clearly indicates otherwise, the following words and phrases as
+ used in this Chapter shall have the following meaning:
+Short-Term Rental ("STR")
+ means the use or occupancy of a residential property or dwelling unit, in whole or
+ in party, by the general public for a fee, primarily for tourist accommodations, and
+ for a period of less than thirty (30) days. Timeshare, hotel, motel, and bed and breakfast
+ uses are not short-term rental uses.
+STR Permit
+ means an STR permit issued pursuant to 
+Chapter 26.530
+ of this Code.
+ (
+Ord. No. 09-2023
+, § 1, 5-9-2023)
+
+===== Sec. 23.54.030. - Imposition and collection; distribution; effective date.
+(a)
+STR Tax Levied.
+ There is hereby levied a tax or an excise for the privilege of providing short-term
+ rental accommodations within the City pursuant to an STR Permit. The rate levied shall
+ be as follows:
+ The rate levied upon Lodging Exempt Short Term Rental properties as defined in 
+Section 26.530.030
+(b)(3) of this Code issued an STR-LE permit shall be five percent (5.0%) on the nightly
+ room rate.
+ The rate levied upon Owner Occupied Short-Term Rental properties as defined in 
+Section 26.530.030
+(b)(2) of this Code issued a STR-OO permit shall be five percent (5.0%) on the nightly
+ room rate.
+ The rated levied upon Short-Term Rental Classic properties as defined in 
+Section 26.530.030
+(b)(l) of this Code issued an STR-C permit shall be ten percent (10%) on the nightly
+ room rate.
+ (b)
+Imposition and Collection.
+ The tax specified in this Section is imposed upon any accommodation or business that
+ is required to obtain an STR Permit pursuant to 
+Chapter 26.530
+. Any person or business issued an STR Permit shall collect the tax and remit it to
+ the City pursuant to 
+Chapter 23.08
+ of this Code.
+ (c)
+ Application of Funds. At least seventy percent (70%) of the funds received by the
+ City shall be deposited in the City's Affordable Housing Fund and shall be used for
+ purposes of funding affordable housing. Any funds not utilized for affordable housing
+ maybe used for infrastructure, maintenance, and repair, and for environmental initiatives.
+ (d)
+ Effective Date. The provisions of this Chapter shall be effective upon the first (1
+ st
+ ) day of May, 2023 (May 1, 2023) and shall continue to be levied and collected until
+ amended or repealed by ordinance.
+ (e)
+ The tax imposed in this Chapter shall be in addition to all other taxes imposed by
+ law.
+ (Res. No. 
+106-2022
+, § 4, 8-29-2022; 
+Ord. No. 09-2023
+, § 1, 5-9-2023)
+
+===== Sec. 23.54.040. - Administration.
+The administration of this Chapter is hereby vested in the Finance Department. The
+ Finance Director shall prescribe forms and administrative procedures for the ascertainment,
+ assessment, and collection of the tax not inconsistent with this Chapter, and for
+ the enforcement of this Chapter.
+ (
+Ord. No. 09-2023
+, § 1, 5-9-2023)
+
+===== Sec. 23.54.050. - Violations and penalty.
+Failure to comply with the terms of this Chapter by payment of taxes, filing of a
+ return and otherwise complying with the terms of this Chapter shall constitute an
+ offense in violation thereat: punishable, upon conviction, by a fine, imprisonment
+ or both a fine and imprisonment, as set forth in 
+Section 1.04.080
+ of this Code.
+ (
+Ord. No. 09-2023
+, § 1, 5-9-2023)
+
+===== Sec. 23.54.060. - Civil action for recovery of tax due.
+The City shall have the right to recover all sums due under the terms of this Chapter
+ by judgment and execution thereon in a civil action in any court of competent jurisdiction.
+ Such remedies shall be cumulative with all other remedies provided herein for the
+ enforcement of this Chapter.
+ (
+Ord. No. 09-2023
+, § 1, 5-9-2023)
+
+===== CHAPTER 23.56. - TOBACCO AND NICOTINE PRODUCT TAX
+
+
+===== Sec. 23.56.010. - Legislative intent.
+The City Council hereby finds that tobacco and nicotine addiction is a leading cause
+ of preventable death, that people should be deterred from starting the use of tobacco
+ and nicotine products and encouraged to quit the use of tobacco and nicotine products,
+ and that taxes on the sale of tobacco and nicotine products are effective at preventing
+ and reducing tobacco and nicotine use.
+ (Ord. No. 
+18-2024
+, § 2(Exh. B), 10-22-2024)
+
+===== Sec. 23.56.020. - Definitions.
+Unless the context clearly indicates otherwise, the following words and phrases as
+ used in this Chapter shall have the following meaning:
+Cigarette
+ means any product that contains tobacco or nicotine, that is intended to be burned
+ or heated under ordinary conditions of use, and consists of or contains:
+ (a)
+ Any roll of tobacco wrapped in paper or in any substance not containing tobacco;
+ (b)
+ Tobacco in any form that is functional in the product, which, because of its appearance,
+ the type of tobacco used in the filler, or its packaging or labeling, is likely to
+ be offered to, or purchased by consumers as a cigarette; or
+ (c)
+ Any roll of tobacco wrapped in any substance containing tobacco that, because of its
+ appearance, the type of tobacco used in the filler, or its packaging and labeling,
+ is likely to be offered to, or purchased by, consumers as a cigarette described in
+ [the definition] above.
+ (d)
+ The term includes all "roll-your-own," i.e., any tobacco that, because of its appearance,
+ type, packaging, or labeling, is suitable for use and likely to be offered to or purchased
+ by consumers as tobacco for making cigarettes.
+Tobacco paraphernalia
+ means any item designed for the consumption, use or preparation of tobacco products.
+Tobacco product
+ means: 1) any product which contains, is made or derived from tobacco or used to
+ deliver nicotine or other substances intended for human consumption, whether heated,
+ chewed, absorbed, dissolved, inhaled, snorted, sniffed or ingested by any other means,
+ including, but not limited to cigarettes, cigars, little cigars, chewing tobacco,
+ pipe tobacco, snuff, bidis, snus, mints, hand gels; and 2) electronic smoking device;
+ 3) notwithstanding any provision of Subsections 1) and 2) to the contrary, "tobacco
+ product" includes any component, part, accessory or associated tobacco paraphernalia
+ of a tobacco product whether or not sold separately; 4) The term "Tobacco Product"
+ does not include: (i) any product that contains marijuana; and (ii) any product made
+ from or derived from tobacco and approved by the Food and Drug Administration (FDA)
+ for use in connection with cessation of smoking.
+Tobacco product retail location
+ or 
+retail location
+ means any premises where tobacco products are sold or distributed to a consumer including,
+ but not limited to, hookah bar, lounge or café, any grounds occupied by a retailer,
+ any store, stand, outlet, vehicle, cart, location, vending machine or structure where
+ tobacco products are sold.
+Tobacco product retailer
+ means any person who sells, offers for sale, or does or offers to exchange for any
+ form of consideration, tobacco or nicotine products, or tobacco paraphernalia. "Tobacco
+ Retailing" shall mean the doing of any of these things. This definition is without
+ regard to the quantity of tobacco products or tobacco paraphernalia sold, offered
+ for sale, exchanged, or offered for exchange.
+Tobacco product retailing
+ means the selling, offering for sale, or exchanging for any form of consideration
+ a tobacco product.
+ (Ord. No. 
+18-2024
+, § 2(Exh. B), 10-22-2024)
+
+===== Sec. 23.56.030. - Imposition and collection; distribution; effective date.
+(a)
+ There shall be a tax of fifteen cents ($0.15) per cigarette or three dollars ($3.00)
+ per pack of twenty (20) cigarettes sold provided that such tax shall increase by an
+ equal amount annually thereafter for ten years until the tax is twenty cents ($0.20)
+ per cigarette or four dollars ($4.00) per pack of twenty (20) cigarettes
+ (b)
+ There shall be a sales tax of forty percent (40%) on the sales price of all other
+ tobacco products
+ (c)
+Imposition and collection.
+ The tax specified in this Section is imposed upon any tobacco product or cigarette
+ sale. Revenues collected through this tax would be placed in the general fund with
+ the specific purpose of financing health and human services, tobacco related health
+ issues, and addiction and substance abuse education and mitigation.
+ (d)
+Effective date.
+ The provisions of this Chapter shall be effective upon the first (1
+ st
+ ) day of January 2018 and shall continue to be levied and collected until amended
+ or repealed by ordinance.
+ (e)
+ The tax imposed in this Chapter shall be in addition to all other taxes imposed by
+ law.
+ (Ord. No. 
+18-2024
+, § 2(Exh. B), 10-22-2024)
+
+===== Sec. 23.54.040. - Administration.
+The administration of this Chapter is hereby vested in the Finance Department. The
+ Finance Director shall prescribe forms and administrative procedures for the ascertainment,
+ assessment, and collection of the tax not inconsistent with this Chapter, and for
+ the enforcement of this Chapter.
+ (Ord. No. 
+18-2024
+, § 2(Exh. B), 10-22-2024)
+
+===== Sec. 23.54.050. - Violations and penalty.
+Failure to comply with the terms of this Chapter by payment of taxes, filing of a
+ return and otherwise complying with the terms of this Chapter shall constitute an
+ offense in violation thereat: punishable, upon conviction, by a fine, imprisonment
+ or both a fine and imprisonment, as set forth in 
+Section 1.04.080
+ of this Code.
+ (Ord. No. 
+18-2024
+, § 2(Exh. B), 10-22-2024)
+
+===== Sec. 23.54.060. - Civil action for recovery of tax due.
+The City shall have the right to recover all sums due under the terms of this Chapter
+ by judgment and execution thereon in a civil action in any court of competent jurisdiction.
+ Such remedies shall be cumulative with all other remedies provided herein for the
+ enforcement of this Chapter.
+ (Ord. No. 
+18-2024
+, § 2(Exh. B), 10-22-2024)
+
+===== CHAPTER 23.58. - FOOD TAX REFUNDS
+
+
+===== Sec. 23.58.010. - Food sales tax returns.
+(a)
+ For purposes of this Chapter, and the refund of food sales tax collected, the term
+ resident of the City shall mean any person who is over the age of sixteen (16) years
+ and who has resided in the City for the entire calendar year for which a food sales
+ tax refund is sought.
+ (b)
+ Any resident of the City, as herein defined, may, not later than April 15th of every
+ year and so long as this Code shall be in force, apply, on such forms as provided
+ by the Director of Finance, for an annual food sales tax refund from the City in the
+ amount of one hundred thirty-two dollars ($132.00) for their self and, in addition,
+ for every person who is a member of their household and for whom he or she is entitled
+ to claim a personal exemption under and pursuant to the federal income tax laws.
+ (c)
+ No person who may be claimed as a personal exemption on another resident's application
+ for refund shall be entitled to a food tax refund. If a food tax refund is claimed
+ on more than one (1) application for the same person, the Director of Finance is authorized
+ to determine the person entitled to claim the refund provided for in this Section.
+ (d)
+ The application for refund shall be reviewed or examined by the Director of Finance.
+ All applicants may prove their resident status by evidence that they were registered
+ voters of the City for the full calendar year for which the refund applies. Any resident
+ who is barred from registering to vote due to non-citizenship or due to a felony conviction
+ shall provide alternative proof of residency, as may be required by the Finance Director
+ for the full calendar year. If the Finance Director is satisfied that the information
+ provided on the refund application entitles the applicant to a food tax refund, either
+ in the amount claimed or in any amount determined by the Director of Finance, the
+ refund shall be paid. Otherwise, the application for refund shall be denied and a
+ notice of denial sent to the applicant at the address furnished by the applicant.
+ (Ord. No. 
+18-2024
+, § 3(Exh. C), 10-22-2024)

@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1150 1000" width="1150" height="1000" font-family="Arial, Helvetica, sans-serif">
+  <defs>
+    <pattern id="xh" width="9" height="9" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="0" y2="9" stroke="#000" stroke-width="0.6"/>
+    </pattern>
+    <pattern id="wg" width="38" height="150" patternUnits="userSpaceOnUse">
+      <path d="M8 0 q6 38 0 75 q-6 37 0 75" fill="none" stroke="#000" stroke-width="0.45"/>
+      <path d="M24 0 q-5 30 0 60 q5 45 0 90" fill="none" stroke="#000" stroke-width="0.45"/>
+    </pattern>
+    <marker id="tk" markerWidth="11" markerHeight="11" refX="5.5" refY="5.5" orient="auto">
+      <line x1="2" y1="9" x2="9" y2="2" stroke="#000" stroke-width="0.9"/>
+    </marker>
+    <style>
+      .o { fill:none; stroke:#000; stroke-width:1.2; stroke-linejoin:round; }
+      .x { fill:none; stroke:#000; stroke-width:0.55; }
+      .d { fill:none; stroke:#000; stroke-width:0.6; marker-start:url(#tk); marker-end:url(#tk); }
+      .l { fill:none; stroke:#000; stroke-width:0.6; }
+      .n { font-size:13px; fill:#000; }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="1150" height="1000" fill="#fff"/>
+
+  <!-- CAP 2 1/2 x 2, rounded corners -->
+  <rect x="460" y="200" width="200" height="160" rx="30" ry="30" fill="url(#xh)" stroke="#000" stroke-width="1.2"/>
+
+  <!-- POST 1 1/2 -->
+  <rect x="500" y="360" width="120" height="480" fill="url(#wg)" stroke="#000" stroke-width="1.2"/>
+
+  <!-- FLOOR LINE + BREAK -->
+  <line class="x" x1="300" y1="840" x2="500" y2="840" stroke-width="1"/>
+  <line class="x" x1="620" y1="840" x2="820" y2="840" stroke-width="1"/>
+  <path class="x" d="M 500 840 L 545 840 L 560 884 L 576 812 L 592 840 L 620 840" stroke-width="1"/>
+
+  <!-- TOP DIM 2 1/2 -->
+  <line class="x" x1="460" y1="192" x2="460" y2="140"/>
+  <line class="x" x1="660" y1="192" x2="660" y2="140"/>
+  <line class="d" x1="460" y1="152" x2="660" y2="152"/>
+  <text class="n" x="560" y="146" text-anchor="middle">2 1/2"</text>
+
+  <!-- LEFT DIMS: 2" outer, 1 1/2" + 1/2" inner -->
+  <line class="x" x1="452" y1="200" x2="360" y2="200"/>
+  <line class="x" x1="452" y1="320" x2="400" y2="320"/>
+  <line class="x" x1="452" y1="360" x2="360" y2="360"/>
+  <line class="d" x1="428" y1="200" x2="428" y2="320"/>
+  <line class="d" x1="428" y1="320" x2="428" y2="360"/>
+  <line class="d" x1="380" y1="200" x2="380" y2="360"/>
+  <text class="n" x="422" y="260" text-anchor="middle" transform="rotate(-90 422 260)">1 1/2"</text>
+  <text class="n" x="422" y="340" text-anchor="middle" transform="rotate(-90 422 340)">1/2"</text>
+  <text class="n" x="374" y="280" text-anchor="middle" transform="rotate(-90 374 280)">2"</text>
+
+  <!-- JUNCTION TAGS AS ORIGINALLY DRAWN -->
+  <line class="x" x1="500" y1="330" x2="500" y2="470"/>
+  <line class="x" x1="620" y1="330" x2="620" y2="470"/>
+  <line class="d" x1="480" y1="392" x2="500" y2="392"/>
+  <line class="l" x1="476" y1="392" x2="452" y2="392"/>
+  <text class="n" x="448" y="396" text-anchor="end">1/4"</text>
+  <line class="d" x1="620" y1="392" x2="640" y2="392"/>
+  <line class="l" x1="644" y1="392" x2="668" y2="392"/>
+  <text class="n" x="672" y="396" text-anchor="start">1/4"</text>
+  <line class="x" x1="480" y1="384" x2="480" y2="470"/>
+  <line class="x" x1="640" y1="384" x2="640" y2="470"/>
+  <line class="d" x1="440" y1="452" x2="500" y2="452"/>
+  <line class="l" x1="436" y1="452" x2="416" y2="452"/>
+  <text class="n" x="412" y="456" text-anchor="end">3/4"</text>
+  <line class="d" x1="620" y1="452" x2="680" y2="452"/>
+  <line class="l" x1="684" y1="452" x2="704" y2="452"/>
+  <text class="n" x="708" y="456" text-anchor="start">3/4"</text>
+  <line class="x" x1="440" y1="444" x2="440" y2="470"/>
+  <line class="x" x1="680" y1="444" x2="680" y2="470"/>
+
+  <!-- POST DIM 1 1/2 -->
+  <line class="d" x1="500" y1="500" x2="620" y2="500"/>
+  <rect x="529" y="484" width="62" height="17" fill="#fff"/>
+  <text class="n" x="560" y="497" text-anchor="middle">1 1/2"</text>
+</svg>

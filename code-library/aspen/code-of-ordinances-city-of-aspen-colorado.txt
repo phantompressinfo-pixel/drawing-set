@@ -1,0 +1,163 @@
+# CITY OF ASPEN MUNICIPAL CODE — CODE OF ORDINANCES CITY OF ASPEN, COLORADO
+# Source: Municode (api.municode.com), Supp. No. 7 Update 1, codified through Ord. No. 06-2026 (enacted 2026-03-24)
+# Retrieved: 2026-07-22
+
+
+===== CODE OF ORDINANCES CITY OF ASPEN, COLORADO
+____________
+ Published in 2019 by Order of the Council
+ ____________
+ CURRENT OFFICIALS
+ of the
+ CITY OF
+ ASPEN, COLORADO
+ ____________
+ Torre
+Mayor
+ ____________
+ Ward Hauenstein, 
+Mayor Pro Tem
+ Skippy Mesirow
+ John Doyle
+ Rachael Richards
+City Council
+ ____________
+ Sara Ott
+City Manager
+ ____________
+ James R. True
+City Attorney
+ ____________
+ Linda Manning
+City Clerk
+ PREFACE
+ This Code constitutes a republication of the general and permanent ordinances of the
+ City of Aspen, Colorado.
+ Source materials used in the preparation of the republication were the City Code,
+ as updated through January 3, 2019. The source of each new section is included in
+ the history note appearing in parentheses at the end thereof. The absence of such
+ a note indicates that the section is part of the 1970 Code. By use of the comparative
+ tables appearing in the back of this republication, the reader can locate any section
+ of the Code, as updated.
+ The Code has been arranged into titles, chapters, and sections. The various sections
+ within each title have been catchlined to facilitate usage. Notes which tie related
+ sections of the Code together and which refer to relevant state law have been included.
+ A table listing the state law citations and setting forth their location within the
+ Code is included at the back of this republication.
+Chapter and Section Numbering System
+ The chapter and section numbering system used in this Code is the same system used
+ in many state and local government codes. Each section number consists of three parts
+ separated by a period. The first two parts of the number refer to the chapter, and
+ the last figure refers to the section within the chapter. Thus, the second section
+ of 
+chapter 1.04
+ is numbered 
+1.04.020
+, and the first section of 
+chapter 12.04
+ is 
+12.04.010
+. Under this system, each section is identified with its chapter, and at the same
+ time new sections can be inserted in their proper place by using the decimal system
+ for amendments. For example, if new material consisting of one section that would
+ logically come between 
+sections 3.16.050
+ and 
+3.16.060
+ is desired to be added, such new section would be numbered 3.16.055. New chapters,
+ articles, and divisions may be included in the same way or, in the case of chapters,
+ may be placed at the end of the title embracing the subject, and, in the case of articles,
+ may be placed at the end of the chapter embracing the subject. The next successive
+ number shall be assigned to the new chapter, article, or division. New titles or chapters
+ may be included by using a reserved title or chapter number.
+Page Numbering System
+ The page numbering system used in this Code is a prefix system. The letter and number
+ to the left of the colon are an abbreviation which represents a certain portion of
+ the volume. The number to the right of the colon represents the number of the page
+ in that portion. In the case of a title of the republication, the number to the left
+ of the colon indicates the number of the title. In the case of an appendix to the
+ Code, the letter immediately to the left of the colon indicates the letter of the
+ appendix. The following are typical parts of codes of ordinances, which may or may
+ not appear in this republication at this time, and their corresponding prefixes:
+ CHARTER
+ | 
+ CHT:1
+ | 
+ RELATED LAWS
+ | 
+ RL:1
+ | 
+ SPECIAL ACTS
+ | 
+ SA:1
+ | 
+ CHARTER COMPARATIVE TABLE
+ | 
+ CHTCT:1
+ | 
+ RELATED LAWS COMPARATIVE TABLE
+ | 
+ RLCT:1
+ | 
+ SPECIAL ACTS COMPARATIVE TABLE
+ | 
+ SACT:1
+ | 
+ CODE
+ | 
+ T1:1
+ | 
+ CODE APPENDIX
+ | 
+ TA:1
+ | 
+ CODE COMPARATIVE TABLES
+ | 
+ CCT:1
+ | 
+ STATE LAW REFERENCE TABLE
+ | 
+ SLT:1
+ | 
+ CHARTER INDEX
+ | 
+ CHTi:1
+ | 
+ CODE INDEX
+ | 
+ CDi:1
+ | 
+Looseleaf Supplements
+ A special feature of this publication is the looseleaf system of binding and supplemental
+ servicing of the publication. With this system, the publication will be kept up to
+ date. Subsequent amendatory legislation will be properly edited, and the affected
+ page or pages will be reprinted. These new pages will be distributed to holders of
+ copies of the publication, with instructions for the manner of inserting the new pages
+ and deleting the obsolete pages.
+ Keeping this publication up to date at all times will depend largely upon the holder
+ of the publication. As revised pages are received, it will then become the responsibility
+ of the holder to have the amendments inserted according to the attached instructions.
+ It is strongly recommended by the publisher that all such amendments be inserted immediately
+ upon receipt to avoid misplacing them and, in addition, that all deleted pages be
+ saved and filed for historical reference purposes.
+Acknowledgments
+ This republication was under the direct supervision of Jodi Hunt, Editor, of the Municipal
+ Code Corporation, Tallahassee, Florida. Credit is gratefully given to the other members
+ of the publisher's staff for their sincere interest and able assistance throughout
+ the project.
+ The publisher is most grateful to Linda Manning, City Clerk, for her cooperation and
+ assistance during the progress of the work on this republication. It is hoped that
+ her efforts and those of the publisher have resulted in a republication of this Code
+ of Ordinances which will make the active law of the city readily accessible to all
+ citizens and which will be a valuable tool in the day-to-day administration of the
+ City's affairs.
+Copyright
+ All editorial enhancements of this Code are copyrighted by Municipal Code Corporation
+ and the City of Aspen, Colorado. Editorial enhancements include, but are not limited
+ to: organization; table of contents; section catchlines; (pretitle or prechapter)
+ section analyses; editor's notes; cross references; state law references; numbering
+ system; code comparative table; state law reference table; and index. Such material
+ may not be used or reproduced for commercial purposes without the express written
+ consent of Municipal Code Corporation and the City of Aspen, Colorado.
+ © Copyrighted material.
+ Municipal Code Corporation and the City of Aspen, Colorado, 2019.

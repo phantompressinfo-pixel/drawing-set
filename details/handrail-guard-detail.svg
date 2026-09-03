@@ -1,0 +1,258 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2100 1340" width="2100" height="1340" font-family="Arial, Helvetica, sans-serif">
+  <defs>
+    <pattern id="hatch" width="9" height="9" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="0" y2="9" stroke="#000" stroke-width="0.6"/>
+    </pattern>
+    <pattern id="grain" width="38" height="150" patternUnits="userSpaceOnUse">
+      <path d="M8 0 q6 38 0 75 q-6 37 0 75" fill="none" stroke="#000" stroke-width="0.45"/>
+      <path d="M24 0 q-5 30 0 60 q5 45 0 90" fill="none" stroke="#000" stroke-width="0.45"/>
+    </pattern>
+    <marker id="tick" markerWidth="12" markerHeight="12" refX="6" refY="6" orient="auto">
+      <line x1="2.5" y1="9.5" x2="9.5" y2="2.5" stroke="#000" stroke-width="0.9"/>
+    </marker>
+    <marker id="dot" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <circle cx="4" cy="4" r="1.8" fill="#000"/>
+    </marker>
+    <style>
+      .obj  { fill:none; stroke:#000; stroke-width:2; stroke-linejoin:round; }
+      .thin { fill:none; stroke:#000; stroke-width:1; }
+      .ctr  { fill:none; stroke:#666; stroke-width:0.8; stroke-dasharray:18 4 3 4; }
+      .hid  { fill:none; stroke:#000; stroke-width:1; stroke-dasharray:7 4; }
+      .ext  { fill:none; stroke:#333; stroke-width:0.8; }
+      .dim  { fill:none; stroke:#333; stroke-width:0.9; marker-start:url(#tick); marker-end:url(#tick); }
+      .lead { fill:none; stroke:#333; stroke-width:0.9; marker-end:url(#dot); }
+      .t    { font-size:15px; fill:#111; }
+      .td   { font-size:15px; fill:#333; }
+      .ts   { font-size:13px; fill:#333; }
+      .tt   { font-size:20px; fill:#000; letter-spacing:1px; }
+      .tk   { font-size:13px; fill:#111; font-weight:bold; }
+      .flag { font-size:13px; fill:#000; font-weight:bold; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="2100" height="1340" fill="#fff"/>
+
+  <g id="view1">
+    <line class="ctr" x1="400" y1="140" x2="400" y2="965"/>
+
+    <path d="M 290 234
+             A 34 34 0 0 1 324 200
+             L 476 200
+             A 34 34 0 0 1 510 234
+             L 510 282.5
+             L 468.75 282.5
+             L 468.75 447.5
+             L 331.25 447.5
+             L 331.25 282.5
+             L 290 282.5 Z" fill="url(#hatch)" stroke="#000" stroke-width="1.2" stroke-linejoin="round"/>
+
+    <rect x="290" y="447.5" width="220" height="442.5" fill="url(#grain)" stroke="#000" stroke-width="1.2"/>
+    <line class="obj" x1="372.5" y1="447.5" x2="372.5" y2="890"/>
+    <line class="obj" x1="427.5" y1="447.5" x2="427.5" y2="890"/>
+    <path class="thin" d="M 290 890 L 336 890 L 354 934 L 370 862 L 386 890 L 510 890"/>
+    <line class="thin" x1="200" y1="890" x2="290" y2="890"/>
+    <line class="thin" x1="510" y1="890" x2="620" y2="890"/>
+
+    <line class="ext" x1="290" y1="192" x2="290" y2="128"/>
+    <line class="ext" x1="510" y1="192" x2="510" y2="128"/>
+    <line class="dim" x1="290" y1="140" x2="510" y2="140"/>
+    <text class="td" x="400" y="133" text-anchor="middle">2"</text>
+    <text class="ts" x="400" y="112" text-anchor="middle">WIDTH ABOVE RECESS: 1 1/4" MIN / 2 3/4" MAX</text>
+
+    <line class="ext" x1="282" y1="200" x2="120" y2="200"/>
+    <line class="ext" x1="324" y1="282.5" x2="170" y2="282.5"/>
+    <line class="ext" x1="282" y1="447.5" x2="120" y2="447.5"/>
+    <line class="dim" x1="205" y1="200" x2="205" y2="282.5"/>
+    <line class="dim" x1="205" y1="282.5" x2="205" y2="447.5"/>
+    <line class="dim" x1="145" y1="200" x2="145" y2="447.5"/>
+    <text class="td" x="199" y="241" text-anchor="middle" transform="rotate(-90 199 241)">3/4"</text>
+    <text class="td" x="199" y="365" text-anchor="middle" transform="rotate(-90 199 365)">1 1/2"</text>
+    <text class="td" x="139" y="324" text-anchor="middle" transform="rotate(-90 139 324)">2 1/4"</text>
+
+    <line class="ext" x1="290" y1="292" x2="290" y2="356"/>
+    <line class="ext" x1="331.25" y1="292" x2="331.25" y2="356"/>
+    <line class="dim" x1="290" y1="344" x2="331.25" y2="344"/>
+    <line class="ext" x1="510" y1="292" x2="510" y2="356"/>
+    <line class="ext" x1="468.75" y1="292" x2="468.75" y2="356"/>
+    <line class="dim" x1="468.75" y1="344" x2="510" y2="344"/>
+    <text class="td" x="280" y="348" text-anchor="end">3/8"</text>
+    <text class="td" x="520" y="348" text-anchor="start">3/8"</text>
+
+    <line class="ext" x1="331.25" y1="455" x2="331.25" y2="500"/>
+    <line class="ext" x1="468.75" y1="455" x2="468.75" y2="500"/>
+    <line class="dim" x1="331.25" y1="490" x2="468.75" y2="490"/>
+    <rect x="378" y="475" width="44" height="17" fill="#fff"/>
+    <text class="td" x="400" y="486" text-anchor="middle">1 1/4"</text>
+
+    <line class="ext" x1="290" y1="560" x2="290" y2="620"/>
+    <line class="ext" x1="372.5" y1="560" x2="372.5" y2="620"/>
+    <line class="ext" x1="427.5" y1="560" x2="427.5" y2="620"/>
+    <line class="ext" x1="510" y1="560" x2="510" y2="620"/>
+    <line class="dim" x1="290" y1="580" x2="372.5" y2="580"/>
+    <line class="dim" x1="372.5" y1="580" x2="427.5" y2="580"/>
+    <line class="dim" x1="427.5" y1="580" x2="510" y2="580"/>
+    <rect x="310" y="565" width="42" height="17" fill="#fff"/><text class="td" x="331" y="576" text-anchor="middle">3/4"</text>
+    <rect x="380" y="565" width="40" height="17" fill="#fff"/><text class="td" x="400" y="576" text-anchor="middle">1/2"</text>
+    <rect x="448" y="565" width="42" height="17" fill="#fff"/><text class="td" x="469" y="576" text-anchor="middle">3/4"</text>
+    <line class="dim" x1="290" y1="612" x2="510" y2="612"/>
+    <rect x="382" y="597" width="36" height="17" fill="#fff"/><text class="td" x="400" y="608" text-anchor="middle">2"</text>
+
+    <g>
+      <line class="lead" x1="602" y1="196" x2="500" y2="206"/>
+      <circle cx="618" cy="192" r="15" fill="#fff" stroke="#000" stroke-width="0.8"/><text class="tk" x="618" y="197" text-anchor="middle">A</text>
+      <line class="lead" x1="602" y1="290" x2="474" y2="310"/>
+      <circle cx="618" cy="286" r="15" fill="#fff" stroke="#000" stroke-width="0.8"/><text class="tk" x="618" y="291" text-anchor="middle">B</text>
+      <line class="lead" x1="602" y1="440" x2="514" y2="444"/>
+      <circle cx="618" cy="436" r="15" fill="#fff" stroke="#000" stroke-width="0.8"/><text class="tk" x="618" y="441" text-anchor="middle">C</text>
+      <line class="lead" x1="602" y1="510" x2="404" y2="500"/>
+      <circle cx="618" cy="506" r="15" fill="#fff" stroke="#000" stroke-width="0.8"/><text class="tk" x="618" y="511" text-anchor="middle">D</text>
+      <line class="lead" x1="602" y1="720" x2="500" y2="730"/>
+      <circle cx="618" cy="716" r="15" fill="#fff" stroke="#000" stroke-width="0.8"/><text class="tk" x="618" y="721" text-anchor="middle">E</text>
+      <line class="lead" x1="196" y1="176" x2="300" y2="206"/>
+      <circle cx="180" cy="172" r="15" fill="#fff" stroke="#000" stroke-width="0.8"/><text class="tk" x="180" y="177" text-anchor="middle">F</text>
+      <line class="lead" x1="212" y1="790" x2="294" y2="790"/>
+      <circle cx="196" cy="786" r="15" fill="#fff" stroke="#000" stroke-width="0.8"/><text class="tk" x="196" y="791" text-anchor="middle">G</text>
+    </g>
+
+    <text class="tt" x="80" y="1005">1 &#8212; HANDRAIL / GUARD CAP AT OPEN SIDE OF STAIR</text>
+    <line class="thin" x1="80" y1="1014" x2="640" y2="1014" stroke-width="1"/>
+    <text class="ts" x="80" y="1038">SECTION &#183; DIMENSIONS GOVERN &#183; DRAW FULL SIZE IN CAD</text>
+    <text class="ts" x="80" y="1058">TYPE II GRASPABLE PROFILE PER 2021 IBC &#167;1014.3.2</text>
+    <text class="ts" x="80" y="1078">PERIMETER 8 1/2" &gt; 6 1/4" &#8594; FINGER RECESS BOTH SIDES REQUIRED</text>
+    <text class="tt" x="80" y="1122">GOVERNING LIMITS &#8212; DO NOT DRIFT</text>
+    <line class="thin" x1="80" y1="1131" x2="640" y2="1131" stroke-width="1"/>
+    <text class="ts" x="80" y="1153">3/4" MAX, TOP OF PROFILE TO TOP OF RECESS &#183; &#167;1014.3.2</text>
+    <text class="ts" x="80" y="1171">1 3/4" MIN, TOP OF PROFILE TO BOTTOM OF RECESS &#183; &#167;1014.3.2</text>
+    <text class="ts" x="80" y="1189">5/16" MIN RECESS DEPTH, BOTH SIDES &#183; &#167;1014.3.2</text>
+    <text class="ts" x="80" y="1207">NOTHING TO PROJECT BEYOND THE SIDES OF THE GRIP WITHIN 3/8"</text>
+    <text class="ts" x="80" y="1225">OF THE BOTTOM OF THE RAIL &#183; &#167;1014.4 EXC. 3 AT AN 8 1/2" PERIMETER</text>
+  </g>
+
+  <line x1="700" y1="120" x2="700" y2="1080" stroke="#000" stroke-width="0.4"/>
+
+  <g id="view2" transform="translate(430,10)">
+    <path class="obj" d="M 740 640 L 800 640 L 800 598 L 866 598 L 866 556 L 932 556 L 932 514
+                         L 998 514 L 998 472 L 1064 472 L 1064 430 L 1250 430 L 1310 430"/>
+    <g stroke="#000" stroke-width="0.9">
+      <line x1="746" y1="640" x2="736" y2="652"/><line x1="766" y1="640" x2="756" y2="652"/>
+      <line x1="786" y1="640" x2="776" y2="652"/>
+    </g>
+
+    <line class="hid" x1="778" y1="612" x2="1105" y2="404" stroke="#000"/>
+
+    <line class="obj" x1="776" y1="401" x2="1064" y2="214"/>
+    <line class="thin" x1="781" y1="413" x2="1064" y2="226"/>
+    <line class="obj" x1="1064" y1="214" x2="1250" y2="214"/>
+    <line class="thin" x1="1064" y1="226" x2="1250" y2="226"/>
+
+    <path class="obj" d="M 1250 214 L 1262 214 L 1262 252"/>
+    <line class="obj" x1="1268" y1="170" x2="1268" y2="430"/>
+    <g stroke="#000" stroke-width="0.9">
+      <line x1="1268" y1="190" x2="1280" y2="180"/><line x1="1268" y1="220" x2="1280" y2="210"/>
+      <line x1="1268" y1="250" x2="1280" y2="240"/><line x1="1268" y1="280" x2="1280" y2="270"/>
+      <line x1="1268" y1="310" x2="1280" y2="300"/><line x1="1268" y1="340" x2="1280" y2="330"/>
+      <line x1="1268" y1="370" x2="1280" y2="360"/><line x1="1268" y1="400" x2="1280" y2="390"/>
+    </g>
+
+    <path class="obj" d="M 776 401 L 776 640"/>
+
+    <g class="thin">
+      <line x1="800" y1="598" x2="800" y2="386"/>
+      <line x1="824" y1="598" x2="824" y2="371"/>
+      <line x1="848" y1="598" x2="848" y2="355"/>
+      <line x1="890" y1="556" x2="890" y2="329"/>
+      <line x1="914" y1="556" x2="914" y2="313"/>
+      <line x1="956" y1="514" x2="956" y2="288"/>
+      <line x1="980" y1="514" x2="980" y2="272"/>
+      <line x1="1022" y1="472" x2="1022" y2="246"/>
+      <line x1="1046" y1="472" x2="1046" y2="230"/>
+      <line x1="1100" y1="430" x2="1100" y2="226"/>
+      <line x1="1124" y1="430" x2="1124" y2="226"/>
+      <line x1="1148" y1="430" x2="1148" y2="226"/>
+      <line x1="1172" y1="430" x2="1172" y2="226"/>
+      <line x1="1196" y1="430" x2="1196" y2="226"/>
+      <line x1="1220" y1="430" x2="1220" y2="226"/>
+    </g>
+
+    <circle cx="836" cy="470" r="13.1" fill="none" stroke="#000" stroke-width="0.6" stroke-dasharray="5 3"/>
+    <line class="lead" x1="600" y1="470" x2="822" y2="470"/>
+    <text class="ts" x="596" y="466" text-anchor="end">4 3/8" SPHERE MAX &#8212; &#167;1015.4 EXC. 6</text>
+    <text class="ts" x="596" y="482" text-anchor="end">(OPEN SIDE OF STAIR, R-3 DWELLING)</text>
+
+    <circle cx="808" cy="580" r="18" fill="none" stroke="#000" stroke-width="0.6" stroke-dasharray="5 3"/>
+    <line class="lead" x1="600" y1="580" x2="789" y2="580"/>
+    <text class="ts" x="596" y="576" text-anchor="end">6" SPHERE MAX AT TRIANGULAR</text>
+    <text class="ts" x="596" y="592" text-anchor="end">OPENING &#8212; &#167;1015.4 EXC. 2</text>
+
+    <line class="lead" x1="600" y1="380" x2="784" y2="404"/>
+    <text class="ts" x="596" y="360" text-anchor="end">GRIP CONTINUOUS &#8212; &#167;1014.4.</text>
+    <text class="ts" x="596" y="376" text-anchor="end">RETURN TO NEWEL / WALL AT ENDS &#8212; &#167;1014.6.</text>
+    <text class="ts" x="596" y="392" text-anchor="end">WITHIN DWELLING UNIT, RAIL NEED EXTEND</text>
+    <text class="ts" x="596" y="408" text-anchor="end">ONLY TOP RISER TO BOTTOM RISER (EXC. 1).</text>
+
+    <line class="lead" x1="600" y1="625" x2="774" y2="612"/>
+    <text class="ts" x="596" y="621" text-anchor="end">LINE CONNECTING LEADING EDGES OF NOSINGS</text>
+    <text class="ts" x="596" y="637" text-anchor="end">&#8212; HEIGHT DATUM FOR BOTH &#167;1014.2 AND &#167;1015.3</text>
+
+    <circle cx="1160" cy="400" r="18" fill="none" stroke="#000" stroke-width="0.6" stroke-dasharray="5 3"/>
+    <line class="lead" x1="1090" y1="154" x2="1160" y2="212"/>
+    <text class="ts" x="1080" y="150" text-anchor="end">GUARD AT LANDING: 36" MIN &#167;1015.3 EXC. 1 &#183; 4" SPHERE MAX &#167;1015.4</text>
+
+    <line class="ext" x1="1064" y1="430" x2="1360" y2="430"/>
+    <line class="ext" x1="1064" y1="214" x2="1360" y2="214"/>
+    <line class="dim" x1="1345" y1="214" x2="1345" y2="430"/>
+    <text class="td" x="1360" y="300">36"</text>
+    <text class="ts" x="1360" y="320">(34" MIN / 38" MAX)</text>
+    <text class="ts" x="1360" y="338">&#167;1014.2 HANDRAIL +</text>
+    <text class="ts" x="1360" y="356">&#167;1015.3 EXC. 3 GUARD</text>
+    <text class="ts" x="1360" y="374">WHOSE TOP IS THE</text>
+    <text class="ts" x="1360" y="392">HANDRAIL</text>
+
+    <line class="lead" x1="1160" y1="184" x2="1258" y2="212"/>
+    <text class="ts" x="1150" y="180" text-anchor="end">RETURN TO WALL &#8212; &#167;1014.6</text>
+
+    <text class="tt" x="600" y="740">2 &#8212; PARTIAL STAIR SECTION: HEIGHTS &amp; OPENINGS</text>
+    <line class="thin" x1="600" y1="749" x2="1400" y2="749" stroke-width="1"/>
+    <text class="ts" x="600" y="773">DIAGRAMMATIC &#8212; NOT TO SCALE. RISE / RUN PER PLAN.</text>
+  </g>
+
+  <g id="keynotes">
+    <text class="tt" x="760" y="880">KEYNOTES</text>
+    <line class="thin" x1="760" y1="889" x2="2040" y2="889" stroke-width="1"/>
+
+    <circle cx="775" cy="916" r="14" fill="#fff" stroke="#000" stroke-width="0.8"/><text class="tk" x="775" y="921" text-anchor="middle">A</text>
+    <text class="t" x="804" y="913">2" x 2 1/4" SOLID HARDWOOD CAP, SPECIES PER FINISH SCHEDULE. BANDS 3/4" + 1 1/2". TYPE II PROFILE, &#167;1014.3.2.</text>
+    <text class="ts" x="804" y="931">PERIMETER 8 1/2" EXCEEDS 6 1/4", SO TYPE I (&#167;1014.3.1) IS NOT AVAILABLE. WIDTH ABOVE RECESS 2" (1 1/4"&#8211;2 3/4").</text>
+
+    <circle cx="775" cy="966" r="14" fill="#fff" stroke="#000" stroke-width="0.8"/><text class="tk" x="775" y="971" text-anchor="middle">B</text>
+    <text class="t" x="804" y="963">FINGER RECESS, BOTH SIDES, 3/8" DEEP (5/16" MIN), NECK 1 1/4". TOP OF RECESS 3/4" BELOW TOP OF PROFILE - THAT IS THE MAX,</text>
+    <text class="ts" x="804" y="981">DO NOT EXCEED. FULL DEPTH CARRIED TO THE BOTTOM OF THE CAP, 2 1/4" BELOW TOP (1 3/4" IS THE MIN). &#167;1014.3.2.</text>
+
+    <circle cx="775" cy="1016" r="14" fill="#fff" stroke="#000" stroke-width="0.8"/><text class="tk" x="775" y="1021" text-anchor="middle">C</text>
+    <text class="t" x="804" y="1013">BUILT-UP POST 2" WIDE (3/4" + 1/2" + 3/4" PLIES), FLUSH WITH THE CAP. NOTHING TO</text>
+    <text class="ts" x="804" y="1031">PROJECT BEYOND THE SIDES OF THE GRIP WITHIN 3/8" OF THE RAIL BOTTOM &#8212; &#167;1014.4 EXC. 3. SEE SHEET NOTE 7.</text>
+
+    <circle cx="775" cy="1066" r="14" fill="#fff" stroke="#000" stroke-width="0.8"/><text class="tk" x="775" y="1071" text-anchor="middle">D</text>
+    <text class="t" x="804" y="1063">CAP TO SUB-RAIL: #10 x 3" F.H. SCREWS AT 12" O.C. MAX, COUNTERSUNK AND PLUGGED, PLUS CONTINUOUS</text>
+    <text class="ts" x="804" y="1081">ADHESIVE. RAIL SHALL NOT ROTATE IN ITS FITTINGS, &#167;1014.5. POST ANCHORAGE PER STRUCTURAL.</text>
+
+    <circle cx="775" cy="1116" r="14" fill="#fff" stroke="#000" stroke-width="0.8"/><text class="tk" x="775" y="1121" text-anchor="middle">E</text>
+    <text class="t" x="804" y="1113">GUARD POST PLIES GLUED AND SCREWED AS AN ASSEMBLY. GUARD INFILL PER SHEET NOTE 5. WHERE RAIL OCCURS AT A WALL,</text>
+    <text class="ts" x="804" y="1131">MAINTAIN 1 1/2" MIN CLEAR BETWEEN GRIP AND WALL &#8212; &#167;1014.7. NO SHARP OR ABRASIVE ELEMENTS.</text>
+
+    <circle cx="775" cy="1166" r="14" fill="#fff" stroke="#000" stroke-width="0.8"/><text class="tk" x="775" y="1171" text-anchor="middle">F</text>
+    <text class="t" x="804" y="1163">EASE ALL EDGES, R 1/8" TYP. (0.01" MIN, &#167;1014.3.2). SAND SMOOTH; NO SPLINTERS OR EXPOSED FASTENERS.</text>
+
+    <circle cx="775" cy="1206" r="14" fill="#fff" stroke="#000" stroke-width="0.8"/><text class="tk" x="775" y="1211" text-anchor="middle">G</text>
+    <text class="t" x="804" y="1203">RAIL ASSEMBLY MAY PROJECT 4 1/2" MAX INTO THE REQUIRED STAIR WIDTH AT EACH SIDE &#8212; &#167;1014.8.</text>
+  </g>
+
+  <g>
+    <rect x="60" y="60" width="1980" height="1" fill="#000"/>
+    <text class="tt" x="60" y="46">HANDRAIL / GUARD DETAIL &#8212; INTERIOR STAIR, SINGLE-FAMILY (IBC GROUP R-3)</text>
+    <text class="ts" x="2040" y="46" text-anchor="end">2021 IBC AS ADOPTED AND AMENDED &#183; ASPEN M.C. CH. 8.20 &#183; IRC NOT ADOPTED (&#167;8.16.010)</text>
+    <rect x="60" y="1262" width="1980" height="1" fill="#000"/>
+    <text class="ts" x="60" y="1284">DIMENSIONS GOVERN. VERIFY ALL CODE DIMENSIONS AGAINST THE ADOPTED CODE PRIOR TO FABRICATION.</text>
+    <text class="flag" x="2040" y="1284" text-anchor="end">SEE SHEET NOTE 3 &#8212; CONFIRM GUARD HEIGHT WITH ASPEN BUILDING DEPT. BEFORE ISSUE</text>
+  </g>
+</svg>

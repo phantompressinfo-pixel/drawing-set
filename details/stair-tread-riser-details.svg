@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 1504" width="1900" height="1504" font-family="Arial, Helvetica, sans-serif">
+  <defs>
+    <pattern id="wg" width="34" height="120" patternUnits="userSpaceOnUse">
+      <path d="M7 0 q6 30 0 60 q-6 30 0 60" fill="none" stroke="#000" stroke-width="0.45"/>
+      <path d="M22 0 q-5 24 0 48 q5 36 0 72" fill="none" stroke="#000" stroke-width="0.45"/></pattern>
+    <marker id="tk" markerWidth="11" markerHeight="11" refX="5.5" refY="5.5" orient="auto">
+      <line x1="2" y1="9" x2="9" y2="2" stroke="#000" stroke-width="0.9"/></marker>
+    <marker id="dt" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <circle cx="4" cy="4" r="1.8" fill="#000"/></marker>
+    <style>
+      .o { fill:none; stroke:#000; stroke-width:1.2; stroke-linejoin:round; }
+      .x { fill:none; stroke:#000; stroke-width:0.55; }
+      .d { fill:none; stroke:#000; stroke-width:0.6; marker-start:url(#tk); marker-end:url(#tk); }
+      .l { fill:none; stroke:#000; stroke-width:0.6; marker-end:url(#dt); }
+      .hid { fill:none; stroke:#000; stroke-width:0.7; stroke-dasharray:8 5; }
+      .n { font-size:13px; fill:#000; } .s { font-size:12px; fill:#000; }
+      .f { font-size:13px; fill:#000; font-weight:bold; } .k { font-size:11px; fill:#000; }
+      .tt{ font-size:15px; fill:#000; letter-spacing:0.5px; }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="1900" height="1504" fill="#fff"/>
+  <rect x="60" y="60" width="1780" height="1" fill="#000"/>
+  <text class="tt" x="60" y="46">ENLARGED WOOD TREAD &amp; RISER DETAILS &#183; INTERIOR STAIRS, SINGLE-FAMILY (IBC GROUP R-3)</text>
+  <text class="s" x="1840" y="46" text-anchor="end">2021 IBC AS ADOPTED AND AMENDED &#183; ASPEN M.C. CH. 8.20 &#183; IRC NOT ADOPTED (&#167;8.16.010)</text>
+  <path class="o" d="M 428.7 313.3 L 922.5 650.0 L 883.1 707.9 L 389.3 371.2 Z" fill="url(#wg)"/>
+  <path class="x" d="M 428.7 313.3 L 399.9 336.1 L 421.4 350.7 L 389.3 371.2" stroke-width="1"/>
+  <path class="x" d="M 922.5 650.0 L 911.9 685.1 L 890.4 670.5 L 883.1 707.9" stroke-width="1"/>
+  <path d="M 314.2 235.2 L 470.0 235.2 L 470.0 341.5 Z" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="470.0" y="235.2" width="17.0" height="106.2" fill="url(#wg)" stroke="#000" stroke-width="1.2"/>
+  <rect x="300.0" y="214.0" width="187.0" height="21.2" fill="url(#wg)" stroke="#000" stroke-width="1.2"/>
+  <path d="M 501.2 362.8 L 657.0 362.8 L 657.0 469.0 Z" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="657.0" y="362.8" width="17.0" height="106.2" fill="url(#wg)" stroke="#000" stroke-width="1.2"/>
+  <rect x="487.0" y="341.5" width="187.0" height="21.2" fill="url(#wg)" stroke="#000" stroke-width="1.2"/>
+  <path d="M 688.2 490.2 L 844.0 490.2 L 844.0 596.5 Z" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="844.0" y="490.2" width="17.0" height="106.2" fill="url(#wg)" stroke="#000" stroke-width="1.2"/>
+  <rect x="674.0" y="469.0" width="187.0" height="21.2" fill="url(#wg)" stroke="#000" stroke-width="1.2"/>
+  <line class="hid" x1="254.0" y1="182.6" x2="895.0" y2="619.7"/>
+  <line class="x" x1="487.0" y1="214.0" x2="567.0" y2="214.0"/>
+  <line class="x" x1="487.0" y1="341.5" x2="567.0" y2="341.5"/>
+  <line class="d" x1="553.0" y1="214.0" x2="553.0" y2="341.5"/>
+  <text class="n" x="547.0" y="277.8" text-anchor="middle" transform="rotate(-90 547.0 277.8)">7 1/2"</text>
+  <line class="x" x1="487.0" y1="341.5" x2="487.0" y2="219.5"/>
+  <line class="x" x1="674.0" y1="341.5" x2="674.0" y2="219.5"/>
+  <line class="d" x1="487.0" y1="229.5" x2="674.0" y2="229.5"/>
+  <text class="n" x="580.5" y="223.5" text-anchor="middle">11"</text>
+  <text class="tt" x="190.0" y="789">1 &#8212; TREAD &amp; RISER AT BASEMENT &#8212; MAIN LEVEL</text>
+  <line class="x" x1="190.0" y1="798" x2="1000.0" y2="798" stroke-width="1"/>
+  <text class="s" x="190.0" y="820">RISER 7 1/2" &#183; TREAD 11" &#183; SEPARATE FLIGHT &#183; COMPLIES VIA &#167;1011.5.2 EXC. 3 &#8212; SEE NOTE 2</text>
+  <line class="l" x1="900" y1="452" x2="777" y2="476"/>
+  <circle cx="916" cy="448" r="14" fill="#fff" stroke="#000" stroke-width="0.8"/><text class="k" x="916" y="453" text-anchor="middle">A</text>
+  <line class="l" x1="946" y1="548" x2="852" y2="539"/>
+  <circle cx="962" cy="544" r="14" fill="#fff" stroke="#000" stroke-width="0.8"/><text class="k" x="962" y="549" text-anchor="middle">B</text>
+  <line class="l" x1="946" y1="620" x2="796" y2="516"/>
+  <circle cx="962" cy="616" r="14" fill="#fff" stroke="#000" stroke-width="0.8"/><text class="k" x="962" y="621" text-anchor="middle">C</text>
+  <line class="l" x1="286" y1="470" x2="483" y2="393"/>
+  <circle cx="270" cy="466" r="14" fill="#fff" stroke="#000" stroke-width="0.8"/><text class="k" x="270" y="471" text-anchor="middle">D</text>
+  <line class="l" x1="212" y1="158" x2="276" y2="198"/>
+  <circle cx="196" cy="154" r="14" fill="#fff" stroke="#000" stroke-width="0.8"/><text class="k" x="196" y="159" text-anchor="middle">E</text>
+  <path class="o" d="M 1337.6 304.4 L 1834.6 615.0 L 1797.5 674.3 L 1300.5 363.7 Z" fill="url(#wg)"/>
+  <path class="x" d="M 1337.6 304.4 L 1309.7 328.2 L 1331.8 342.0 L 1300.5 363.7" stroke-width="1"/>
+  <path class="x" d="M 1834.6 615.0 L 1825.3 650.5 L 1803.3 636.7 L 1797.5 674.3" stroke-width="1"/>
+  <path d="M 1227.0 235.2 L 1380.0 235.2 L 1380.0 330.9 Z" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="1380.0" y="235.2" width="17.0" height="95.6" fill="url(#wg)" stroke="#000" stroke-width="1.2"/>
+  <rect x="1210.0" y="214.0" width="187.0" height="21.2" fill="url(#wg)" stroke="#000" stroke-width="1.2"/>
+  <path d="M 1414.0 352.1 L 1567.0 352.1 L 1567.0 447.8 Z" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="1567.0" y="352.1" width="17.0" height="95.6" fill="url(#wg)" stroke="#000" stroke-width="1.2"/>
+  <rect x="1397.0" y="330.9" width="187.0" height="21.2" fill="url(#wg)" stroke="#000" stroke-width="1.2"/>
+  <path d="M 1601.0 469.0 L 1754.0 469.0 L 1754.0 564.6 Z" fill="none" stroke="#000" stroke-width="1.2"/>
+  <rect x="1754.0" y="469.0" width="17.0" height="95.6" fill="url(#wg)" stroke="#000" stroke-width="1.2"/>
+  <rect x="1584.0" y="447.8" width="187.0" height="21.2" fill="url(#wg)" stroke="#000" stroke-width="1.2"/>
+  <line class="hid" x1="1164.0" y1="185.2" x2="1805.0" y2="585.9"/>
+  <line class="x" x1="1397.0" y1="214.0" x2="1477.0" y2="214.0"/>
+  <line class="x" x1="1397.0" y1="330.9" x2="1477.0" y2="330.9"/>
+  <line class="d" x1="1463.0" y1="214.0" x2="1463.0" y2="330.9"/>
+  <text class="n" x="1457.0" y="272.4" text-anchor="middle" transform="rotate(-90 1457.0 272.4)">6 7/8"</text>
+  <line class="x" x1="1397.0" y1="330.9" x2="1397.0" y2="208.9"/>
+  <line class="x" x1="1584.0" y1="330.9" x2="1584.0" y2="208.9"/>
+  <line class="d" x1="1397.0" y1="218.9" x2="1584.0" y2="218.9"/>
+  <text class="n" x="1490.5" y="212.9" text-anchor="middle">11"</text>
+  <text class="tt" x="1100.0" y="789">4 &#8212; TREAD &amp; RISER AT MAIN &#8212; UPPER LEVEL</text>
+  <line class="x" x1="1100.0" y1="798" x2="1910.0" y2="798" stroke-width="1"/>
+  <text class="s" x="1100.0" y="820">RISER 6 7/8" &#183; TREAD 11" &#183; SEPARATE FLIGHT &#183; COMPLIES WITH THE BASE LIMITS OF &#167;1011.5.2</text>
+    <text class="tt" x="100" y="870">GENERAL NOTES</text>
+  <line class="x" x1="100" y1="879" x2="1800" y2="879" stroke-width="1"/>
+  <text class="n" x="100" y="900">1.</text>
+  <text class="n" x="134" y="900">CODE BASIS. 2021 IBC AS ADOPTED AND AMENDED BY ASPEN M.C. CH. 8.20. THE CITY DID NOT ADOPT</text>
+  <text class="n" x="134" y="918">THE IRC (&#167;8.16.010) &#8212; RESIDENTIAL WORK RUNS UNDER THE IBC AS GROUP R-3.</text>
+  <text class="n" x="100" y="946">2.</text>
+  <text class="n" x="134" y="946">RISER AND TREAD. GROUP R-3 LIMITS ARE 7 3/4" MAX RISER AND 10" MIN TREAD &#8212; &#167;1011.5.2 EXC. 3.</text>
+  <text class="n" x="134" y="964">BASEMENT&#8211;MAIN 7 1/2" / 11". MAIN&#8211;UPPER 6 7/8" / 11". BOTH COMPLY.</text>
+  <text class="f" x="134" y="982">** THE 7 1/2" RISER EXCEEDS THE 7" BASE LIMIT AND STANDS ONLY ON EXC. 3. CITE IT ON THE SHEET. **</text>
+  <text class="n" x="100" y="1010">3.</text>
+  <text class="n" x="134" y="1010">TREAD DEPTH IS MEASURED HORIZONTALLY BETWEEN THE VERTICAL PLANES OF THE FOREMOST PROJECTION</text>
+  <text class="n" x="134" y="1028">OF ADJACENT TREADS, AT A RIGHT ANGLE TO THE NOSING &#8212; &#167;1011.5.2.</text>
+  <text class="n" x="100" y="1056">4.</text>
+  <text class="n" x="134" y="1056">UNIFORMITY IS PER FLIGHT. WITHIN ANY ONE FLIGHT, LARGEST TO SMALLEST RISER AND LARGEST TO</text>
+  <text class="n" x="134" y="1074">SMALLEST TREAD SHALL NOT VARY MORE THAN 3/8" &#8212; &#167;1011.5.4. THESE TWO FLIGHTS ARE SEPARATE RUNS</text>
+  <text class="n" x="134" y="1092">AND ARE NOT REQUIRED TO MATCH EACH OTHER.</text>
+  <text class="f" x="134" y="1110">** VERIFY TOP AND BOTTOM RISERS AGAINST ACTUAL FINISH FLOOR THICKNESS AT EACH LEVEL BEFORE</text>
+  <text class="f" x="134" y="1128">CUTTING STRINGERS. THIS IS WHERE STAIRS FAIL INSPECTION. **</text>
+  <text class="n" x="100" y="1156">5.</text>
+  <text class="n" x="134" y="1156">ALL RISE AND RUN DIMENSIONS ARE TO FINISH SURFACES AND ARE EXCLUSIVE OF CARPET, RUGS OR</text>
+  <text class="n" x="134" y="1174">RUNNERS &#8212; &#167;1011.5.1.</text>
+  <text class="n" x="960" y="900">6.</text>
+  <text class="n" x="994" y="900">LEADING EDGE PROFILE. "NOSING" IS DEFINED AS THE LEADING EDGE OF THE TREAD &#8212; IT EXISTS WHETHER</text>
+  <text class="n" x="994" y="918">OR NOT THE TREAD PROJECTS. EASE THE LEADING EDGE OF EVERY TREAD: CURVATURE OR BEVEL 1/16" MIN</text>
+  <text class="n" x="994" y="936">TO 9/16" MAX &#8212; &#167;1011.5.5. THIS IS AN EDGE BREAK, NOT AN OVERHANG.</text>
+  <text class="n" x="960" y="964">7.</text>
+  <text class="n" x="994" y="964">NOSING PROJECTION (OVERHANG) IS NOT REQUIRED AT THIS STAIR. THE 3/4"&#8211;1 1/4" PROJECTION OF</text>
+  <text class="n" x="994" y="982">&#167;1011.5.2 EXC. 3 IS TRIGGERED ONLY WHERE THE TREAD IS LESS THAN 11", AND THE TREAD HERE IS 11".</text>
+  <text class="n" x="994" y="1000">WHERE A PROJECTION IS USED IT SHALL NOT EXCEED 1 1/4" AND SHALL BE UNIFORM AT EVERY TREAD AND</text>
+  <text class="n" x="994" y="1018">AT THE FLOOR EDGE AT THE TOP OF THE FLIGHT &#8212; &#167;1011.5.5.1 AND &#167;1011.5.5.2.</text>
+  <text class="f" x="994" y="1036">** 11" IS THE TRIGGER LINE, NOT A MARGIN. ANY TREAD BUILT UNDER 11" MAKES THE OVERHANG</text>
+  <text class="f" x="994" y="1054">MANDATORY AND THIS DETAIL WRONG. HOLD 11" MIN, OR DRAW 12" AND CARRY AN INCH OF SLACK. **</text>
+  <text class="n" x="960" y="1082">8.</text>
+  <text class="n" x="994" y="1082">RISERS SHALL BE SOLID &#8212; &#167;1011.5.5.3. RISER FACE VERTICAL, OR SLOPED UNDER THE TREAD ABOVE NOT</text>
+  <text class="n" x="994" y="1100">MORE THAN 30 DEGREES FROM VERTICAL &#8212; &#167;1011.5.5.</text>
+  <text class="n" x="960" y="1128">9.</text>
+  <text class="n" x="994" y="1128">HEADROOM 80" MIN, MEASURED VERTICALLY FROM THE LINE CONNECTING THE TREAD NOSINGS &#8212; &#167;1011.3.</text>
+  <text class="n" x="994" y="1146">STAIR WIDTH PER PLAN, 36" MIN AT AN OCCUPANT LOAD UNDER 50 &#8212; &#167;1011.2. HANDRAIL AND GUARD PER</text>
+  <text class="n" x="994" y="1164">THE HANDRAIL DETAIL.</text>
+  <text class="n" x="960" y="1192">10.</text>
+  <text class="n" x="994" y="1192">STRINGERS, BLOCKING, FASTENING AND ANCHORAGE PER STRUCTURAL. SET TREADS AND RISERS IN</text>
+  <text class="n" x="994" y="1210">CONTINUOUS ADHESIVE AND SCREW TO STRINGERS AND BLOCKING; NO EXPOSED FASTENERS ON TREADS.</text>
+  <text class="tt" x="100" y="1272">KEYNOTES</text>
+  <line class="x" x1="100" y1="1281" x2="1800" y2="1281" stroke-width="1"/>
+  <circle cx="115" cy="1304" r="13" fill="#fff" stroke="#000" stroke-width="0.8"/><text class="k" x="115" y="1309" text-anchor="middle">A</text>
+  <text class="n" x="142" y="1308">ENGINEERED WOOD TREAD &#8212; SEE INTERIORS FOR MATERIAL AND FINISH. EASE LEADING EDGE PER NOTE 6.</text>
+  <circle cx="115" cy="1330" r="13" fill="#fff" stroke="#000" stroke-width="0.8"/><text class="k" x="115" y="1335" text-anchor="middle">B</text>
+  <text class="n" x="142" y="1334">ENGINEERED WOOD RISER, SOLID PER NOTE 8. NO NOSING OVERHANG REQUIRED &#8212; SEE NOTE 7.</text>
+  <circle cx="115" cy="1356" r="13" fill="#fff" stroke="#000" stroke-width="0.8"/><text class="k" x="115" y="1361" text-anchor="middle">C</text>
+  <text class="n" x="142" y="1360">CONTINUOUS WOOD BLOCKING AT EACH TREAD AND RISER JUNCTION.</text>
+  <circle cx="115" cy="1382" r="13" fill="#fff" stroke="#000" stroke-width="0.8"/><text class="k" x="115" y="1387" text-anchor="middle">D</text>
+  <text class="n" x="142" y="1386">STAIR STRINGER PER STRUCTURAL &#8212; SEE NOTE 10.</text>
+  <circle cx="115" cy="1408" r="13" fill="#fff" stroke="#000" stroke-width="0.8"/><text class="k" x="115" y="1413" text-anchor="middle">E</text>
+  <text class="n" x="142" y="1412">LINE CONNECTING TREAD NOSINGS &#8212; DATUM FOR HEADROOM (NOTE 9) AND FOR HANDRAIL / GUARD HEIGHT.</text>
+  <rect x="60" y="1452" width="1780" height="1" fill="#000"/>
+  <text class="s" x="60" y="1474">DIMENSIONS ARE TO FINISH SURFACES. VERIFY ALL RISER HEIGHTS AGAINST ACTUAL FINISH FLOOR THICKNESS BEFORE FABRICATION.</text>
+  <text class="f" x="1840" y="1474" text-anchor="end">SEE NOTE 2 &#8212; THE 7 1/2" RISER RELIES ON &#167;1011.5.2 EXC. 3</text>
+</svg>

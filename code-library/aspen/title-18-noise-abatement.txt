@@ -1,0 +1,409 @@
+# CITY OF ASPEN MUNICIPAL CODE — TITLE 18 - NOISE ABATEMENT
+# Source: Municode (api.municode.com), Supp. No. 7 Update 1, codified through Ord. No. 06-2026 (enacted 2026-03-24)
+# Retrieved: 2026-07-22
+
+
+===== TITLE 18 - NOISE ABATEMENT
+
+
+===== Chapter 18.04. -         NOISE ABATEMENT        
+Footnotes: 
+ --- (
+1
+) ---
+Editor's note—
+ Ord. No. 2-1981, § 1, repealed former Ch. 16, §§ 16-1—16-4, relative to noise and
+ enacted in lien thereof a new Ch. 16, §§ 16-1—16-11 [Ch. 18.04], as herein set out.
+ Former Ch. 16 was derived from Code 1962, §§ 6-1-19, 6-1-22, 6-1-44; Ord. No. 27-1967,
+ §§ 1, 2; and Ord. No. 20-1970, § 1.
+State Law reference— 
+ 2
+ Noise, C.R.S. § 25-12-101 et seq.
+
+===== Sec. 18.04.010. - Declaration of policy.
+The City Council finds and declares that noise is a significant source of environmental
+ pollution that represents a present and increasing threat to the public peace and
+ to the health, safety and welfare of the residents of the City and to its visitors.
+ Noise has an adverse effect on the psychological and physiological well-being of persons,
+ thus constituting a present danger to the economic and aesthetic well-being of the
+ community. Accordingly, it is the policy of Council to provide standards for permissible
+ noise levels in various areas and manners and at various times and to prohibit noise
+ in excess of those levels.
+ (Code 1971, § 16-1; 
+Ord. No. 2-1981, § 1
+; 
+Ord. No. 11, 2003, § 1
+)
+
+===== Sec. 18.04.020. - Definitions and standards.
+(a)
+ All terminology used in this Chapter and not defined below shall be in conformance
+ with applicable American National Standards Institute (ANSI) or its successor body.
+ For the purposes of this Chapter, certain words and phrases used herein are defined
+ as follows:
+Commercial district
+ means an area zoned primarily for commercial use as defined in 
+Title 26
+ of this Code, including, but not limited to, areas designated CC, C-1, S/C/I, NC,
+ O, P (when surrounded by these designations), SKI and as such designations may be
+ amended.
+Construction activities
+ means Any and all activity incidental to the erection, demolition, altering, assembling,
+ installing or equipping of buildings, structures, roads or appurtenances thereto,
+ including land clearing, grading, excavating, filling, landscaping, use of power equipment
+ and the delivery, loading or unloading of materials and equipment.
+Dynamic braking device
+ (commonly referred to as Jake Brake) means a device used primarily on trucks for
+ the conversion of the engine from an internal combustion engine to an air compressor
+ for the purpose of braking without the use of wheel brakes.
+Lodge District
+ means an area zoned primarily for lodge use as defined in 
+Title 26
+ of this Code, including, but not limited to, areas designated L/TR, CL, LP, P (when
+ surrounded by these designations) and as such designations may be amended.
+Nighttime
+ shall mean the period from 11:00 p.m. to 7:00 a.m. daily.
+Property line.
+ An imaginary line, at the ground surface and its vertical extension, which separates
+ the real property owned or rented by one (1) person from that owned or rented by another
+ person and separates real property from the public premises or in multiple dwelling
+ units from the adjoining unit, such as the wall between two (2) apartments.
+Residential District
+ means an area zoned primarily for residential use as defined in 
+Title 26
+ of this Code, including, but not limited to, areas designated R-3, R-6, R-15, R-15A,
+ R-15B, R-30, R/MF, RR, M/MFA, AHPUD, A, C, P, PUB, P (when located adjoining properties
+ with these designations) and as such designations may be amended.
+Sound level meter
+ means an apparatus or instrument, including a microphone, amplifier, attenuator,
+ output meter and frequency weighting networks for the measurement of sound levels.
+Special event
+ [is] defined in 
+Section 14.20.010
+ of this Code.
+ (b)
+ Standards used in the measurement of sound as provided for in this Chapter shall be
+ those as specified herein:
+ (1)
+ Sound level measurement shall be made with a sound level meter using the "A" weighting
+ scale, set on "slow" response.
+ (2)
+ Measurements shall be taken at the property line of the affected property. The meter
+ shall be used according to manufacturer specifications. The meter shall not be held
+ in front of the person taking the reading.
+ (3)
+ Background noise levels shall be taken for comparison with a given source for accuracy
+ of a measurement. Enforcement actions will be taken if the source of noise is greater
+ than the stated permissible levels and the background noise level.
+ a.
+ Extraneous or momentary spikes in the background noise readings shall not be used
+ to compare with the source noise readings.
+ b.
+ If the source is constant and too loud to determine the background noise level, then
+ the enforcement office must find a similar site and distance to test for the background
+ noise level.
+ (4)
+ These noise regulations are enforceable by all city law and code enforcement officers.
+ (Code 1971, § 16-2; 
+Ord. No. 2-1981, § 1
+; 
+Ord. No. 36-1989, § 1
+; 
+Ord. No. 11-2003 § 1
+; Ord. No. 
+15-2014
+, 5-27-2014)
+
+===== Sec. 18.04.030. - Maximum permitted sound levels in zone districts.
+(a)
+ No person or group of persons shall operate or cause to be operated any continuous,
+ regular or frequent source of sound that exceeds the maximum permissible sound pressure
+ level listed in Table 1.
+Table 1: Maximum noise level by Zone District
+Zone District
+ | 
+Nighttime 11:00 p.m. to 7:00 a.m.
+ | 
+Daytime 7:00 a.m. to 11:00 p.m.
+ | 
+ Residential
+ | 
+ 50 dBA
+ | 
+ 55 dBA
+ | 
+ Commercial
+ | 
+ 60 dBA
+ | 
+ 65dBA
+ | 
+ Lodging
+ | 
+ 55 dBA
+ | 
+ 60 dBA
+ | 
+ (b)
+ No person shall drive, operate, move, cause or knowingly permit to be driven or moved
+ a motor vehicle or combination of vehicles at any time in such a manner as to exceed
+ the noise limits for the category of motor vehicle shown in Table 2.
+ (c)
+ Noise shall be measured at a distance of at least twenty-five (25) feet from the vehicle
+ with the sound level meter at least four (4) feet above the immediate surrounding
+ surface.
+Table 2: Maximum Vehicle Noise Levels
+Type of Vehicle
+ | 
+Noise level dBA for speed of 35 mph or less
+ | 
+Noise level dBA for speed over 35 mph
+ | 
+ Motor vehicles with a manufacturer's gross vehicle weight rating (GVWR) or gross combination
+ weight rating (GCWR) of 10,000 pounds or more or by any combination of vehicles towed
+ by such motor vehicle
+ | 
+ 86
+ | 
+ 90
+ | 
+ Any other motor vehicle (less than 10,000 pounds) or any combination of vehicles towed
+ by any motor vehicle
+ | 
+ 82
+ | 
+ 86
+ | 
+ (
+Ord. No. 11-2003, § 1
+; Ord. No. 
+15-2014
+, 5-27-2014)
+
+===== Sec. 18.04.040. - Noises prohibited; nuisances.
+(a)
+General prohibitions.
+ It shall be unlawful, with penalties provided in this Code, 
+Section 1.04.080
+, for any person to create, cause or allow the continuance of any unreasonably loud,
+ disturbing, unusual, frightening or unnecessary noise, which interferes with neighboring
+ residents' reasonable use of their properties. Such noise may include, but is not
+ limited to, the following:
+ (1)
+ Horns and signaling devices. The intentional sounding of any horn or signaling device
+ of a motor vehicle on any street or public place continuously or intermittently, except
+ as an emergency warning device.
+ (2)
+ The sounding of a security alarm for more than five (5) minutes.
+ (3)
+ The repair, rebuilding or testing of any motor vehicle during nighttime.
+ (4)
+ Operating or permitting the operation of any motor vehicle or motorcycle not equipped
+ with a muffler or other device in good working order so as to effectively prevent
+ loud or explosive noises therefrom; operating such vehicle in a manner as to constitute
+ unreasonable, disturbing noise that constitutes a nuisance.
+ (5)
+ Dynamic braking devices (commonly referred to as a Jake Brake). Operating any motor
+ vehicle with a dynamic braking device engaged except for the aversion of imminent
+ danger.
+ (6)
+ Noisy parties. Congregating because of or participating in any party or gathering
+ of people during nighttime in such a manner as to disturb the peace.
+ (7)
+ The playing of any radio, phonograph, musical instrument, outdoor speakers, televisions
+ or any such device in such a manner as to disturb the peace of nearby persons, particularly
+ during nighttime.
+ (8)
+ The yelling, shouting, whistling or singing on the public streets or private property
+ at nighttime in such a manner as to disturb the peace.
+ (9)
+ The use of leaf blowers other than electric-powered leaf blowers.
+ (10)
+ Construction on Sundays in any zone district.
+ (11)
+ The use or firing of explosives, firearms or similar devices which create loud sounds.
+ (Code 1971, § 16-3; 
+Ord. No. 2-1981, § 1
+; 
+Ord. No. 36-1989, § 1
+; 
+Ord. No. 4-1992, § 1
+; 
+Ord. No. 21-1999, § 1
+; 
+Ord. No. 11-2003, § 1
+; 
+Ord. No. 33, 2007 § 1
+)
+Cross reference— 
+ Barking dogs prohibited, 
+§ 6.08.100
+.
+
+===== Sec. 18.04.050. - Allowed noises based on time of day and other restrictions.
+(a)
+ Any and all activity incidental to the erection, demolition, altering, assembling,
+ installing or equipping of buildings, structures, roads or other appurtenances thereto,
+ including land clearing, grading, excavating, filling, landscaping, use of power equipment
+ and the delivery, leading or unloading of materials and equipment shall comply with
+Title 8
+.
+ (b)
+ The following noises are allowed to exceed the Zone District noise levels during specified
+ times of day unless deemed a disturbance of the peace by an enforcement officer.
+ (1)
+ Sound emanating from outdoor athletic events between 7:00 a.m. and 9:00 p.m.
+ (2)
+ Special Events or other events to which the public is invited with the following conditions:
+ a.
+ The maximum decibel level at the perimeter of the event does not exceed 100 decibels;
+ and
+ b.
+ Amplified noise shall be created only between the hours of 9:00 a.m. and 9:00 p.m.;
+ and
+ c.
+ Neighbors within two hundred fifty (250) feet of the site of the proposed sound source
+ are notified. Such notification must be in writing and be done seven (7) days prior
+ to the starting time of the event; and
+ d.
+ The arrangement of loud speakers or the sound instruments must be such that it minimizes
+ the disturbance to others resulting from the position or orientation of the speakers
+ or from atmospherically or geographically caused dispersal of sound beyond the property
+ lines; and
+ e.
+ All reasonable measures are taken to baffle or reduce noise impacts on the neighbors;
+ and
+ f.
+ Event organizers agree to cooperate with the Police Department in addressing noise
+ complaints from neighbors, which may include the termination of the event.
+ g.
+ Organizers of special events governed by the City of Aspen Special Event code (14.20.030(f))
+ may request a variance from noise restrictions to the City of Aspen Special Event
+ Committee.
+ 1.
+ The variance request shall include reasons why the variance should be granted, how
+ the public good will outweigh impacts on neighbors and other factors supporting the
+ request.
+ 2.
+ If approved, the variance shall contain all conditions upon which said variance has
+ been granted, including, but not limited to, the effective date(s), time(s) of day,
+ location, sound pressure level, or equipment limitation. The Special Event Committee
+ may prescribe any reasonable conditions or requirements deemed necessary to minimize
+ adverse effects upon the community or the surrounding neighborhood.
+ 3.
+ Decisions on variances by the Special Event Committee may be appealed to the city
+ council. An appeal shall be made by filing with the city clerk a signed statement
+ that the appellant desires to appeal to the city council, along with a copy of the
+ application and the written denial or the permit objected to. Each appeal shall be
+ filed within two (2) days, exclusive of Saturdays, Sundays and legal holidays, of
+ the decision appealed from. The right to appeal to city council shall be contingent
+ upon city council's regular meeting schedule.
+ (3)
+ Private events to which the public is not invited and that are located at a park,
+ business or nonprofit facility with the following conditions:
+ a.
+ Private events must comply with the requirements of parts (c) thru (f) of section
+ (3) governing public events; and
+ b.
+ Amplified noise shall be created only between the hours of 9:00 a.m. and 8:00 p.m.;
+ and
+ c.
+ The maximum decibel level at the perimeter of the event does not exceed 80 decibels;
+ and
+ d.
+ Maximum of two (2) per week at any property; and
+ e.
+ If complaints are received from neighbors about noise from a private event, the event
+ organizer must meet with the Environmental Health Department and implement additional
+ control measures for future events to prevent disturbance of neighbors.
+ f.
+ An administrative fee as set in the City Fee Ordinance is required for review of the
+ additional control measures.
+ (4)
+ Farmers' Markets. Sound from the Farmers' Market during times and dates specified
+ in its current vending agreement with the City of Aspen.
+ (
+Ord. No. 24, 2003, § 1
+; 
+Ord. No. 11-2003, § 1
+; 
+Ord. No. 33, 2007, § 2
+; 
+Ord. No. 18, 2008
+)
+
+===== Sec. 18.04.060. - Exemptions.
+(a)
+ The following uses and activities shall be exempt from noise level regulations:
+ (1)
+ Emergency construction work that is necessary to restore property to a safe condition
+ following a fire, accident or natural disaster or to restore public utilities or to
+ protect persons or property from an imminent danger. Such work must comply with the
+ requirements of the ordinance codified herein for a noise suppression plan.
+ (2)
+ Noises of safety signals, warning devices and emergency pressure relief valves.
+ (3)
+ Noises resulting from any authorized emergency vehicle when responding to an emergency
+ call or acting in time of emergency.
+ (4)
+ Noise from snow plowing, street cleaning or trash collection.
+ (5)
+ Lawful fireworks.
+ (6)
+ Electric leaf blowers.
+ (Code 1971, § 16-6; 
+Ord. No. 2-1981, § 1
+; 
+Ord. No. 11-2003, § 1
+)
+
+===== Sec. 18.04.070. - Reserved.
+
+
+===== Sec. 18.04.080. - Enforcement.
+(a)
+ Enforcement Officers may issue a warning notice or summons and complaint to any person
+ in violation of this Chapter.
+ (b)
+ An Enforcement Officer shall have the right to inspect property concerning any noise
+ complaint.
+ (Code 1971, § 16-8; 
+Ord. No. 2-1981, § 1
+; 
+Ord. No. 11-2003, § 1
+)
+
+===== Sec. 18.04.090. - Penalty assessment.
+(a)
+ Any person violating any provision of this Chapter may be punished by a fine, imprisonment
+ or both a fine and imprisonment, as set forth in 
+Section 1.04.080
+ of this Code. Each day any violation of this Chapter shall continue shall constitute
+ a separate offense.
+ (Code 1971, § 16-11; 
+Ord. No. 2-1981, §
+1; 
+Ord. No. 11-2003, § 1
+)
+
+===== Sec. 18.04.100. - Violations.
+Any person violating any provision of this Chapter may be punished by a fine, imprisonment
+ or other a fine and imprisonment, as set forth in Section 1.04.180 of this Code. Each
+ day any violation of this Chapter shall continue shall constitute a separate offense.
+ (Code 1971, § 16-10; 
+Ord. No. 2-1981, § 1
+; 
+Ord. 12-1996, § 11
+)
+
+===== Sec. 18.04.110. - Court ordered abatement.
+Violations of 
+Section 18.04.010
+ through 
+18.04.080
+ of this Chapter are deemed and declared to be a nuisance and as such may be subject
+ to summary abatement by means of a retraining order or injunction issued by a court
+ of competent jurisdiction.
+ (Code 1971, § 16-11; 
+Ord. No. 2-1981, § 1
+)
