@@ -75,6 +75,7 @@ var CSS = `
 /* ---- search ---- */
 #ead .search{display:flex;align-items:center;gap:12px;background:#fff;
   border-radius:999px;padding:7px 7px 7px 20px;margin-top:22px}
+#ead .hd+.search,#ead #ead>.search:first-child{margin-top:0}
 #ead .search svg{width:19px;height:19px;stroke:#788492;fill:none;
   stroke-width:2;stroke-linecap:round;stroke-linejoin:round;flex:none}
 #ead .search input{flex:1;border:0;outline:0;background:none;min-width:0;
@@ -170,8 +171,10 @@ function esc(s){ return String(s).replace(/[&<>"]/g, function(c){
   return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
 
 function head(){
-  var h = '<div class="hd">'+esc(CFG.title)+'</div>'+
-          '<div class="sb">'+esc(CFG.subtitle)+'</div>'+
+  /* Leave title/subtitle empty in CONFIG if you'd rather the Sites page
+     banner carry them -- the block then starts at the search bar. */
+  var h = (CFG.title    ? '<div class="hd">'+esc(CFG.title)+'</div>' : '') +
+          (CFG.subtitle ? '<div class="sb">'+esc(CFG.subtitle)+'</div>' : '') +
           '<form class="search" target="_blank">'+
             svg('search')+
             '<input type="text" placeholder="Search standards, templates, forms, SOPs, Revit standards\u2026">'+
