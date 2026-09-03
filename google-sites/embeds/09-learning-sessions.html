@@ -1,0 +1,238 @@
+<!-- ==================================================================
+     EAD OFFICE HUB  ·  LEARNING SESSIONS
+     Google Sites  >  Insert  >  Embed  >  Embed code  >  paste all of this
+     ------------------------------------------------------------------
+     TO EDIT: change only the CONFIG block below. Paste each Drive link
+     between the quotes. Everything under "--- do not edit ---" is layout.
+     ================================================================== -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<div id="ead"></div>
+
+<script>
+/* ===================== CONFIG — edit this part ===================== */
+var CFG = {
+  /* Where the search box sends people. Leave as-is to search all of Drive,
+     or paste a Shared-drive folder ID to scope it to the office hub. */
+  driveFolderId: "",
+
+  title: "Learning Sessions",
+  subtitle: "Weekly knowledge share \u2014 one person presents something new, or something we need to work on.",
+  kind: "sessions",
+  
+    actions: [
+      {label:"Request time off",     icon:"ft-form",    link:"" },
+      {label:"Report an IT issue",   icon:"tool",       link:"" },
+      {label:"Start a new project",  icon:"templates",  link:"" },
+      {label:"Submit an expense",    icon:"ft-sheet",   link:"" },
+      {label:"Sign up to present",   icon:"calendar",   link:"" },
+    ],
+  
+    cards: [
+      {date:"2026-09-04", presenter:"Jane Doe",
+       topic:"Revit Keynoting Tips", link:""},
+      {date:"2026-09-11", presenter:"Open \u2014 sign up",
+       topic:"Topic to be confirmed", link:""},
+      {date:"2026-09-18", presenter:"Open \u2014 sign up",
+       topic:"Topic to be confirmed", link:""},
+      {date:"2026-08-28", presenter:"Marc Ellis",
+       topic:"Reading the 2026 Energy Code", link:""},
+      {date:"2026-08-21", presenter:"Priya Shah",
+       topic:"Lessons from the Harbor View CA phase", link:""},
+      {date:"2026-08-14", presenter:"Tom Reyes",
+       topic:"Faster sheet setup in Revit", link:""},
+    ],
+};
+/* =================== --- do not edit below --- ==================== */
+
+var CSS = `
+#ead *{box-sizing:border-box;margin:0;padding:0}
+#ead{
+  --ui:'Montserrat',system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif;
+  --mono:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  font-family:var(--ui);
+  background:
+    radial-gradient(120% 95% at 88% 2%, #1A4E8C 0%, rgba(26,78,140,0) 62%),
+    #022049;
+  padding:30px 34px 36px; border-radius:16px; color:#fff;
+  -webkit-font-smoothing:antialiased;
+}
+#ead .hd{font:700 30px/1.15 var(--ui);letter-spacing:-.4px}
+#ead .sb{margin-top:9px;font:400 15px/1.5 var(--ui);color:#C6D6E8;max-width:66ch}
+
+/* ---- search ---- */
+#ead .search{display:flex;align-items:center;gap:12px;background:#fff;
+  border-radius:999px;padding:7px 7px 7px 20px;margin-top:22px}
+#ead .search svg{width:19px;height:19px;stroke:#788492;fill:none;
+  stroke-width:2;stroke-linecap:round;stroke-linejoin:round;flex:none}
+#ead .search input{flex:1;border:0;outline:0;background:none;min-width:0;
+  font:400 14px var(--mono);color:#022049}
+#ead .search input::placeholder{color:#788492}
+#ead .search button{border:0;cursor:pointer;background:#022049;color:#fff;
+  border-radius:999px;padding:11px 26px;font:700 13px var(--ui);letter-spacing:.6px}
+#ead .search button:hover{background:#0B3A72}
+
+/* ---- action pills ---- */
+#ead .pills{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px}
+#ead .pill{display:inline-flex;align-items:center;gap:9px;background:#fff;
+  color:#022049;border-radius:999px;padding:11px 20px 11px 16px;
+  font:600 13.5px var(--ui);text-decoration:none;transition:transform .12s,box-shadow .12s}
+#ead .pill:hover{transform:translateY(-1px);box-shadow:0 6px 18px rgba(0,0,0,.24)}
+#ead .pill svg{width:17px;height:17px;stroke:#022049;fill:none;
+  stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round;flex:none}
+
+/* ---- frosted cards ---- */
+#ead .grid{display:grid;gap:18px;margin-top:26px;
+  grid-template-columns:repeat(auto-fit,minmax(250px,1fr))}
+#ead .grid.wide{grid-template-columns:1fr}
+#ead .card{position:relative;display:flex;flex-direction:column;
+  background:rgba(255,255,255,.10);
+  -webkit-backdrop-filter:blur(18px) saturate(120%);
+          backdrop-filter:blur(18px) saturate(120%);
+  border:1px solid rgba(108,148,196,.55);border-radius:18px;
+  padding:20px;text-decoration:none;color:inherit;min-height:190px;
+  transition:background .15s,border-color .15s,transform .15s}
+#ead .card:hover{background:rgba(255,255,255,.17);
+  border-color:rgba(160,196,238,.85);transform:translateY(-2px)}
+#ead .chip{width:42px;height:42px;border-radius:11px;background:#2C588E;
+  display:flex;align-items:center;justify-content:center;flex:none}
+#ead .chip.lt{background:#fff;width:54px;height:54px;border-radius:14px}
+#ead .chip svg{width:21px;height:21px;stroke:#fff;fill:none;
+  stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+#ead .chip.lt svg{width:26px;height:26px;stroke:#022049}
+#ead .ttl{margin-top:16px;font:700 17.5px/1.28 var(--ui)}
+#ead .blurb{margin-top:7px;font:400 13px/1.5 var(--ui);color:#BACEE6;flex:1}
+#ead .foot{display:flex;justify-content:space-between;align-items:center;
+  margin-top:16px;font:500 11.5px var(--mono);
+  color:#BACEE6;letter-spacing:.3px}
+#ead .card:hover .foot .open{color:#fff}
+#ead .dot{position:absolute;top:24px;right:20px;width:9px;height:9px;border-radius:50%}
+#ead .dot.req{background:#7FCBA4}
+#ead .dot.upd{background:#E0AE55}
+
+/* ---- notices ---- */
+#ead .notice{display:flex;gap:16px;align-items:flex-start;
+  background:rgba(255,255,255,.10);
+  -webkit-backdrop-filter:blur(18px);backdrop-filter:blur(18px);
+  border:1px solid rgba(108,148,196,.55);border-radius:16px;padding:20px 22px}
+#ead .notice .body{flex:1;min-width:0}
+#ead .notice .row{display:flex;justify-content:space-between;gap:16px;align-items:baseline}
+#ead .notice .nt{font:700 16.5px/1.3 var(--ui)}
+#ead .notice .dt{font:500 11.5px var(--mono);color:#BACEE6;white-space:nowrap}
+#ead .notice p{margin-top:8px;font:400 13.5px/1.55 var(--ui);color:#BACEE6}
+#ead .urgent{display:inline-block;width:8px;height:8px;border-radius:50%;
+  background:#E0AE55;margin-right:7px;vertical-align:2px}
+
+/* ---- learning sessions ---- */
+#ead .sess{min-height:150px}
+#ead .sess .dt{font:500 11.5px var(--mono);color:#BACEE6;letter-spacing:.4px}
+#ead .sess .ttl{margin-top:10px;font:700 16.5px/1.3 var(--ui)}
+#ead .sess .who{display:flex;align-items:center;gap:10px;margin-top:auto;padding-top:14px;
+  font:400 13px var(--ui);color:#BACEE6}
+#ead .sess .who .chip{width:30px;height:30px;border-radius:9px}
+#ead .sess .who .chip svg{width:15px;height:15px}
+#ead .sess.open{border-style:dashed;border-color:rgba(160,196,238,.7)}
+
+`;
+
+var ICONS = {
+ "announcements": "<path d=\"M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9\"></path><path d=\"M13.73 21a2 2 0 0 1-3.46 0\"></path>",
+ "calendar": "<rect x=\"3\" y=\"4\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"></rect><line x1=\"16\" y1=\"2\" x2=\"16\" y2=\"6\"></line><line x1=\"8\" y1=\"2\" x2=\"8\" y2=\"6\"></line><line x1=\"3\" y1=\"10\" x2=\"21\" y2=\"10\"></line>",
+ "forms": "<path d=\"M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2\"></path><rect x=\"8\" y=\"2\" width=\"8\" height=\"4\" rx=\"1\" ry=\"1\"></rect>",
+ "ft-doc": "<path d=\"M13 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z\"></path><polyline points=\"13 2 13 9 20 9\"></polyline>",
+ "ft-form": "<path d=\"M12 20h9\"></path><path d=\"M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z\"></path>",
+ "ft-pdf": "<path d=\"M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z\"></path><polyline points=\"14 2 14 8 20 8\"></polyline><line x1=\"16\" y1=\"13\" x2=\"8\" y2=\"13\"></line><line x1=\"16\" y1=\"17\" x2=\"8\" y2=\"17\"></line><polyline points=\"10 9 9 9 8 9\"></polyline>",
+ "ft-sheet": "<rect x=\"3\" y=\"3\" width=\"7\" height=\"7\"></rect><rect x=\"14\" y=\"3\" width=\"7\" height=\"7\"></rect><rect x=\"14\" y=\"14\" width=\"7\" height=\"7\"></rect><rect x=\"3\" y=\"14\" width=\"7\" height=\"7\"></rect>",
+ "learning": "<path d=\"M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2\"></path><circle cx=\"9\" cy=\"7\" r=\"4\"></circle><path d=\"M23 21v-2a4 4 0 0 0-3-3.87\"></path><path d=\"M16 3.13a4 4 0 0 1 0 7.75\"></path>",
+ "policies": "<path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"></path>",
+ "revit": "<path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"></path><polyline points=\"3.27 6.96 12 12.01 20.73 6.96\"></polyline><line x1=\"12\" y1=\"22.08\" x2=\"12\" y2=\"12\"></line>",
+ "search": "<circle cx=\"11\" cy=\"11\" r=\"8\"></circle><line x1=\"21\" y1=\"21\" x2=\"16.65\" y2=\"16.65\"></line>",
+ "sops": "<polyline points=\"9 11 12 14 22 4\"></polyline><path d=\"M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11\"></path>",
+ "standards": "<path d=\"M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z\"></path><path d=\"M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z\"></path>",
+ "templates": "<rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"></rect><line x1=\"3\" y1=\"9\" x2=\"21\" y2=\"9\"></line><line x1=\"9\" y1=\"21\" x2=\"9\" y2=\"9\"></line>",
+ "tool": "<path d=\"M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z\"></path>"
+};
+
+function svg(n){ return '<svg viewBox="0 0 24 24">'+(ICONS[n]||'')+'</svg>'; }
+function esc(s){ return String(s).replace(/[&<>"]/g, function(c){
+  return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+
+function head(){
+  var h = '<div class="hd">'+esc(CFG.title)+'</div>'+
+          '<div class="sb">'+esc(CFG.subtitle)+'</div>'+
+          '<form class="search" target="_blank">'+
+            svg('search')+
+            '<input type="text" placeholder="Search standards, templates, forms, SOPs, Revit standards\u2026">'+
+            '<button type="submit">SEARCH</button>'+
+          '</form>';
+  if (CFG.actions && CFG.actions.length){
+    h += '<div class="pills">' + CFG.actions.map(function(a){
+      return '<a class="pill" target="_top" href="'+esc(a.link)+'">'+svg(a.icon)+esc(a.label)+'</a>';
+    }).join('') + '</div>';
+  }
+  return h;
+}
+
+function sectionCards(){
+  return '<div class="grid">' + CFG.cards.map(function(c){
+    return '<a class="card" target="_top" href="'+esc(c.link)+'">'+
+      '<div class="chip lt">'+svg(c.icon)+'</div>'+
+      '<div class="ttl">'+esc(c.title)+'</div>'+
+      '<div class="blurb">'+esc(c.blurb)+'</div>'+
+      '<div class="foot"><span>'+esc(c.count)+' documents</span>'+
+      '<span class="open">Open \u2197</span></div></a>';
+  }).join('') + '</div>';
+}
+
+function docCards(){
+  return '<div class="grid">' + CFG.cards.map(function(c){
+    var dot = c.status === 'REQUIRED' ? '<span class="dot req"></span>'
+            : c.status === 'UPDATED'  ? '<span class="dot upd"></span>' : '';
+    return '<a class="card" target="_top" href="'+esc(c.link)+'">'+dot+
+      '<div class="chip">'+svg(c.icon)+'</div>'+
+      '<div class="ttl">'+esc(c.title)+'</div>'+
+      '<div class="blurb">'+esc(c.blurb)+'</div>'+
+      '<div class="foot"><span>'+esc(c.format)+'</span>'+
+      '<span class="open">Open \u2197</span></div></a>';
+  }).join('') + '</div>';
+}
+
+function notices(){
+  return '<div class="grid wide">' + CFG.cards.map(function(n){
+    return '<div class="notice">'+
+      '<div class="chip">'+svg('announcements')+'</div>'+
+      '<div class="body"><div class="row">'+
+        '<div class="nt">'+(n.urgent?'<span class="urgent"></span>':'')+esc(n.title)+'</div>'+
+        '<div class="dt">'+esc(n.date)+'</div></div>'+
+        '<p>'+esc(n.body)+'</p></div></div>';
+  }).join('') + '</div>';
+}
+
+function sessions(){
+  return '<div class="grid">' + CFG.cards.map(function(s){
+    var open = /^open/i.test(s.presenter);
+    return '<a class="card sess'+(open?' open':'')+'" target="_top" href="'+esc(s.link)+'">'+
+      '<div class="dt">'+esc(s.date)+'</div>'+
+      '<div class="ttl">'+esc(s.topic)+'</div>'+
+      '<div class="who"><div class="chip">'+svg('learning')+'</div>'+esc(s.presenter)+'</div></a>';
+  }).join('') + '</div>';
+}
+
+(function(){
+  var host = document.getElementById('ead');
+  var st = document.createElement('style'); st.textContent = CSS;
+  document.head.appendChild(st);
+  var body = { sections: sectionCards, docs: docCards,
+               notices: notices, sessions: sessions }[CFG.kind]();
+  host.innerHTML = head() + body;
+  var form = host.querySelector('.search');
+  form.addEventListener('submit', function(e){
+    e.preventDefault();
+    var q = form.querySelector('input').value.trim();
+    if (!q) return;
+    var base = 'https://drive.google.com/drive/search?q=';
+    var scope = CFG.driveFolderId ? ('%20parent:' + CFG.driveFolderId) : '';
+    window.open(base + encodeURIComponent(q) + scope, '_blank');
+  });
+})();
+</script>
