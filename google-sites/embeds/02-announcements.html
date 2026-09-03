@@ -12,10 +12,17 @@
 <script>
 /* ===================== CONFIG — edit this part ===================== */
 var CFG = {
+  /* ---- FILL THIS IN ONCE, PER FILE ----------------------------------
+     Publish the site first, then paste its address here with NO slash at
+     the end. The left menu builds all ten of its links from this one line.
+       e.g. "https://sites.google.com/eigelberger.com/ead-office-hub"      */
+  siteBase: "",
+
   /* Where the search box sends people. Leave as-is to search all of Drive,
      or paste a Shared-drive folder ID to scope it to the office hub. */
   driveFolderId: "",
 
+  navIndex: 1,
   title: "Announcements",
   subtitle: "Office notices, deadlines, closures, and maintenance windows.",
   kind: "notices",
@@ -40,17 +47,48 @@ var CFG = {
 var CSS = `
 #ead *{box-sizing:border-box;margin:0;padding:0}
 #ead{
+  display:flex; align-items:stretch; overflow:hidden;
   --ui:'Montserrat',system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif;
   --mono:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
   font-family:var(--ui);
   background:
     radial-gradient(120% 95% at 88% 2%, #1A4E8C 0%, rgba(26,78,140,0) 62%),
     #022049;
-  padding:30px 34px 36px; border-radius:16px; color:#fff;
+  border-radius:16px; color:#fff;
   -webkit-font-smoothing:antialiased;
 }
 #ead .hd{font:700 30px/1.15 var(--ui);letter-spacing:-.4px}
 #ead .sb{margin-top:9px;font:400 15px/1.5 var(--ui);color:#C6D6E8;max-width:66ch}
+
+/* ---- left index rail ---- */
+#ead .rail{flex:0 0 232px;background:#fff;color:#4B4B4B;padding:26px 0 22px;
+  display:flex;flex-direction:column}
+#ead .rail .brand{padding:0 22px}
+#ead .rail .brand b{display:block;font:700 17px/1 var(--ui);color:#022049;letter-spacing:-.2px}
+#ead .rail .brand span{display:block;margin-top:6px;font:400 10px var(--mono);
+  color:#4B4B4B;letter-spacing:1.4px}
+#ead .rail hr{border:0;border-top:1px solid #C9D1D6;margin:18px 22px}
+#ead .rail .lbl{padding:0 22px;font:400 10px var(--mono);color:#788492;letter-spacing:1.4px}
+#ead .rail nav{margin-top:10px;display:flex;flex-direction:column;gap:1px}
+#ead .rail a{display:flex;align-items:center;gap:10px;margin:0 12px;padding:9px 10px;
+  border-radius:9px;text-decoration:none;color:#4B4B4B;font:400 13.5px var(--ui)}
+#ead .rail a svg{width:17px;height:17px;stroke:#4B4B4B;fill:none;stroke-width:1.7;
+  stroke-linecap:round;stroke-linejoin:round;flex:none}
+#ead .rail a .n{margin-left:auto;font:400 11px var(--mono);color:#788492}
+#ead .rail a:hover{background:#EEF1F5}
+#ead .rail a.on{background:#022049;color:#fff;font-weight:600}
+#ead .rail a.on svg{stroke:#fff}
+#ead .rail a.on .n{color:#C6D6E8}
+#ead .rail .ask{margin-top:auto;padding:0 22px}
+#ead .rail .ask hr{margin:18px 0}
+#ead .rail .ask p{font:400 12.5px/1.45 var(--ui);color:#4B4B4B}
+#ead .rail .ask b{display:block;margin-top:3px;font:700 12.5px var(--ui);color:#022049}
+
+/* ---- content column ---- */
+#ead .main{flex:1;min-width:0;padding:28px 30px 32px;
+  background:
+    radial-gradient(120% 95% at 88% 2%, #1A4E8C 0%, rgba(26,78,140,0) 62%),
+    #022049}
 
 /* ---- search ---- */
 #ead .search{display:flex;align-items:center;gap:12px;background:#fff;
@@ -76,7 +114,7 @@ var CSS = `
 
 /* ---- frosted cards ---- */
 #ead .grid{display:grid;gap:18px;margin-top:26px;
-  grid-template-columns:repeat(auto-fit,minmax(250px,1fr))}
+  grid-template-columns:repeat(auto-fit,minmax(206px,1fr))}
 #ead .grid.wide{grid-template-columns:1fr}
 #ead .card{position:relative;display:flex;flex-direction:column;
   background:rgba(255,255,255,.10);
@@ -131,11 +169,13 @@ var CSS = `
 var ICONS = {
  "announcements": "<path d=\"M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9\"></path><path d=\"M13.73 21a2 2 0 0 1-3.46 0\"></path>",
  "calendar": "<rect x=\"3\" y=\"4\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"></rect><line x1=\"16\" y1=\"2\" x2=\"16\" y2=\"6\"></line><line x1=\"8\" y1=\"2\" x2=\"8\" y2=\"6\"></line><line x1=\"3\" y1=\"10\" x2=\"21\" y2=\"10\"></line>",
+ "directory": "<path d=\"M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2\"></path><circle cx=\"12\" cy=\"7\" r=\"4\"></circle>",
  "forms": "<path d=\"M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2\"></path><rect x=\"8\" y=\"2\" width=\"8\" height=\"4\" rx=\"1\" ry=\"1\"></rect>",
  "ft-doc": "<path d=\"M13 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z\"></path><polyline points=\"13 2 13 9 20 9\"></polyline>",
  "ft-form": "<path d=\"M12 20h9\"></path><path d=\"M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z\"></path>",
  "ft-pdf": "<path d=\"M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z\"></path><polyline points=\"14 2 14 8 20 8\"></polyline><line x1=\"16\" y1=\"13\" x2=\"8\" y2=\"13\"></line><line x1=\"16\" y1=\"17\" x2=\"8\" y2=\"17\"></line><polyline points=\"10 9 9 9 8 9\"></polyline>",
  "ft-sheet": "<rect x=\"3\" y=\"3\" width=\"7\" height=\"7\"></rect><rect x=\"14\" y=\"3\" width=\"7\" height=\"7\"></rect><rect x=\"14\" y=\"14\" width=\"7\" height=\"7\"></rect><rect x=\"3\" y=\"14\" width=\"7\" height=\"7\"></rect>",
+ "home": "<path d=\"M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\"></path><polyline points=\"9 22 9 12 15 12 15 22\"></polyline>",
  "learning": "<path d=\"M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2\"></path><circle cx=\"9\" cy=\"7\" r=\"4\"></circle><path d=\"M23 21v-2a4 4 0 0 0-3-3.87\"></path><path d=\"M16 3.13a4 4 0 0 1 0 7.75\"></path>",
  "policies": "<path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"></path>",
  "revit": "<path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"></path><polyline points=\"3.27 6.96 12 12.01 20.73 6.96\"></polyline><line x1=\"12\" y1=\"22.08\" x2=\"12\" y2=\"12\"></line>",
@@ -149,6 +189,32 @@ var ICONS = {
 function svg(n){ return '<svg viewBox="0 0 24 24">'+(ICONS[n]||'')+'</svg>'; }
 function esc(s){ return String(s).replace(/[&<>"]/g, function(c){
   return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+
+var NAV = [
+ ["Home","home",""], ["Announcements","announcements","4"],
+ ["Office Standards","standards","6"], ["Templates","templates","4"],
+ ["Forms","forms","6"], ["Office Policies","policies","5"],
+ ["SOPs","sops","6"], ["Revit Standards","revit","8"],
+ ["Learning Sessions","learning",""], ["Staff Directory","directory","3"]
+];
+/* Sites builds a page address by lower-casing the name and hyphenating it. */
+function slug(n){ return n.toLowerCase().replace(/&/g,'').replace(/[^a-z0-9]+/g,'-')
+                          .replace(/^-|-$/g,''); }
+
+function rail(){
+  var base = (CFG.siteBase || '').replace(/\/+$/,'');
+  var items = NAV.map(function(it, i){
+    var href = base ? (base + (i === 0 ? '' : '/' + slug(it[0]))) : '#';
+    return '<a class="'+(i===CFG.navIndex?'on':'')+'" target="_top" href="'+href+'">'+
+      svg(it[1])+'<span>'+esc(it[0])+'</span>'+
+      (it[2] ? '<span class="n">'+it[2]+'</span>' : '')+'</a>';
+  }).join('');
+  return '<div class="rail">'+
+    '<div class="brand"><b>EIGELBERGER</b><span>OFFICE HUB</span></div><hr>'+
+    '<div class="lbl">SECTIONS</div><nav>'+items+'</nav>'+
+    '<div class="ask"><hr><p>Need something added?</p><b>Ask the office manager</b></div>'+
+  '</div>';
+}
 
 function head(){
   /* Leave title/subtitle empty in CONFIG if you'd rather the Sites page
@@ -219,7 +285,7 @@ function sessions(){
   document.head.appendChild(st);
   var body = { sections: sectionCards, docs: docCards,
                notices: notices, sessions: sessions }[CFG.kind]();
-  host.innerHTML = head() + body;
+  host.innerHTML = rail() + '<div class="main">' + head() + body + '</div>';
   var form = host.querySelector('.search');
   form.addEventListener('submit', function(e){
     e.preventDefault();

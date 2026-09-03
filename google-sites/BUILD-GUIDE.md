@@ -7,28 +7,30 @@ nothing needs a developer, and nothing needs a subscription you don't already ha
 
 ## The short answer
 
-**Yes — this can be 100% Google Sites.**
+**Yes — this can be 100% Google Sites, including the left menu with icons.**
 
-I told you earlier that the Embed block only accepts an iframe pointing at an
-outside URL. That was wrong, and it changes the answer. Sites' **Insert → Embed →
-Embed code** tab accepts raw HTML and CSS pasted directly into the box. That is a
-normal, supported Sites feature — not a workaround, not a hack, and it keeps
-everything inside your Google Workspace.
+Sites has a feature — **Insert → Embed → Embed code** — that accepts design code
+pasted straight into the page. It's a normal, supported feature. That's what makes
+the frosted-glass cards, the navy field, the search bar, the action pills, and the
+left index rail all reproduce exactly.
 
-So the frosted-glass cards, the navy field, the search bar, the action pills, the
-status dots, and the hover behaviour all reproduce exactly. You paste one block per
-page. Everything else — navigation, page titles, the auto-updating Drive file
-lists, publishing, and permissions — is built with the normal Sites editor.
-
-**Two things genuinely change from the design.** Both are hard limits in Sites,
-not shortcuts:
+**One thing changes from the design, and only one:**
 
 | In the design | In Sites | Why |
 |---|---|---|
 | Gotham | **Montserrat** | Gotham is a licensed Hoefler typeface. It isn't in Sites' font list and can't be loaded by a page you don't host. Montserrat is the standard geometric substitute — same tall x-height, same feel. Gotham stays where you already use it: print, stamps, deliverables. |
-| Left rail with icons + document counts | **Sites side navigation** | Same position, and it takes your navy from the theme. But Sites won't put an icon or a count next to a nav item. The icons move onto the cards — which is where you said you preferred them. |
 
-Everything else matches.
+Everything else matches, including the icons and document counts in the left menu.
+
+### How the left menu works
+
+Google Sites' *own* navigation is plain text — it can't take icons or counts. So
+the rail isn't Sites' navigation. It's drawn inside each block, exactly as
+designed, and its links jump to the real Sites pages. You then hide Sites' own
+menu so it doesn't duplicate it (Step 3).
+
+You get the design you picked, and every page still has its own real web address
+you can bookmark or paste into an email.
 
 ---
 
@@ -38,16 +40,11 @@ Everything else matches.
 google-sites/
 ├── BUILD-GUIDE.md              this file
 ├── embeds/                     10 paste-ready blocks, one per page
-│   ├── 01-home.html
-│   ├── 02-announcements.html
-│   ├── 03-office-standards.html
-│   ├── 04-templates.html
-│   ├── 05-forms.html
-│   ├── 06-office-policies.html
-│   ├── 07-sops.html
-│   ├── 08-revit-standards.html
-│   ├── 09-learning-sessions.html
-│   └── 10-staff-directory.html
+│   ├── 01-home.html                  06-office-policies.html
+│   ├── 02-announcements.html         07-sops.html
+│   ├── 03-office-standards.html      08-revit-standards.html
+│   ├── 04-templates.html             09-learning-sessions.html
+│   └── 05-forms.html                 10-staff-directory.html
 ├── icons/                      36 PNGs — every icon, navy and white,
 │                               256px, transparent background
 ├── ead-office-hub-icons.zip    the same icons, zipped
@@ -57,9 +54,9 @@ google-sites/
     └── section-navy-2560x1440.jpg      full section background
 ```
 
-The icons are already baked into the embed blocks as vector artwork, so they stay
-sharp at any size and you never have to upload them. The PNG folder is there for
-everything *outside* the embeds — the site logo, slide decks, printed handouts.
+The icons are already built into the blocks as vector artwork, so they stay sharp
+at any size and you never upload them. The PNG folder is for everything *outside*
+the site — slide decks, printed handouts.
 
 ---
 
@@ -83,43 +80,40 @@ everything *outside* the embeds — the site logo, slide decks, printed handouts
 The site is a front door. The files stay in Drive. Two things to settle first,
 because everything else depends on them:
 
-1. **Build the folder structure** in the Shared drive, matching the structure
-   I sent you. One top-level folder per section.
+1. **Build the folder structure** in the Shared drive, matching the structure I
+   sent you. One top-level folder per section.
 2. **Give the office access to the Shared drive.** The Site does *not* grant
-   access to files it links to. If someone can't open a Drive folder directly,
-   the card will fail for them too. Set access on the Shared drive once, at the
-   member level, and every link on every page works for everyone.
+   access to files it links to. If someone can't open a Drive folder directly, the
+   card will fail for them too. Set access once at the Shared drive member level
+   and every link on every page works for everyone.
 
 ---
 
 ## Step 1 — Create the site
 
-1. Go to **sites.google.com** → **Blank**.
-2. Name it `EAD Office Hub` (top-left) and set the same as the site title.
+1. **sites.google.com** → **Blank**.
+2. Name it `EAD Office Hub` (top-left) and set the site title to match.
 3. **Settings (gear) → Brand images → Logo** → upload
    `EAD LOGO BLUE TYPE NO BACKGROUND_300dpi.png` from
    `Shared drives / EAD - Office / Graphics / Stamps, Logos, Letterhead`.
-   Sites will ask for a matching text colour — choose the dark option.
 
 ---
 
 ## Step 2 — Theme
 
-1. Right panel → **Themes** → scroll to **Custom** → **+** (create a theme).
+1. Right panel → **Themes** → scroll to **Custom** → **+**.
 2. Name it `EAD`.
 3. **Colour** → custom → paste `022049`.
-4. **Font style** → set both the heading and body font to **Montserrat**.
+4. **Font style** → set heading and body to **Montserrat**.
 5. Pick the flattest of the six style presets — the one with no drop shadows.
-
-This makes the Sites chrome (nav, titles, buttons) match the embedded cards,
-so the seam doesn't show.
 
 ---
 
-## Step 3 — Navigation
+## Step 3 — Pages, and hiding Sites' own menu
 
-1. **Pages** tab → add these ten pages, in this order. The names matter — they
-   are the section names people will learn:
+1. **Pages** tab → add these ten pages, **in this order and with these exact
+   names**. The names decide each page's web address, and the rail's links are
+   built from them — so a typo here breaks that page's link.
 
    ```
    Home
@@ -134,84 +128,107 @@ so the seam doesn't show.
    Staff Directory
    ```
 
-2. **Settings (gear) → Navigation → Side.**
-   This puts the index on the left, where the design has it.
+2. **Settings (gear) → Navigation → Top.**
+
+3. In the Pages list, right-click each page → **Hide from navigation**.
+
+   This is the step that stops Sites' plain-text menu from duplicating your
+   designed rail. If Sites won't let you hide the last remaining one, leave
+   **Home** visible — the bar then shows a single word and reads as a header.
 
 ---
 
-## Step 4 — Build a page
+## Step 4 — Publish early
 
-Do this once per page. It takes about three minutes each.
+Do this now, before pasting anything — the rail needs the site's address.
+
+1. **Publish** (top right) → choose the web address, e.g. `ead-office-hub`.
+2. **Manage** → who can view: **Everyone at Eigelberger Architecture & Design**.
+   Leave it off the public web.
+3. **Copy the published address.** It looks like:
+
+   ```
+   https://sites.google.com/eigelberger.com/ead-office-hub
+   ```
+
+Keep it handy. You'll paste it into each block once.
+
+---
+
+## Step 5 — Build a page
+
+Once per page, about three minutes each.
 
 1. **Open the page.**
 
 2. **Set the header.** Hover the page banner → **Change image** → **Upload** →
-   `backgrounds/banner-navy-2560x900.jpg`. Then **Header type → Title only**
-   (or **Banner** if you want it taller).
+   `backgrounds/banner-navy-2560x900.jpg`. Then **Header type → Title only**.
 
-3. **Paste the block.** Right panel → **Insert** → **Embed** → the
-   **Embed code** tab (not "By URL") → open the matching file from `embeds/`,
-   select all, copy, paste into the box → **Next** → **Insert**.
+3. **Open the matching file** from `embeds/` in any text editor (Notepad,
+   TextEdit). Near the top you'll see:
 
-4. **Size it.** Drag the block to the full width of the content area, then drag
-   the bottom handle down. Suggested heights:
+   ```js
+   siteBase: "",
+   ```
 
-   | Page | Height |
-   |---|---|
-   | Home | 780 px |
-   | Announcements | 680 px |
-   | Office Standards | 780 px |
-   | Templates | 760 px |
-   | Forms | 760 px |
-   | Office Policies | 760 px |
-   | SOPs | 760 px |
-   | Revit Standards | 780 px |
-   | Learning Sessions | 700 px |
-   | Staff Directory | 550 px |
+   Paste your published address between the quotes, **with no slash on the end**:
 
-   Too short and the block scrolls inside itself; too tall and you get navy
-   dead space. Adjust by eye after you publish.
+   ```js
+   siteBase: "https://sites.google.com/eigelberger.com/ead-office-hub",
+   ```
 
-5. **Add the live file list underneath.** This is the part that never needs
-   maintaining. **Insert → Drive → pick that section's folder → Insert.**
-   Anything anyone drops in that folder from now on shows up here on its own.
+   That one line builds all ten of the rail's links. It's the same value in every
+   file — paste it once, then copy that line into the other nine.
 
-Repeat for all ten pages.
+4. **Paste the block.** Select all in the file, copy. In Sites: right panel →
+   **Insert** → **Embed** → the **Embed code** tab (not "By URL") → paste →
+   **Next** → **Insert**.
+
+5. **Size it.** Drag the block to the full width of the content area, then drag
+   the bottom handle down to:
+
+   | Page | Height | | Page | Height |
+   |---|---|---|---|---|
+   | Home | 790 px | | Office Policies | 810 px |
+   | Announcements | 690 px | | SOPs | 790 px |
+   | Office Standards | 810 px | | Revit Standards | 810 px |
+   | Templates | 765 px | | Learning Sessions | 720 px |
+   | Forms | 810 px | | Staff Directory | 595 px |
+
+   Too short and the block scrolls inside itself; too tall and you get navy dead
+   space below the cards. Adjust by eye after publishing.
+
+6. **Add the live file list underneath.** This is the part that never needs
+   maintaining. **Insert → Drive → pick that section's folder → Insert.** Anything
+   dropped into that folder from now on appears here on its own.
+
+Repeat for all ten pages, then **Publish** again.
 
 > **Titles:** each block prints its own title and subtitle. If you'd rather the
-> Sites page banner carry them, open the block and set `title: ""` and
-> `subtitle: ""` in the CONFIG — the block then starts at the search bar.
+> Sites page banner carry them, set `title: ""` and `subtitle: ""` in the block —
+> it then starts at the search bar.
 
 ---
 
-## Step 5 — Turn on search
+## Step 6 — Turn on search
 
-**Settings (gear) → Search → on.** This adds the magnifier to the published
-header and searches your page text.
+**Settings (gear) → Search → on.** This adds the magnifier to the published header
+and searches your page text.
 
-Note that the white search bar *inside* the cards does something different and
-more useful: it searches **Drive**, including the text inside your PDFs. Sites'
-own search can't do that. Keep both — they answer different questions.
+The white search bar *inside* the design does something different and more useful:
+it searches **Drive**, including the text inside your PDFs. Sites' own search
+can't do that. Keep both — they answer different questions.
 
-To scope that bar to just the office hub instead of all of Drive, open any
-block and paste the hub's folder ID into `driveFolderId`. The ID is the long
-string in the folder's URL after `/folders/`.
-
----
-
-## Step 6 — Publish
-
-1. **Publish** (top right) → choose the web address, e.g. `ead-office-hub`.
-2. **Manage** → set who can view: **Everyone at Eigelberger Architecture &
-   Design**. Leave it off the public web.
-3. Send the link out, and pin it as the browser homepage on office machines.
+To scope that bar to just the office hub instead of all of Drive, paste the hub's
+folder ID into `driveFolderId`. The ID is the long string in the folder's URL
+after `/folders/`.
 
 ---
 
-## Filling in the links
+## Filling in the document links
 
-Every block opens with a **CONFIG** section. It is a plain list — the only
-thing you ever edit. Paste each Drive link between the empty quotes:
+Every block has a **CONFIG** section — a plain list, and the only part you edit.
+Paste each Drive link between the empty quotes:
 
 ```js
 cards: [
@@ -223,16 +240,16 @@ cards: [
 
 Rules:
 
-- **Keep the quotes.** `link:"https://…"` — the `https://` included.
+- **Keep the quotes**, and the `https://`.
 - **Keep the commas** at the end of each line.
-- `status` accepts `"REQUIRED"` (green dot), `"UPDATED"` (amber dot), or `""`
-  for no dot.
-- To remove a card, delete its whole `{ … },` block. To add one, copy an
-  existing block and edit it.
-- If you add a link by hand anywhere, keep `target="_top"` on it. Embedded
-  blocks live in a frame, and without that the page opens *inside* the card.
+- `status` accepts `"REQUIRED"` (green dot), `"UPDATED"` (amber dot), or `""` for
+  no dot.
+- To remove a card, delete its whole `{ … },` block. To add one, copy an existing
+  block and edit it.
+- If you add a link by hand, keep `target="_top"` on it. Blocks live in a frame,
+  and without that the page opens *inside* the card.
 
-After editing: click the block → the pencil icon → paste the updated code →
+To update a block later: click it → the pencil icon → paste the new code →
 **Next** → **Insert**.
 
 ---
@@ -241,12 +258,10 @@ After editing: click the block → the pencil icon → paste the updated code �
 
 Two layers, on purpose:
 
-- **The cards** are the six-to-eight things people actually need. They change
-  a few times a year, and they're worth curating by hand so the important
-  documents stay at the top.
-- **The Drive folder list underneath** is everything else, always live. Drop a
-  file in the folder and it appears on the site immediately. Nobody edits the
-  site.
+- **The cards** are the six-to-eight things people actually need. They change a few
+  times a year and are worth curating so the important documents stay on top.
+- **The Drive folder list underneath** is everything else, always live. Drop a file
+  in the folder and it appears on the site immediately. Nobody edits the site.
 
 That split is what keeps this from becoming a second thing to maintain.
 
@@ -254,29 +269,34 @@ That split is what keeps this from becoming a second thing to maintain.
 
 ## Known limits — read before you promise anything
 
-1. **Embedded blocks aren't found by Sites' own search.** Your section names and
-   page titles are (those are real Sites text), but card titles are not. This
-   is why the Drive search bar inside the block matters.
-2. **The block height is fixed.** Sites can't grow a frame to fit its contents.
-   Set it once per the table above; if content overflows, the block scrolls
-   inside itself rather than breaking the page.
-3. **Desktop only.** Per your instruction, there's no phone layout. On a narrow
-   screen the cards will stack but the spacing won't be tuned.
-4. **Sites nav can't take icons or counts.** Covered above.
-5. **A card is only as accessible as the file behind it.** The site does not
-   grant Drive access. Fix this once at the Shared drive level.
-6. **Five action pills wrap to two rows** at the Sites content width (1000px).
-   It reads fine. If you want them on one row, drop one — four fit.
+1. **Blocks aren't found by Sites' own search.** Your page titles are (real Sites
+   text), but card titles aren't. This is why the Drive search bar matters.
+2. **Block height is fixed.** Sites can't grow a frame to fit its contents. Set it
+   once from the table above; if content overflows, the block scrolls inside itself
+   rather than breaking the page.
+3. **The rail lives in all ten blocks.** So renaming a section, or changing a
+   document count, means editing ten files instead of one. They're small edits —
+   the rail list sits at the top of each file — but it's ten, not one.
+4. **Page names drive the rail's links.** Rename a page in Sites and its rail link
+   breaks until you rename it back or update the rail list.
+5. **Desktop only.** Per your instruction, there's no phone layout. On a narrow
+   screen the cards stack but the spacing isn't tuned.
+6. **A card is only as accessible as the file behind it.** The site does not grant
+   Drive access — fix this once at the Shared drive level.
+7. **Five action pills wrap to two rows** at the Sites content width. It reads
+   fine. If you want them on one row, drop one — four fit.
 
 ---
 
-## One thing to decide
+## Still open
 
-The sample card lists include documents you'd previously told me to cut from the
-folder structure: **CAD Standards**, **Deliverable Standards**, **Plotting &
-Printing Standards**, **Specifications Format**, **IT Support Request**, and the
-whole **Staff Directory** section.
+The sample cards include documents you'd previously told me to cut from the folder
+structure: **CAD Standards**, **Deliverable Standards**, **Plotting & Printing
+Standards**, **Specifications Format**, and **IT Support Request**.
 
-I left them in rather than guess, because you approved the rendered pages with
-them showing. Once the real folder structure is settled, edit the CONFIG lists to
-match it — or tell me and I'll strip them and regenerate the blocks.
+I left them in rather than guess, because you approved the rendered pages with them
+showing. Once the real folder structure is settled, edit the CONFIG lists to match —
+or tell me and I'll strip them and regenerate the blocks.
+
+*(Staff Directory is confirmed in, per your instruction, and has its own page and
+rail entry.)*

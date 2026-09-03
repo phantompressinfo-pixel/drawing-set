@@ -44,6 +44,12 @@ HEAD = """<!-- =================================================================
 <script>
 /* ===================== CONFIG — edit this part ===================== */
 var CFG = {{
+  /* ---- FILL THIS IN ONCE, PER FILE ----------------------------------
+     Publish the site first, then paste its address here with NO slash at
+     the end. The left menu builds all ten of its links from this one line.
+       e.g. "https://sites.google.com/eigelberger.com/ead-office-hub"      */
+  siteBase: "",
+
   /* Where the search box sends people. Leave as-is to search all of Drive,
      or paste a Shared-drive folder ID to scope it to the office hub. */
   driveFolderId: "",
@@ -57,17 +63,48 @@ CSS = """
 var CSS = `
 #ead *{box-sizing:border-box;margin:0;padding:0}
 #ead{
+  display:flex; align-items:stretch; overflow:hidden;
   --ui:'Montserrat',system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif;
   --mono:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
   font-family:var(--ui);
   background:
     radial-gradient(120% 95% at 88% 2%, #1A4E8C 0%, rgba(26,78,140,0) 62%),
     #022049;
-  padding:30px 34px 36px; border-radius:16px; color:#fff;
+  border-radius:16px; color:#fff;
   -webkit-font-smoothing:antialiased;
 }
 #ead .hd{font:700 30px/1.15 var(--ui);letter-spacing:-.4px}
 #ead .sb{margin-top:9px;font:400 15px/1.5 var(--ui);color:#C6D6E8;max-width:66ch}
+
+/* ---- left index rail ---- */
+#ead .rail{flex:0 0 232px;background:#fff;color:#4B4B4B;padding:26px 0 22px;
+  display:flex;flex-direction:column}
+#ead .rail .brand{padding:0 22px}
+#ead .rail .brand b{display:block;font:700 17px/1 var(--ui);color:#022049;letter-spacing:-.2px}
+#ead .rail .brand span{display:block;margin-top:6px;font:400 10px var(--mono);
+  color:#4B4B4B;letter-spacing:1.4px}
+#ead .rail hr{border:0;border-top:1px solid #C9D1D6;margin:18px 22px}
+#ead .rail .lbl{padding:0 22px;font:400 10px var(--mono);color:#788492;letter-spacing:1.4px}
+#ead .rail nav{margin-top:10px;display:flex;flex-direction:column;gap:1px}
+#ead .rail a{display:flex;align-items:center;gap:10px;margin:0 12px;padding:9px 10px;
+  border-radius:9px;text-decoration:none;color:#4B4B4B;font:400 13.5px var(--ui)}
+#ead .rail a svg{width:17px;height:17px;stroke:#4B4B4B;fill:none;stroke-width:1.7;
+  stroke-linecap:round;stroke-linejoin:round;flex:none}
+#ead .rail a .n{margin-left:auto;font:400 11px var(--mono);color:#788492}
+#ead .rail a:hover{background:#EEF1F5}
+#ead .rail a.on{background:#022049;color:#fff;font-weight:600}
+#ead .rail a.on svg{stroke:#fff}
+#ead .rail a.on .n{color:#C6D6E8}
+#ead .rail .ask{margin-top:auto;padding:0 22px}
+#ead .rail .ask hr{margin:18px 0}
+#ead .rail .ask p{font:400 12.5px/1.45 var(--ui);color:#4B4B4B}
+#ead .rail .ask b{display:block;margin-top:3px;font:700 12.5px var(--ui);color:#022049}
+
+/* ---- content column ---- */
+#ead .main{flex:1;min-width:0;padding:28px 30px 32px;
+  background:
+    radial-gradient(120% 95% at 88% 2%, #1A4E8C 0%, rgba(26,78,140,0) 62%),
+    #022049}
 
 /* ---- search ---- */
 #ead .search{display:flex;align-items:center;gap:12px;background:#fff;
@@ -93,7 +130,7 @@ var CSS = `
 
 /* ---- frosted cards ---- */
 #ead .grid{display:grid;gap:18px;margin-top:26px;
-  grid-template-columns:repeat(auto-fit,minmax(250px,1fr))}
+  grid-template-columns:repeat(auto-fit,minmax(206px,1fr))}
 #ead .grid.wide{grid-template-columns:1fr}
 #ead .card{position:relative;display:flex;flex-direction:column;
   background:rgba(255,255,255,.10);
@@ -152,6 +189,32 @@ var ICONS = %ICONS%;
 function svg(n){ return '<svg viewBox="0 0 24 24">'+(ICONS[n]||'')+'</svg>'; }
 function esc(s){ return String(s).replace(/[&<>"]/g, function(c){
   return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+
+var NAV = [
+ ["Home","home",""], ["Announcements","announcements","4"],
+ ["Office Standards","standards","6"], ["Templates","templates","4"],
+ ["Forms","forms","6"], ["Office Policies","policies","5"],
+ ["SOPs","sops","6"], ["Revit Standards","revit","8"],
+ ["Learning Sessions","learning",""], ["Staff Directory","directory","3"]
+];
+/* Sites builds a page address by lower-casing the name and hyphenating it. */
+function slug(n){ return n.toLowerCase().replace(/&/g,'').replace(/[^a-z0-9]+/g,'-')
+                          .replace(/^-|-$/g,''); }
+
+function rail(){
+  var base = (CFG.siteBase || '').replace(/\/+$/,'');
+  var items = NAV.map(function(it, i){
+    var href = base ? (base + (i === 0 ? '' : '/' + slug(it[0]))) : '#';
+    return '<a class="'+(i===CFG.navIndex?'on':'')+'" target="_top" href="'+href+'">'+
+      svg(it[1])+'<span>'+esc(it[0])+'</span>'+
+      (it[2] ? '<span class="n">'+it[2]+'</span>' : '')+'</a>';
+  }).join('');
+  return '<div class="rail">'+
+    '<div class="brand"><b>EIGELBERGER</b><span>OFFICE HUB</span></div><hr>'+
+    '<div class="lbl">SECTIONS</div><nav>'+items+'</nav>'+
+    '<div class="ask"><hr><p>Need something added?</p><b>Ask the office manager</b></div>'+
+  '</div>';
+}
 
 function head(){
   /* Leave title/subtitle empty in CONFIG if you'd rather the Sites page
@@ -222,7 +285,7 @@ function sessions(){
   document.head.appendChild(st);
   var body = { sections: sectionCards, docs: docCards,
                notices: notices, sessions: sessions }[CFG.kind]();
-  host.innerHTML = head() + body;
+  host.innerHTML = rail() + '<div class="main">' + head() + body + '</div>';
   var form = host.querySelector('.search');
   form.addEventListener('submit', function(e){
     e.preventDefault();
@@ -237,7 +300,8 @@ function sessions(){
 """
 
 def cfg_lines(p):
-    L = ['title: %s,' % json.dumps(p["title"]),
+    L = ['navIndex: %d,' % p["i"],
+         'title: %s,' % json.dumps(p["title"]),
          'subtitle: %s,' % json.dumps(p["sub"]),
          'kind: %s,' % json.dumps(p["kind"]), '']
     if p["kind"] != "notices":
@@ -272,7 +336,7 @@ def cfg_lines(p):
     return "\n  ".join(L)
 
 
-NEED = ["search", "announcements", "learning"] + [s[1] for s in SECTIONS] + [a[1] for a in ACTIONS]
+NEED = ["search", "announcements", "learning", "home", "directory", "policies"] + [s[1] for s in SECTIONS] + [a[1] for a in ACTIONS]
 for p in PAGES:
     if p["kind"] == "docs":
         NEED += [it[3] for it in p["items"]]
