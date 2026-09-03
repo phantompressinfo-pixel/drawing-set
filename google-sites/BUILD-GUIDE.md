@@ -65,13 +65,18 @@ the site — slide decks, printed handouts.
 | | Value |
 |---|---|
 | Navy (primary) | `#022049` — Pantone 282 C |
-| Charcoal (text) | `#4B4B4B` — Pantone 2336 C |
-| Card chip / accent | `#2C588E` |
-| Glass card border | `#6C94C4` |
+| Charcoal | `#4B4B4B` — Pantone 2336 C |
+| Glass card border | `#6C94C4` — a navy tint, for edge visibility only |
 | "Required" dot | `#7FCBA4` |
 | "Updated" dot | `#E0AE55` |
 | Heading + body font | Montserrat |
 | Label / date font | IBM Plex Mono |
+
+Only the two brand colours do the work. Navy is the field, the active menu row,
+and the search button. Charcoal is every card's icon chip and all the rail text.
+White is the rail, the search bar, and the action buttons. Nothing else is
+invented — the one non-brand value is a navy tint used to keep the glass card
+edges visible against the field.
 
 ---
 
@@ -188,11 +193,11 @@ Once per page, about three minutes each.
 
    | Page | Height | | Page | Height |
    |---|---|---|---|---|
-   | Home | 790 px | | SOPs | 790 px |
-   | Office Standards | 810 px | | Revit Standards | 810 px |
-   | Templates | 765 px | | Learning Sessions | 720 px |
-   | Forms | 810 px | | Staff Directory | 570 px |
-   | Office Policies | 810 px | | | |
+   | Home | 740 px | | SOPs | 740 px |
+   | Office Standards | 760 px | | Revit Standards | 765 px |
+   | Templates | 715 px | | Learning Sessions | 670 px |
+   | Forms | 760 px | | Staff Directory | 560 px |
+   | Office Policies | 760 px | | | |
 
    Too short and the block scrolls inside itself; too tall and you get navy dead
    space below the cards. Adjust by eye after publishing.

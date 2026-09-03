@@ -1,7 +1,12 @@
 """Emit paste-ready Google Sites 'Embed code' blocks for every Office Hub page."""
 import json, os, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from gen_final import PAGES, SECTIONS, ACTIONS
+from gen_final import PAGES, SECTIONS
+
+# Short enough that five fit one row at the Sites content width.
+ACTIONS = [("Time off", "ft-form"), ("IT issue", "tool"),
+           ("New project", "templates"), ("Expense", "ft-sheet"),
+           ("Sign up", "calendar")]
 
 
 # Two nav sections had no page in the approved render set. Same treatment,
@@ -129,12 +134,13 @@ var CSS = `
 #ead .search button:hover{background:#0B3karma}
 
 /* ---- action pills ---- */
-#ead .pills{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px}
-#ead .pill{display:inline-flex;align-items:center;gap:9px;background:#fff;
-  color:#022049;border-radius:999px;padding:11px 20px 11px 16px;
-  font:600 13.5px var(--ui);text-decoration:none;transition:transform .12s,box-shadow .12s}
+#ead .pills{display:flex;flex-wrap:nowrap;gap:9px;margin-top:16px}
+#ead .pill{display:inline-flex;align-items:center;justify-content:center;gap:8px;
+  flex:1 1 0;min-width:0;white-space:nowrap;background:#fff;
+  color:#022049;border-radius:999px;padding:11px 12px;
+  font:600 13px var(--ui);text-decoration:none;transition:transform .12s,box-shadow .12s}
 #ead .pill:hover{transform:translateY(-1px);box-shadow:0 6px 18px rgba(0,0,0,.24)}
-#ead .pill svg{width:17px;height:17px;stroke:#022049;fill:none;
+#ead .pill svg{width:16px;height:16px;stroke:#022049;fill:none;
   stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round;flex:none}
 
 /* ---- frosted cards ---- */
@@ -150,7 +156,7 @@ var CSS = `
   transition:background .15s,border-color .15s,transform .15s}
 #ead .card:hover{background:rgba(255,255,255,.17);
   border-color:rgba(160,196,238,.85);transform:translateY(-2px)}
-#ead .chip{width:42px;height:42px;border-radius:11px;background:#2C588E;
+#ead .chip{width:42px;height:42px;border-radius:11px;background:#4B4B4B;
   display:flex;align-items:center;justify-content:center;flex:none}
 #ead .chip.lt{background:#fff;width:54px;height:54px;border-radius:14px}
 #ead .chip svg{width:21px;height:21px;stroke:#fff;fill:none;
