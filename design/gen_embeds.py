@@ -97,7 +97,7 @@ function slug(n){ return n.toLowerCase().replace(/&/g,'').replace(/[^a-z0-9]+/g,
 function rail(){
   var base = (CFG.siteBase || '').replace(/\/+$/,'');
   var items = CFG.menu.map(function(it, i){
-    var href = base ? (base + (i === 0 ? '' : '/' + slug(it[0]))) : '#';
+    var href = base ? (base + '/' + slug(it[0])) : '#';
     return '<a class="'+(i===CFG.navIndex?'on':'')+'" target="_top" href="'+href+'">'+
       svg(it[1])+'<span>'+esc(it[0])+'</span>'+
       (it[2] ? '<span class="n">'+it[2]+'</span>' : '')+'</a>';
