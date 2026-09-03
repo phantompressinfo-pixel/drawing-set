@@ -84,8 +84,8 @@ obstructions (Exc. 3); for each ½" of handrail perimeter above 4", the 1½" ver
 clearance may be reduced by ⅛".
 
 > **Calc for this profile:** 9" − 4" = 5"; 5 ÷ ½" = 10 increments; 10 × ⅛" = 1¼"
-> reduction; 1½" − 1¼" = **¼"** required clear. The 1½" sub-rail beneath a 1¾"-wide cap
-> underside does not project beyond the sides of the grip at any point, so Exc. 3 is
+> reduction; 1½" − 1¼" = **¼"** required clear. The 1½" sub-rail beneath the 2½"-wide cap
+> does not project beyond the sides of the grip at any point, so Exc. 3 is
 > satisfied with margin.
 
 **8. EXTENSIONS AND RETURNS (§1014.6).** Handrails shall return to a wall, guard or the
@@ -128,9 +128,9 @@ surface. Sand all graspable surfaces smooth; ease all edges R ⅛" typical.
 
 | Key | Note |
 |---|---|
-| A | 2½" × 2" solid hardwood cap, species per finish schedule. Type II graspable profile, §1014.3.2. Perimeter exceeds 6¼", so Type I (§1014.3.1) is not available. Width above recess 2½" (2¾" max). |
+| A | 2½" × 2" solid hardwood cap, species per finish schedule. Rounded-rectangle profile as originally drawn, with the finger recess required by §1014.3.2 cut into each side. Perimeter exceeds 6¼", so Type I (§1014.3.1) is not available. Width above recess 2½" (2¾" max). |
 | B | Finger recess, both sides. Begins ½" below top of profile (¾" max). Depth ⅜" (5/16" min), achieved within 7/8" below widest point and continued to 1¾" below top of profile. §1014.3.2. |
-| C | Cap underside 1¾" wide, overhangs sub-rail ⅛" each side. No bracket, baluster or post to project beyond the sides of the grip — not an obstruction per §1014.4 Exc. 3. See note 7. |
+| C | Cap overhangs the 1½" sub-rail ½" each side. No bracket, baluster or post to project beyond the sides of the grip — not an obstruction per §1014.4 Exc. 3. See note 7. |
 | D | Cap to sub-rail: #10 × 3" F.H. screws at 12" o.c. max, countersunk and plugged, plus continuous adhesive. Rail shall not rotate in its fittings, §1014.5. Post anchorage per structural. |
 | E | 1½" sub-rail / guard post. Guard infill per note 5. Where rail occurs at a wall, maintain 1½" min clear between grip and wall, §1014.7. No sharp or abrasive elements. |
 | F | Ease all edges, R ⅛" typ. (0.01" min, §1014.3.2). Sand smooth; no splinters or exposed fasteners. |
