@@ -39,12 +39,12 @@ you can bookmark or paste into an email.
 ```
 google-sites/
 ├── BUILD-GUIDE.md              this file
-├── embeds/                     10 paste-ready blocks, one per page
-│   ├── 01-home.html                  06-office-policies.html
-│   ├── 02-announcements.html         07-sops.html
-│   ├── 03-office-standards.html      08-revit-standards.html
-│   ├── 04-templates.html             09-learning-sessions.html
-│   └── 05-forms.html                 10-staff-directory.html
+├── embeds/                     9 paste-ready blocks, one per page
+│   ├── 1-home.html                   6-sops.html
+│   ├── 2-office-standards.html       7-revit-standards.html
+│   ├── 3-templates.html              8-learning-sessions.html
+│   ├── 4-forms.html                  9-staff-directory.html
+│   └── 5-office-policies.html
 ├── icons/                      36 PNGs — every icon, navy and white,
 │                               256px, transparent background
 ├── ead-office-hub-icons.zip    the same icons, zipped
@@ -111,13 +111,12 @@ because everything else depends on them:
 
 ## Step 3 — Pages, and hiding Sites' own menu
 
-1. **Pages** tab → add these ten pages, **in this order and with these exact
+1. **Pages** tab → add these nine pages, **in this order and with these exact
    names**. The names decide each page's web address, and the rail's links are
    built from them — so a typo here breaks that page's link.
 
    ```
    Home
-   Announcements
    Office Standards
    Templates
    Forms
@@ -177,8 +176,8 @@ Once per page, about three minutes each.
    siteBase: "https://sites.google.com/eigelberger.com/ead-office-hub",
    ```
 
-   That one line builds all ten of the rail's links. It's the same value in every
-   file — paste it once, then copy that line into the other nine.
+   That one line builds all nine of the rail's links. It's the same value in every
+   file — paste it once, then copy that line into the other eight.
 
 4. **Paste the block.** Select all in the file, copy. In Sites: right panel →
    **Insert** → **Embed** → the **Embed code** tab (not "By URL") → paste →
@@ -189,11 +188,11 @@ Once per page, about three minutes each.
 
    | Page | Height | | Page | Height |
    |---|---|---|---|---|
-   | Home | 790 px | | Office Policies | 810 px |
-   | Announcements | 690 px | | SOPs | 790 px |
+   | Home | 790 px | | SOPs | 790 px |
    | Office Standards | 810 px | | Revit Standards | 810 px |
    | Templates | 765 px | | Learning Sessions | 720 px |
-   | Forms | 810 px | | Staff Directory | 595 px |
+   | Forms | 810 px | | Staff Directory | 570 px |
+   | Office Policies | 810 px | | | |
 
    Too short and the block scrolls inside itself; too tall and you get navy dead
    space below the cards. Adjust by eye after publishing.
@@ -202,7 +201,7 @@ Once per page, about three minutes each.
    maintaining. **Insert → Drive → pick that section's folder → Insert.** Anything
    dropped into that folder from now on appears here on its own.
 
-Repeat for all ten pages, then **Publish** again.
+Repeat for all nine pages, then **Publish** again.
 
 > **Titles:** each block prints its own title and subtitle. If you'd rather the
 > Sites page banner carry them, set `title: ""` and `subtitle: ""` in the block —
@@ -252,6 +251,25 @@ Rules:
 To update a block later: click it → the pencil icon → paste the new code →
 **Next** → **Insert**.
 
+### Changing the left menu
+
+Each block's CONFIG also holds a `menu:` list — the nine sections, their icons,
+and the number shown on the right:
+
+```js
+menu: [
+  ["Home",             "home",      "" ],
+  ["Office Standards", "standards", "6"],
+  ["Templates",        "templates", "4"],
+```
+
+The number counts the **cards featured on that page**, not the files in the Drive
+folder — so it only changes when you add or remove a card, not when someone
+uploads a file. Set it to `""` for no number at all.
+
+This block is identical in all nine files. Edit it once, then paste it over the
+same block in the other eight.
+
 ---
 
 ## How it stays current
@@ -274,9 +292,9 @@ That split is what keeps this from becoming a second thing to maintain.
 2. **Block height is fixed.** Sites can't grow a frame to fit its contents. Set it
    once from the table above; if content overflows, the block scrolls inside itself
    rather than breaking the page.
-3. **The rail lives in all ten blocks.** So renaming a section, or changing a
-   document count, means editing ten files instead of one. They're small edits —
-   the rail list sits at the top of each file — but it's ten, not one.
+3. **The rail lives in all nine blocks.** So renaming a section, or changing a
+   document count, means editing nine files instead of one. It's one copy-paste of
+   the `menu:` block into each — but it's nine, not one.
 4. **Page names drive the rail's links.** Rename a page in Sites and its rail link
    breaks until you rename it back or update the rail list.
 5. **Desktop only.** Per your instruction, there's no phone layout. On a narrow
@@ -288,15 +306,20 @@ That split is what keeps this from becoming a second thing to maintain.
 
 ---
 
-## Still open
+## What upkeep actually looks like
 
-The sample cards include documents you'd previously told me to cut from the folder
-structure: **CAD Standards**, **Deliverable Standards**, **Plotting & Printing
-Standards**, **Specifications Format**, and **IT Support Request**.
+Worth being straight about, since it's the thing that decides whether this survives:
 
-I left them in rather than guess, because you approved the rendered pages with them
-showing. Once the real folder structure is settled, edit the CONFIG lists to match —
-or tell me and I'll strip them and regenerate the blocks.
+| What | How often it changes | What it takes |
+|---|---|---|
+| Files inside the Drive folders | Constantly | **Nothing.** Drop the file in Drive; the folder list on the page shows it. |
+| The cards on a section page | A few times a year | Edit that page's CONFIG list |
+| A section name or its number | Rarely | Edit the `menu:` block, paste into all nine |
 
-*(Staff Directory is confirmed in, per your instruction, and has its own page and
-rail entry.)*
+The cards are a curated shortlist, not a catalogue. Let the Drive folder list
+underneath carry everything else — that's the part that never goes stale.
+
+*(Announcements was removed. Staff Directory is in, with its own page and rail
+entry. The sample cards still include CAD Standards, Deliverable Standards,
+Plotting & Printing, Specifications Format, and IT Support Request — kept per your
+instruction; edit the CONFIG lists once the real folder structure is settled.)*

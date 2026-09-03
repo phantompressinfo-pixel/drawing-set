@@ -1,5 +1,5 @@
 <!-- ==================================================================
-     EAD OFFICE HUB  ·  STANDARD OPERATING PROCEDURES
+     EAD OFFICE HUB  ·  OFFICE STANDARDS
      Google Sites  >  Insert  >  Embed  >  Embed code  >  paste all of this
      ------------------------------------------------------------------
      TO EDIT: change only the CONFIG block below. Paste each Drive link
@@ -22,9 +22,27 @@ var CFG = {
      or paste a Shared-drive folder ID to scope it to the office hub. */
   driveFolderId: "",
 
-  navIndex: 6,
-  title: "Standard Operating Procedures",
-  subtitle: "Step-by-step procedures for recurring project workflows.",
+    /* ---- THE LEFT MENU ------------------------------------------------
+     name, icon, and the number shown on the right. The number counts the
+     cards featured on that page -- so it only changes when you add or
+     remove a card. Leave it "" for no number.
+     This block is identical in all nine files: edit it once, then paste
+     it over the same block in the other eight.                          */
+  menu: [
+    ["Home",              "home",         "" ],
+    ["Office Standards",  "standards",    "6"],
+    ["Templates",         "templates",    "4"],
+    ["Forms",             "forms",        "6"],
+    ["Office Policies",   "policies",     "5"],
+    ["SOPs",              "sops",         "6"],
+    ["Revit Standards",   "revit",        "8"],
+    ["Learning Sessions", "learning",     "6"],
+    ["Staff Directory",   "directory",    "3"],
+  ],
+  
+  navIndex: 1,
+  title: "Office Standards",
+  subtitle: "Drafting conventions, CAD standards, file naming, and deliverables.",
   kind: "docs",
   
     actions: [
@@ -36,29 +54,29 @@ var CFG = {
     ],
   
     cards: [
-      {title:"Project Kickoff",
-       blurb:"Numbering, folders, team setup",
-       format:"Google Doc", icon:"ft-doc", status:"REQUIRED",
-       link:""},
-      {title:"QA/QC Review",
-       blurb:"Milestone checkpoints and sign-off",
+      {title:"Drafting & CAD Standards",
+       blurb:"Line weights and layer naming",
        format:"PDF", icon:"ft-pdf", status:"REQUIRED",
        link:""},
-      {title:"Submittal Review",
-       blurb:"Log, route, and respond",
-       format:"Google Doc", icon:"ft-doc", status:"",
+      {title:"File Naming Convention",
+       blurb:"Drawings, models, and folders",
+       format:"PDF", icon:"ft-pdf", status:"REQUIRED",
        link:""},
-      {title:"Client Onboarding",
-       blurb:"Contracts and kickoff scheduling",
-       format:"Google Doc", icon:"ft-doc", status:"",
-       link:""},
-      {title:"File Backup & Archiving",
-       blurb:"Cadence and archive procedure",
+      {title:"Sheet Numbering Standard",
+       blurb:"Discipline prefixes and order",
        format:"PDF", icon:"ft-pdf", status:"",
        link:""},
-      {title:"Drawing Issue & Plotting",
-       blurb:"Review, plot, log transmittals",
+      {title:"Deliverable Standards",
+       blurb:"Content at SD, DD, CD, and CA",
+       format:"Google Doc", icon:"ft-doc", status:"",
+       link:""},
+      {title:"Plotting & Print Standards",
+       blurb:"Pen tables and export settings",
        format:"PDF", icon:"ft-pdf", status:"UPDATED",
+       link:""},
+      {title:"Specification Format",
+       blurb:"CSI MasterFormat divisions",
+       format:"DOCX", icon:"ft-doc", status:"",
        link:""},
     ],
 };
@@ -210,20 +228,13 @@ function svg(n){ return '<svg viewBox="0 0 24 24">'+(ICONS[n]||'')+'</svg>'; }
 function esc(s){ return String(s).replace(/[&<>"]/g, function(c){
   return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
 
-var NAV = [
- ["Home","home",""], ["Announcements","announcements","4"],
- ["Office Standards","standards","6"], ["Templates","templates","4"],
- ["Forms","forms","6"], ["Office Policies","policies","5"],
- ["SOPs","sops","6"], ["Revit Standards","revit","8"],
- ["Learning Sessions","learning",""], ["Staff Directory","directory","3"]
-];
 /* Sites builds a page address by lower-casing the name and hyphenating it. */
 function slug(n){ return n.toLowerCase().replace(/&/g,'').replace(/[^a-z0-9]+/g,'-')
                           .replace(/^-|-$/g,''); }
 
 function rail(){
   var base = (CFG.siteBase || '').replace(/\/+$/,'');
-  var items = NAV.map(function(it, i){
+  var items = CFG.menu.map(function(it, i){
     var href = base ? (base + (i === 0 ? '' : '/' + slug(it[0]))) : '#';
     return '<a class="'+(i===CFG.navIndex?'on':'')+'" target="_top" href="'+href+'">'+
       svg(it[1])+'<span>'+esc(it[0])+'</span>'+

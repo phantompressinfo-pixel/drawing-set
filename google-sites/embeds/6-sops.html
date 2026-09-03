@@ -1,5 +1,5 @@
 <!-- ==================================================================
-     EAD OFFICE HUB  ·  OFFICE HUB
+     EAD OFFICE HUB  ·  STANDARD OPERATING PROCEDURES
      Google Sites  >  Insert  >  Embed  >  Embed code  >  paste all of this
      ------------------------------------------------------------------
      TO EDIT: change only the CONFIG block below. Paste each Drive link
@@ -22,10 +22,28 @@ var CFG = {
      or paste a Shared-drive folder ID to scope it to the office hub. */
   driveFolderId: "",
 
-  navIndex: 0,
-  title: "Office Hub",
-  subtitle: "Everything the office needs, in one place.",
-  kind: "sections",
+    /* ---- THE LEFT MENU ------------------------------------------------
+     name, icon, and the number shown on the right. The number counts the
+     cards featured on that page -- so it only changes when you add or
+     remove a card. Leave it "" for no number.
+     This block is identical in all nine files: edit it once, then paste
+     it over the same block in the other eight.                          */
+  menu: [
+    ["Home",              "home",         "" ],
+    ["Office Standards",  "standards",    "6"],
+    ["Templates",         "templates",    "4"],
+    ["Forms",             "forms",        "6"],
+    ["Office Policies",   "policies",     "5"],
+    ["SOPs",              "sops",         "6"],
+    ["Revit Standards",   "revit",        "8"],
+    ["Learning Sessions", "learning",     "6"],
+    ["Staff Directory",   "directory",    "3"],
+  ],
+  
+  navIndex: 5,
+  title: "Standard Operating Procedures",
+  subtitle: "Step-by-step procedures for recurring project workflows.",
+  kind: "docs",
   
     actions: [
       {label:"Request time off",     icon:"ft-form",    link:"" },
@@ -36,29 +54,29 @@ var CFG = {
     ],
   
     cards: [
-      {title:"Office Standards",
-       icon:"standards", count:6,
-       blurb:"Drafting, CAD, file naming, deliverables",
+      {title:"Project Kickoff",
+       blurb:"Numbering, folders, team setup",
+       format:"Google Doc", icon:"ft-doc", status:"REQUIRED",
        link:""},
-      {title:"Templates",
-       icon:"templates", count:4,
-       blurb:"Title blocks, minutes, transmittals, RFIs",
+      {title:"QA/QC Review",
+       blurb:"Milestone checkpoints and sign-off",
+       format:"PDF", icon:"ft-pdf", status:"REQUIRED",
        link:""},
-      {title:"Forms",
-       icon:"forms", count:6,
-       blurb:"PTO, expenses, IT support, onboarding",
+      {title:"Submittal Review",
+       blurb:"Log, route, and respond",
+       format:"Google Doc", icon:"ft-doc", status:"",
        link:""},
-      {title:"Office Policies",
-       icon:"policies", count:5,
-       blurb:"Handbook, safety, remote work, IT use",
+      {title:"Client Onboarding",
+       blurb:"Contracts and kickoff scheduling",
+       format:"Google Doc", icon:"ft-doc", status:"",
        link:""},
-      {title:"SOPs",
-       icon:"sops", count:6,
-       blurb:"Kickoff, QA/QC, submittals, archiving",
+      {title:"File Backup & Archiving",
+       blurb:"Cadence and archive procedure",
+       format:"PDF", icon:"ft-pdf", status:"",
        link:""},
-      {title:"Revit Standards",
-       icon:"revit", count:8,
-       blurb:"Worksharing, families, views, LOD",
+      {title:"Drawing Issue & Plotting",
+       blurb:"Review, plot, log transmittals",
+       format:"PDF", icon:"ft-pdf", status:"UPDATED",
        link:""},
     ],
 };
@@ -210,20 +228,13 @@ function svg(n){ return '<svg viewBox="0 0 24 24">'+(ICONS[n]||'')+'</svg>'; }
 function esc(s){ return String(s).replace(/[&<>"]/g, function(c){
   return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
 
-var NAV = [
- ["Home","home",""], ["Announcements","announcements","4"],
- ["Office Standards","standards","6"], ["Templates","templates","4"],
- ["Forms","forms","6"], ["Office Policies","policies","5"],
- ["SOPs","sops","6"], ["Revit Standards","revit","8"],
- ["Learning Sessions","learning",""], ["Staff Directory","directory","3"]
-];
 /* Sites builds a page address by lower-casing the name and hyphenating it. */
 function slug(n){ return n.toLowerCase().replace(/&/g,'').replace(/[^a-z0-9]+/g,'-')
                           .replace(/^-|-$/g,''); }
 
 function rail(){
   var base = (CFG.siteBase || '').replace(/\/+$/,'');
-  var items = NAV.map(function(it, i){
+  var items = CFG.menu.map(function(it, i){
     var href = base ? (base + (i === 0 ? '' : '/' + slug(it[0]))) : '#';
     return '<a class="'+(i===CFG.navIndex?'on':'')+'" target="_top" href="'+href+'">'+
       svg(it[1])+'<span>'+esc(it[0])+'</span>'+

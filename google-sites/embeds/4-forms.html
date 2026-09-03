@@ -1,5 +1,5 @@
 <!-- ==================================================================
-     EAD OFFICE HUB  ·  STAFF DIRECTORY
+     EAD OFFICE HUB  ·  FORMS
      Google Sites  >  Insert  >  Embed  >  Embed code  >  paste all of this
      ------------------------------------------------------------------
      TO EDIT: change only the CONFIG block below. Paste each Drive link
@@ -22,9 +22,27 @@ var CFG = {
      or paste a Shared-drive folder ID to scope it to the office hub. */
   driveFolderId: "",
 
-  navIndex: 9,
-  title: "Staff Directory",
-  subtitle: "Who does what, how to reach them, and who to call after hours.",
+    /* ---- THE LEFT MENU ------------------------------------------------
+     name, icon, and the number shown on the right. The number counts the
+     cards featured on that page -- so it only changes when you add or
+     remove a card. Leave it "" for no number.
+     This block is identical in all nine files: edit it once, then paste
+     it over the same block in the other eight.                          */
+  menu: [
+    ["Home",              "home",         "" ],
+    ["Office Standards",  "standards",    "6"],
+    ["Templates",         "templates",    "4"],
+    ["Forms",             "forms",        "6"],
+    ["Office Policies",   "policies",     "5"],
+    ["SOPs",              "sops",         "6"],
+    ["Revit Standards",   "revit",        "8"],
+    ["Learning Sessions", "learning",     "6"],
+    ["Staff Directory",   "directory",    "3"],
+  ],
+  
+  navIndex: 3,
+  title: "Forms",
+  subtitle: "Fillable forms for HR, IT, expenses, and project administration.",
   kind: "docs",
   
     actions: [
@@ -36,17 +54,29 @@ var CFG = {
     ],
   
     cards: [
-      {title:"Office Directory",
-       blurb:"Names, roles, extensions, emails",
-       format:"Google Sheet", icon:"ft-sheet", status:"",
+      {title:"PTO / Time-Off Request",
+       blurb:"Vacation, sick, and personal",
+       format:"Form", icon:"ft-form", status:"REQUIRED",
        link:""},
-      {title:"Org Chart",
-       blurb:"Teams and reporting lines",
-       format:"PDF", icon:"ft-pdf", status:"",
+      {title:"Expense Reimbursement",
+       blurb:"Receipts and mileage",
+       format:"Form", icon:"ft-form", status:"",
        link:""},
-      {title:"Emergency Contacts",
-       blurb:"After-hours and building contacts",
-       format:"PDF", icon:"ft-pdf", status:"REQUIRED",
+      {title:"IT Support Request",
+       blurb:"Hardware, software, network",
+       format:"Form", icon:"ft-form", status:"",
+       link:""},
+      {title:"New-Hire Onboarding",
+       blurb:"Accounts, licenses, workstation",
+       format:"Google Doc", icon:"ft-doc", status:"",
+       link:""},
+      {title:"Project Closeout",
+       blurb:"Archive and record documents",
+       format:"Google Sheet", icon:"ft-sheet", status:"REQUIRED",
+       link:""},
+      {title:"Timesheet Correction",
+       blurb:"Fix a submitted week",
+       format:"Form", icon:"ft-form", status:"",
        link:""},
     ],
 };
@@ -198,20 +228,13 @@ function svg(n){ return '<svg viewBox="0 0 24 24">'+(ICONS[n]||'')+'</svg>'; }
 function esc(s){ return String(s).replace(/[&<>"]/g, function(c){
   return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
 
-var NAV = [
- ["Home","home",""], ["Announcements","announcements","4"],
- ["Office Standards","standards","6"], ["Templates","templates","4"],
- ["Forms","forms","6"], ["Office Policies","policies","5"],
- ["SOPs","sops","6"], ["Revit Standards","revit","8"],
- ["Learning Sessions","learning",""], ["Staff Directory","directory","3"]
-];
 /* Sites builds a page address by lower-casing the name and hyphenating it. */
 function slug(n){ return n.toLowerCase().replace(/&/g,'').replace(/[^a-z0-9]+/g,'-')
                           .replace(/^-|-$/g,''); }
 
 function rail(){
   var base = (CFG.siteBase || '').replace(/\/+$/,'');
-  var items = NAV.map(function(it, i){
+  var items = CFG.menu.map(function(it, i){
     var href = base ? (base + (i === 0 ? '' : '/' + slug(it[0]))) : '#';
     return '<a class="'+(i===CFG.navIndex?'on':'')+'" target="_top" href="'+href+'">'+
       svg(it[1])+'<span>'+esc(it[0])+'</span>'+

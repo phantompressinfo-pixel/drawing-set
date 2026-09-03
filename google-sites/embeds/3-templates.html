@@ -1,5 +1,5 @@
 <!-- ==================================================================
-     EAD OFFICE HUB  ·  ANNOUNCEMENTS
+     EAD OFFICE HUB  ·  TEMPLATES
      Google Sites  >  Insert  >  Embed  >  Embed code  >  paste all of this
      ------------------------------------------------------------------
      TO EDIT: change only the CONFIG block below. Paste each Drive link
@@ -22,24 +22,54 @@ var CFG = {
      or paste a Shared-drive folder ID to scope it to the office hub. */
   driveFolderId: "",
 
-  navIndex: 1,
-  title: "Announcements",
-  subtitle: "Office notices, deadlines, closures, and maintenance windows.",
-  kind: "notices",
+    /* ---- THE LEFT MENU ------------------------------------------------
+     name, icon, and the number shown on the right. The number counts the
+     cards featured on that page -- so it only changes when you add or
+     remove a card. Leave it "" for no number.
+     This block is identical in all nine files: edit it once, then paste
+     it over the same block in the other eight.                          */
+  menu: [
+    ["Home",              "home",         "" ],
+    ["Office Standards",  "standards",    "6"],
+    ["Templates",         "templates",    "4"],
+    ["Forms",             "forms",        "6"],
+    ["Office Policies",   "policies",     "5"],
+    ["SOPs",              "sops",         "6"],
+    ["Revit Standards",   "revit",        "8"],
+    ["Learning Sessions", "learning",     "6"],
+    ["Staff Directory",   "directory",    "3"],
+  ],
+  
+  navIndex: 2,
+  title: "Templates",
+  subtitle: "Ready-to-use templates for drawings, correspondence, and project documents.",
+  kind: "docs",
+  
+    actions: [
+      {label:"Request time off",     icon:"ft-form",    link:"" },
+      {label:"Report an IT issue",   icon:"tool",       link:"" },
+      {label:"Start a new project",  icon:"templates",  link:"" },
+      {label:"Submit an expense",    icon:"ft-sheet",   link:"" },
+      {label:"Sign up to present",   icon:"calendar",   link:"" },
+    ],
   
     cards: [
-      {title:"Revit 2027 rollout begins next month",
-       date:"25 AUG 2026", urgent:true,
-       body:"IT will begin migrating active projects starting mid-September. Watch for your migration window."},
-      {title:"Office closed \u2014 Labor Day",
-       date:"07 SEP 2026", urgent:false,
-       body:"Closed Monday, September 7. Deadlines falling on this date shift to September 8."},
-      {title:"New QA/QC checkpoint before CD issue",
-       date:"18 AUG 2026", urgent:false,
-       body:"See the QA/QC Review SOP for the updated milestone review requirement."},
-      {title:"Server maintenance \u2014 Saturday, 6\u201310am",
-       date:"28 AUG 2026", urgent:false,
-       body:"File server and Revit central files will be unavailable during this window."},
+      {title:"Sheet Title Block",
+       blurb:"North arrow, scale, revisions",
+       format:"DWG", icon:"ft-doc", status:"REQUIRED",
+       link:""},
+      {title:"Meeting Minutes",
+       blurb:"OAC and design meeting format",
+       format:"Google Doc", icon:"ft-doc", status:"",
+       link:""},
+      {title:"Transmittal",
+       blurb:"Cover sheet for issued documents",
+       format:"DOCX", icon:"ft-doc", status:"",
+       link:""},
+      {title:"RFI Template",
+       blurb:"Numbering and response fields",
+       format:"Google Sheet", icon:"ft-sheet", status:"",
+       link:""},
     ],
 };
 /* =================== --- do not edit below --- ==================== */
@@ -190,20 +220,13 @@ function svg(n){ return '<svg viewBox="0 0 24 24">'+(ICONS[n]||'')+'</svg>'; }
 function esc(s){ return String(s).replace(/[&<>"]/g, function(c){
   return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
 
-var NAV = [
- ["Home","home",""], ["Announcements","announcements","4"],
- ["Office Standards","standards","6"], ["Templates","templates","4"],
- ["Forms","forms","6"], ["Office Policies","policies","5"],
- ["SOPs","sops","6"], ["Revit Standards","revit","8"],
- ["Learning Sessions","learning",""], ["Staff Directory","directory","3"]
-];
 /* Sites builds a page address by lower-casing the name and hyphenating it. */
 function slug(n){ return n.toLowerCase().replace(/&/g,'').replace(/[^a-z0-9]+/g,'-')
                           .replace(/^-|-$/g,''); }
 
 function rail(){
   var base = (CFG.siteBase || '').replace(/\/+$/,'');
-  var items = NAV.map(function(it, i){
+  var items = CFG.menu.map(function(it, i){
     var href = base ? (base + (i === 0 ? '' : '/' + slug(it[0]))) : '#';
     return '<a class="'+(i===CFG.navIndex?'on':'')+'" target="_top" href="'+href+'">'+
       svg(it[1])+'<span>'+esc(it[0])+'</span>'+

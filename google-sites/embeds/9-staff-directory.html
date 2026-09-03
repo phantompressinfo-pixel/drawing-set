@@ -1,5 +1,5 @@
 <!-- ==================================================================
-     EAD OFFICE HUB  ·  LEARNING SESSIONS
+     EAD OFFICE HUB  ·  STAFF DIRECTORY
      Google Sites  >  Insert  >  Embed  >  Embed code  >  paste all of this
      ------------------------------------------------------------------
      TO EDIT: change only the CONFIG block below. Paste each Drive link
@@ -22,10 +22,28 @@ var CFG = {
      or paste a Shared-drive folder ID to scope it to the office hub. */
   driveFolderId: "",
 
+    /* ---- THE LEFT MENU ------------------------------------------------
+     name, icon, and the number shown on the right. The number counts the
+     cards featured on that page -- so it only changes when you add or
+     remove a card. Leave it "" for no number.
+     This block is identical in all nine files: edit it once, then paste
+     it over the same block in the other eight.                          */
+  menu: [
+    ["Home",              "home",         "" ],
+    ["Office Standards",  "standards",    "6"],
+    ["Templates",         "templates",    "4"],
+    ["Forms",             "forms",        "6"],
+    ["Office Policies",   "policies",     "5"],
+    ["SOPs",              "sops",         "6"],
+    ["Revit Standards",   "revit",        "8"],
+    ["Learning Sessions", "learning",     "6"],
+    ["Staff Directory",   "directory",    "3"],
+  ],
+  
   navIndex: 8,
-  title: "Learning Sessions",
-  subtitle: "Weekly knowledge share \u2014 one person presents something new, or something we need to work on.",
-  kind: "sessions",
+  title: "Staff Directory",
+  subtitle: "Who does what, how to reach them, and who to call after hours.",
+  kind: "docs",
   
     actions: [
       {label:"Request time off",     icon:"ft-form",    link:"" },
@@ -36,18 +54,18 @@ var CFG = {
     ],
   
     cards: [
-      {date:"2026-09-04", presenter:"Jane Doe",
-       topic:"Revit Keynoting Tips", link:""},
-      {date:"2026-09-11", presenter:"Open \u2014 sign up",
-       topic:"Topic to be confirmed", link:""},
-      {date:"2026-09-18", presenter:"Open \u2014 sign up",
-       topic:"Topic to be confirmed", link:""},
-      {date:"2026-08-28", presenter:"Marc Ellis",
-       topic:"Reading the 2026 Energy Code", link:""},
-      {date:"2026-08-21", presenter:"Priya Shah",
-       topic:"Lessons from the Harbor View CA phase", link:""},
-      {date:"2026-08-14", presenter:"Tom Reyes",
-       topic:"Faster sheet setup in Revit", link:""},
+      {title:"Office Directory",
+       blurb:"Names, roles, extensions, emails",
+       format:"Google Sheet", icon:"ft-sheet", status:"",
+       link:""},
+      {title:"Org Chart",
+       blurb:"Teams and reporting lines",
+       format:"PDF", icon:"ft-pdf", status:"",
+       link:""},
+      {title:"Emergency Contacts",
+       blurb:"After-hours and building contacts",
+       format:"PDF", icon:"ft-pdf", status:"REQUIRED",
+       link:""},
     ],
 };
 /* =================== --- do not edit below --- ==================== */
@@ -198,20 +216,13 @@ function svg(n){ return '<svg viewBox="0 0 24 24">'+(ICONS[n]||'')+'</svg>'; }
 function esc(s){ return String(s).replace(/[&<>"]/g, function(c){
   return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
 
-var NAV = [
- ["Home","home",""], ["Announcements","announcements","4"],
- ["Office Standards","standards","6"], ["Templates","templates","4"],
- ["Forms","forms","6"], ["Office Policies","policies","5"],
- ["SOPs","sops","6"], ["Revit Standards","revit","8"],
- ["Learning Sessions","learning",""], ["Staff Directory","directory","3"]
-];
 /* Sites builds a page address by lower-casing the name and hyphenating it. */
 function slug(n){ return n.toLowerCase().replace(/&/g,'').replace(/[^a-z0-9]+/g,'-')
                           .replace(/^-|-$/g,''); }
 
 function rail(){
   var base = (CFG.siteBase || '').replace(/\/+$/,'');
-  var items = NAV.map(function(it, i){
+  var items = CFG.menu.map(function(it, i){
     var href = base ? (base + (i === 0 ? '' : '/' + slug(it[0]))) : '#';
     return '<a class="'+(i===CFG.navIndex?'on':'')+'" target="_top" href="'+href+'">'+
       svg(it[1])+'<span>'+esc(it[0])+'</span>'+

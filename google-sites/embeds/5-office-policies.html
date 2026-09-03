@@ -1,5 +1,5 @@
 <!-- ==================================================================
-     EAD OFFICE HUB  ·  TEMPLATES
+     EAD OFFICE HUB  ·  OFFICE POLICIES
      Google Sites  >  Insert  >  Embed  >  Embed code  >  paste all of this
      ------------------------------------------------------------------
      TO EDIT: change only the CONFIG block below. Paste each Drive link
@@ -22,9 +22,27 @@ var CFG = {
      or paste a Shared-drive folder ID to scope it to the office hub. */
   driveFolderId: "",
 
-  navIndex: 3,
-  title: "Templates",
-  subtitle: "Ready-to-use templates for drawings, correspondence, and project documents.",
+    /* ---- THE LEFT MENU ------------------------------------------------
+     name, icon, and the number shown on the right. The number counts the
+     cards featured on that page -- so it only changes when you add or
+     remove a card. Leave it "" for no number.
+     This block is identical in all nine files: edit it once, then paste
+     it over the same block in the other eight.                          */
+  menu: [
+    ["Home",              "home",         "" ],
+    ["Office Standards",  "standards",    "6"],
+    ["Templates",         "templates",    "4"],
+    ["Forms",             "forms",        "6"],
+    ["Office Policies",   "policies",     "5"],
+    ["SOPs",              "sops",         "6"],
+    ["Revit Standards",   "revit",        "8"],
+    ["Learning Sessions", "learning",     "6"],
+    ["Staff Directory",   "directory",    "3"],
+  ],
+  
+  navIndex: 4,
+  title: "Office Policies",
+  subtitle: "Handbook, safety, remote work, and acceptable-use policies.",
   kind: "docs",
   
     actions: [
@@ -36,21 +54,25 @@ var CFG = {
     ],
   
     cards: [
-      {title:"Sheet Title Block",
-       blurb:"North arrow, scale, revisions",
-       format:"DWG", icon:"ft-doc", status:"REQUIRED",
+      {title:"Employee Handbook",
+       blurb:"Conduct, benefits, and leave",
+       format:"PDF", icon:"ft-pdf", status:"REQUIRED",
        link:""},
-      {title:"Meeting Minutes",
-       blurb:"OAC and design meeting format",
+      {title:"Health & Safety Policy",
+       blurb:"Office and site-visit safety",
+       format:"PDF", icon:"ft-pdf", status:"REQUIRED",
+       link:""},
+      {title:"Remote & Hybrid Work",
+       blurb:"Eligibility and expectations",
        format:"Google Doc", icon:"ft-doc", status:"",
        link:""},
-      {title:"Transmittal",
-       blurb:"Cover sheet for issued documents",
-       format:"DOCX", icon:"ft-doc", status:"",
+      {title:"IT & Acceptable Use",
+       blurb:"Devices, accounts, and data",
+       format:"PDF", icon:"ft-pdf", status:"",
        link:""},
-      {title:"RFI Template",
-       blurb:"Numbering and response fields",
-       format:"Google Sheet", icon:"ft-sheet", status:"",
+      {title:"Travel & Expense Policy",
+       blurb:"Limits, receipts, approvals",
+       format:"PDF", icon:"ft-pdf", status:"UPDATED",
        link:""},
     ],
 };
@@ -202,20 +224,13 @@ function svg(n){ return '<svg viewBox="0 0 24 24">'+(ICONS[n]||'')+'</svg>'; }
 function esc(s){ return String(s).replace(/[&<>"]/g, function(c){
   return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
 
-var NAV = [
- ["Home","home",""], ["Announcements","announcements","4"],
- ["Office Standards","standards","6"], ["Templates","templates","4"],
- ["Forms","forms","6"], ["Office Policies","policies","5"],
- ["SOPs","sops","6"], ["Revit Standards","revit","8"],
- ["Learning Sessions","learning",""], ["Staff Directory","directory","3"]
-];
 /* Sites builds a page address by lower-casing the name and hyphenating it. */
 function slug(n){ return n.toLowerCase().replace(/&/g,'').replace(/[^a-z0-9]+/g,'-')
                           .replace(/^-|-$/g,''); }
 
 function rail(){
   var base = (CFG.siteBase || '').replace(/\/+$/,'');
-  var items = NAV.map(function(it, i){
+  var items = CFG.menu.map(function(it, i){
     var href = base ? (base + (i === 0 ? '' : '/' + slug(it[0]))) : '#';
     return '<a class="'+(i===CFG.navIndex?'on':'')+'" target="_top" href="'+href+'">'+
       svg(it[1])+'<span>'+esc(it[0])+'</span>'+

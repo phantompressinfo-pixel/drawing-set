@@ -23,6 +23,15 @@ EXTRA_PAGES = [
              ("Emergency Contacts", "After-hours and building contacts", "PDF", "ft-pdf", "REQUIRED")]),
 ]
 PAGES = list(PAGES) + EXTRA_PAGES
+PAGES = [p for p in PAGES if p["kind"] != "notices"]          # Announcements removed
+ORDER = ["Office Hub", "Office Standards", "Templates", "Forms", "Office Policies",
+         "Standard Operating Procedures", "Revit Standards", "Learning Sessions",
+         "Staff Directory"]
+PAGES.sort(key=lambda p: ORDER.index(p["title"]))
+for _n, _p in enumerate(PAGES):
+    _p["i"] = _n
+
+MENU_BLOCK = '  /* ---- THE LEFT MENU ------------------------------------------------\n     name, icon, and the number shown on the right. The number counts the\n     cards featured on that page -- so it only changes when you add or\n     remove a card. Leave it "" for no number.\n     This block is identical in all nine files: edit it once, then paste\n     it over the same block in the other eight.                          */\n  menu: [\n    ["Home",              "home",         "" ],\n    ["Office Standards",  "standards",    "6"],\n    ["Templates",         "templates",    "4"],\n    ["Forms",             "forms",        "6"],\n    ["Office Policies",   "policies",     "5"],\n    ["SOPs",              "sops",         "6"],\n    ["Revit Standards",   "revit",        "8"],\n    ["Learning Sessions", "learning",     "6"],\n    ["Staff Directory",   "directory",    "3"],\n  ],\n\n'
 
 OUT = "/home/user/drawing-set/google-sites/embeds"
 SVG = json.load(open("icon_svg.json"))
@@ -190,20 +199,13 @@ function svg(n){ return '<svg viewBox="0 0 24 24">'+(ICONS[n]||'')+'</svg>'; }
 function esc(s){ return String(s).replace(/[&<>"]/g, function(c){
   return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
 
-var NAV = [
- ["Home","home",""], ["Announcements","announcements","4"],
- ["Office Standards","standards","6"], ["Templates","templates","4"],
- ["Forms","forms","6"], ["Office Policies","policies","5"],
- ["SOPs","sops","6"], ["Revit Standards","revit","8"],
- ["Learning Sessions","learning",""], ["Staff Directory","directory","3"]
-];
 /* Sites builds a page address by lower-casing the name and hyphenating it. */
 function slug(n){ return n.toLowerCase().replace(/&/g,'').replace(/[^a-z0-9]+/g,'-')
                           .replace(/^-|-$/g,''); }
 
 function rail(){
   var base = (CFG.siteBase || '').replace(/\/+$/,'');
-  var items = NAV.map(function(it, i){
+  var items = CFG.menu.map(function(it, i){
     var href = base ? (base + (i === 0 ? '' : '/' + slug(it[0]))) : '#';
     return '<a class="'+(i===CFG.navIndex?'on':'')+'" target="_top" href="'+href+'">'+
       svg(it[1])+'<span>'+esc(it[0])+'</span>'+
@@ -300,7 +302,8 @@ function sessions(){
 """
 
 def cfg_lines(p):
-    L = ['navIndex: %d,' % p["i"],
+    L = [MENU_BLOCK.strip("\n"), '',
+         'navIndex: %d,' % p["i"],
          'title: %s,' % json.dumps(p["title"]),
          'subtitle: %s,' % json.dumps(p["sub"]),
          'kind: %s,' % json.dumps(p["kind"]), '']
@@ -343,9 +346,9 @@ for p in PAGES:
 ICONS_JSON = json.dumps({k: SVG[k] for k in sorted(set(NEED))}, indent=1)
 
 os.makedirs(OUT, exist_ok=True)
-SLUG = {0:"01-home", 1:"02-announcements", 2:"03-office-standards", 3:"04-templates",
-        4:"05-forms", 5:"06-office-policies", 6:"07-sops", 7:"08-revit-standards",
-        8:"09-learning-sessions", 9:"10-staff-directory"}
+SLUG = {0:"1-home", 1:"2-office-standards", 2:"3-templates", 3:"4-forms",
+        4:"5-office-policies", 5:"6-sops", 6:"7-revit-standards",
+        7:"8-learning-sessions", 8:"9-staff-directory"}
 for p in PAGES:
     html = (HEAD.format(TITLE=p["title"].upper(), CONFIG=cfg_lines(p))
             + CSS + JS.replace("%ICONS%", ICONS_JSON))
