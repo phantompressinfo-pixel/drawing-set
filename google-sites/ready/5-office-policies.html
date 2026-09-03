@@ -1,0 +1,324 @@
+<!-- ==================================================================
+     EAD OFFICE HUB  ·  OFFICE POLICIES
+     Google Sites  >  Insert  >  Embed  >  Embed code  >  paste all of this
+     ------------------------------------------------------------------
+     TO EDIT: change only the CONFIG block below. Paste each Drive link
+     between the quotes. Everything under "--- do not edit ---" is layout.
+     ================================================================== -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+#ead *{box-sizing:border-box;margin:0;padding:0}
+#ead{
+  display:flex; align-items:stretch; overflow:hidden;
+  --ui:'Montserrat',system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif;
+  --mono:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  font-family:var(--ui);
+  background:
+    radial-gradient(120% 95% at 88% 2%, #1A4E8C 0%, rgba(26,78,140,0) 62%),
+    #022049;
+  border-radius:16px; color:#fff;
+  -webkit-font-smoothing:antialiased;
+}
+#ead .hd{font:700 30px/1.15 var(--ui);letter-spacing:-.4px}
+#ead .sb{margin-top:9px;font:400 15px/1.5 var(--ui);color:#C6D6E8;max-width:66ch}
+
+/* ---- left index rail ---- */
+#ead .rail{flex:0 0 232px;background:#fff;color:#4B4B4B;padding:26px 0 22px;
+  display:flex;flex-direction:column}
+#ead .rail .brand{padding:0 22px}
+#ead .rail .brand b{display:block;font:700 17px/1 var(--ui);color:#022049;letter-spacing:-.2px}
+#ead .rail .brand span{display:block;margin-top:6px;font:400 10px var(--mono);
+  color:#4B4B4B;letter-spacing:1.4px}
+#ead .rail hr{border:0;border-top:1px solid #C9D1D6;margin:18px 22px}
+#ead .rail .lbl{padding:0 22px;font:400 10px var(--mono);color:#788492;letter-spacing:1.4px}
+#ead .rail nav{margin-top:10px;display:flex;flex-direction:column;gap:1px}
+#ead .rail a{display:flex;align-items:center;gap:10px;margin:0 12px;padding:9px 10px;
+  border-radius:9px;text-decoration:none;color:#4B4B4B;font:400 13.5px var(--ui)}
+#ead .rail a svg{width:17px;height:17px;stroke:#4B4B4B;fill:none;stroke-width:1.7;
+  stroke-linecap:round;stroke-linejoin:round;flex:none}
+#ead .rail a .n{margin-left:auto;font:400 11px var(--mono);color:#788492}
+#ead .rail a:hover{background:#EEF1F5}
+#ead .rail a.on{background:#022049;color:#fff;font-weight:600}
+#ead .rail a.on svg{stroke:#fff}
+#ead .rail a.on .n{color:#C6D6E8}
+#ead .rail .ask{margin-top:auto;padding:0 22px}
+#ead .rail .ask hr{margin:18px 0}
+#ead .rail .ask p{font:400 12.5px/1.45 var(--ui);color:#4B4B4B}
+#ead .rail .ask b{display:block;margin-top:3px;font:700 12.5px var(--ui);color:#022049}
+
+/* ---- content column ---- */
+#ead .main{flex:1;min-width:0;padding:28px 30px 32px;
+  background:
+    radial-gradient(120% 95% at 88% 2%, #1A4E8C 0%, rgba(26,78,140,0) 62%),
+    #022049}
+
+/* ---- search ---- */
+#ead .search{display:flex;align-items:center;gap:12px;background:#fff;
+  border-radius:999px;padding:7px 7px 7px 20px;margin-top:22px}
+#ead .hd+.search,#ead #ead>.search:first-child{margin-top:0}
+#ead .search svg{width:19px;height:19px;stroke:#788492;fill:none;
+  stroke-width:2;stroke-linecap:round;stroke-linejoin:round;flex:none}
+#ead .search input{flex:1;border:0;outline:0;background:none;min-width:0;
+  font:400 14px var(--mono);color:#022049}
+#ead .search input::placeholder{color:#788492}
+#ead .search button{border:0;cursor:pointer;background:#022049;color:#fff;
+  border-radius:999px;padding:11px 26px;font:700 13px var(--ui);letter-spacing:.6px}
+#ead .search button:hover{background:#0B3A72}
+
+/* ---- action pills ---- */
+#ead .pills{display:flex;flex-wrap:nowrap;gap:9px;margin-top:16px}
+#ead .pill{display:inline-flex;align-items:center;justify-content:center;gap:8px;
+  flex:1 1 0;min-width:0;white-space:nowrap;background:#fff;
+  color:#022049;border-radius:999px;padding:11px 12px;
+  font:600 13px var(--ui);text-decoration:none;transition:transform .12s,box-shadow .12s}
+#ead .pill:hover{transform:translateY(-1px);box-shadow:0 6px 18px rgba(0,0,0,.24)}
+#ead .pill svg{width:16px;height:16px;stroke:#022049;fill:none;
+  stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round;flex:none}
+
+/* ---- frosted cards ---- */
+#ead .grid{display:grid;gap:18px;margin-top:26px;
+  grid-template-columns:repeat(auto-fit,minmax(206px,1fr))}
+#ead .grid.wide{grid-template-columns:1fr}
+#ead .card{position:relative;display:flex;flex-direction:column;
+  background:rgba(255,255,255,.10);
+  -webkit-backdrop-filter:blur(18px) saturate(120%);
+          backdrop-filter:blur(18px) saturate(120%);
+  border:1px solid rgba(108,148,196,.55);border-radius:18px;
+  padding:20px;text-decoration:none;color:inherit;min-height:190px;
+  transition:background .15s,border-color .15s,transform .15s}
+#ead .card:hover{background:rgba(255,255,255,.17);
+  border-color:rgba(160,196,238,.85);transform:translateY(-2px)}
+#ead .chip{width:42px;height:42px;border-radius:11px;background:#022049;
+  display:flex;align-items:center;justify-content:center;flex:none}
+#ead .chip.lt{background:#fff;width:54px;height:54px;border-radius:14px}
+#ead .chip svg{width:21px;height:21px;stroke:#fff;fill:none;
+  stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+#ead .chip.lt svg{width:26px;height:26px;stroke:#022049}
+#ead .ttl{margin-top:16px;font:700 17.5px/1.28 var(--ui)}
+#ead .blurb{margin-top:7px;font:400 13px/1.5 var(--ui);color:#BACEE6;flex:1}
+#ead .foot{display:flex;justify-content:space-between;align-items:center;
+  margin-top:16px;font:500 11.5px var(--mono);
+  color:#BACEE6;letter-spacing:.3px}
+#ead .card:hover .foot .open{color:#fff}
+#ead .dot{position:absolute;top:24px;right:20px;width:9px;height:9px;border-radius:50%}
+#ead .dot.req{background:#7FCBA4}
+#ead .dot.upd{background:#E0AE55}
+
+/* ---- notices ---- */
+#ead .notice{display:flex;gap:16px;align-items:flex-start;
+  background:rgba(255,255,255,.10);
+  -webkit-backdrop-filter:blur(18px);backdrop-filter:blur(18px);
+  border:1px solid rgba(108,148,196,.55);border-radius:16px;padding:20px 22px}
+#ead .notice .body{flex:1;min-width:0}
+#ead .notice .row{display:flex;justify-content:space-between;gap:16px;align-items:baseline}
+#ead .notice .nt{font:700 16.5px/1.3 var(--ui)}
+#ead .notice .dt{font:500 11.5px var(--mono);color:#BACEE6;white-space:nowrap}
+#ead .notice p{margin-top:8px;font:400 13.5px/1.55 var(--ui);color:#BACEE6}
+#ead .urgent{display:inline-block;width:8px;height:8px;border-radius:50%;
+  background:#E0AE55;margin-right:7px;vertical-align:2px}
+
+/* ---- learning sessions ---- */
+#ead .sess{min-height:150px}
+#ead .sess .dt{font:500 11.5px var(--mono);color:#BACEE6;letter-spacing:.4px}
+#ead .sess .ttl{margin-top:10px;font:700 16.5px/1.3 var(--ui)}
+#ead .sess .who{display:flex;align-items:center;gap:10px;margin-top:auto;padding-top:14px;
+  font:400 13px var(--ui);color:#BACEE6}
+#ead .sess .who .chip{width:30px;height:30px;border-radius:9px}
+#ead .sess .who .chip svg{width:15px;height:15px}
+#ead .sess.open{border-style:dashed;border-color:rgba(160,196,238,.7)}
+</style>
+
+<div id="ead"></div>
+
+<script>
+/* ===================== CONFIG — edit this part ===================== */
+var CFG = {
+  /* ---- FILL THIS IN ONCE, PER FILE ----------------------------------
+     Publish the site first, then paste its address here with NO slash at
+     the end. The left menu builds all ten of its links from this one line.
+       e.g. "https://sites.google.com/eigelberger.com/ead-office-hub"      */
+  siteBase: "https://sites.google.com/eigelberger.com/dashboard",
+
+  /* Where the search box sends people. Leave as-is to search all of Drive,
+     or paste a Shared-drive folder ID to scope it to the office hub. */
+  driveFolderId: "",
+
+    /* ---- THE LEFT MENU ------------------------------------------------
+     name, icon, and the number shown on the right. The number counts the
+     cards featured on that page -- so it only changes when you add or
+     remove a card. Leave it "" for no number.
+     This block is identical in all nine files: edit it once, then paste
+     it over the same block in the other eight.                          */
+  menu: [
+    ["Home",              "home",         "" ],
+    ["Office Standards",  "standards",    "6"],
+    ["Templates",         "templates",    "4"],
+    ["Forms",             "forms",        "6"],
+    ["Office Policies",   "policies",     "5"],
+    ["SOPs",              "sops",         "6"],
+    ["Revit Standards",   "revit",        "8"],
+    ["Learning Sessions", "learning",     "6"],
+    ["Staff Directory",   "directory",    "3"],
+  ],
+  
+  navIndex: 4,
+  title: "Office Policies",
+  subtitle: "Handbook, safety, remote work, and acceptable-use policies.",
+  kind: "docs",
+  
+    actions: [
+      {label:"Time off",             icon:"ft-form",    link:"" },
+      {label:"IT issue",             icon:"tool",       link:"" },
+      {label:"New project",          icon:"templates",  link:"" },
+      {label:"Expense",              icon:"ft-sheet",   link:"" },
+      {label:"Sign up",              icon:"calendar",   link:"" },
+    ],
+  
+    cards: [
+      {title:"Employee Handbook",
+       blurb:"Conduct, benefits, and leave",
+       format:"PDF", icon:"ft-pdf", status:"REQUIRED",
+       link:""},
+      {title:"Health & Safety Policy",
+       blurb:"Office and site-visit safety",
+       format:"PDF", icon:"ft-pdf", status:"REQUIRED",
+       link:""},
+      {title:"Remote & Hybrid Work",
+       blurb:"Eligibility and expectations",
+       format:"Google Doc", icon:"ft-doc", status:"",
+       link:""},
+      {title:"IT & Acceptable Use",
+       blurb:"Devices, accounts, and data",
+       format:"PDF", icon:"ft-pdf", status:"",
+       link:""},
+      {title:"Travel & Expense Policy",
+       blurb:"Limits, receipts, approvals",
+       format:"PDF", icon:"ft-pdf", status:"UPDATED",
+       link:""},
+    ],
+};
+/* =================== --- do not edit below --- ==================== */
+
+var ICONS = {
+ "announcements": "<path d=\"M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9\"></path><path d=\"M13.73 21a2 2 0 0 1-3.46 0\"></path>",
+ "calendar": "<rect x=\"3\" y=\"4\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"></rect><line x1=\"16\" y1=\"2\" x2=\"16\" y2=\"6\"></line><line x1=\"8\" y1=\"2\" x2=\"8\" y2=\"6\"></line><line x1=\"3\" y1=\"10\" x2=\"21\" y2=\"10\"></line>",
+ "directory": "<path d=\"M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2\"></path><circle cx=\"12\" cy=\"7\" r=\"4\"></circle>",
+ "forms": "<path d=\"M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2\"></path><rect x=\"8\" y=\"2\" width=\"8\" height=\"4\" rx=\"1\" ry=\"1\"></rect>",
+ "ft-doc": "<path d=\"M13 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z\"></path><polyline points=\"13 2 13 9 20 9\"></polyline>",
+ "ft-form": "<path d=\"M12 20h9\"></path><path d=\"M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z\"></path>",
+ "ft-pdf": "<path d=\"M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z\"></path><polyline points=\"14 2 14 8 20 8\"></polyline><line x1=\"16\" y1=\"13\" x2=\"8\" y2=\"13\"></line><line x1=\"16\" y1=\"17\" x2=\"8\" y2=\"17\"></line><polyline points=\"10 9 9 9 8 9\"></polyline>",
+ "ft-sheet": "<rect x=\"3\" y=\"3\" width=\"7\" height=\"7\"></rect><rect x=\"14\" y=\"3\" width=\"7\" height=\"7\"></rect><rect x=\"14\" y=\"14\" width=\"7\" height=\"7\"></rect><rect x=\"3\" y=\"14\" width=\"7\" height=\"7\"></rect>",
+ "home": "<path d=\"M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\"></path><polyline points=\"9 22 9 12 15 12 15 22\"></polyline>",
+ "learning": "<path d=\"M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2\"></path><circle cx=\"9\" cy=\"7\" r=\"4\"></circle><path d=\"M23 21v-2a4 4 0 0 0-3-3.87\"></path><path d=\"M16 3.13a4 4 0 0 1 0 7.75\"></path>",
+ "policies": "<path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"></path>",
+ "revit": "<path d=\"M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z\"></path><polyline points=\"3.27 6.96 12 12.01 20.73 6.96\"></polyline><line x1=\"12\" y1=\"22.08\" x2=\"12\" y2=\"12\"></line>",
+ "search": "<circle cx=\"11\" cy=\"11\" r=\"8\"></circle><line x1=\"21\" y1=\"21\" x2=\"16.65\" y2=\"16.65\"></line>",
+ "sops": "<polyline points=\"9 11 12 14 22 4\"></polyline><path d=\"M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11\"></path>",
+ "standards": "<path d=\"M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z\"></path><path d=\"M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z\"></path>",
+ "templates": "<rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\" ry=\"2\"></rect><line x1=\"3\" y1=\"9\" x2=\"21\" y2=\"9\"></line><line x1=\"9\" y1=\"21\" x2=\"9\" y2=\"9\"></line>",
+ "tool": "<path d=\"M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z\"></path>"
+};
+
+function svg(n){ return '<svg viewBox="0 0 24 24">'+(ICONS[n]||'')+'</svg>'; }
+function esc(s){ return String(s).replace(/[&<>"]/g, function(c){
+  return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+
+/* Sites builds a page address by lower-casing the name and hyphenating it. */
+function slug(n){ return n.toLowerCase().replace(/&/g,'').replace(/[^a-z0-9]+/g,'-')
+                          .replace(/^-|-$/g,''); }
+
+function rail(){
+  var base = (CFG.siteBase || '').replace(/\/+$/,'');
+  var items = CFG.menu.map(function(it, i){
+    var href = base ? (base + '/' + slug(it[0])) : '#';
+    return '<a class="'+(i===CFG.navIndex?'on':'')+'" target="_top" href="'+href+'">'+
+      svg(it[1])+'<span>'+esc(it[0])+'</span>'+
+      (it[2] ? '<span class="n">'+it[2]+'</span>' : '')+'</a>';
+  }).join('');
+  return '<div class="rail">'+
+    '<div class="brand"><b>EIGELBERGER</b><span>OFFICE HUB</span></div><hr>'+
+    '<div class="lbl">SECTIONS</div><nav>'+items+'</nav>'+
+    '<div class="ask"><hr><p>Need something added?</p><b>Ask the office manager</b></div>'+
+  '</div>';
+}
+
+function head(){
+  /* Leave title/subtitle empty in CONFIG if you'd rather the Sites page
+     banner carry them -- the block then starts at the search bar. */
+  var h = (CFG.title    ? '<div class="hd">'+esc(CFG.title)+'</div>' : '') +
+          (CFG.subtitle ? '<div class="sb">'+esc(CFG.subtitle)+'</div>' : '') +
+          '<form class="search" target="_blank">'+
+            svg('search')+
+            '<input type="text" placeholder="Search standards, templates, forms, SOPs, Revit standards\u2026">'+
+            '<button type="submit">SEARCH</button>'+
+          '</form>';
+  if (CFG.actions && CFG.actions.length){
+    h += '<div class="pills">' + CFG.actions.map(function(a){
+      return '<a class="pill" target="_top" href="'+esc(a.link)+'">'+svg(a.icon)+esc(a.label)+'</a>';
+    }).join('') + '</div>';
+  }
+  return h;
+}
+
+function sectionCards(){
+  return '<div class="grid">' + CFG.cards.map(function(c){
+    return '<a class="card" target="_top" href="'+esc(c.link)+'">'+
+      '<div class="chip lt">'+svg(c.icon)+'</div>'+
+      '<div class="ttl">'+esc(c.title)+'</div>'+
+      '<div class="blurb">'+esc(c.blurb)+'</div>'+
+      '<div class="foot"><span>'+esc(c.count)+' documents</span>'+
+      '<span class="open">Open \u2197</span></div></a>';
+  }).join('') + '</div>';
+}
+
+function docCards(){
+  return '<div class="grid">' + CFG.cards.map(function(c){
+    var dot = c.status === 'REQUIRED' ? '<span class="dot req"></span>'
+            : c.status === 'UPDATED'  ? '<span class="dot upd"></span>' : '';
+    return '<a class="card" target="_top" href="'+esc(c.link)+'">'+dot+
+      '<div class="chip">'+svg(c.icon)+'</div>'+
+      '<div class="ttl">'+esc(c.title)+'</div>'+
+      '<div class="blurb">'+esc(c.blurb)+'</div>'+
+      '<div class="foot"><span>'+esc(c.format)+'</span>'+
+      '<span class="open">Open \u2197</span></div></a>';
+  }).join('') + '</div>';
+}
+
+function notices(){
+  return '<div class="grid wide">' + CFG.cards.map(function(n){
+    return '<div class="notice">'+
+      '<div class="chip">'+svg('announcements')+'</div>'+
+      '<div class="body"><div class="row">'+
+        '<div class="nt">'+(n.urgent?'<span class="urgent"></span>':'')+esc(n.title)+'</div>'+
+        '<div class="dt">'+esc(n.date)+'</div></div>'+
+        '<p>'+esc(n.body)+'</p></div></div>';
+  }).join('') + '</div>';
+}
+
+function sessions(){
+  return '<div class="grid">' + CFG.cards.map(function(s){
+    var open = /^open/i.test(s.presenter);
+    return '<a class="card sess'+(open?' open':'')+'" target="_top" href="'+esc(s.link)+'">'+
+      '<div class="dt">'+esc(s.date)+'</div>'+
+      '<div class="ttl">'+esc(s.topic)+'</div>'+
+      '<div class="who"><div class="chip">'+svg('learning')+'</div>'+esc(s.presenter)+'</div></a>';
+  }).join('') + '</div>';
+}
+
+(function(){
+  var host = document.getElementById('ead');
+  var body = { sections: sectionCards, docs: docCards,
+               notices: notices, sessions: sessions }[CFG.kind]();
+  host.innerHTML = rail() + '<div class="main">' + head() + body + '</div>';
+  var form = host.querySelector('.search');
+  form.addEventListener('submit', function(e){
+    e.preventDefault();
+    var q = form.querySelector('input').value.trim();
+    if (!q) return;
+    var base = 'https://drive.google.com/drive/search?q=';
+    var scope = CFG.driveFolderId ? ('%20parent:' + CFG.driveFolderId) : '';
+    window.open(base + encodeURIComponent(q) + scope, '_blank');
+  });
+})();
+</script>
