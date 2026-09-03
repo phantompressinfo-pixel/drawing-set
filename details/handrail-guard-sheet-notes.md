@@ -169,16 +169,44 @@ Two failures, both one-line moves:
 
 The detail is drawn to both fixes.
 
-### The simpler alternative: skip the recess
+### The Type I alternative — no recess at all
 
-A plain **2" × 1⅛"** rounded cap has a 6¼" perimeter, a 2" maximum and 1⅛" minimum
-cross-sectional dimension — **Type I** under §1014.3.1, with no finger recess required
-at all. That is exactly at the 6¼" limit, so **2" × 1"** (6" perimeter) is the version to
-draw if you want fabrication tolerance. Simpler to mill and simpler to defend at review.
+Type I (§1014.3.1) is available here, and your top band already meets it. The rule for a
+non-circular rail: **perimeter 4"–6¼", maximum cross-sectional dimension 2¼", minimum 1",
+edges 0.01" min radius.** Drawn in `handrail-detail-type-i.svg`.
 
-The trade: at a 6" perimeter the §1014.4 Exc. 3 reduction is only ½", so nothing may
-project beyond the sides of the rail within **1"** of its bottom — a tighter rule than
-the Type II profile's ⅜". A ⅜"-inset neck below the cap satisfies it either way.
+**The idea that makes it work:** the handrail is the **2" × 1⅛" cap only**. What sits
+below the bottom of the rail is a sub-rail, not part of the grip, and is not counted in
+the perimeter. Measured as one 2" × 2¼" section the same profile is 8½" and Type II is
+forced; measured as the cap alone it is Type I.
+
+| | Required | 2" × 1⅛" cap |
+|---|---|---|
+| Perimeter | 4"–6¼" | 6¼" milled square · 5.61" at R ⅜" · 5.28" fully bullnosed |
+| Max cross-sectional dimension | 2¼" | 2" |
+| Min cross-sectional dimension | 1" | 1⅛" |
+| Edge radius | 0.01" min | R ⅜" |
+
+**What then controls the neck.** §1014.4 Exc. 3 reduces its 1½" zone by ⅛" per ½" of
+perimeter above 4" — so a *smaller* perimeter is *stricter*, and rounding the cap makes
+the neck requirement grow:
+
+| Cap perimeter | Clear zone required below the rail |
+|---|---|
+| 6¼" (milled square) | 15/16" |
+| 5.61" (R ⅜") | 1 3/32" |
+| 5.28" (fully bullnosed) | 1 3/16" |
+
+Draw the neck **1¼" tall, inset ⅜" each side** and it clears all three. A 1⅛" neck is
+1/16" short if the cap is fully bullnosed. Below the neck the built-up post may return
+to any width — 2¼" (three ¾" plies) as drawn. Overall top of rail to top of post: **2⅜"**.
+
+Other Type I sizes that hold even milled square: **2" × 1"**, **1¾" × 1¼"**, **1½" × 1½"**
+(all 6" perimeter). **2" × 1¼"** and **2¼" × 1"** are 6½" square and qualify only once the
+edges are eased — do not draw them without a radius callout.
+
+Everything else on this sheet is unchanged by the switch: height, continuity, returns,
+clearance, guard openings, loads.
 
 ---
 

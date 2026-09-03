@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1620 1060" width="1620" height="1060" font-family="Arial, Helvetica, sans-serif">
+  <defs>
+    <pattern id="xh" width="9" height="9" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="0" y2="9" stroke="#000" stroke-width="0.6"/>
+    </pattern>
+    <pattern id="wg" width="38" height="150" patternUnits="userSpaceOnUse">
+      <path d="M8 0 q6 38 0 75 q-6 37 0 75" fill="none" stroke="#000" stroke-width="0.45"/>
+      <path d="M24 0 q-5 30 0 60 q5 45 0 90" fill="none" stroke="#000" stroke-width="0.45"/>
+    </pattern>
+    <marker id="tk" markerWidth="11" markerHeight="11" refX="5.5" refY="5.5" orient="auto">
+      <line x1="2" y1="9" x2="9" y2="2" stroke="#000" stroke-width="0.9"/>
+    </marker>
+    <style>
+      .o { fill:none; stroke:#000; stroke-width:1.2; stroke-linejoin:round; }
+      .x { fill:none; stroke:#000; stroke-width:0.55; }
+      .d { fill:none; stroke:#000; stroke-width:0.6; marker-start:url(#tk); marker-end:url(#tk); }
+      .l { fill:none; stroke:#000; stroke-width:0.6; }
+      .hid { fill:none; stroke:#000; stroke-width:0.7; stroke-dasharray:7 4; }
+      .n { font-size:13px; fill:#000; }
+      .f { font-size:13px; fill:#000; font-weight:bold; }
+      .tt{ font-size:15px; fill:#000; letter-spacing:0.5px; }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="1620" height="1060" fill="#fff"/>
+
+  <!-- HANDRAIL CAP 2" x 1 1/8" - THIS IS THE ENTIRE GRIP -->
+  <rect x="430" y="180" width="260" height="146.25" rx="48.75" ry="48.75"
+        fill="url(#xh)" stroke="#000" stroke-width="1.2"/>
+
+  <!-- NECK 1 1/4" WIDE x 1 1/4" TALL -->
+  <rect x="478.75" y="326.25" width="162.5" height="162.5" fill="url(#xh)" stroke="#000" stroke-width="1.2"/>
+
+  <!-- BUILT-UP POST 2 1/4" -->
+  <rect x="413.75" y="488.75" width="292.5" height="351.25" fill="url(#wg)" stroke="#000" stroke-width="1.2"/>
+  <line class="o" x1="511.25" y1="488.75" x2="511.25" y2="840"/>
+  <line class="o" x1="608.75" y1="488.75" x2="608.75" y2="840"/>
+
+  <line class="x" x1="260" y1="840" x2="413.75" y2="840" stroke-width="1"/>
+  <line class="x" x1="706.25" y1="840" x2="860" y2="840" stroke-width="1"/>
+  <path class="x" d="M 413.75 840 L 470 840 L 488 884 L 504 812 L 520 840 L 706.25 840" stroke-width="1"/>
+
+  <!-- GRIP ENVELOPE -->
+  <line class="hid" x1="400" y1="326.25" x2="720" y2="326.25"/>
+  <line class="l" x1="724" y1="326.25" x2="756" y2="326.25"/>
+  <text class="f" x="762" y="331">BOTTOM OF RAIL</text>
+
+  <!-- TOP DIM 2" -->
+  <line class="x" x1="430" y1="172" x2="430" y2="112"/>
+  <line class="x" x1="690" y1="172" x2="690" y2="112"/>
+  <line class="d" x1="430" y1="124" x2="690" y2="124"/>
+  <text class="n" x="560" y="118" text-anchor="middle">2"</text>
+
+  <!-- LEFT DIMS -->
+  <line class="x" x1="422" y1="180" x2="290" y2="180"/>
+  <line class="x" x1="470" y1="326.25" x2="330" y2="326.25"/>
+  <line class="x" x1="405" y1="488.75" x2="290" y2="488.75"/>
+  <line class="d" x1="358" y1="180" x2="358" y2="326.25"/>
+  <line class="d" x1="358" y1="326.25" x2="358" y2="488.75"/>
+  <line class="d" x1="310" y1="180" x2="310" y2="488.75"/>
+  <text class="n" x="352" y="253" text-anchor="middle" transform="rotate(-90 352 253)">1 1/8"</text>
+  <text class="n" x="352" y="407" text-anchor="middle" transform="rotate(-90 352 407)">1 1/4"</text>
+  <text class="n" x="304" y="334" text-anchor="middle" transform="rotate(-90 304 334)">2 3/8"</text>
+
+  <!-- NECK INSET 3/8 EACH SIDE -->
+  <line class="x" x1="430" y1="334" x2="430" y2="386"/>
+  <line class="x" x1="478.75" y1="334" x2="478.75" y2="386"/>
+  <line class="d" x1="430" y1="374" x2="478.75" y2="374"/>
+  <text class="n" x="422" y="378" text-anchor="end">3/8"</text>
+  <line class="x" x1="641.25" y1="334" x2="641.25" y2="386"/>
+  <line class="x" x1="690" y1="334" x2="690" y2="386"/>
+  <line class="d" x1="641.25" y1="374" x2="690" y2="374"/>
+  <text class="n" x="698" y="378" text-anchor="start">3/8"</text>
+
+  <!-- NECK WIDTH -->
+  <line class="d" x1="478.75" y1="460" x2="641.25" y2="460"/>
+  <rect x="536" y="445" width="48" height="17" fill="#fff"/>
+  <text class="n" x="560" y="456" text-anchor="middle">1 1/4"</text>
+
+  <!-- EDGE RADIUS -->
+  <line class="l" x1="700" y1="200" x2="672" y2="196"/>
+  <text class="n" x="706" y="204" text-anchor="start">R 3/8" (0.01" MIN)</text>
+
+  <!-- POST PLIES -->
+  <line class="x" x1="413.75" y1="700" x2="413.75" y2="770"/>
+  <line class="x" x1="511.25" y1="700" x2="511.25" y2="770"/>
+  <line class="x" x1="608.75" y1="700" x2="608.75" y2="770"/>
+  <line class="x" x1="706.25" y1="700" x2="706.25" y2="770"/>
+  <line class="d" x1="413.75" y1="758" x2="511.25" y2="758"/>
+  <line class="d" x1="511.25" y1="758" x2="608.75" y2="758"/>
+  <line class="d" x1="608.75" y1="758" x2="706.25" y2="758"/>
+  <rect x="440" y="742" width="46" height="17" fill="#fff"/><text class="n" x="462" y="754" text-anchor="middle">3/4"</text>
+  <rect x="537" y="742" width="46" height="17" fill="#fff"/><text class="n" x="560" y="754" text-anchor="middle">3/4"</text>
+  <rect x="634" y="742" width="46" height="17" fill="#fff"/><text class="n" x="657" y="754" text-anchor="middle">3/4"</text>
+  <line class="x" x1="413.75" y1="770" x2="413.75" y2="812"/>
+  <line class="x" x1="706.25" y1="770" x2="706.25" y2="812"/>
+  <line class="d" x1="413.75" y1="800" x2="706.25" y2="800"/>
+  <rect x="530" y="784" width="60" height="17" fill="#fff"/><text class="n" x="560" y="796" text-anchor="middle">2 1/4"</text>
+
+  <text class="tt" x="260" y="920">TYPE I NON-CIRCULAR HANDRAIL &#8212; 2021 IBC &#167;1014.3.1</text>
+  <line class="x" x1="260" y1="929" x2="860" y2="929" stroke-width="1"/>
+  <text class="n" x="260" y="951">NO FINGER RECESS REQUIRED. SECTION &#183; DIMENSIONS GOVERN.</text>
+
+  <!-- NOTES -->
+  <text class="f" x="900" y="150">THE RULE &#8212; &#167;1014.3.1</text>
+  <text class="n" x="900" y="172">A NON-CIRCULAR HANDRAIL SHALL HAVE A PERIMETER OF NOT LESS THAN 4" AND</text>
+  <text class="n" x="900" y="190">NOT GREATER THAN 6 1/4", WITH A MAXIMUM CROSS-SECTIONAL DIMENSION OF</text>
+  <text class="n" x="900" y="208">2 1/4" AND A MINIMUM CROSS-SECTIONAL DIMENSION OF 1". EDGES SHALL HAVE</text>
+  <text class="n" x="900" y="226">A MINIMUM RADIUS OF 0.01".</text>
+
+  <text class="f" x="900" y="264">HOW THIS PROFILE MEETS IT</text>
+  <text class="n" x="900" y="286">PERIMETER 4" MIN / 6 1/4" MAX .......... 6 1/4" MILLED SQUARE, 5.61" AT R 3/8",</text>
+  <text class="n" x="900" y="304">                                        5.28" FULLY BULLNOSED &#8212; IN RANGE THROUGHOUT</text>
+  <text class="n" x="900" y="322">MAX CROSS-SECTIONAL DIMENSION 2 1/4" ... 2" &#8212; OK</text>
+  <text class="n" x="900" y="340">MIN CROSS-SECTIONAL DIMENSION 1" ....... 1 1/8" &#8212; OK</text>
+  <text class="n" x="900" y="358">EDGE RADIUS 0.01" MIN .................. R 3/8" &#8212; OK</text>
+
+  <text class="f" x="900" y="396">THE ONE IDEA THAT MAKES IT WORK</text>
+  <text class="n" x="900" y="418">THE HANDRAIL IS THE 2" x 1 1/8" CAP ONLY. WHAT SITS BELOW THE BOTTOM OF THE</text>
+  <text class="n" x="900" y="436">RAIL IS NOT PART OF THE GRIP AND IS NOT COUNTED IN THE PERIMETER. THE SAME</text>
+  <text class="n" x="900" y="454">TOP BAND MEASURED AS ONE 2" x 2 1/4" SECTION WOULD BE 8 1/2" AND FORCE TYPE II.</text>
+
+  <text class="f" x="900" y="492">WHAT CONTROLS THE NECK &#8212; &#167;1014.4 EXC. 3</text>
+  <text class="n" x="900" y="514">NOTHING MAY PROJECT BEYOND THE SIDES OF THE RAIL WITHIN 1 1/2" OF ITS BOTTOM,</text>
+  <text class="n" x="900" y="532">REDUCED 1/8" FOR EACH 1/2" OF PERIMETER ABOVE 4". A SMALLER PERIMETER MAKES</text>
+  <text class="n" x="900" y="550">THIS STRICTER, SO THE ROUNDER THE CAP, THE TALLER THE NECK MUST BE:</text>
+  <text class="n" x="900" y="572">    P = 6 1/4" MILLED SQUARE ..... 15/16" CLEAR REQUIRED</text>
+  <text class="n" x="900" y="590">    P = 5.61" AT R 3/8" .......... 1 3/32" CLEAR REQUIRED</text>
+  <text class="n" x="900" y="608">    P = 5.28" FULLY BULLNOSED .... 1 3/16" CLEAR REQUIRED</text>
+  <text class="n" x="900" y="630">NECK DRAWN 1 1/4" TALL, INSET 3/8" EACH SIDE &#8212; CLEARS ALL THREE. A 1 1/8" NECK</text>
+  <text class="n" x="900" y="648">IS 1/16" SHORT IF THE CAP IS FULLY BULLNOSED, SO 1 1/4" IS THE SAFE NUMBER.</text>
+  <text class="n" x="900" y="670">BELOW THE NECK THE BUILT-UP POST MAY RETURN TO ANY WIDTH; 2 1/4" SHOWN.</text>
+
+  <text class="f" x="900" y="708">OTHER TYPE I SIZES THAT WORK EVEN MILLED SQUARE</text>
+  <text class="n" x="900" y="730">    2" x 1" ............ PERIMETER 6"</text>
+  <text class="n" x="900" y="748">    1 3/4" x 1 1/4" .... PERIMETER 6"</text>
+  <text class="n" x="900" y="766">    1 1/2" x 1 1/2" .... PERIMETER 6"</text>
+  <text class="n" x="900" y="788">2" x 1 1/4" AND 2 1/4" x 1" ARE 6 1/2" SQUARE &#8212; THEY ONLY QUALIFY ONCE THE</text>
+  <text class="n" x="900" y="806">EDGES ARE EASED, SO DO NOT DRAW THEM WITHOUT A RADIUS CALLOUT.</text>
+
+  <text class="f" x="900" y="844">STILL APPLIES, UNCHANGED FROM THE TYPE II SHEET</text>
+  <text class="n" x="900" y="866">HEIGHT 34"&#8211;38" ABOVE NOSINGS &#183; &#167;1014.2 AND &#167;1015.3 EXC. 3</text>
+  <text class="n" x="900" y="884">CONTINUITY &#183; &#167;1014.4 &#183; RETURNS &#183; &#167;1014.6 &#183; CLEARANCE 1 1/2" &#183; &#167;1014.7</text>
+  <text class="n" x="900" y="902">GUARD OPENINGS 4 3/8" / 6" SPHERE &#183; &#167;1015.4 &#183; LOADS &#183; &#167;1607.9</text>
+</svg>
