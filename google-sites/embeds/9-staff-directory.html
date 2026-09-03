@@ -7,70 +7,7 @@
      ================================================================== -->
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 
-<div id="ead"></div>
-
-<script>
-/* ===================== CONFIG — edit this part ===================== */
-var CFG = {
-  /* ---- FILL THIS IN ONCE, PER FILE ----------------------------------
-     Publish the site first, then paste its address here with NO slash at
-     the end. The left menu builds all ten of its links from this one line.
-       e.g. "https://sites.google.com/eigelberger.com/ead-office-hub"      */
-  siteBase: "",
-
-  /* Where the search box sends people. Leave as-is to search all of Drive,
-     or paste a Shared-drive folder ID to scope it to the office hub. */
-  driveFolderId: "",
-
-    /* ---- THE LEFT MENU ------------------------------------------------
-     name, icon, and the number shown on the right. The number counts the
-     cards featured on that page -- so it only changes when you add or
-     remove a card. Leave it "" for no number.
-     This block is identical in all nine files: edit it once, then paste
-     it over the same block in the other eight.                          */
-  menu: [
-    ["Home",              "home",         "" ],
-    ["Office Standards",  "standards",    "6"],
-    ["Templates",         "templates",    "4"],
-    ["Forms",             "forms",        "6"],
-    ["Office Policies",   "policies",     "5"],
-    ["SOPs",              "sops",         "6"],
-    ["Revit Standards",   "revit",        "8"],
-    ["Learning Sessions", "learning",     "6"],
-    ["Staff Directory",   "directory",    "3"],
-  ],
-  
-  navIndex: 8,
-  title: "Staff Directory",
-  subtitle: "Who does what, how to reach them, and who to call after hours.",
-  kind: "docs",
-  
-    actions: [
-      {label:"Time off",             icon:"ft-form",    link:"" },
-      {label:"IT issue",             icon:"tool",       link:"" },
-      {label:"New project",          icon:"templates",  link:"" },
-      {label:"Expense",              icon:"ft-sheet",   link:"" },
-      {label:"Sign up",              icon:"calendar",   link:"" },
-    ],
-  
-    cards: [
-      {title:"Office Directory",
-       blurb:"Names, roles, extensions, emails",
-       format:"Google Sheet", icon:"ft-sheet", status:"",
-       link:""},
-      {title:"Org Chart",
-       blurb:"Teams and reporting lines",
-       format:"PDF", icon:"ft-pdf", status:"",
-       link:""},
-      {title:"Emergency Contacts",
-       blurb:"After-hours and building contacts",
-       format:"PDF", icon:"ft-pdf", status:"REQUIRED",
-       link:""},
-    ],
-};
-/* =================== --- do not edit below --- ==================== */
-
-var CSS = `
+<style>
 #ead *{box-sizing:border-box;margin:0;padding:0}
 #ead{
   display:flex; align-items:stretch; overflow:hidden;
@@ -190,8 +127,70 @@ var CSS = `
 #ead .sess .who .chip{width:30px;height:30px;border-radius:9px}
 #ead .sess .who .chip svg{width:15px;height:15px}
 #ead .sess.open{border-style:dashed;border-color:rgba(160,196,238,.7)}
+</style>
 
-`;
+<div id="ead"></div>
+
+<script>
+/* ===================== CONFIG — edit this part ===================== */
+var CFG = {
+  /* ---- FILL THIS IN ONCE, PER FILE ----------------------------------
+     Publish the site first, then paste its address here with NO slash at
+     the end. The left menu builds all ten of its links from this one line.
+       e.g. "https://sites.google.com/eigelberger.com/ead-office-hub"      */
+  siteBase: "",
+
+  /* Where the search box sends people. Leave as-is to search all of Drive,
+     or paste a Shared-drive folder ID to scope it to the office hub. */
+  driveFolderId: "",
+
+    /* ---- THE LEFT MENU ------------------------------------------------
+     name, icon, and the number shown on the right. The number counts the
+     cards featured on that page -- so it only changes when you add or
+     remove a card. Leave it "" for no number.
+     This block is identical in all nine files: edit it once, then paste
+     it over the same block in the other eight.                          */
+  menu: [
+    ["Home",              "home",         "" ],
+    ["Office Standards",  "standards",    "6"],
+    ["Templates",         "templates",    "4"],
+    ["Forms",             "forms",        "6"],
+    ["Office Policies",   "policies",     "5"],
+    ["SOPs",              "sops",         "6"],
+    ["Revit Standards",   "revit",        "8"],
+    ["Learning Sessions", "learning",     "6"],
+    ["Staff Directory",   "directory",    "3"],
+  ],
+  
+  navIndex: 8,
+  title: "Staff Directory",
+  subtitle: "Who does what, how to reach them, and who to call after hours.",
+  kind: "docs",
+  
+    actions: [
+      {label:"Time off",             icon:"ft-form",    link:"" },
+      {label:"IT issue",             icon:"tool",       link:"" },
+      {label:"New project",          icon:"templates",  link:"" },
+      {label:"Expense",              icon:"ft-sheet",   link:"" },
+      {label:"Sign up",              icon:"calendar",   link:"" },
+    ],
+  
+    cards: [
+      {title:"Office Directory",
+       blurb:"Names, roles, extensions, emails",
+       format:"Google Sheet", icon:"ft-sheet", status:"",
+       link:""},
+      {title:"Org Chart",
+       blurb:"Teams and reporting lines",
+       format:"PDF", icon:"ft-pdf", status:"",
+       link:""},
+      {title:"Emergency Contacts",
+       blurb:"After-hours and building contacts",
+       format:"PDF", icon:"ft-pdf", status:"REQUIRED",
+       link:""},
+    ],
+};
+/* =================== --- do not edit below --- ==================== */
 
 var ICONS = {
  "announcements": "<path d=\"M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9\"></path><path d=\"M13.73 21a2 2 0 0 1-3.46 0\"></path>",
@@ -301,8 +300,6 @@ function sessions(){
 
 (function(){
   var host = document.getElementById('ead');
-  var st = document.createElement('style'); st.textContent = CSS;
-  document.head.appendChild(st);
   var body = { sections: sectionCards, docs: docCards,
                notices: notices, sessions: sessions }[CFG.kind]();
   host.innerHTML = rail() + '<div class="main">' + head() + body + '</div>';

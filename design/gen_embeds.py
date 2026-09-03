@@ -38,6 +38,8 @@ for _n, _p in enumerate(PAGES):
 
 MENU_BLOCK = '  /* ---- THE LEFT MENU ------------------------------------------------\n     name, icon, and the number shown on the right. The number counts the\n     cards featured on that page -- so it only changes when you add or\n     remove a card. Leave it "" for no number.\n     This block is identical in all nine files: edit it once, then paste\n     it over the same block in the other eight.                          */\n  menu: [\n    ["Home",              "home",         "" ],\n    ["Office Standards",  "standards",    "6"],\n    ["Templates",         "templates",    "4"],\n    ["Forms",             "forms",        "6"],\n    ["Office Policies",   "policies",     "5"],\n    ["SOPs",              "sops",         "6"],\n    ["Revit Standards",   "revit",        "8"],\n    ["Learning Sessions", "learning",     "6"],\n    ["Staff Directory",   "directory",    "3"],\n  ],\n\n'
 
+CSSTEXT = "#ead *{box-sizing:border-box;margin:0;padding:0}\n#ead{\n  display:flex; align-items:stretch; overflow:hidden;\n  --ui:'Montserrat',system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif;\n  --mono:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;\n  font-family:var(--ui);\n  background:\n    radial-gradient(120% 95% at 88% 2%, #1A4E8C 0%, rgba(26,78,140,0) 62%),\n    #022049;\n  border-radius:16px; color:#fff;\n  -webkit-font-smoothing:antialiased;\n}\n#ead .hd{font:700 30px/1.15 var(--ui);letter-spacing:-.4px}\n#ead .sb{margin-top:9px;font:400 15px/1.5 var(--ui);color:#C6D6E8;max-width:66ch}\n\n/* ---- left index rail ---- */\n#ead .rail{flex:0 0 232px;background:#fff;color:#4B4B4B;padding:26px 0 22px;\n  display:flex;flex-direction:column}\n#ead .rail .brand{padding:0 22px}\n#ead .rail .brand b{display:block;font:700 17px/1 var(--ui);color:#022049;letter-spacing:-.2px}\n#ead .rail .brand span{display:block;margin-top:6px;font:400 10px var(--mono);\n  color:#4B4B4B;letter-spacing:1.4px}\n#ead .rail hr{border:0;border-top:1px solid #C9D1D6;margin:18px 22px}\n#ead .rail .lbl{padding:0 22px;font:400 10px var(--mono);color:#788492;letter-spacing:1.4px}\n#ead .rail nav{margin-top:10px;display:flex;flex-direction:column;gap:1px}\n#ead .rail a{display:flex;align-items:center;gap:10px;margin:0 12px;padding:9px 10px;\n  border-radius:9px;text-decoration:none;color:#4B4B4B;font:400 13.5px var(--ui)}\n#ead .rail a svg{width:17px;height:17px;stroke:#4B4B4B;fill:none;stroke-width:1.7;\n  stroke-linecap:round;stroke-linejoin:round;flex:none}\n#ead .rail a .n{margin-left:auto;font:400 11px var(--mono);color:#788492}\n#ead .rail a:hover{background:#EEF1F5}\n#ead .rail a.on{background:#022049;color:#fff;font-weight:600}\n#ead .rail a.on svg{stroke:#fff}\n#ead .rail a.on .n{color:#C6D6E8}\n#ead .rail .ask{margin-top:auto;padding:0 22px}\n#ead .rail .ask hr{margin:18px 0}\n#ead .rail .ask p{font:400 12.5px/1.45 var(--ui);color:#4B4B4B}\n#ead .rail .ask b{display:block;margin-top:3px;font:700 12.5px var(--ui);color:#022049}\n\n/* ---- content column ---- */\n#ead .main{flex:1;min-width:0;padding:28px 30px 32px;\n  background:\n    radial-gradient(120% 95% at 88% 2%, #1A4E8C 0%, rgba(26,78,140,0) 62%),\n    #022049}\n\n/* ---- search ---- */\n#ead .search{display:flex;align-items:center;gap:12px;background:#fff;\n  border-radius:999px;padding:7px 7px 7px 20px;margin-top:22px}\n#ead .hd+.search,#ead #ead>.search:first-child{margin-top:0}\n#ead .search svg{width:19px;height:19px;stroke:#788492;fill:none;\n  stroke-width:2;stroke-linecap:round;stroke-linejoin:round;flex:none}\n#ead .search input{flex:1;border:0;outline:0;background:none;min-width:0;\n  font:400 14px var(--mono);color:#022049}\n#ead .search input::placeholder{color:#788492}\n#ead .search button{border:0;cursor:pointer;background:#022049;color:#fff;\n  border-radius:999px;padding:11px 26px;font:700 13px var(--ui);letter-spacing:.6px}\n#ead .search button:hover{background:#0B3karma}\n\n/* ---- action pills ---- */\n#ead .pills{display:flex;flex-wrap:nowrap;gap:9px;margin-top:16px}\n#ead .pill{display:inline-flex;align-items:center;justify-content:center;gap:8px;\n  flex:1 1 0;min-width:0;white-space:nowrap;background:#fff;\n  color:#022049;border-radius:999px;padding:11px 12px;\n  font:600 13px var(--ui);text-decoration:none;transition:transform .12s,box-shadow .12s}\n#ead .pill:hover{transform:translateY(-1px);box-shadow:0 6px 18px rgba(0,0,0,.24)}\n#ead .pill svg{width:16px;height:16px;stroke:#022049;fill:none;\n  stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round;flex:none}\n\n/* ---- frosted cards ---- */\n#ead .grid{display:grid;gap:18px;margin-top:26px;\n  grid-template-columns:repeat(auto-fit,minmax(206px,1fr))}\n#ead .grid.wide{grid-template-columns:1fr}\n#ead .card{position:relative;display:flex;flex-direction:column;\n  background:rgba(255,255,255,.10);\n  -webkit-backdrop-filter:blur(18px) saturate(120%);\n          backdrop-filter:blur(18px) saturate(120%);\n  border:1px solid rgba(108,148,196,.55);border-radius:18px;\n  padding:20px;text-decoration:none;color:inherit;min-height:190px;\n  transition:background .15s,border-color .15s,transform .15s}\n#ead .card:hover{background:rgba(255,255,255,.17);\n  border-color:rgba(160,196,238,.85);transform:translateY(-2px)}\n#ead .chip{width:42px;height:42px;border-radius:11px;background:#022049;\n  display:flex;align-items:center;justify-content:center;flex:none}\n#ead .chip.lt{background:#fff;width:54px;height:54px;border-radius:14px}\n#ead .chip svg{width:21px;height:21px;stroke:#fff;fill:none;\n  stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}\n#ead .chip.lt svg{width:26px;height:26px;stroke:#022049}\n#ead .ttl{margin-top:16px;font:700 17.5px/1.28 var(--ui)}\n#ead .blurb{margin-top:7px;font:400 13px/1.5 var(--ui);color:#BACEE6;flex:1}\n#ead .foot{display:flex;justify-content:space-between;align-items:center;\n  margin-top:16px;font:500 11.5px var(--mono);\n  color:#BACEE6;letter-spacing:.3px}\n#ead .card:hover .foot .open{color:#fff}\n#ead .dot{position:absolute;top:24px;right:20px;width:9px;height:9px;border-radius:50%}\n#ead .dot.req{background:#7FCBA4}\n#ead .dot.upd{background:#E0AE55}\n\n/* ---- notices ---- */\n#ead .notice{display:flex;gap:16px;align-items:flex-start;\n  background:rgba(255,255,255,.10);\n  -webkit-backdrop-filter:blur(18px);backdrop-filter:blur(18px);\n  border:1px solid rgba(108,148,196,.55);border-radius:16px;padding:20px 22px}\n#ead .notice .body{flex:1;min-width:0}\n#ead .notice .row{display:flex;justify-content:space-between;gap:16px;align-items:baseline}\n#ead .notice .nt{font:700 16.5px/1.3 var(--ui)}\n#ead .notice .dt{font:500 11.5px var(--mono);color:#BACEE6;white-space:nowrap}\n#ead .notice p{margin-top:8px;font:400 13.5px/1.55 var(--ui);color:#BACEE6}\n#ead .urgent{display:inline-block;width:8px;height:8px;border-radius:50%;\n  background:#E0AE55;margin-right:7px;vertical-align:2px}\n\n/* ---- learning sessions ---- */\n#ead .sess{min-height:150px}\n#ead .sess .dt{font:500 11.5px var(--mono);color:#BACEE6;letter-spacing:.4px}\n#ead .sess .ttl{margin-top:10px;font:700 16.5px/1.3 var(--ui)}\n#ead .sess .who{display:flex;align-items:center;gap:10px;margin-top:auto;padding-top:14px;\n  font:400 13px var(--ui);color:#BACEE6}\n#ead .sess .who .chip{width:30px;height:30px;border-radius:9px}\n#ead .sess .who .chip svg{width:15px;height:15px}\n#ead .sess.open{border-style:dashed;border-color:rgba(160,196,238,.7)}"
+
 OUT = "/home/user/drawing-set/google-sites/embeds"
 SVG = json.load(open("icon_svg.json"))
 
@@ -52,6 +54,10 @@ HEAD = """<!-- =================================================================
      between the quotes. Everything under "--- do not edit ---" is layout.
      ================================================================== -->
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+__CSS__
+</style>
 
 <div id="ead"></div>
 
@@ -73,129 +79,8 @@ var CFG = {{
 /* =================== --- do not edit below --- ==================== */
 """
 
-CSS = """
-var CSS = `
-#ead *{box-sizing:border-box;margin:0;padding:0}
-#ead{
-  display:flex; align-items:stretch; overflow:hidden;
-  --ui:'Montserrat',system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif;
-  --mono:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
-  font-family:var(--ui);
-  background:
-    radial-gradient(120% 95% at 88% 2%, #1A4E8C 0%, rgba(26,78,140,0) 62%),
-    #022049;
-  border-radius:16px; color:#fff;
-  -webkit-font-smoothing:antialiased;
-}
-#ead .hd{font:700 30px/1.15 var(--ui);letter-spacing:-.4px}
-#ead .sb{margin-top:9px;font:400 15px/1.5 var(--ui);color:#C6D6E8;max-width:66ch}
+UNUSED_CSS = """
 
-/* ---- left index rail ---- */
-#ead .rail{flex:0 0 232px;background:#fff;color:#4B4B4B;padding:26px 0 22px;
-  display:flex;flex-direction:column}
-#ead .rail .brand{padding:0 22px}
-#ead .rail .brand b{display:block;font:700 17px/1 var(--ui);color:#022049;letter-spacing:-.2px}
-#ead .rail .brand span{display:block;margin-top:6px;font:400 10px var(--mono);
-  color:#4B4B4B;letter-spacing:1.4px}
-#ead .rail hr{border:0;border-top:1px solid #C9D1D6;margin:18px 22px}
-#ead .rail .lbl{padding:0 22px;font:400 10px var(--mono);color:#788492;letter-spacing:1.4px}
-#ead .rail nav{margin-top:10px;display:flex;flex-direction:column;gap:1px}
-#ead .rail a{display:flex;align-items:center;gap:10px;margin:0 12px;padding:9px 10px;
-  border-radius:9px;text-decoration:none;color:#4B4B4B;font:400 13.5px var(--ui)}
-#ead .rail a svg{width:17px;height:17px;stroke:#4B4B4B;fill:none;stroke-width:1.7;
-  stroke-linecap:round;stroke-linejoin:round;flex:none}
-#ead .rail a .n{margin-left:auto;font:400 11px var(--mono);color:#788492}
-#ead .rail a:hover{background:#EEF1F5}
-#ead .rail a.on{background:#022049;color:#fff;font-weight:600}
-#ead .rail a.on svg{stroke:#fff}
-#ead .rail a.on .n{color:#C6D6E8}
-#ead .rail .ask{margin-top:auto;padding:0 22px}
-#ead .rail .ask hr{margin:18px 0}
-#ead .rail .ask p{font:400 12.5px/1.45 var(--ui);color:#4B4B4B}
-#ead .rail .ask b{display:block;margin-top:3px;font:700 12.5px var(--ui);color:#022049}
-
-/* ---- content column ---- */
-#ead .main{flex:1;min-width:0;padding:28px 30px 32px;
-  background:
-    radial-gradient(120% 95% at 88% 2%, #1A4E8C 0%, rgba(26,78,140,0) 62%),
-    #022049}
-
-/* ---- search ---- */
-#ead .search{display:flex;align-items:center;gap:12px;background:#fff;
-  border-radius:999px;padding:7px 7px 7px 20px;margin-top:22px}
-#ead .hd+.search,#ead #ead>.search:first-child{margin-top:0}
-#ead .search svg{width:19px;height:19px;stroke:#788492;fill:none;
-  stroke-width:2;stroke-linecap:round;stroke-linejoin:round;flex:none}
-#ead .search input{flex:1;border:0;outline:0;background:none;min-width:0;
-  font:400 14px var(--mono);color:#022049}
-#ead .search input::placeholder{color:#788492}
-#ead .search button{border:0;cursor:pointer;background:#022049;color:#fff;
-  border-radius:999px;padding:11px 26px;font:700 13px var(--ui);letter-spacing:.6px}
-#ead .search button:hover{background:#0B3karma}
-
-/* ---- action pills ---- */
-#ead .pills{display:flex;flex-wrap:nowrap;gap:9px;margin-top:16px}
-#ead .pill{display:inline-flex;align-items:center;justify-content:center;gap:8px;
-  flex:1 1 0;min-width:0;white-space:nowrap;background:#fff;
-  color:#022049;border-radius:999px;padding:11px 12px;
-  font:600 13px var(--ui);text-decoration:none;transition:transform .12s,box-shadow .12s}
-#ead .pill:hover{transform:translateY(-1px);box-shadow:0 6px 18px rgba(0,0,0,.24)}
-#ead .pill svg{width:16px;height:16px;stroke:#022049;fill:none;
-  stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round;flex:none}
-
-/* ---- frosted cards ---- */
-#ead .grid{display:grid;gap:18px;margin-top:26px;
-  grid-template-columns:repeat(auto-fit,minmax(206px,1fr))}
-#ead .grid.wide{grid-template-columns:1fr}
-#ead .card{position:relative;display:flex;flex-direction:column;
-  background:rgba(255,255,255,.10);
-  -webkit-backdrop-filter:blur(18px) saturate(120%);
-          backdrop-filter:blur(18px) saturate(120%);
-  border:1px solid rgba(108,148,196,.55);border-radius:18px;
-  padding:20px;text-decoration:none;color:inherit;min-height:190px;
-  transition:background .15s,border-color .15s,transform .15s}
-#ead .card:hover{background:rgba(255,255,255,.17);
-  border-color:rgba(160,196,238,.85);transform:translateY(-2px)}
-#ead .chip{width:42px;height:42px;border-radius:11px;background:#022049;
-  display:flex;align-items:center;justify-content:center;flex:none}
-#ead .chip.lt{background:#fff;width:54px;height:54px;border-radius:14px}
-#ead .chip svg{width:21px;height:21px;stroke:#fff;fill:none;
-  stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
-#ead .chip.lt svg{width:26px;height:26px;stroke:#022049}
-#ead .ttl{margin-top:16px;font:700 17.5px/1.28 var(--ui)}
-#ead .blurb{margin-top:7px;font:400 13px/1.5 var(--ui);color:#BACEE6;flex:1}
-#ead .foot{display:flex;justify-content:space-between;align-items:center;
-  margin-top:16px;font:500 11.5px var(--mono);
-  color:#BACEE6;letter-spacing:.3px}
-#ead .card:hover .foot .open{color:#fff}
-#ead .dot{position:absolute;top:24px;right:20px;width:9px;height:9px;border-radius:50%}
-#ead .dot.req{background:#7FCBA4}
-#ead .dot.upd{background:#E0AE55}
-
-/* ---- notices ---- */
-#ead .notice{display:flex;gap:16px;align-items:flex-start;
-  background:rgba(255,255,255,.10);
-  -webkit-backdrop-filter:blur(18px);backdrop-filter:blur(18px);
-  border:1px solid rgba(108,148,196,.55);border-radius:16px;padding:20px 22px}
-#ead .notice .body{flex:1;min-width:0}
-#ead .notice .row{display:flex;justify-content:space-between;gap:16px;align-items:baseline}
-#ead .notice .nt{font:700 16.5px/1.3 var(--ui)}
-#ead .notice .dt{font:500 11.5px var(--mono);color:#BACEE6;white-space:nowrap}
-#ead .notice p{margin-top:8px;font:400 13.5px/1.55 var(--ui);color:#BACEE6}
-#ead .urgent{display:inline-block;width:8px;height:8px;border-radius:50%;
-  background:#E0AE55;margin-right:7px;vertical-align:2px}
-
-/* ---- learning sessions ---- */
-#ead .sess{min-height:150px}
-#ead .sess .dt{font:500 11.5px var(--mono);color:#BACEE6;letter-spacing:.4px}
-#ead .sess .ttl{margin-top:10px;font:700 16.5px/1.3 var(--ui)}
-#ead .sess .who{display:flex;align-items:center;gap:10px;margin-top:auto;padding-top:14px;
-  font:400 13px var(--ui);color:#BACEE6}
-#ead .sess .who .chip{width:30px;height:30px;border-radius:9px}
-#ead .sess .who .chip svg{width:15px;height:15px}
-#ead .sess.open{border-style:dashed;border-color:rgba(160,196,238,.7)}
-
-`;
 """
 
 JS = """
@@ -289,8 +174,6 @@ function sessions(){
 
 (function(){
   var host = document.getElementById('ead');
-  var st = document.createElement('style'); st.textContent = CSS;
-  document.head.appendChild(st);
   var body = { sections: sectionCards, docs: docCards,
                notices: notices, sessions: sessions }[CFG.kind]();
   host.innerHTML = rail() + '<div class="main">' + head() + body + '</div>';
@@ -356,8 +239,8 @@ SLUG = {0:"1-home", 1:"2-office-standards", 2:"3-templates", 3:"4-forms",
         4:"5-office-policies", 5:"6-sops", 6:"7-revit-standards",
         7:"8-learning-sessions", 8:"9-staff-directory"}
 for p in PAGES:
-    html = (HEAD.format(TITLE=p["title"].upper(), CONFIG=cfg_lines(p))
-            + CSS + JS.replace("%ICONS%", ICONS_JSON))
+    html = (HEAD.format(TITLE=p["title"].upper(), CONFIG=cfg_lines(p)).replace("__CSS__", CSSTEXT)
+            + JS.replace("%ICONS%", ICONS_JSON))
     html = html.replace("#0B3karma", "#0B3A72")   # typo guard
     fn = os.path.join(OUT, SLUG[p["i"]] + ".html")
     open(fn, "w").write(html)
