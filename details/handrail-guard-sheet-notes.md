@@ -71,8 +71,11 @@ or provide equivalent graspability; §1014.3.2 governs Type II.
   a level not less than **1¾"** below the tallest portion. Width above the recess:
   **1¼" min to 2¾" max**. Edges 0.01" min radius.
 
-The 2½" × 2" cap on this detail has a perimeter of approximately **9"**, so Type I is
-not available and the profile is drawn as Type II.
+The cap on this detail is 2½" × 2" in three bands — **¾" top + 1" recess + ¼" bottom**
+— with the recess **⅜" deep each side** (neck 1¾"). Its perimeter is **10½"**, so Type I
+is not available and the profile is Type II. The two governing limits are drawn as
+hard callouts: top of recess **¾" max** below the top of the profile, bottom of recess
+**1¾" min** below it.
 
 **7. CONTINUITY (§1014.4).** Handrail gripping surfaces shall be continuous, without
 interruption by newel posts or other obstructions. Exceptions applicable within a
@@ -83,10 +86,10 @@ horizontally beyond the sides of the handrail within 1½" of its bottom are not
 obstructions (Exc. 3); for each ½" of handrail perimeter above 4", the 1½" vertical
 clearance may be reduced by ⅛".
 
-> **Calc for this profile:** 9" − 4" = 5"; 5 ÷ ½" = 10 increments; 10 × ⅛" = 1¼"
-> reduction; 1½" − 1¼" = **¼"** required clear. The 1½" sub-rail beneath the 2½"-wide cap
-> does not project beyond the sides of the grip at any point, so Exc. 3 is
-> satisfied with margin.
+> **Calc for this profile:** 10½" − 4" = 6½"; 6½ ÷ ½" = 13 increments; 13 × ⅛" = 1⅝"
+> reduction, which exceeds the 1½" base dimension — so **no vertical clearance is
+> required** at this perimeter. The 2" sub-rail beneath the 2½" cap also does not
+> project beyond the sides of the grip at any point. Exc. 3 satisfied twice over.
 
 **8. EXTENSIONS AND RETURNS (§1014.6).** Handrails shall return to a wall, guard or the
 walking surface, or shall be continuous to the handrail of an adjacent flight. Where
@@ -128,33 +131,47 @@ surface. Sand all graspable surfaces smooth; ease all edges R ⅛" typical.
 
 | Key | Note |
 |---|---|
-| A | 2½" × 2" solid hardwood cap, species per finish schedule. Rounded-rectangle profile as originally drawn, with the finger recess required by §1014.3.2 cut into each side. Perimeter exceeds 6¼", so Type I (§1014.3.1) is not available. Width above recess 2½" (2¾" max). |
-| B | Finger recess, both sides. Begins ½" below top of profile (¾" max). Depth ⅜" (5/16" min), achieved within 7/8" below widest point and continued to 1¾" below top of profile. §1014.3.2. |
-| C | Cap overhangs the 1½" sub-rail ½" each side. No bracket, baluster or post to project beyond the sides of the grip — not an obstruction per §1014.4 Exc. 3. See note 7. |
+| A | 2½" × 2" solid hardwood cap, species per finish schedule. Bands ¾" + 1" + ¼". Type II profile, §1014.3.2. Perimeter 10½" exceeds 6¼", so Type I (§1014.3.1) is not available. Width above recess 2½" (2¾" max). |
+| B | Finger recess, both sides, ⅜" deep (5/16" min). Top of recess ¾" below top of profile — ¾" is the max, do not exceed. Full depth carried to 1¾" below top of profile — 1¾" is the min. §1014.3.2. |
+| C | Cap overhangs the 2" sub-rail ¼" each side. No bracket, baluster or post to project beyond the sides of the grip — not an obstruction per §1014.4 Exc. 3. See note 7. |
 | D | Cap to sub-rail: #10 × 3" F.H. screws at 12" o.c. max, countersunk and plugged, plus continuous adhesive. Rail shall not rotate in its fittings, §1014.5. Post anchorage per structural. |
-| E | 1½" sub-rail / guard post. Guard infill per note 5. Where rail occurs at a wall, maintain 1½" min clear between grip and wall, §1014.7. No sharp or abrasive elements. |
+| E | 2" sub-rail / guard post. Guard infill per note 5. Where rail occurs at a wall, maintain 1½" min clear between grip and wall, §1014.7. No sharp or abrasive elements. |
 | F | Ease all edges, R ⅛" typ. (0.01" min, §1014.3.2). Sand smooth; no splinters or exposed fasteners. |
 | G | Rail assembly may project 4½" max into the required stair width at each side, §1014.8. |
 
 ---
 
-## WHAT CHANGED FROM THE ORIGINAL SKETCH
+## PROFILE CHECK — THE SKETCHED PROFILE vs §1014.3.2
 
-The original detail showed the correct overall envelope (2½" × 2" cap on a 1½"
-member) but the profile as tagged would not pass §1014.3.2:
+Profile as sketched: 2½" × 2" overall, bands **¾" + ¾" + ½"**, recess **⅜"** deep each
+side, on a 2" sub-rail with a ¼" cap overhang each side. Perimeter 10½".
 
-| Item | As originally tagged | Required | Status |
+| §1014.3.2 requirement | Required | As sketched | |
 |---|---|---|---|
-| Profile type | not stated | Type II — perimeter ≈ 9" > 6¼" | Now stated |
-| Recess start below top of profile | change of section at 1½" down | within **¾"** of the top | **Was non-compliant** — redrawn at ½" |
-| Recess depth | ¼" | **5/16" min** | **Was non-compliant** — redrawn at ⅜" |
-| Depth carried down to | not shown | ≥ **1¾"** below top, for ≥ ⅜" of run | Now dimensioned |
-| Width above recess | 2½" | 1¼"–2¾" | Complied |
-| Handrail / guard height | not shown | 34"–38" from nosing line | Added, view 2 |
-| Guard opening limits | not shown | 4⅜" / 6" spheres | Added, view 2 |
-| Extensions, returns, continuity | not shown | §1014.4, §1014.6 | Added, view 2 |
-| Clearance, projection | not shown | §1014.7, §1014.8 | Added, notes 9–10 |
-| Loads and attachment | not shown | §1607.9 | Added, note 12 + keynote D |
+| Type II applies | perimeter > 6¼" | 10½" | applies |
+| Recess begins below top of profile | ¾" max | ¾" | **OK — at the limit** |
+| Recess depth, each side | 5/16" min | ⅜" | OK |
+| Depth continues for | ⅜" min | ¾" | OK |
+| Depth reaches below top of profile | **1¾" min** | **1½"** | **FAILS** |
+| Width above recess | 1¼"–2¾" | 2½" | OK |
+| Edge radius | 0.01" min | eased | OK |
+
+One failure, and it is a ¼" move. The ½" bottom band brings the profile back to full
+width at 1½" below the top, but the code requires the full recess depth to still be
+present at 1¾" below the top. Two ways to fix it:
+
+- **Keep the cap 2" tall** — bands **¾" + 1" + ¼"**. Recess runs ¾"–1¾" below the top.
+  Nothing else on the drawing changes. This is what the detail is drawn to.
+- **Keep the ½" bottom band** — make the cap **2¼"** tall, bands ¾" + 1" + ½".
+
+Also worth tightening: the recess starting at exactly ¾" leaves zero fabrication
+tolerance. Either mill to ⅝" and gain ⅛" of slack, or carry "¾" MAX" as a hard callout
+on the shop drawing — the detail does the latter.
+
+Two items the sketch does not affect, confirmed: the 2" sub-rail under a 2½" cap does
+not project beyond the sides of the grip, and at a 10½" perimeter §1014.4 Exc. 3
+requires no vertical clearance at all (see note 7). Nothing below the rail is an
+obstruction.
 
 ---
 
