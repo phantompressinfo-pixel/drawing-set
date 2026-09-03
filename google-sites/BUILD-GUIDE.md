@@ -72,11 +72,14 @@ the site — slide decks, printed handouts.
 | Heading + body font | Montserrat |
 | Label / date font | IBM Plex Mono |
 
-Only the two brand colours do the work. Navy is the field, the active menu row,
-and the search button. Charcoal is every card's icon chip and all the rail text.
-White is the rail, the search bar, and the action buttons. Nothing else is
-invented — the one non-brand value is a navy tint used to keep the glass card
-edges visible against the field.
+Navy does the work: the field, the card icon chips, the active menu row, and the
+search button are all Pantone 282 C exactly. White carries the rail, the search
+bar, and the action buttons. Charcoal is the rail's text, as on the brand sheet.
+
+The lighter blues — the glow in the top corner, the card edges, the small grey-blue
+text on the cards — are lighter steps of the same navy, all within three degrees of
+its hue. A dark field needs lighter steps of its own colour to stay readable; they
+aren't a second blue.
 
 ---
 
