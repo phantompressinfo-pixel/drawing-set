@@ -1,0 +1,281 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2700" height="1960" viewBox="0 0 2700 1960">
+<defs>
+<style>
+ text{font-family:Arial,Helvetica,sans-serif;fill:#000}
+ .n{font-size:17.5px}
+ .tag{font-size:21px;font-weight:bold}
+ .dimt{font-size:16px;font-weight:bold}
+ .h1{font-size:38px;font-weight:bold;letter-spacing:1px}
+ .h2{font-size:19px}
+ .h3{font-size:20px;font-weight:bold;letter-spacing:.6px}
+ .ttl{font-size:40px;fill:#555;letter-spacing:1px}
+ .ttl2{font-size:31px;fill:#555;letter-spacing:1px}
+ .sc{font-size:20px;fill:#555}
+ .lead{fill:none;stroke:#000;stroke-width:1.2}
+ .thin{fill:none;stroke:#000;stroke-width:1.0}
+ .med{fill:none;stroke:#000;stroke-width:1.8}
+ .hvy{fill:none;stroke:#000;stroke-width:5}
+ .dim{fill:none;stroke:#000;stroke-width:1.1}
+</style>
+<marker id="arw" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="11" markerHeight="11" orient="auto-start-reverse">
+ <path d="M0,1 L12,6 L0,11 z" fill="#000"/></marker>
+<marker id="tick" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="9" markerHeight="9" orient="auto">
+ <path d="M1,9 L9,1" stroke="#000" stroke-width="2"/></marker>
+<pattern id="earth" width="40" height="40" patternUnits="userSpaceOnUse">
+ <path d="M0,12 L12,0 M0,34 L34,0 M14,40 L40,14 M34,40 L40,34" stroke="#000" stroke-width="0.9" fill="none"/>
+ <circle cx="24" cy="22" r="1.5"/><circle cx="8" cy="30" r="1.3"/></pattern>
+<pattern id="conc" width="36" height="36" patternUnits="userSpaceOnUse">
+ <circle cx="6" cy="8" r="1.7"/><circle cx="21" cy="5" r="1.4"/><circle cx="29" cy="19" r="1.7"/>
+ <circle cx="11" cy="26" r="1.4"/><circle cx="24" cy="31" r="1.6"/><circle cx="15" cy="15" r="1.3"/>
+ <path d="M31,7 l4,2 l-3,2 z"/><path d="M4,20 l4,2 l-3,2 z"/><path d="M18,33 l4,2 l-3,2 z"/></pattern>
+<pattern id="insul" width="20" height="20" patternUnits="userSpaceOnUse">
+ <path d="M10,4 L10,16 M4,10 L16,10" stroke="#000" stroke-width="0.9" fill="none"/></pattern>
+<pattern id="gravel" width="34" height="34" patternUnits="userSpaceOnUse">
+ <circle cx="8" cy="9" r="4.5" fill="none" stroke="#000" stroke-width="1"/>
+ <circle cx="24" cy="6" r="3.4" fill="none" stroke="#000" stroke-width="1"/>
+ <circle cx="28" cy="21" r="4.8" fill="none" stroke="#000" stroke-width="1"/>
+ <circle cx="12" cy="24" r="3.8" fill="none" stroke="#000" stroke-width="1"/>
+ <circle cx="19" cy="14" r="2.6" fill="none" stroke="#000" stroke-width="1"/></pattern>
+<pattern id="media" width="26" height="26" patternUnits="userSpaceOnUse">
+ <circle cx="5" cy="6" r="1.7"/><circle cx="17" cy="3" r="1.3"/><circle cx="22" cy="15" r="1.8"/>
+ <circle cx="9" cy="19" r="1.4"/><circle cx="14" cy="11" r="1.2"/><circle cx="2" cy="22" r="1.5"/>
+ <path d="M18,21 l5,3 M6,12 l4,-2" stroke="#000" stroke-width="1" fill="none"/></pattern>
+<pattern id="drain" width="24" height="24" patternUnits="userSpaceOnUse">
+ <path d="M0,18 q6,-14 12,0 q6,14 12,0" stroke="#000" stroke-width="1.1" fill="none"/></pattern>
+<pattern id="drainv" width="24" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(90)">
+ <path d="M0,18 q6,-14 12,0 q6,14 12,0" stroke="#000" stroke-width="1.1" fill="none"/></pattern>
+</defs>
+<rect width="2700" height="1960" fill="#fff"/>
+<rect x="22" y="22" width="2656" height="1916" fill="none" stroke="#000" stroke-width="2"/>
+<text x="60" y="88" class="h1" text-anchor="start">DETAIL 7 / A6.01  —  GREEN ROOF EDGE AT FOUNDATION WALL</text>
+<text x="60" y="122" class="h2" text-anchor="start">100% CD MARK-UP  —  NOTES TO ADD (TEXT AS SHOWN) + DRAWING ELEMENTS TO ADD</text>
+<rect x="60" y="142" width="15" height="15" fill="#000"/>
+<text x="86" y="156" class="h2" text-anchor="start">= DRAWING ELEMENT MISSING FROM THE CURRENT DETAIL — DRAW IT, THEN NOTE IT.</text>
+<path d="M60,176 L2640,176" class="med"/>
+<path d="M1040,472 L1122,440 L1122,1240 L1040,1240 z" fill="url(#earth)"/>
+<path d="M1040,472 L1122,440" class="med"/>
+<path d="M1070,452 l0,22 m-9,-9 l9,9 l9,-9" class="thin"/>
+<rect x="1122" y="536" width="12" height="704" fill="url(#drainv)" stroke="#000" stroke-width="1"/>
+<rect x="1134" y="610" width="34" height="630" fill="url(#insul)" stroke="#000" stroke-width="1.2"/>
+<path d="M1134,814 L1168,814" class="thin" stroke-dasharray="10 6"/>
+<rect x="1168" y="622" width="12" height="618" fill="none" stroke="#000" stroke-width="1"/>
+<path d="M1180,622 L1720,622 L1720,702 L1276,702 L1276,1240 L1180,1240 z" fill="url(#conc)" stroke="#000" stroke-width="1.8"/>
+<path d="M1276,622 L1276,702" class="thin" stroke-dasharray="14 8"/>
+<path d="M1180,1060 L1276,1060" class="med"/>
+<rect x="1208" y="1049" width="36" height="22" fill="#fff" stroke="#000" stroke-width="1.6"/>
+<path d="M1208,1049 L1244,1071 M1244,1049 L1208,1071" class="thin"/>
+<path d="M1720,622 L1180,622 L1180,1240" class="hvy"/>
+<path d="M1720,610 L1174,610" class="thin"/>
+<path d="M1720,602 L1174,602" class="thin" stroke-dasharray="6 5"/>
+<rect x="1134" y="560" width="586" height="40" fill="url(#insul)" stroke="#000" stroke-width="1.2"/>
+<rect x="1122" y="536" width="598" height="24" fill="url(#drain)" stroke="#000" stroke-width="1"/>
+<path d="M1720,536 L1122,536 L1122,458" class="med"/>
+<rect x="1122" y="440" width="144" height="96" fill="url(#gravel)"/>
+<rect x="1266" y="440" width="454" height="96" fill="url(#media)"/>
+<path d="M1266,440 L1720,440" class="med"/>
+<path d="M1266,412 L1266,536" class="hvy"/>
+<circle cx="1266" cy="450" r="4" fill="#fff" stroke="#000" stroke-width="1.4"/>
+<circle cx="1266" cy="472" r="4" fill="#fff" stroke="#000" stroke-width="1.4"/>
+<circle cx="1266" cy="494" r="4" fill="#fff" stroke="#000" stroke-width="1.4"/>
+<circle cx="1266" cy="516" r="4" fill="#fff" stroke="#000" stroke-width="1.4"/>
+<path d="M1330,621 l130,0 m-16,-8 l16,8 l-16,8" class="thin"/>
+<text x="1330" y="610" class="dimt" text-anchor="start" style="paint-order:stroke;stroke:#fff;stroke-width:6;stroke-linejoin:round">SLOPE TO DRAIN</text>
+<g class="thin" stroke-dasharray="12 8" fill="none">
+<rect x="1478" y="456" width="92" height="166" stroke="#000" fill="#fff" fill-opacity="0.45" stroke-width="1.5"/>
+<path d="M1478,536 L1570,536 M1500,622 l24,-22 l24,22" stroke="#000"/>
+</g>
+<path d="M1410,440 L1410,393.8" class="thin"/>
+<path d="M1410,423.5 q-19.823479471793604,-19.8 -30.636286456408293,-37.400000000000006" class="thin"/>
+<path d="M1410,423.5 q-10.227361934124927,-19.8 -15.80592298910216,-37.400000000000006" class="thin"/>
+<path d="M1410,423.5 q10.227361934124927,-19.8 15.80592298910216,-37.400000000000006" class="thin"/>
+<path d="M1410,423.5 q19.823479471793604,-19.8 30.636286456408293,-37.400000000000006" class="thin"/>
+<path d="M1630,440 q-16.0,-26.0 -26.0,-46.0" class="thin"/>
+<path d="M1630,440 q-6.0,-26.0 -10.0,-46.0" class="thin"/>
+<path d="M1630,440 q6.0,-26.0 10.0,-46.0" class="thin"/>
+<path d="M1630,440 q16.0,-26.0 26.0,-46.0" class="thin"/>
+<path d="M1690,440 L1690,402.2" class="thin"/>
+<path d="M1690,426.5 q-16.21921047692204,-16.2 -25.066052555243147,-30.6" class="thin"/>
+<path d="M1690,426.5 q-8.367841582465848,-16.2 -12.932118809265402,-30.6" class="thin"/>
+<path d="M1690,426.5 q8.367841582465848,-16.2 12.932118809265402,-30.6" class="thin"/>
+<path d="M1690,426.5 q16.21921047692204,-16.2 25.066052555243147,-30.6" class="thin"/>
+<rect x="1276" y="702" width="40" height="538" fill="url(#insul)" stroke="#000" stroke-width="1.2"/>
+<path d="M1326,702 L1326,1240" class="med"/>
+<rect x="1326" y="904" width="394" height="20" fill="#fff" stroke="#000" stroke-width="1.6"/>
+<path d="M1326,897 L1720,897" class="thin" stroke-dasharray="12 7"/>
+<rect x="1326" y="904" width="17" height="20" fill="#fff" stroke="#000" stroke-width="1.4"/>
+<path d="M1326,904 L1343,924 M1343,904 L1326,924" class="thin"/>
+<path d="M1720,310 L1735,360 L1705,410 L1735,460 L1705,510 L1735,560 L1705,610 L1735,660 L1705,710 L1735,760 L1705,810 L1735,860 L1705,910 L1735,960 L1705,1010 L1735,1060 L1705,1110 L1735,1160 L1720,1240" class="med"/>
+<path d="M1040,1240 L1090,1225 L1140,1255 L1190,1225 L1240,1255 L1290,1225 L1340,1255 L1390,1225 L1440,1255 L1490,1225 L1540,1255 L1590,1225 L1640,1255 L1720,1240" class="med"/>
+<path d="M1040,360 L1040,1240" class="thin"/>
+<rect x="1038" y="1280" width="104" height="48" fill="#fff" stroke="#000" stroke-width="1.8"/>
+<text x="1090" y="1313" class="tag" text-anchor="middle">EXT.</text>
+<rect x="1448" y="1280" width="104" height="48" fill="#fff" stroke="#000" stroke-width="1.8"/>
+<text x="1500" y="1313" class="tag" text-anchor="middle">INT.</text>
+<rect x="1421.0" y="281.0" width="58" height="38" fill="#fff" stroke="#000" stroke-width="1.8"/>
+<text x="1450" y="308" class="tag" text-anchor="middle">R3</text>
+<path d="M1450,319 L1450,622" class="med"/>
+<rect x="1441.0" y="1011.0" width="58" height="38" fill="#fff" stroke="#000" stroke-width="1.8"/>
+<text x="1470" y="1038" class="tag" text-anchor="middle">C1</text>
+<path d="M1470,1011 L1470,924" class="med"/>
+<rect x="956.0" y="1131.0" width="58" height="38" fill="#fff" stroke="#000" stroke-width="1.8"/>
+<text x="985" y="1158" class="tag" text-anchor="middle">W-?</text>
+<path d="M1014,1150 L1144,1150" class="med"/>
+<path d="M1692,440 L1692,536" class="dim" marker-start="url(#tick)" marker-end="url(#tick)"/>
+<path d="M1681,440 L1703,440 M1681,536 L1703,536" class="dim"/>
+<g transform="translate(1685,488.0) rotate(-90)">
+<text x="0" y="0" class="dimt" text-anchor="middle" style="paint-order:stroke;stroke:#fff;stroke-width:6;stroke-linejoin:round">1'-0" MIN.</text>
+</g>
+<path d="M1122,400 L1266,400" class="dim" marker-start="url(#tick)" marker-end="url(#tick)"/>
+<path d="M1122,389 L1122,411 M1266,389 L1266,411" class="dim"/>
+<text x="1194.0" y="390" class="dimt" text-anchor="middle" style="paint-order:stroke;stroke:#fff;stroke-width:6;stroke-linejoin:round">1'-6" MIN.</text>
+<path d="M1300,440 l-13,-11 l26,0 z" fill="#000"/>
+<text x="1320" y="432" class="dimt" text-anchor="start" style="paint-order:stroke;stroke:#fff;stroke-width:6;stroke-linejoin:round">FIN. GRADE / T.O. MEDIA  EL. = ___</text>
+<path d="M1600,622 l-13,-11 l26,0 z" fill="#000"/>
+<text x="1620" y="614" class="dimt" text-anchor="start" style="paint-order:stroke;stroke:#fff;stroke-width:6;stroke-linejoin:round">T.O. STRUCT. SLAB  EL. = ___</text>
+<rect x="1046" y="220" width="13" height="13" fill="#000"/>
+<text x="1068" y="232" class="n" text-anchor="start">GRAVEL MAINTENANCE / VEGETATION-FREE</text>
+<text x="1068" y="254" class="n" text-anchor="start">STRIP, 1'-6" MIN. WIDE — WASHED ROUNDED</text>
+<text x="1068" y="276" class="n" text-anchor="start">STONE, 1/2"–1" DIA., OVER FILTER FABRIC.</text>
+<path d="M1036,225 L992,225 L1180,482" class="lead" marker-end="url(#arw)"/>
+<rect x="1700" y="220" width="13" height="13" fill="#000"/>
+<text x="1722" y="232" class="n" text-anchor="start">EDGE RESTRAINT — PERFORATED ALUM. OR</text>
+<text x="1722" y="254" class="n" text-anchor="start">STAINLESS, SET ON PROTECTION LAYER. NO</text>
+<text x="1722" y="276" class="n" text-anchor="start">FASTENERS THROUGH MEMBRANE.</text>
+<path d="M1690,225 L1646,225 L1271,454" class="lead" marker-end="url(#arw)"/>
+<rect x="2180" y="220" width="13" height="13" fill="#000"/>
+<text x="2202" y="232" class="n" text-anchor="start">ROOF DRAIN + OVERFLOW BEYOND, W/ DRAIN</text>
+<text x="2202" y="254" class="n" text-anchor="start">INSPECTION CHAMBER — SEE PLUMBING AND</text>
+<text x="2202" y="276" class="n" text-anchor="start">ROOF PLAN.</text>
+<path d="M2170,225 L2126,225 L1572,490" class="lead" stroke-dasharray="11 7" marker-end="url(#arw)"/>
+<text x="940" y="372" class="n" text-anchor="end">FINISH GRADE — SLOPE AWAY FROM BUILDING 5% MIN. FOR</text>
+<text x="940" y="394" class="n" text-anchor="end">10'-0". SEE CIVIL DRAWINGS FOR GRADING.</text>
+<path d="M950,365 L994,365 L1058,466" class="lead" marker-end="url(#arw)"/>
+<text x="940" y="442" class="n" text-anchor="end">SOIL BACKFILL AND COMPACTION PER GEOTECHNICAL REPORT.</text>
+<text x="940" y="464" class="n" text-anchor="end">DO NOT BACKFILL UNTIL DECK HAS CURED AND IS BRACED /</text>
+<text x="940" y="486" class="n" text-anchor="end">SHORED PER STRUCTURAL.</text>
+<path d="M950,435 L994,435 L1062,640" class="lead" marker-end="url(#arw)"/>
+<rect x="927" y="522" width="13" height="13" fill="#000"/>
+<text x="918" y="534" class="n" text-anchor="end">PREFABRICATED DRAINAGE COMPOSITE W/ INTEGRAL FILTER</text>
+<text x="918" y="556" class="n" text-anchor="end">FABRIC — CONTINUOUS FROM ROOF DRAINAGE COURSE TO</text>
+<text x="918" y="578" class="n" text-anchor="end">FOOTING DRAIN, NO BREAK AT TRANSITION.</text>
+<path d="M950,527 L994,527 L1128,780" class="lead" marker-end="url(#arw)"/>
+<rect x="927" y="614" width="13" height="13" fill="#000"/>
+<text x="918" y="626" class="n" text-anchor="end">RIGID INSULATION (XPS) CONTINUOUS DOWN EXTERIOR FACE</text>
+<text x="918" y="648" class="n" text-anchor="end">OF FOUNDATION WALL — EXTEND 2'-0" MIN. BELOW DECK TO</text>
+<text x="918" y="670" class="n" text-anchor="end">LAP INTERIOR INSULATION AND CLOSE THE THERMAL BRIDGE</text>
+<text x="918" y="692" class="n" text-anchor="end">AT THE SLAB EDGE.</text>
+<path d="M950,619 L994,619 L1150,890" class="lead" marker-end="url(#arw)"/>
+<rect x="927" y="728" width="13" height="13" fill="#000"/>
+<text x="918" y="740" class="n" text-anchor="end">BELOW-GRADE WATERPROOFING — SAME MFR. / SYSTEM AS ROOF</text>
+<text x="918" y="762" class="n" text-anchor="end">MEMBRANE, CONTINUOUS OVER TOP OF WALL AND DOWN FACE.</text>
+<text x="918" y="784" class="n" text-anchor="end">2-PLY REINFORCING AT ALL CORNERS AND TRANSITIONS.</text>
+<path d="M950,733 L994,733 L1177,980" class="lead" marker-end="url(#arw)"/>
+<rect x="927" y="820" width="13" height="13" fill="#000"/>
+<text x="918" y="832" class="n" text-anchor="end">WATERSTOP AT HORIZONTAL CONSTRUCTION JOINT — SEE</text>
+<text x="918" y="854" class="n" text-anchor="end">STRUCTURAL AND WATERPROOFING MFR.</text>
+<path d="M950,825 L994,825 L1226,1060" class="lead" marker-end="url(#arw)"/>
+<text x="940" y="902" class="n" text-anchor="end">CONCRETE FOUNDATION WALL — SEE STRUCTURAL FOR</text>
+<text x="940" y="924" class="n" text-anchor="end">THICKNESS, REINFORCING AND JOINT LOCATIONS.</text>
+<path d="M950,895 L994,895 L1235,1140" class="lead" marker-end="url(#arw)"/>
+<rect x="927" y="960" width="13" height="13" fill="#000"/>
+<text x="918" y="972" class="n" text-anchor="end">FOOTING, FOUNDATION DRAIN, FILTER FABRIC AND WASHED</text>
+<text x="918" y="994" class="n" text-anchor="end">GRAVEL BELOW — SEE CIVIL. ADD CROSS-REFERENCE TO</text>
+<text x="918" y="1016" class="n" text-anchor="end">FOUNDATION DETAIL.</text>
+<path d="M950,965 L994,965 L1080,1228" class="lead" marker-end="url(#arw)"/>
+<rect x="927" y="1052" width="13" height="13" fill="#000"/>
+<text x="918" y="1064" class="n" text-anchor="end">BELOW-GRADE WALL ASSEMBLY TAG — ADD SEPARATE 'W-__'</text>
+<text x="918" y="1086" class="n" text-anchor="end">TAG FOR THE VERTICAL CONDITION; R3 (ROOF) SHOULD NOT</text>
+<text x="918" y="1108" class="n" text-anchor="end">CARRY THE WALL ASSEMBLY.</text>
+<text x="1860" y="372" class="n" text-anchor="start">PLANTINGS AND IRRIGATION — SEE LANDSCAPE DRAWINGS.</text>
+<path d="M1850,365 L1806,365 L1700,386" class="lead" marker-end="url(#arw)"/>
+<text x="1860" y="420" class="n" text-anchor="start">GROWING MEDIUM — DEPTH, MIX AND SATURATED UNIT</text>
+<text x="1860" y="442" class="n" text-anchor="start">WEIGHT PER LANDSCAPE. CONFIRM LOADING W/</text>
+<text x="1860" y="464" class="n" text-anchor="start">STRUCTURAL.</text>
+<path d="M1850,413 L1806,413 L1704,490" class="lead" marker-end="url(#arw)"/>
+<rect x="1860" y="500" width="13" height="13" fill="#000"/>
+<text x="1882" y="512" class="n" text-anchor="start">FILTER FABRIC — LAP 6" MIN. AT SEAMS; TURN UP AT</text>
+<text x="1882" y="534" class="n" text-anchor="start">EDGE RESTRAINT AND AT BACKFILL INTERFACE.</text>
+<path d="M1850,505 L1806,505 L1706,536" class="lead" marker-end="url(#arw)"/>
+<rect x="1860" y="570" width="13" height="13" fill="#000"/>
+<text x="1882" y="582" class="n" text-anchor="start">DRAINAGE / RETENTION / AERATION COURSE — MAINTAIN</text>
+<text x="1882" y="604" class="n" text-anchor="start">CONTINUOUS PATH TO ROOF DRAIN.</text>
+<path d="M1850,575 L1806,575 L1708,549" class="lead" marker-end="url(#arw)"/>
+<text x="1860" y="652" class="n" text-anchor="start">RIGID INSULATION, XPS — R-__ MIN. PER ENERGY CODE.</text>
+<text x="1860" y="674" class="n" text-anchor="start">LOOSE-LAID, JOINTS STAGGERED (INVERTED / PROTECTED</text>
+<text x="1860" y="696" class="n" text-anchor="start">MEMBRANE ASSEMBLY).</text>
+<path d="M1850,645 L1806,645 L1710,580" class="lead" marker-end="url(#arw)"/>
+<rect x="1860" y="732" width="13" height="13" fill="#000"/>
+<text x="1882" y="744" class="n" text-anchor="start">PROTECTION COURSE / SEPARATION SHEET OVER</text>
+<text x="1882" y="766" class="n" text-anchor="start">MEMBRANE.</text>
+<path d="M1850,737 L1806,737 L1712,607" class="lead" marker-end="url(#arw)"/>
+<rect x="1860" y="802" width="13" height="13" fill="#000"/>
+<text x="1882" y="814" class="n" text-anchor="start">ROOT BARRIER BY MEMBRANE MFR. — CONTINUOUS, UP AND</text>
+<text x="1882" y="836" class="n" text-anchor="start">OVER TOP OF WALL.</text>
+<path d="M1850,807 L1806,807 L1713,600" class="lead" marker-end="url(#arw)"/>
+<text x="1860" y="884" class="n" text-anchor="start">ROOFING / WATERPROOFING MEMBRANE — HOT FLUID-</text>
+<text x="1860" y="906" class="n" text-anchor="start">APPLIED REINFORCED, FULLY ADHERED. FLOOD TEST AND</text>
+<text x="1860" y="928" class="n" text-anchor="start">ELECTRONIC LEAK DETECTION PRIOR TO OVERBURDEN.</text>
+<path d="M1850,877 L1806,877 L1714,619" class="lead" marker-end="url(#arw)"/>
+<text x="1860" y="976" class="n" text-anchor="start">STRUCTURAL CONCRETE DECK — SLOPE 1/4" PER FT. MIN.</text>
+<text x="1860" y="998" class="n" text-anchor="start">TO DRAIN (OR LEVEL DECK W/ TAPERED DRAINAGE COURSE</text>
+<text x="1860" y="1020" class="n" text-anchor="start">— VERIFY). SEE STRUCTURAL.</text>
+<path d="M1850,969 L1806,969 L1700,670" class="lead" marker-end="url(#arw)"/>
+<rect x="1860" y="1072" width="13" height="13" fill="#000"/>
+<text x="1882" y="1084" class="n" text-anchor="start">AIR / VAPOR BARRIER CONTINUITY — TRANSITION</text>
+<text x="1882" y="1106" class="n" text-anchor="start">MEMBRANE FROM ROOF MEMBRANE TO BELOW-GRADE</text>
+<text x="1882" y="1128" class="n" text-anchor="start">WATERPROOFING. SEAL ALL LAPS.</text>
+<path d="M1850,1077 L1806,1077 L1300,722" class="lead" marker-end="url(#arw)"/>
+<rect x="1860" y="1164" width="13" height="13" fill="#000"/>
+<text x="1882" y="1176" class="n" text-anchor="start">SEALANT AND FIRE-SAFING AT CEILING-TO-WALL JOINT.</text>
+<path d="M1850,1169 L1806,1169 L1345,914" class="lead" marker-end="url(#arw)"/>
+<text x="1860" y="1224" class="n" text-anchor="start">CONTINUOUS RIGID INSULATION AT INTERIOR FACE OF</text>
+<text x="1860" y="1246" class="n" text-anchor="start">FOUNDATION WALL — LAP EXTERIOR INSULATION 2'-0"</text>
+<text x="1860" y="1268" class="n" text-anchor="start">MIN.</text>
+<path d="M1850,1217 L1806,1217 L1300,1020" class="lead" marker-end="url(#arw)"/>
+<text x="1860" y="1316" class="n" text-anchor="start">GYPSUM BOARD / INTERIOR FINISH — SEE FINISH</text>
+<text x="1860" y="1338" class="n" text-anchor="start">SCHEDULE.</text>
+<path d="M1850,1309 L1806,1309 L1330,1140" class="lead" marker-end="url(#arw)"/>
+<rect x="60" y="1330" width="930" height="560" fill="none" stroke="#000" stroke-width="1.8"/>
+<text x="80" y="1368" class="h3" text-anchor="start">GENERAL NOTES — THIS DETAIL</text>
+<path d="M80,1382 L970,1382" class="thin"/>
+<text x="82" y="1414" class="n" text-anchor="start">1.</text>
+<text x="114" y="1414" class="n" text-anchor="start">VEGETATED ROOF ASSEMBLY TO COMPLY W/ IBC 1507.16 AND IFC 317 — PROVIDE VEGETATION-</text>
+<text x="114" y="1436" class="n" text-anchor="start">FREE ZONES AT PERIMETER, PENETRATIONS AND DRAINS. CLASS 'A' ASSEMBLY.</text>
+<text x="82" y="1470" class="n" text-anchor="start">2.</text>
+<text x="114" y="1470" class="n" text-anchor="start">ALL VEGETATED ROOF COMPONENTS (MEMBRANE, ROOT BARRIER, PROTECTION, DRAINAGE, FILTER</text>
+<text x="114" y="1492" class="n" text-anchor="start">FABRIC) FROM A SINGLE SOURCE MFR. UNDER ONE 20-YEAR NDL WARRANTY.</text>
+<text x="82" y="1526" class="n" text-anchor="start">3.</text>
+<text x="114" y="1526" class="n" text-anchor="start">24-HOUR FLOOD TEST PER ASTM D5957 AND ELECTRONIC LEAK DETECTION PER ASTM D7877 PRIOR</text>
+<text x="114" y="1548" class="n" text-anchor="start">TO PLACING ANY OVERBURDEN.</text>
+<text x="82" y="1582" class="n" text-anchor="start">4.</text>
+<text x="114" y="1582" class="n" text-anchor="start">DO NOT PLACE OVERBURDEN UNTIL MEMBRANE IS INSPECTED AND ACCEPTED BY MFR'S</text>
+<text x="114" y="1604" class="n" text-anchor="start">REPRESENTATIVE; SUBMIT INSPECTION REPORT.</text>
+<text x="82" y="1638" class="n" text-anchor="start">5.</text>
+<text x="114" y="1638" class="n" text-anchor="start">NO PENETRATIONS OR MECHANICAL FASTENERS THROUGH WATERPROOFING MEMBRANE.</text>
+<text x="82" y="1672" class="n" text-anchor="start">6.</text>
+<text x="114" y="1672" class="n" text-anchor="start">SATURATED WEIGHT OF COMPLETE ASSEMBLY = ___ PSF; VERIFY W/ STRUCTURAL BEFORE</text>
+<text x="114" y="1694" class="n" text-anchor="start">ORDERING MATERIALS.</text>
+<text x="82" y="1728" class="n" text-anchor="start">7.</text>
+<text x="114" y="1728" class="n" text-anchor="start">COORDINATE IRRIGATION SLEEVES, LEAK-DETECTION GRID AND ELECTRICAL W/ LANDSCAPE,</text>
+<text x="114" y="1750" class="n" text-anchor="start">PLUMBING AND ELECTRICAL.</text>
+<text x="82" y="1784" class="n" text-anchor="start">8.</text>
+<text x="114" y="1784" class="n" text-anchor="start">PROVIDE 4'-0" LONG MOCK-UP OF THIS EDGE CONDITION FOR REVIEW PRIOR TO PROCEEDING.</text>
+<text x="82" y="1818" class="n" text-anchor="start">9.</text>
+<text x="114" y="1818" class="n" text-anchor="start">PROTECT COMPLETED MEMBRANE FROM CONSTRUCTION TRAFFIC W/ TEMPORARY PROTECTION BOARD.</text>
+<rect x="1860" y="1560" width="780" height="330" fill="none" stroke="#000" stroke-width="1.8"/>
+<text x="1880" y="1598" class="h3" text-anchor="start">VERIFY / COORDINATE BEFORE ISSUE</text>
+<path d="M1880,1612 L2620,1612" class="thin"/>
+<text x="1884" y="1646" class="n" text-anchor="start">—  MEMBRANE TYPE + SPEC SECTION NUMBER</text>
+<text x="1884" y="1678" class="n" text-anchor="start">—  R-VALUE AND ENERGY-CODE COMPLIANCE PATH AT SLAB EDGE</text>
+<text x="1884" y="1710" class="n" text-anchor="start">—  INTENSIVE VS. EXTENSIVE — MEDIA DEPTH AND DEAD LOAD</text>
+<text x="1884" y="1742" class="n" text-anchor="start">—  SOIL RETENTION AT BACKFILL / GRAVEL INTERFACE</text>
+<text x="1884" y="1774" class="n" text-anchor="start">—  DRAIN + OVERFLOW LOCATIONS SHOWN ON ROOF PLAN</text>
+<text x="1884" y="1806" class="n" text-anchor="start">—  R3 / C1 TAGS AGREE W/ ASSEMBLY SCHEDULE</text>
+<path d="M1046,1700 L1800,1700" class="med"/>
+<circle cx="1096" cy="1654" r="35" fill="none" stroke="#000" stroke-width="1.8"/>
+<path d="M1061,1654 L1131,1654" class="thin"/>
+<text x="1096" y="1650" class="tag" text-anchor="middle">7</text>
+<text x="1096" y="1684" class="n" text-anchor="middle">A6.01</text>
+<text x="1160" y="1672" class="ttl2" text-anchor="start">GREEN ROOF EDGE AT FOUNDATION WALL</text>
+<text x="1164" y="1728" class="sc" text-anchor="start">SCALE   1" = 1'-0"</text>
+</svg>
