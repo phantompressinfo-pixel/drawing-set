@@ -1,0 +1,264 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2700" height="2260" viewBox="0 0 2700 2260">
+<defs>
+<style>
+ text{font-family:Arial,Helvetica,sans-serif;fill:#000}
+ .n{font-size:17.5px}
+ .tag{font-size:21px;font-weight:bold}
+ .dimt{font-size:16px;font-weight:bold}
+ .h1{font-size:38px;font-weight:bold;letter-spacing:1px}
+ .h2{font-size:19px}
+ .h3{font-size:20px;font-weight:bold;letter-spacing:.6px}
+ .ttl2{font-size:31px;fill:#555;letter-spacing:1px}
+ .sc{font-size:20px;fill:#555}
+ .lead{fill:none;stroke:#000;stroke-width:1.2}
+ .thin{fill:none;stroke:#000;stroke-width:1.0}
+ .med{fill:none;stroke:#000;stroke-width:1.8}
+ .mtl{fill:none;stroke:#000;stroke-width:4;stroke-linejoin:miter}
+ .mem{fill:none;stroke:#000;stroke-width:3}
+ .dim{fill:none;stroke:#000;stroke-width:1.1}
+</style>
+<marker id="arw" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="11" markerHeight="11" orient="auto-start-reverse">
+ <path d="M0,1 L12,6 L0,11 z" fill="#000"/></marker>
+<marker id="tick" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="9" markerHeight="9" orient="auto">
+ <path d="M1,9 L9,1" stroke="#000" stroke-width="2"/></marker>
+<pattern id="conc" width="52" height="52" patternUnits="userSpaceOnUse">
+ <path d="M12,8 l0,10 M7,13 l10,0 M38,30 l0,10 M33,35 l10,0" stroke="#000" stroke-width="1.1" fill="none"/>
+ <circle cx="30" cy="12" r="1.8"/><circle cx="8" cy="36" r="1.6"/><circle cx="45" cy="6" r="1.5"/>
+ <circle cx="22" cy="45" r="1.7"/><circle cx="44" cy="47" r="1.4"/>
+ <path d="M26,25 l5,3 l-4,3 z"/></pattern>
+<pattern id="insul" width="14" height="14" patternUnits="userSpaceOnUse">
+ <path d="M0,0 L14,0 M0,0 L0,14" stroke="#000" stroke-width="0.8" fill="none"/></pattern>
+<pattern id="stone" width="16" height="16" patternUnits="userSpaceOnUse">
+ <path d="M0,16 L16,0 M-4,4 L4,-4 M12,20 L20,12" stroke="#000" stroke-width="0.9" fill="none"/></pattern>
+<pattern id="mortarnet" width="12" height="12" patternUnits="userSpaceOnUse">
+ <circle cx="3" cy="3" r="1.4"/><circle cx="9" cy="9" r="1.4"/></pattern>
+</defs>
+<rect width="2700" height="2260" fill="#fff"/>
+<rect x="22" y="22" width="2656" height="2216" fill="none" stroke="#000" stroke-width="2"/>
+<text x="60" y="88" class="h1" text-anchor="start">DETAIL 6 / A6.01  —  STONE WALL TRANSITION TO METAL STANDING SEAM ROOF</text>
+<text x="60" y="122" class="h2" text-anchor="start">100% CD MARK-UP  —  NOTES TO ADD (TEXT AS SHOWN) + DRAWING ELEMENTS TO ADD</text>
+<rect x="60" y="142" width="15" height="15" fill="#000"/>
+<text x="86" y="156" class="h2" text-anchor="start">= DRAWING ELEMENT MISSING FROM THE CURRENT DETAIL — DRAW IT, THEN NOTE IT.</text>
+<path d="M60,176 L2640,176" class="med"/>
+<path d="M1292,300 L1500,300 L1500,1460 L1292,1460 z" fill="url(#conc)" stroke="#000" stroke-width="1.8"/>
+<path d="M760,1292 L1292,1292 L1292,1420 L760,1420 z" fill="url(#conc)" stroke="#000" stroke-width="1.8"/>
+<path d="M1292,1292 L1292,1420" class="thin" stroke-dasharray="14 8"/>
+<rect x="1250" y="300" width="42" height="988" fill="url(#insul)" stroke="#000" stroke-width="1.2"/>
+<rect x="760" y="1206" width="490" height="82" fill="url(#insul)" stroke="#000" stroke-width="1.2"/>
+<path d="M760,1247 L1250,1247" class="thin"/>
+<path d="M760,1290 L1292,1290 L1292,300" class="mem"/>
+<path d="M760,1206 L1250,1206" class="thin"/>
+<path d="M760,1196 L1250,1196" class="thin" stroke-dasharray="9 6"/>
+<path d="M760,1188 L1248,1188 L1248,1056" class="mem"/>
+<path d="M760,1180 L1240,1180 L1240,1145 l10,0" class="mtl"/>
+<path d="M880,1180 l0,-34 q0,-11 10,-11 q10,0 10,11 l0,34" class="mtl"/>
+<path d="M1030,1180 l0,-34 q0,-11 10,-11 q10,0 10,11 l0,34" class="mtl"/>
+<path d="M1170,1180 l0,-34 q0,-11 10,-11 q10,0 10,11 l0,34" class="mtl"/>
+<path d="M888,1152 l0,26 M1038,1152 l0,26 M1178,1152 l0,26" class="thin"/>
+<rect x="1250" y="1040" width="42" height="28" fill="#fff" stroke="#000" stroke-width="1.6"/>
+<path d="M1250,1040 L1292,1068 M1250,1068 L1292,1040" class="thin"/>
+<path d="M1246,1068 L1246,1138 L1090,1138 L1090,1168" class="mtl"/>
+<path d="M1240,1054 l14,0" class="med"/>
+<path d="M1292,900 L1276,900 L1276,964 L1222,964 L1222,948" class="mtl"/>
+<path d="M1292,916 L1292,946 L1232,946 L1232,1124 l-12,-10" class="mtl"/>
+<rect x="1236" y="880" width="14" height="60" fill="url(#mortarnet)"/>
+<path d="M1238,928 q6,6 12,0" class="med"/>
+<rect x="1180" y="318" width="56" height="624" fill="url(#stone)" stroke="#000" stroke-width="1.6"/>
+<path d="M1180,430 L1236,430" class="med"/>
+<path d="M1180,542 L1236,542" class="med"/>
+<path d="M1180,654 L1236,654" class="med"/>
+<path d="M1180,766 L1236,766" class="med"/>
+<path d="M1180,878 L1236,878" class="med"/>
+<path d="M1180,942 L1236,942" class="med"/>
+<path d="M1292,612 L1408,612 L1408,628 L1292,628 z" fill="#fff" stroke="#000" stroke-width="1.6"/>
+<path d="M1396,604 l0,32 M1384,604 l0,32" class="thin"/>
+<path d="M1292,598 L1292,642 M1292,620 L1240,620 L1240,606 L1218,606" class="mtl"/>
+<circle cx="1243" cy="884" r="6" fill="#000"/>
+<path d="M1500,300 L1515,350 L1485,400 L1515,450 L1485,500 L1515,550 L1485,600 L1515,650 L1485,700 L1515,750 L1485,800 L1515,850 L1485,900 L1515,950 L1485,1000 L1515,1050 L1485,1100 L1515,1150 L1485,1200 L1515,1250 L1485,1300 L1515,1350 L1485,1400 L1500,1460" class="med"/>
+<path d="M760,1460 L810,1445 L860,1475 L910,1445 L960,1475 L1010,1445 L1060,1475 L1110,1445 L1160,1475 L1210,1445 L1260,1475 L1310,1445 L1360,1475 L1410,1445 L1500,1460" class="med"/>
+<path d="M1160,300 L1218,290 L1276,310 L1334,290 L1392,310 L1500,300" class="med"/>
+<path d="M760,1120 L760,1460" class="thin"/>
+<path d="M1080,1120 l-180,0 m16,-8 l-16,8 l16,8" class="thin"/>
+<text x="1080" y="1112" class="dimt" text-anchor="end" style="paint-order:stroke;stroke:#fff;stroke-width:6;stroke-linejoin:round">SLOPE — SEE ROOF PLAN</text>
+<path d="M778,1180 L778,1016" class="dim" stroke-dasharray="10 6"/>
+<path d="M778,1180 l-13,-11 l26,0 z" fill="#000"/>
+<text x="798" y="1172" class="dimt" text-anchor="start" style="paint-order:stroke;stroke:#fff;stroke-width:6;stroke-linejoin:round"></text>
+<text x="790" y="1010" class="dimt" text-anchor="start" style="paint-order:stroke;stroke:#fff;stroke-width:6;stroke-linejoin:round">T.O. ROOF PANEL  EL. = ___</text>
+<path d="M1210,1068 L1210,1180" class="dim" marker-start="url(#tick)" marker-end="url(#tick)"/>
+<path d="M1199,1068 L1221,1068 M1199,1180 L1221,1180" class="dim"/>
+<g transform="translate(1203,1124.0) rotate(-90)">
+<text x="0" y="0" class="dimt" text-anchor="middle" style="paint-order:stroke;stroke:#fff;stroke-width:6;stroke-linejoin:round">8" MIN.</text>
+</g>
+<path d="M1168,1068 L1168,1124" class="dim" marker-start="url(#tick)" marker-end="url(#tick)"/>
+<path d="M1157,1068 L1179,1068 M1157,1124 L1179,1124" class="dim"/>
+<g transform="translate(1161,1096.0) rotate(-90)">
+<text x="0" y="0" class="dimt" text-anchor="middle" style="paint-order:stroke;stroke:#fff;stroke-width:6;stroke-linejoin:round">4" MIN. LAP</text>
+</g>
+<path d="M1096,942 L1096,1180" class="dim" marker-start="url(#tick)" marker-end="url(#tick)"/>
+<path d="M1085,942 L1107,942 M1085,1180 L1107,1180" class="dim"/>
+<g transform="translate(1089,1061.0) rotate(-90)">
+<text x="0" y="0" class="dimt" text-anchor="middle" style="paint-order:stroke;stroke:#fff;stroke-width:6;stroke-linejoin:round">CLR. — VERIFY</text>
+</g>
+<rect x="1038" y="1500" width="104" height="48" fill="#fff" stroke="#000" stroke-width="1.8"/>
+<text x="1090" y="1533" class="tag" text-anchor="middle">EXT.</text>
+<rect x="1523" y="1500" width="104" height="48" fill="#fff" stroke="#000" stroke-width="1.8"/>
+<text x="1575" y="1533" class="tag" text-anchor="middle">INT.</text>
+<rect x="1050.0" y="373.0" width="64" height="38" fill="#fff" stroke="#000" stroke-width="1.8"/>
+<text x="1082" y="400" class="tag" text-anchor="middle">W10</text>
+<path d="M1114,392 L1430,392" class="mtl"/>
+<rect x="828.0" y="1043.0" width="64" height="38" fill="#fff" stroke="#000" stroke-width="1.8"/>
+<text x="860" y="1070" class="tag" text-anchor="middle">R2</text>
+<path d="M860,1081 L860,1414" class="mtl"/>
+<text x="806" y="232" class="n" text-anchor="start">STONE VENEER — TYPE, THICKNESS, FINISH AND</text>
+<text x="806" y="254" class="n" text-anchor="start">JOINT SIZE PER SPEC. ANCHORAGE PER</text>
+<text x="806" y="276" class="n" text-anchor="start">ENGINEERED SHOP DRAWINGS (DEFERRED</text>
+<text x="806" y="298" class="n" text-anchor="start">SUBMITTAL, SIGNED AND SEALED).</text>
+<path d="M796,225 L752,225 L1198,470" class="lead" marker-end="url(#arw)"/>
+<text x="1660" y="232" class="n" text-anchor="start">W10 — VERIFY WALL ASSEMBLY TAG AGAINST</text>
+<text x="1660" y="254" class="n" text-anchor="start">ASSEMBLY SCHEDULE; CONFIRM IT CARRIES THE</text>
+<text x="1660" y="276" class="n" text-anchor="start">STONE, CAVITY, INSULATION AND AIR BARRIER</text>
+<text x="1660" y="298" class="n" text-anchor="start">SHOWN HERE.</text>
+<path d="M1650,225 L1606,225 L1360,392" class="lead" stroke-dasharray="11 7" marker-end="url(#arw)"/>
+<rect x="687" y="380" width="13" height="13" fill="#000"/>
+<text x="678" y="392" class="n" text-anchor="end">STONE ANCHOR — STAINLESS, THERMALLY ISOLATED, TYPE</text>
+<text x="678" y="414" class="n" text-anchor="end">AND SPACING PER STONE ENGINEER. SEAL EVERY</text>
+<text x="678" y="436" class="n" text-anchor="end">PENETRATION THROUGH THE AIR / WATER BARRIER.</text>
+<path d="M710,385 L754,385 L1268,620" class="lead" marker-end="url(#arw)"/>
+<rect x="687" y="466" width="13" height="13" fill="#000"/>
+<text x="678" y="478" class="n" text-anchor="end">1" MIN. CLEAR DRAINAGE CAVITY — KEEP FREE OF</text>
+<text x="678" y="500" class="n" text-anchor="end">MORTAR DROPPINGS.</text>
+<path d="M710,471 L754,471 L1243,780" class="lead" marker-end="url(#arw)"/>
+<rect x="687" y="530" width="13" height="13" fill="#000"/>
+<text x="678" y="542" class="n" text-anchor="end">MORTAR NET / DRAINAGE MESH AT BASE OF CAVITY.</text>
+<path d="M710,535 L754,535 L1242,906" class="lead" marker-end="url(#arw)"/>
+<rect x="687" y="572" width="13" height="13" fill="#000"/>
+<text x="678" y="584" class="n" text-anchor="end">WEEP VENTS @ 24" O.C. MAX. IN FIRST JOINT ABOVE</text>
+<text x="678" y="606" class="n" text-anchor="end">FLASHING.</text>
+<path d="M710,577 L754,577 L1244,930" class="lead" marker-end="url(#arw)"/>
+<rect x="687" y="636" width="13" height="13" fill="#000"/>
+<text x="678" y="648" class="n" text-anchor="end">SEALANT AND BACKER ROD AT COUNTERFLASHING HEAD</text>
+<text x="678" y="670" class="n" text-anchor="end">JOINT.</text>
+<path d="M710,641 L754,641 L1247,884" class="lead" marker-end="url(#arw)"/>
+<text x="700" y="712" class="n" text-anchor="end">STANDING SEAM METAL ROOF PANEL — 24 GA.</text>
+<text x="700" y="734" class="n" text-anchor="end">PREFINISHED (PVDF), __" WIDE, __" SEAM HT.,</text>
+<text x="700" y="756" class="n" text-anchor="end">CONCEALED FLOATING CLIPS @ __" O.C. PER UPLIFT</text>
+<text x="700" y="778" class="n" text-anchor="end">CALCULATIONS.</text>
+<path d="M710,705 L754,705 L1015,1148" class="lead" marker-end="url(#arw)"/>
+<rect x="687" y="808" width="13" height="13" fill="#000"/>
+<text x="678" y="820" class="n" text-anchor="end">CONCEALED CLIP AT EACH SEAM — ALLOW FOR THERMAL</text>
+<text x="678" y="842" class="n" text-anchor="end">MOVEMENT; DO NOT PIN PANEL AT BOTH ENDS.</text>
+<path d="M710,813 L754,813 L1178,1168" class="lead" marker-end="url(#arw)"/>
+<rect x="687" y="872" width="13" height="13" fill="#000"/>
+<text x="678" y="884" class="n" text-anchor="end">HIGH-TEMPERATURE SELF-ADHERED UNDERLAYMENT (240°F</text>
+<text x="678" y="906" class="n" text-anchor="end">MIN.) — FULL COVERAGE, 3" SIDE / 6" END LAPS. TURN</text>
+<text x="678" y="928" class="n" text-anchor="end">UP WALL 8" MIN. BEHIND BASE FLASHING.</text>
+<path d="M710,877 L754,877 L960,1188" class="lead" marker-end="url(#arw)"/>
+<rect x="687" y="958" width="13" height="13" fill="#000"/>
+<text x="678" y="970" class="n" text-anchor="end">SLIP SHEET / ROSIN PAPER BETWEEN UNDERLAYMENT AND</text>
+<text x="678" y="992" class="n" text-anchor="end">PANEL.</text>
+<path d="M710,963 L754,963 L900,1196" class="lead" marker-end="url(#arw)"/>
+<rect x="687" y="1022" width="13" height="13" fill="#000"/>
+<text x="678" y="1034" class="n" text-anchor="end">COVER BOARD, 1/2" GLASS-MAT GYPSUM, MECHANICALLY</text>
+<text x="678" y="1056" class="n" text-anchor="end">FASTENED.</text>
+<path d="M710,1027 L754,1027 L860,1209" class="lead" marker-end="url(#arw)"/>
+<text x="700" y="1098" class="n" text-anchor="end">RIGID INSULATION — TWO LAYERS, JOINTS STAGGERED,</text>
+<text x="700" y="1120" class="n" text-anchor="end">R-__ MIN. TOTAL PER ENERGY CODE.</text>
+<path d="M710,1091 L754,1091 L820,1250" class="lead" marker-end="url(#arw)"/>
+<rect x="687" y="1150" width="13" height="13" fill="#000"/>
+<text x="678" y="1162" class="n" text-anchor="end">AIR / VAPOR BARRIER OVER DECK — CONTINUOUS; TURN</text>
+<text x="678" y="1184" class="n" text-anchor="end">UP FACE OF CONCRETE WALL AND LAP WITH WALL AIR</text>
+<text x="678" y="1206" class="n" text-anchor="end">BARRIER 3" MIN.</text>
+<path d="M710,1155 L754,1155 L800,1290" class="lead" marker-end="url(#arw)"/>
+<text x="700" y="1248" class="n" text-anchor="end">STRUCTURAL CONCRETE ROOF DECK — SEE STRUCTURAL.</text>
+<text x="700" y="1270" class="n" text-anchor="end">SLOPE PER ROOF PLAN.</text>
+<path d="M710,1241 L754,1241 L790,1380" class="lead" marker-end="url(#arw)"/>
+<text x="1640" y="392" class="n" text-anchor="start">CONCRETE WALL — SEE STRUCTURAL FOR THICKNESS, REINFORCING</text>
+<text x="1640" y="414" class="n" text-anchor="start">AND ANCHOR EMBEDMENT.</text>
+<path d="M1630,385 L1586,385 L1400,500" class="lead" marker-end="url(#arw)"/>
+<rect x="1640" y="444" width="13" height="13" fill="#000"/>
+<text x="1662" y="456" class="n" text-anchor="start">CONTINUOUS RIGID INSULATION ON WALL — R-__ MIN.; RUN</text>
+<text x="1662" y="478" class="n" text-anchor="start">CONTINUOUS INTO ROOF INSULATION WITH NO GAP AT THE CORNER.</text>
+<text x="1662" y="500" class="n" text-anchor="start">FILL VOIDS W/ SPRAY FOAM.</text>
+<path d="M1630,449 L1586,449 L1272,700" class="lead" marker-end="url(#arw)"/>
+<rect x="1640" y="530" width="13" height="13" fill="#000"/>
+<text x="1662" y="542" class="n" text-anchor="start">AIR / WATER BARRIER ON CONCRETE FACE — CONTINUOUS FROM</text>
+<text x="1662" y="564" class="n" text-anchor="start">ROOF AIR BARRIER UP THE WALL; LAP AND SEAL ALL</text>
+<text x="1662" y="586" class="n" text-anchor="start">TRANSITIONS.</text>
+<path d="M1630,535 L1586,535 L1295,830" class="lead" marker-end="url(#arw)"/>
+<rect x="1640" y="616" width="13" height="13" fill="#000"/>
+<text x="1662" y="628" class="n" text-anchor="start">SHELF / RELIEVING ANGLE AT BASE OF VENEER — SIZE, ANCHORS</text>
+<text x="1662" y="650" class="n" text-anchor="start">AND THERMAL ISOLATION PER STRUCTURAL. CONFIRM VENEER IS</text>
+<text x="1662" y="672" class="n" text-anchor="start">SUPPORTED AT THIS LEVEL.</text>
+<path d="M1630,621 L1586,621 L1278,930" class="lead" marker-end="url(#arw)"/>
+<rect x="1640" y="702" width="13" height="13" fill="#000"/>
+<text x="1662" y="714" class="n" text-anchor="start">STAINLESS THROUGH-WALL FLASHING W/ END DAMS — LAP UNDER</text>
+<text x="1662" y="736" class="n" text-anchor="start">WALL AIR BARRIER, TURN DOWN AS COUNTERFLASHING OVER BASE</text>
+<text x="1662" y="758" class="n" text-anchor="start">FLASHING, 4" MIN. LAP, HEMMED DRIP EDGE.</text>
+<path d="M1630,707 L1586,707 L1232,1010" class="lead" marker-end="url(#arw)"/>
+<rect x="1640" y="788" width="13" height="13" fill="#000"/>
+<text x="1662" y="800" class="n" text-anchor="start">CONTINUOUS TREATED BLOCKING OR METAL SUB-GIRT FOR BASE</text>
+<text x="1662" y="822" class="n" text-anchor="start">FLASHING ATTACHMENT — FASTEN THROUGH INSULATION TO</text>
+<text x="1662" y="844" class="n" text-anchor="start">CONCRETE.</text>
+<path d="M1630,793 L1586,793 L1270,1054" class="lead" marker-end="url(#arw)"/>
+<rect x="1640" y="874" width="13" height="13" fill="#000"/>
+<text x="1662" y="886" class="n" text-anchor="start">BASE FLASHING — 24 GA., TURN UP 8" MIN. ABOVE FINISHED</text>
+<text x="1662" y="908" class="n" text-anchor="start">ROOF SURFACE, HEMMED TOP AND BOTTOM EDGES, LAP JOINTS 4"</text>
+<text x="1662" y="930" class="n" text-anchor="start">MIN. W/ SEALANT.</text>
+<path d="M1630,879 L1586,879 L1246,1110" class="lead" marker-end="url(#arw)"/>
+<rect x="1640" y="960" width="13" height="13" fill="#000"/>
+<text x="1662" y="972" class="n" text-anchor="start">PANEL END — HEM UP 2" MIN. INTO CONTINUOUS OFFSET CLEAT AT</text>
+<text x="1662" y="994" class="n" text-anchor="start">WALL; NO EXPOSED FASTENERS IN PANEL PAN.</text>
+<path d="M1630,965 L1586,965 L1243,1158" class="lead" marker-end="url(#arw)"/>
+<text x="1640" y="1036" class="n" text-anchor="start">R2 — VERIFY ROOF ASSEMBLY TAG AGAINST ASSEMBLY SCHEDULE.</text>
+<path d="M1630,1029 L1586,1029 L872,1300" class="lead" stroke-dasharray="11 7" marker-end="url(#arw)"/>
+<rect x="60" y="1560" width="930" height="630" fill="none" stroke="#000" stroke-width="1.8"/>
+<text x="80" y="1598" class="h3" text-anchor="start">GENERAL NOTES — THIS DETAIL</text>
+<path d="M80,1612 L970,1612" class="thin"/>
+<text x="82" y="1644" class="n" text-anchor="start">1.</text>
+<text x="114" y="1644" class="n" text-anchor="start">ROOF ASSEMBLY TO BE UL 790 CLASS 'A' AND TESTED FOR UPLIFT PER ASTM E1592 / UL 580</text>
+<text x="114" y="1666" class="n" text-anchor="start">CLASS 90. SUBMIT UPLIFT CALCULATIONS SIGNED BY A LICENSED ENGINEER.</text>
+<text x="82" y="1700" class="n" text-anchor="start">2.</text>
+<text x="114" y="1700" class="n" text-anchor="start">STANDING SEAM PANELS: VERIFY MIN. ROOF SLOPE AGAINST PANEL PROFILE (HYDROKINETIC VS.</text>
+<text x="114" y="1722" class="n" text-anchor="start">HYDROSTATIC / SEAM-SEALED) AND MFR. REQUIREMENTS.</text>
+<text x="82" y="1756" class="n" text-anchor="start">3.</text>
+<text x="114" y="1756" class="n" text-anchor="start">ALL FLASHING SAME METAL AND FINISH FAMILY; ISOLATE DISSIMILAR METALS W/ SEPARATION</text>
+<text x="114" y="1778" class="n" text-anchor="start">TAPE OR COATING.</text>
+<text x="82" y="1812" class="n" text-anchor="start">4.</text>
+<text x="114" y="1812" class="n" text-anchor="start">FLASHING TURN-UP AT ALL WALL TRANSITIONS 8" MIN. ABOVE FINISHED ROOF SURFACE; 12"</text>
+<text x="114" y="1834" class="n" text-anchor="start">MIN. WHERE DRIFTING OCCURS.</text>
+<text x="82" y="1868" class="n" text-anchor="start">5.</text>
+<text x="114" y="1868" class="n" text-anchor="start">END DAMS AND SOLDERED / SEALED CORNERS AT ALL FLASHING TERMINATIONS AND DIRECTION</text>
+<text x="114" y="1890" class="n" text-anchor="start">CHANGES.</text>
+<text x="82" y="1924" class="n" text-anchor="start">6.</text>
+<text x="114" y="1924" class="n" text-anchor="start">MAINTAIN CONTINUOUS AIR BARRIER FROM ROOF DECK TO WALL — SEAL ALL ANCHOR AND</text>
+<text x="114" y="1946" class="n" text-anchor="start">FASTENER PENETRATIONS.</text>
+<text x="82" y="1980" class="n" text-anchor="start">7.</text>
+<text x="114" y="1980" class="n" text-anchor="start">PROVIDE 4'-0" LONG MOCK-UP OF THIS TRANSITION, INCLUDING STONE, FLASHING AND PANEL</text>
+<text x="114" y="2002" class="n" text-anchor="start">END, FOR REVIEW PRIOR TO PROCEEDING.</text>
+<text x="82" y="2036" class="n" text-anchor="start">8.</text>
+<text x="114" y="2036" class="n" text-anchor="start">PROTECT PANEL FINISH DURING STONE WORK; CLEAN MORTAR FROM PANELS AND FLASHING</text>
+<text x="114" y="2058" class="n" text-anchor="start">IMMEDIATELY.</text>
+<text x="82" y="2092" class="n" text-anchor="start">9.</text>
+<text x="114" y="2092" class="n" text-anchor="start">COORDINATE SNOW RETENTION, IF REQUIRED, W/ ROOF PLAN — DO NOT PENETRATE PANELS;</text>
+<text x="114" y="2114" class="n" text-anchor="start">CLAMP-ON AT SEAMS ONLY.</text>
+<rect x="1860" y="1700" width="780" height="400" fill="none" stroke="#000" stroke-width="1.8"/>
+<text x="1880" y="1738" class="h3" text-anchor="start">VERIFY / COORDINATE BEFORE ISSUE</text>
+<path d="M1880,1752 L2620,1752" class="thin"/>
+<text x="1884" y="1786" class="n" text-anchor="start">—  HEADWALL OR SIDEWALL? IF SLOPE RUNS PARALLEL TO THE</text>
+<text x="1884" y="1808" class="n" text-anchor="start">    WALL, ADD STEP FLASHING AND A KICKOUT AT THE LOW END</text>
+<text x="1884" y="1840" class="n" text-anchor="start">—  ROOF SLOPE + PANEL PROFILE (SEAM TYPE, WIDTH, GAUGE,</text>
+<text x="1884" y="1862" class="n" text-anchor="start">    FINISH)</text>
+<text x="1884" y="1894" class="n" text-anchor="start">—  STONE VENEER SUPPORT LEVEL — SHELF ANGLE HERE OR</text>
+<text x="1884" y="1916" class="n" text-anchor="start">    BEARING BELOW</text>
+<text x="1884" y="1948" class="n" text-anchor="start">—  SNOW DRIFT / SNOW RETENTION REQUIREMENTS</text>
+<text x="1884" y="1980" class="n" text-anchor="start">—  CLEARANCE, BOTTOM OF STONE TO ROOF SURFACE (8" MIN.</text>
+<text x="1884" y="2002" class="n" text-anchor="start">    RECOMMENDED)</text>
+<text x="1884" y="2034" class="n" text-anchor="start">—  W10 / R2 TAGS AGREE W/ ASSEMBLY SCHEDULE</text>
+<path d="M1046,1700 L1800,1700" class="med"/>
+<circle cx="1096" cy="1654" r="35" fill="none" stroke="#000" stroke-width="1.8"/>
+<path d="M1061,1654 L1131,1654" class="thin"/>
+<text x="1096" y="1650" class="tag" text-anchor="middle">6</text>
+<text x="1096" y="1684" class="n" text-anchor="middle">A6.01</text>
+<text x="1160" y="1672" class="ttl2" text-anchor="start">STONE WALL TRANSITION TO METAL STANDING SEAM ROOF</text>
+<text x="1164" y="1728" class="sc" text-anchor="start">SCALE   3" = 1'-0"</text>
+</svg>
