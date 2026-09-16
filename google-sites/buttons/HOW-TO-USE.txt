@@ -1,0 +1,35 @@
+EAD OFFICE HUB — BUTTON IMAGES
+==============================
+
+Two sets. Pick by what colour the page behind them is:
+
+  *-navy.png    navy button — use on a WHITE or light page
+  *-white.png   white button — use on a NAVY or dark section
+
+All have transparent rounded corners, so they sit on any background
+without a white box around them.
+
+SIZES (rendered at 3x so they stay sharp on any screen)
+  card-*.png     960 x 570 px   — displays at 320 x 190
+  button-*.png   453 x 168 px   — displays at 151 x 56
+
+PUTTING ONE IN GOOGLE SITES
+  1. Insert > Image > Upload, and pick the PNG
+  2. Drag it to the size you want (three cards fit across a page)
+  3. Click it, then the LINK icon in the little toolbar
+  4. Paste the Drive folder or document address
+
+That's it — the whole image becomes the button.
+
+LAYING OUT THE CARDS
+  Sites content is about 1000px wide. Three cards across, with a gap,
+  is about 320px each — the size they are drawn at. Sites will snap
+  them into a row for you.
+
+FONT
+  Montserrat, the same font to set in the Sites theme so the buttons
+  match the rest of the page.
+
+COLOURS
+  Navy   #022049  (Pantone 282 C)
+  Text on white cards  #022049 heading, #5C6672 description
