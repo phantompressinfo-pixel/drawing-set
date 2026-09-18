@@ -27,9 +27,9 @@ BODY = ('<div class="row">%s<div class="vrule"></div><div>'
         '</div></div>' % MARK)
 
 VARIANTS = {
-  "D-grid-flat":   "grid-banner-flat.jpg",
+  "D-grid-flat":   "grid-banner-flat.png",
+  "D-cols-flat":   "cols-banner-flat.png",
   "D-grid-bloom":  "grid-banner-bloom.jpg",
-  "D-cols-flat":   "cols-banner-flat.jpg",
   "D-cols-bloom":  "cols-banner-bloom.jpg",
 }
 
@@ -45,7 +45,10 @@ async def main():
             pg = await b.new_page(viewport={"width": 1280, "height": 500}, device_scale_factor=2)
             await pg.goto("file://" + p, wait_until="networkidle")
             await pg.wait_for_timeout(1100)
-            await pg.screenshot(path="%s/banner-%s.jpg" % (OUT, name), quality=92, type="jpeg")
+            if name.endswith("flat"):
+                await pg.screenshot(path="%s/banner-%s.png" % (OUT, name))
+            else:
+                await pg.screenshot(path="%s/banner-%s.jpg" % (OUT, name), quality=92, type="jpeg")
             print(name, "ok")
             await pg.close()
         await b.close()
