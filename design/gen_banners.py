@@ -37,6 +37,18 @@ def page(bg, inner, cls=""):
 MARK = '<div class="mark">EIGELBERGER<span class="thin">ARCHITECTURE &amp; DESIGN</span></div>'
 
 BANNERS = {
+ # D on the drafting grid
+ "D-split-grid": page("banner-3-navy-grid.jpg",
+    '<div class="row">%s<div class="vrule" style="height:96px"></div>'
+    '<div><div class="hubwide" style="font-size:34px">OFFICE HUB</div>'
+    '<div class="sub">Everything the office needs, in one place.</div></div></div>' % MARK),
+
+ # D on the grid with a little light in the corner
+ "D-split-grid-bloom": page("banner-4-navy-grid-bloom.jpg",
+    '<div class="row">%s<div class="vrule" style="height:96px"></div>'
+    '<div><div class="hubwide" style="font-size:34px">OFFICE HUB</div>'
+    '<div class="sub">Everything the office needs, in one place.</div></div></div>' % MARK),
+
  # A — firm name, then Office Hub beneath. Left aligned, contour field.
  "A-stacked-left": page("bg-4-navy-contour.jpg",
     '<div class="mid">%s<div class="hub">Office&nbsp;Hub</div></div>' % MARK),
