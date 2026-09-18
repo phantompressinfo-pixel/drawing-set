@@ -13,17 +13,21 @@ LABELS = [("time-off","ft-form","Time off"), ("it-issue","tool","IT issue"),
           ("new-project","templates","New project"), ("expense","ft-sheet","Expense"),
           ("signup-present","calendar","Sign up to present")]
 W, H = 198, 50          # 3.96:1 -- the natural ratio of the longest label
+FS   = 16               # type is 32% of the pill height; 12.5 left the short
+                        # labels marooned in ~32px of dead white at each end.
+                        # 16 brings that down to ~14px and is the largest that
+                        # still leaves "Sign up to present" breathing room.
 CSS = """
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap" rel="stylesheet">
 <style>
  html,body{margin:0;padding:0;background:transparent}
  .wrap{display:inline-block;padding:6px}
  .pill{--ui:'Montserrat',-apple-system,'Segoe UI',Roboto,Arial,sans-serif;
-  box-sizing:border-box;display:flex;align-items:center;justify-content:center;gap:8px;
-  border-radius:999px;white-space:nowrap;font:600 12.5px var(--ui);font-family:var(--ui)}
+  box-sizing:border-box;display:flex;align-items:center;justify-content:center;gap:9.9px;
+  border-radius:999px;white-space:nowrap;font:600 16px var(--ui);font-family:var(--ui)}
  .pill.white{background:#fff;color:#022049;border:1.5px solid #D5DCE4}
  .pill.navy{background:#022049;color:#fff}
- .pill svg{width:15px;height:15px;fill:none;stroke-width:1.9;
+ .pill svg{width:19.5px;height:19.5px;fill:none;stroke-width:1.9;
    stroke-linecap:round;stroke-linejoin:round;flex:none}
  .pill.white svg{stroke:#022049}
  .pill.navy svg{stroke:#fff}
