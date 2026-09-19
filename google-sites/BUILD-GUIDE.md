@@ -331,3 +331,61 @@ underneath carry everything else — that's the part that never goes stale.
 entry. The sample cards still include CAD Standards, Deliverable Standards,
 Plotting & Printing, Specifications Format, and IT Support Request — kept per your
 instruction; edit the CONFIG lists once the real folder structure is settled.)*
+
+---
+
+## Appendix — Shared drive folder structure
+
+The structure each section card points at. One top-level folder per Sites
+page, so a card's link is just that folder's Drive URL.
+
+```
+Office Hub/
+├── 01 Office Standards/
+│   ├── CAD Standards/
+│   ├── Drafting Standards/
+│   ├── File Naming & Project Setup/
+│   ├── Deliverable Standards by Phase/
+│   ├── Plotting & Printing Standards/
+│   └── Specifications Format/
+├── 02 Templates/
+│   ├── Drawing Title Blocks/
+│   ├── Correspondence (Transmittals, Minutes, RFIs)/
+│   ├── Proposals & Fee Templates/
+│   └── Construction Admin (Punch Lists, Submittal Logs)/
+├── 03 Forms/
+│   ├── HR Forms/
+│   ├── Finance Forms/
+│   ├── IT Support Requests/
+│   └── Project Admin Forms/
+├── 04 Office Policies/
+│   ├── Employee Handbook/
+│   ├── Health & Safety/
+│   ├── Remote Work & IT Use/
+│   └── Benefits & HR Policies/
+├── 05 SOPs/
+│   ├── Project Kickoff/
+│   ├── QA-QC Review/
+│   ├── Submittal Review/
+│   ├── Client Onboarding/
+│   └── File Backup & Archiving/
+├── 06 Revit Standards/
+│   ├── Model Setup & Worksharing/
+│   ├── Families & Content Library/
+│   ├── View Templates & Graphics/
+│   ├── Sheet & View Numbering/
+│   ├── LOD Matrix/
+│   └── Keynoting & Annotation/
+├── 07 Staff Directory/
+│   ├── Org Chart/
+│   ├── IT & HR Contacts/
+│   └── Emergency Contacts/
+└── 08 Learning Sessions/
+    ├── 00 Schedule & Sign-Up/     <- the sign-up sheet lives here
+    ├── 01 Session Template/       <- the reusable slide template
+    └── 02 Session Archive/        <- one dated item per past session
+```
+
+Set sharing once, on **Office Hub** at the top — Viewer for the office. It
+cascades, and the Site itself grants no access to anything it links to, so a
+folder nobody can open is a card that fails for everybody.
