@@ -1,8 +1,11 @@
 """The footer bar: a hairline rule, the firm name, and a use notice.
 
-Transparent PNG so it sits on the charcoal band or the navy one without a
-seam. Drawn 1000px wide -- the width of the Sites content column -- and cut
-at 3x, so dropping it at full column width lands it at 1:1.
+Transparent PNG so it sits on the navy band without a seam.
+
+Cut at 1x -- exactly 1000px, the width of the Sites content column. A 3x
+export overflowed the column and clipped the firm name, because Sites
+places an image at whatever size the handles were last dragged to rather
+than refitting it. At its natural 1000px it lands full-width and stops.
 """
 import asyncio
 from playwright.async_api import async_playwright
@@ -29,7 +32,7 @@ async def main():
             executable_path="/opt/pw-browsers/chromium-1194/chrome-linux/chrome",
             args=["--no-sandbox"])
         pg = await b.new_page(viewport={"width": W + 80, "height": 200},
-                              device_scale_factor=3)
+                              device_scale_factor=1)
         for tone, (rule, name, note) in TONES.items():
             html = (HEAD % (W, rule, name, note)) + (
                 '<div class="bar" id="t"><div class="rule"></div><div class="row">'
