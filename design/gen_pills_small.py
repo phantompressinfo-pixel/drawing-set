@@ -16,10 +16,13 @@ OUT = "/home/user/drawing-set/google-sites/buttons"
 SVG = json.load(open(os.path.dirname(os.path.abspath(__file__)) + "/icon_svg.json"))
 
 H, PAD, FS, IC, GAP = 42, 18, 13, 15.5, 8.5
-LABELS = [("staff-directory", "directory", "Staff Directory"),
-          ("signup-present",  "calendar",  "Sign up to present"),
-          ("it-issue",        "tool",      "IT issue"),
-          ("expense",         "ft-sheet",  "Expense")]
+# IT dropped the issue sheet and HR dropped the expense form, so neither
+# gets a button -- a pill that opens nothing is worse than no pill.
+# Drawing Standards uses a file icon rather than the book: the card opens a
+# folder, this opens the one document people are actually after.
+LABELS = [("staff-directory",   "directory", "Staff Directory"),
+          ("signup-present",    "calendar",  "Sign up to present"),
+          ("drawing-standards", "ft-pdf",    "Drawing Standards")]
 
 CSS = """
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap" rel="stylesheet">
@@ -75,7 +78,7 @@ async def main():
         await b.close()
 
     from PIL import Image
-    im = Image.open("%s/pill-expense-white.png" % OUT)
+    im = Image.open("%s/pill-%s-white.png" % (OUT, LABELS[0][0]))
     print("\ncanvas %dx%d  ratio %.2f:1" % (im.width, im.height, im.width / im.height))
     for w in (160, 180, 200):
         print("  at %dpx wide -> %.0fpx tall, type reads ~%.1fpx"
