@@ -20,7 +20,8 @@ SVG = json.load(open(os.path.dirname(os.path.abspath(__file__)) + "/icon_svg.jso
 # label real padding in 160px -- at a card's full width there was room to
 # spare, at half there is not.
 W, H, FS, IC, GAP = 160, 38, 12.25, 14.6, 8
-LABELS = [("staff-directory",   "directory", "Staff Directory"),
+LABELS = [("office-information","home",      "Office Information"),
+          ("staff-directory",   "directory", "Staff Directory"),
           ("signup-present",    "calendar",  "Sign up to present"),
           ("drawing-standards", "ft-pdf",    "Drawing Standards")]
 
