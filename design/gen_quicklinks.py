@@ -22,6 +22,13 @@ GROUPS = [
    ("comdev",  "Community Development",          "pitkincounty.com",        ""),
    ("code",    "County Code: Title 8 — Land Use","pitkincounty.com",    ""),
    ("permits", "Permitting — SagesGov",     "sagesgov.com",            "personal login"),
+   ("gis",     "GIS — Maps & More",        "pitkincounty.com",        ""),
+ ]),
+ # The only internal group. Its second line names what is inside rather
+ # than a domain -- there is no domain to warn anyone about, and "what
+ # will I find" is the more useful thing to say about our own document.
+ ("ead", "EAD", [
+   ("office",  "EAD Office Information",         "Address, hours, wifi, printers", ""),
  ]),
  ("aspen", "City of Aspen", [
    ("comdev",  "Community Development",          "aspen.gov",               ""),
