@@ -136,7 +136,14 @@ CARDS = [("quick-links", "link-external", "Quick Links",
          ("google-slides", "gs-slides", "Google Slides",
           "Concept, SD, DD and CD presentations"),
          ("google-sheets", "gs-sheets", "Google Sheets",
-          "Expense report, more being added")]
+          "Expense report, more being added"),
+         # A fourth card squares the grid, and the three Google ones leave a
+         # real gap: the templates an architect reaches for most are not
+         # Google files at all.
+         ("drawing-templates", "layers", "Drawing Templates",
+          "Title blocks, sheet borders, CAD"),
+         ("submit-template",   "upload", "Submit a Template",
+          "Add yours to the firm gallery")]
 
 async def cards(b):
     pg = await b.new_page(viewport={"width": 900, "height": 400}, device_scale_factor=3)
