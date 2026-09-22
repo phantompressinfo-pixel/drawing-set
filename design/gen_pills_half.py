@@ -16,7 +16,10 @@ from playwright.async_api import async_playwright
 OUT = "/home/user/drawing-set/google-sites/buttons"
 SVG = json.load(open(os.path.dirname(os.path.abspath(__file__)) + "/icon_svg.json"))
 
-W, H, FS, IC, GAP = 320, 46, 14, 17, 9      # 320 = the card canvas width
+# Half a card. 12.25 is the largest type that still leaves the longest
+# label real padding in 160px -- at a card's full width there was room to
+# spare, at half there is not.
+W, H, FS, IC, GAP = 160, 38, 12.25, 14.6, 8
 LABELS = [("staff-directory",   "directory", "Staff Directory"),
           ("signup-present",    "calendar",  "Sign up to present"),
           ("drawing-standards", "ft-pdf",    "Drawing Standards")]
@@ -28,11 +31,11 @@ CSS = """
  .wrap{display:inline-block;padding:6px}
  .pill{--ui:'Montserrat',-apple-system,'Segoe UI',Roboto,Arial,sans-serif;
   box-sizing:border-box;display:flex;align-items:center;justify-content:center;
-  gap:%dpx;width:%dpx;height:%dpx;border-radius:999px;white-space:nowrap;
-  font:600 %dpx var(--ui);font-family:var(--ui)}
+  gap:%.1fpx;width:%dpx;height:%dpx;border-radius:999px;white-space:nowrap;
+  font:600 %.2fpx var(--ui);font-family:var(--ui)}
  .pill.white{background:#fff;color:#022049;border:1.5px solid #D5DCE4}
  .pill.navy{background:#022049;color:#fff}
- .pill svg{width:%dpx;height:%dpx;fill:none;stroke-width:1.9;
+ .pill svg{width:%.1fpx;height:%.1fpx;fill:none;stroke-width:1.9;
    stroke-linecap:round;stroke-linejoin:round;flex:none}
  .pill.white svg{stroke:#022049}
  .pill.navy svg{stroke:#fff}
@@ -52,10 +55,10 @@ async def main():
                     wait_until="load")
                 await pg.wait_for_timeout(350)
                 await pg.locator("#t").screenshot(
-                    path="%s/wide-%s-%s.png" % (OUT, slug, tone), omit_background=True)
+                    path="%s/half-%s-%s.png" % (OUT, slug, tone), omit_background=True)
         await b.close()
     from PIL import Image
-    im = Image.open("%s/wide-%s-white.png" % (OUT, LABELS[0][0]))
+    im = Image.open("%s/half-%s-white.png" % (OUT, LABELS[0][0]))
     print("canvas %dx%d  ratio %.2f:1" % (im.width, im.height, im.width / im.height))
-    print("at a 417px card -> %.0fpx tall" % (417 * im.height / im.width))
+    print("over a 417px card, half is 208 wide -> %.0fpx tall" % (208 * im.height / im.width))
 asyncio.run(main())
