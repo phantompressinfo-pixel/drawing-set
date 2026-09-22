@@ -128,12 +128,15 @@ CARDS = [("quick-links", "link-external", "Quick Links",
           "Codes, Pitkin County, City of Aspen"),
          # The Templates page. Blurbs name what is actually in 02 Templates
          # rather than describing the app -- nobody needs telling what Docs is.
+         # Blurbs name what is in each gallery today, not what a gallery
+         # like this usually holds. A card that promises a punch list
+         # template teaches people the hub lies to them.
          ("google-docs",   "ft-doc",    "Google Docs",
-          "Transmittals, minutes, RFIs, proposals"),
+          "Letterhead, meeting notes, RFPs"),
          ("google-slides", "gs-slides", "Google Slides",
-          "Client presentations, design reviews"),
+          "Concept, SD, DD and CD presentations"),
          ("google-sheets", "gs-sheets", "Google Sheets",
-          "Submittal logs, punch lists, fee schedules")]
+          "Expense report, more being added")]
 
 async def cards(b):
     pg = await b.new_page(viewport={"width": 900, "height": 400}, device_scale_factor=3)
