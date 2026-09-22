@@ -39,7 +39,10 @@ MARK = ('<div class="mark">EIGELBERGER'
 
 # Page banners: the right-hand half is all that changes between them.
 PAGES = [("templates", "TEMPLATES", "Title blocks, minutes, transmittals, RFIs"),
-         ("quick-links", "QUICK LINKS", "Codes, Pitkin County, City of Aspen")]
+         ("quick-links", "QUICK LINKS", "Codes, Pitkin County, City of Aspen"),
+         # Names what the table actually has columns for, rather than the
+         # emergency contacts the old card promised and the sheet lacks.
+         ("staff-directory", "STAFF DIRECTORY", "Extensions, emails, job titles")]
 
 async def banners(b):
     for slug, head, sub in PAGES:
