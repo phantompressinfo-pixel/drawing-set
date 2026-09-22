@@ -125,7 +125,15 @@ CARD_CSS = """
 </style>
 """
 CARDS = [("quick-links", "link-external", "Quick Links",
-          "Codes, Pitkin County, City of Aspen")]
+          "Codes, Pitkin County, City of Aspen"),
+         # The Templates page. Blurbs name what is actually in 02 Templates
+         # rather than describing the app -- nobody needs telling what Docs is.
+         ("google-docs",   "ft-doc",    "Google Docs",
+          "Transmittals, minutes, RFIs, proposals"),
+         ("google-slides", "gs-slides", "Google Slides",
+          "Client presentations, design reviews"),
+         ("google-sheets", "gs-sheets", "Google Sheets",
+          "Submittal logs, punch lists, fee schedules")]
 
 async def cards(b):
     pg = await b.new_page(viewport={"width": 900, "height": 400}, device_scale_factor=3)
