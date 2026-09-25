@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1527" height="1156" viewBox="0 0 1527 1156">
+<defs><style>
+ text{font-family:Arial,Helvetica,sans-serif;fill:#000}
+ .n{font-size:15px}
+ .tag{font-size:15px}
+ .tagb{font-size:17px;font-weight:bold}
+ .kn{font-size:15px;font-weight:bold}
+ .dimt{font-size:14px}
+ .ttl{font-size:26px;letter-spacing:.5px}
+ .sc{font-size:13px}
+ .lead{fill:none;stroke:#000;stroke-width:1}
+ .cut{fill:none;stroke:#000;stroke-width:2.6}
+ .med{fill:none;stroke:#000;stroke-width:1.6}
+ .thin{fill:none;stroke:#000;stroke-width:0.9}
+ .hidden{fill:none;stroke:#000;stroke-width:1.1;stroke-dasharray:12 7}
+ .center{fill:none;stroke:#000;stroke-width:0.9;stroke-dasharray:28 6 5 6}
+ .metal{fill:none;stroke:#000;stroke-width:3.4;stroke-linejoin:miter}
+ .membrane{fill:none;stroke:#2340c8;stroke-width:3}
+ .airbar{fill:none;stroke:#2340c8;stroke-width:2.2;stroke-dasharray:16 5 3 5}
+ .vapor{fill:none;stroke:#000;stroke-width:1.4;stroke-dasharray:4 4}
+ .dim{fill:none;stroke:#000;stroke-width:0.9}
+</style>
+<marker id="arw" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="10" markerHeight="10" orient="auto-start-reverse">
+ <path d="M0,1.5 L12,6 L0,10.5 z" fill="#000"/></marker>
+<marker id="dot" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="7" markerHeight="7">
+ <circle cx="5" cy="5" r="4" fill="#000"/></marker>
+<marker id="tick" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="9" markerHeight="9" orient="auto">
+ <path d="M1,9 L9,1" stroke="#000" stroke-width="2"/></marker>
+<pattern id="conc" width="52" height="52" patternUnits="userSpaceOnUse">
+ <circle cx="30" cy="12" r="1.6"/><circle cx="8" cy="36" r="1.4"/><circle cx="45" cy="6" r="1.3"/>
+ <circle cx="22" cy="45" r="1.5"/><circle cx="44" cy="47" r="1.2"/><circle cx="14" cy="10" r="1"/>
+ <circle cx="36" cy="30" r="1"/><path d="M26,25 l5,3 l-4,3 z M6,20 l4,-3 l1,5 z M40,38 l5,1 l-3,4 z"/></pattern>
+<pattern id="grout" width="16" height="16" patternUnits="userSpaceOnUse">
+ <circle cx="3" cy="4" r="0.9"/><circle cx="11" cy="9" r="0.9"/><circle cx="6" cy="13" r="0.9"/><circle cx="13" cy="2" r="0.6"/></pattern>
+<pattern id="cmu" width="18" height="18" patternUnits="userSpaceOnUse">
+ <path d="M0,18 L18,0 M-4,4 L4,-4 M14,22 L22,14" stroke="#000" stroke-width="0.8" fill="none"/></pattern>
+<pattern id="earth" width="40" height="40" patternUnits="userSpaceOnUse">
+ <path d="M4,12 l10,0 M20,28 l12,0 M26,6 l8,0 M6,34 l8,0 M4,12 l5,-6 M20,28 l5,-6" stroke="#000" stroke-width="0.9" fill="none"/></pattern>
+<pattern id="gravel" width="30" height="30" patternUnits="userSpaceOnUse">
+ <circle cx="7" cy="7" r="4.5" fill="none" stroke="#000" stroke-width="0.9"/>
+ <circle cx="22" cy="19" r="5" fill="none" stroke="#000" stroke-width="0.9"/>
+ <circle cx="8" cy="24" r="3" fill="none" stroke="#000" stroke-width="0.9"/></pattern>
+<pattern id="sand" width="16" height="16" patternUnits="userSpaceOnUse">
+ <circle cx="3" cy="4" r="1"/><circle cx="11" cy="9" r="1"/><circle cx="6" cy="13" r="1"/></pattern>
+<pattern id="insul" width="10" height="10" patternUnits="userSpaceOnUse">
+ <path d="M0,0 L10,0 M0,0 L0,10" stroke="#000" stroke-width="0.7" fill="none"/></pattern>
+<pattern id="sprayfoam" width="12" height="12" patternUnits="userSpaceOnUse">
+ <circle cx="3" cy="3" r="1.1" fill="none" stroke="#000" stroke-width="0.6"/>
+ <circle cx="9" cy="8" r="1.4" fill="none" stroke="#000" stroke-width="0.6"/></pattern>
+<pattern id="wood" width="60" height="16" patternUnits="userSpaceOnUse">
+ <path d="M0,4 C15,1 30,7 60,4 M0,11 C20,14 35,8 60,11" stroke="#000" stroke-width="0.7" fill="none"/></pattern>
+<pattern id="ply" width="8" height="8" patternUnits="userSpaceOnUse">
+ <path d="M0,8 L8,0" stroke="#000" stroke-width="0.6" fill="none"/></pattern>
+<pattern id="gyp" width="10" height="10" patternUnits="userSpaceOnUse">
+ <circle cx="3" cy="3" r="0.8"/><circle cx="8" cy="8" r="0.8"/></pattern>
+<pattern id="stone" width="16" height="16" patternUnits="userSpaceOnUse">
+ <path d="M0,16 L16,0 M-4,4 L4,-4 M12,20 L20,12" stroke="#000" stroke-width="0.8" fill="none"/></pattern>
+<pattern id="steel" width="6" height="6" patternUnits="userSpaceOnUse">
+ <path d="M0,6 L6,0 M-1.5,1.5 L1.5,-1.5 M4.5,7.5 L7.5,4.5" stroke="#000" stroke-width="1" fill="none"/></pattern>
+<pattern id="glass" width="20" height="20" patternUnits="userSpaceOnUse">
+ <rect width="20" height="20" fill="#dfe8f7"/></pattern>
+<pattern id="ice" width="20" height="20" patternUnits="userSpaceOnUse">
+ <path d="M0,20 L20,0" stroke="#000" stroke-width="0.6" fill="none" stroke-dasharray="3 3"/></pattern>
+</defs>
+<rect width="1527" height="1156" fill="#fff"/>
+<path d="M568.6,494.0 L583.6,494.0 L583.6,998.0 L568.6,998.0 z" fill="url(#gyp)" stroke="#000" stroke-width="1.6"/>
+<rect x="583.6" y="542.0" width="132.0" height="456.0" fill="#fff" stroke="#000" stroke-width="0.9"/>
+<path d="M583.6,542.0 A66.0,33.0 0 0 1 583.6,608.0 M715.6,608.0 A66.0,33.0 0 0 0 715.6,674.0 M583.6,674.0 A66.0,33.0 0 0 1 583.6,740.0 M715.6,740.0 A66.0,33.0 0 0 0 715.6,806.0 M583.6,806.0 A66.0,33.0 0 0 1 583.6,872.0 M715.6,872.0 A66.0,33.0 0 0 0 715.6,938.0" class="thin"/>
+<rect x="583.6" y="470.0" width="132.0" height="36.0" fill="#fff" stroke="#000" stroke-width="1.6"/>
+<path d="M583.6,470.0 L715.6,506.0 M583.6,506.0 L715.6,470.0" class="thin"/>
+<rect x="583.6" y="506.0" width="132.0" height="36.0" fill="#fff" stroke="#000" stroke-width="1.6"/>
+<path d="M583.6,506.0 L715.6,542.0 M583.6,542.0 L715.6,506.0" class="thin"/>
+<path d="M715.6,470.0 L727.6,470.0 L727.6,998.0 L715.6,998.0 z" fill="url(#ply)" stroke="#000" stroke-width="1.6"/>
+<path d="M730.0,546.8 L748.0,546.8 L748.0,998.0 L730.0,998.0 z" fill="url(#wood)" stroke="#000" stroke-width="0.9"/>
+<path d="M748.0,546.8 L766.0,546.8 L766.0,998.0 L748.0,998.0 z" fill="url(#wood)" stroke="#000" stroke-width="1.6"/>
+<path d="M728.8,542.0 L728.8,998.0" class="airbar"/>
+<path d="M598.0,471.2 L728.8,471.2 L728.8,542.0" class="membrane"/>
+<path d="M612.4,446.0 L612.4,467.6 L828.4,467.6 L828.4,498.8 L821.2,506.0" class="metal"/>
+<path d="M631.6,460.4 L698.8,460.4 L698.8,466.4 L631.6,466.4 z" fill="#fff" stroke="#000" stroke-width="0.9"/>
+<path d="M619.6,326.0 L708.4,326.0 L708.4,460.4 L619.6,460.4 z" fill="#fff" stroke="#000" stroke-width="1.6"/>
+<path d="M650.8,158.0 L677.2,158.0 L677.2,410.0 L650.8,410.0 z" fill="url(#glass)" stroke="#000" stroke-width="0.9"/>
+<path d="M710.8,407.6 L823.6,412.4 L823.6,466.4 L710.8,466.4 z" fill="url(#wood)" stroke="#000" stroke-width="2.6"/>
+<path d="M805.6,466.4 L805.6,456.8 L811.6,456.8 L811.6,466.4" class="thin"/>
+<circle cx="710.8" cy="401.6" r="7.2" fill="#fff" stroke="#000" stroke-width="1.1"/>
+<circle cx="710.8" cy="401.6" r="3.2" fill="#000"/>
+<path d="M541.6,452.0 L616.0,452.0 L616.0,470.0 L541.6,470.0 z" fill="url(#wood)" stroke="#000" stroke-width="1.6"/>
+<path d="M568.6,494.0 L562.0,494.0 L562.0,491.6" class="thin"/>
+<path d="M600.4,158.0 L655.2,158.0 L661.2,174.0 L669.2,142.0 L675.2,158.0 L730.0,158.0" class="med"/>
+<path d="M542.8,998.0 L655.2,998.0 L661.2,1014.0 L669.2,982.0 L675.2,998.0 L787.6,998.0" class="med"/>
+<path d="M664.0,80.0 L664.0,1046.0" class="center"/>
+<circle cx="664.0" cy="58.0" r="22" fill="#fff" stroke="#000" stroke-width="1.2"/>
+<text x="664.0" y="64.0" class="tag" text-anchor="middle">GL</text>
+<text x="487.6" y="254.0" class="kn" text-anchor="middle" style="paint-order:stroke;stroke:#fff;stroke-width:5;stroke-linejoin:round">INT.</text>
+<path d="M469.2,258.0 L506.0,258.0" class="thin"/>
+<text x="883.6" y="254.0" class="kn" text-anchor="middle" style="paint-order:stroke;stroke:#fff;stroke-width:5;stroke-linejoin:round">EXT.</text>
+<path d="M865.2,258.0 L902.0,258.0" class="thin"/>
+<path d="M823.6,412.4 L1025.6,412.4" class="hidden"/>
+<circle cx="1039.6" cy="412.4" r="9" fill="#fff" stroke="#000" stroke-width="1.2"/>
+<path d="M1039.6,412.4 L1039.6,403.4 A9,9 0 0 1 1048.6,412.4 z M1039.6,412.4 L1039.6,421.4 A9,9 0 0 1 1030.6,412.4 z" fill="#000"/>
+<text x="1023.6" y="396.4" class="dimt" text-anchor="end" style="paint-order:stroke;stroke:#fff;stroke-width:5;stroke-linejoin:round">T.O. SILL</text>
+<path d="M949.8,400.4 L1023.6,400.4" class="thin"/>
+<text x="1023.6" y="415.4" class="dimt" text-anchor="end" style="paint-order:stroke;stroke:#fff;stroke-width:5;stroke-linejoin:round">EL = SEE SCHEDULE</text>
+<path d="M883.6,758.0 L756.4,758.0" class="lead" marker-end="url(#dot)"/>
+<rect x="855.6" y="743.0" width="56.0" height="30" fill="#fff" stroke="#000" stroke-width="1.2"/>
+<text x="883.6" y="763.0" class="tag" text-anchor="middle">3B-X</text>
+<text x="389.6" y="440.2" class="n" text-anchor="end">PAN FLASHING W/ END DAMS SET IN FULL</text>
+<text x="389.6" y="458.2" class="n" text-anchor="end">BED OF SEALANT - SEE WATERPROOFING</text>
+<text x="389.6" y="476.2" class="n" text-anchor="end">DRAWINGS</text>
+<path d="M397.6,435.2 L423.6,435.2 L612.4,453.2" class="lead" marker-end="url(#arw)"/>
+<text x="389.6" y="504.2" class="n" text-anchor="end">SILL PER INTERIOR ELEVATIONS</text>
+<path d="M397.6,499.2 L423.6,499.2 L554.8,460.4" class="lead" marker-end="url(#arw)"/>
+<text x="389.6" y="532.2" class="n" text-anchor="end">J-BEAD</text>
+<path d="M397.6,527.2 L423.6,527.2 L563.2,494.0" class="lead" marker-end="url(#arw)"/>
+<text x="1137.6" y="355.0" class="n" text-anchor="start">WINDOW PER SCHEDULE</text>
+<path d="M1129.6,350.0 L1103.6,350.0 L701.2,350.0" class="lead" marker-end="url(#arw)"/>
+<text x="1137.6" y="406.6" class="n" text-anchor="start">SEALANT W/ BACKER ROD</text>
+<path d="M1129.6,401.6 L1103.6,401.6 L710.8,401.6" class="lead" marker-end="url(#arw)"/>
+<text x="1137.6" y="434.6" class="n" text-anchor="start">1/2" PER FT SLOPE MIN.</text>
+<path d="M1129.6,429.6 L1103.6,429.6 L782.8,410.7" class="lead" marker-end="url(#arw)"/>
+<text x="1137.6" y="462.6" class="n" text-anchor="start">3X WOOD SILL</text>
+<path d="M1129.6,457.6 L1103.6,457.6 L763.6,441.2" class="lead" marker-end="url(#arw)"/>
+<text x="1137.6" y="490.6" class="n" text-anchor="start">DRIP KERF</text>
+<path d="M1129.6,485.6 L1103.6,485.6 L808.5,458.0" class="lead" marker-end="url(#arw)"/>
+<text x="1137.6" y="518.6" class="n" text-anchor="start">SYNTHETIC WOOD W/ KERF CUTS PER WINDOW</text>
+<text x="1137.6" y="536.6" class="n" text-anchor="start">MFR. INSTALL REQS</text>
+<path d="M1129.6,513.6 L1103.6,513.6 L665.2,463.3" class="lead" marker-end="url(#arw)"/>
+<text x="1137.6" y="564.6" class="n" text-anchor="start">COPPER SHT. METAL FLASHING PAN -</text>
+<text x="1137.6" y="582.6" class="n" text-anchor="start">RETURN UP @ JAMBS 6" MIN.</text>
+<path d="M1129.6,559.6 L1103.6,559.6 L828.4,486.8" class="lead" marker-end="url(#arw)"/>
+<text x="1137.6" y="610.6" class="n" text-anchor="start">LIQUID-APPLIED FLASHING - WRAP INTO</text>
+<text x="1137.6" y="628.6" class="n" text-anchor="start">OPENING, LAP OVER WRB - SEE</text>
+<text x="1137.6" y="646.6" class="n" text-anchor="start">WATERPROOFING DRAWINGS</text>
+<path d="M1129.6,605.6 L1103.6,605.6 L728.8,518.0" class="lead" marker-end="url(#arw)"/>
+<text x="1137.6" y="931.0" class="n" text-anchor="start">SEE 1 / A5.02 FOR WALL ASSEMBLY</text>
+<path d="M1129.6,926.0 L1103.6,926.0 L766.0,926.0" class="lead" marker-end="url(#arw)"/>
+<circle cx="60.0" cy="1106.0" r="24" fill="none" stroke="#000" stroke-width="1.2"/>
+<path d="M36.0,1106.0 l48,0" class="thin"/>
+<text x="60.0" y="1101.0" class="sc" text-anchor="middle">1</text>
+<text x="60.0" y="1120.0" class="sc" text-anchor="middle">A6.16</text>
+<text x="98.0" y="1108.0" class="ttl" text-anchor="start">TYP. FIXED WINDOW SILL @ WOOD SIDING</text>
+<path d="M80.0,1116.0 L1457.0,1116.0" class="med"/>
+<text x="98.0" y="1136.0" class="sc" text-anchor="start">SCALE : 3" = 1'-0"</text>
+</svg>

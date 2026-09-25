@@ -8,21 +8,22 @@ there is an ERROR (the detail must not go out); WARN lines are for review.
 
 ERRORS
   - an assembly tag on the detail that is not in the project assembly schedule
-  - a note that names a tag (W3, R2 ...) which is not tagged on the detail
+  - a note that names a scheduled tag which is not tagged on the detail
   - a note that repeats an assembly's build-up: it names a layer's material AND
     that layer's spec (thickness, R-value, gauge, spacing, type) - the tag already
     says it
-  - vague words the office does not issue: AS REQUIRED, ETC., OR EQUAL ...
-  - an IRC section cited on a City of Aspen detail (Aspen did not adopt the IRC,
-    M.C. 8.16.010 - residential work runs under the IBC)
+  - vague words: ETC., AS NECESSARY, WHERE APPLICABLE, PER CODE, ADEQUATE ...
+  - a blank reference ("REFER TO DETAIL  FOR ...")
+  - an I-code edition other than 2021 on an Aspen or Pitkin County detail
+  - a code section that does not exist in the 2021 IBC/IRC (when the code library
+    is available: --code-library or CODE_LIBRARY)
+  - an IRC section cited on a City of Aspen detail (M.C. 8.16.010)
   - the same note twice
 WARN
-  - no assembly schedule given, so tags and repeats were not checked
-  - no assembly tag on the detail at all
-  - blanks left to fill (__)
-  - leader notes over 35 words (move the extra to the general notes)
-  - "SEE DETAIL" / "SEE SPEC" without a number
-  - code section numbers - verify each against the code-library before issue
+  - no assembly schedule given, or no tag on the detail
+  - OR EQUAL / BY OTHERS; "AS REQ." on anything but framing, blocking, shims ...
+  - blanks left to fill (__); leader notes over 35 words
+  - code sections, when the code library is not available to check them
 
 Write R-values with a hyphen (R-21).  R2 without one is read as roof tag R2.
 """
@@ -36,15 +37,21 @@ try:
 except ImportError:  # pragma: no cover
     yaml = None
 
-VAGUE = [
-    r"\bAS REQUIRED\b", r"\bAS REQ'?D\b", r"\bAS NECESSARY\b", r"\bAS NEEDED\b",
-    r"\bETC\b\.?", r"\bOR EQUAL\b", r"\bOR APPROVED EQUAL\b", r"\bWHERE APPLICABLE\b",
-    r"\bIF APPLICABLE\b", r"\bBY OTHERS\b", r"\bPER CODE\b", r"\bAS APPROPRIATE\b",
+VAGUE = [   # errors - nothing a builder can act on
+    r"\bETC\b\.?", r"\bAS NECESSARY\b", r"\bAS NEEDED\b", r"\bWHERE APPLICABLE\b",
+    r"\bIF APPLICABLE\b", r"\bPER CODE\b", r"\bAS APPROPRIATE\b",
     r"\bSUITABLE\b", r"\bADEQUATE(LY)?\b", r"\bPROPER(LY)?\b",
 ]
-TAG_RE = re.compile(r"\b([A-Z]{1,3}-?\d{1,3}[A-Z]?)\b")
-# words that look like tags but are not (sizes, lumber, standards, code editions)
-NOT_TAGS = re.compile(r"^(R-\d+|U-\d+|[0-9]+|ASTM|UL\d*|E\d+|C\d{3,}|D\d{3,}|PVC|CPVC|IBC|IRC|IECC|IFC|NFPA\d*|TYPE|GA\d*)$")
+SOFT = [    # warnings - the office uses these on purpose in some places
+    r"\bOR EQUAL\b", r"\bOR APPROVED EQUAL\b", r"\bBY OTHERS\b",
+]
+# "FRAMING AS REQ." hands framing to the GC and is office practice; anywhere else it
+# needs a reason.
+AS_REQ = re.compile(r"\bAS REQ(UIRED|'D|\.|D)?(?=\W|$)")
+AS_REQ_OK = re.compile(r"\b(FRAMING|BLOCKING|BLOCK|SHIMS?|PACK ?OUT|FURRING|NAILERS?|PLY|SPACER|SLEEPERS?|"
+                       r"LEDGER|STRAPPING|CANT|CARRIAGE|HEADER|STUDS?)\b")
+EDITION = re.compile(r"\b(20\d\d)\s+(IECC|IBC|IRC|IFC|IEBC|IMC|IPC|IFGC)\b")
+CODE_SEC = re.compile(r"\b(R\d{3}(?:\.\d+)+|N\d{4}(?:\.\d+)+|R\d{3}\.\d+|\b1\d{3}\.\d+(?:\.\d+)*)\b")
 SPEC_RE = re.compile(
     r"(\d+\s\d+/\d+\"|\d+/\d+\"|\d+(?:\.\d+)?\"|\d+'-\d+(?:\s\d+/\d+)?\"|"   # 1 1/2"  5/8"  2"  1'-6"
     r"\bR-\d+(?:\.\d+)?\b|\b\d+\s?GA\.?\b|\b\d+\s?MIL\b|\bTYPE\s[A-Z0-9]+\b|"  # R-21  24 GA  40 MIL  TYPE X
@@ -63,6 +70,35 @@ def material_words(layer):
     return {w for w in words(bare) if len(w) > 2 and w not in STOP and not re.search(r"\d", w)}
 
 
+def load_code_index(path):
+    """Section ids from the code library's 2021 datasets (phantom-press-hq/code-library,
+    code-library/us-building-codes).  Returns {'IRC': set, 'IBC': set} or None."""
+    import csv
+    import glob
+    import os
+    cands = [path, os.environ.get("CODE_LIBRARY"),
+             os.path.join(os.path.dirname(__file__), "../../../../../code-library"),
+             os.path.expanduser("~/code-library"), "/home/user/code-library"]
+    for c in cands:
+        if not c:
+            continue
+        root = os.path.join(c, "code-library", "us-building-codes") if os.path.isdir(
+            os.path.join(c, "code-library", "us-building-codes")) else os.path.join(c, "us-building-codes")
+        if not os.path.isdir(root):
+            continue
+        idx = {"IRC": set(), "IBC": set()}
+        csv.field_size_limit(10 ** 8)
+        for code in idx:
+            for f in glob.glob(os.path.join(root, "**", f"{code.lower()}-2021", "*.csv"), recursive=True):
+                with open(f, newline="") as fh:
+                    for row in csv.DictReader(fh):
+                        if row.get("id"):
+                            idx[code].add(row["id"].strip().upper())
+        if idx["IRC"] or idx["IBC"]:
+            return idx
+    return None
+
+
 def load_assemblies(path):
     if yaml is None:
         sys.exit("check_notes: PyYAML is needed to read the assembly schedule (pip install pyyaml)")
@@ -72,7 +108,7 @@ def load_assemblies(path):
     return {str(k).upper(): v or {} for k, v in asm.items()}, data
 
 
-def check(manifest, assemblies=None, schedule_meta=None):
+def check(manifest, assemblies=None, schedule_meta=None, code_index=None):
     errors, warns = [], []
     tags = set(manifest.get("tags", []))
     juris = (manifest.get("jurisdiction") or (schedule_meta or {}).get("jurisdiction") or "").lower()
@@ -101,13 +137,45 @@ def check(manifest, assemblies=None, schedule_meta=None):
             m = re.search(pat, t)
             if m:
                 errors.append(f"{where}: vague '{m.group(0).strip()}' - say exactly what, where and how much: {t[:80]}")
+        for pat in SOFT:
+            m = re.search(pat, t)
+            if m:
+                warns.append(f"{where}: '{m.group(0).strip()}' - confirm this is intended: {t[:80]}")
+        if AS_REQ.search(t) and not AS_REQ_OK.search(t):
+            warns.append(f"{where}: 'AS REQ.' on something other than framing/blocking - say what is "
+                         f"required: {t[:80]}")
 
-        for m in TAG_RE.finditer(t):
-            tok = m.group(1)
-            if NOT_TAGS.match(tok) or tok in tags:
-                continue
-            if assemblies is not None and tok.upper() in assemblies:
-                errors.append(f"{where} names {tok}, which is not tagged on the detail - tag it on the drawing")
+        # a scheduled tag named in a note must be tagged on the drawing
+        if assemblies is not None:
+            for key in assemblies:
+                if len(key) < 2 or key in tags:
+                    continue
+                if re.search(rf"(?<![\w/]){re.escape(key)}(?![\w])", t):
+                    errors.append(f"{where} names {key}, which is not tagged on the detail - tag it on the drawing")
+
+        # blank references: "REFER TO DETAIL  FOR ..." / "SEE DETAIL FOR"
+        if re.search(r"\b(DETAIL|DETAILS|SHEET)\s+(FOR|AT|TO|ON)\b", t) or re.search(r"\b(SEE|REFER TO)\s*$", t):
+            errors.append(f"{where}: reference is blank - fill the detail number/sheet: {t[:80]}")
+
+        # code editions: Aspen and Pitkin both adopted the 2021 I-codes (code library:
+        # Aspen M.C. 8.20 / 8.46, Pitkin Title 11)
+        for m in EDITION.finditer(t):
+            if m.group(1) != "2021" and juris.startswith(("aspen", "pitkin")):
+                errors.append(f"{where}: cites the {m.group(1)} {m.group(2)} - {juris.title()} has adopted the "
+                              f"2021 edition; update the edition and re-check the section: {t[:80]}")
+            elif m.group(1) != "2021":
+                warns.append(f"{where}: cites the {m.group(1)} {m.group(2)} - confirm the adopted edition: {t[:70]}")
+
+        # code sections: must exist in the 2021 dataset when the code library is available
+        if code_index:
+            for m in CODE_SEC.finditer(t):
+                sec = m.group(1).upper()
+                book = "IRC" if sec.startswith(("R", "N")) else "IBC"
+                if sec.startswith("N") or (re.match(r"R4\d\d", sec) and "IECC" in t):
+                    continue          # IECC sections - the IECC is not in the dataset
+                if sec not in code_index[book]:
+                    errors.append(f"{where}: {book} {sec} does not exist in the 2021 {book} - wrong or "
+                                  f"out-of-date section number: {t[:80]}")
 
         if assemblies is not None:
             for tag in sorted(tags & set(assemblies)):
@@ -132,11 +200,10 @@ def check(manifest, assemblies=None, schedule_meta=None):
         if where == "NOTE" and len(t.split()) > 35:
             warns.append(f"{where}: {len(t.split())} words on a leader - keep leaders short, move the rest "
                          f"to the general notes: {t[:60]}")
-        if re.search(r"\bSEE (DETAIL|DETAILS|SPEC|SPECS|DRAWINGS)\b(?!\s+\d)", t) and not re.search(r"\d+/[A-Z]+\d", t):
-            warns.append(f"{where}: reference without a number - give n/SHEET or the spec section: {t[:80]}")
-        if re.search(r"\b\d{3,4}\.\d+(\.\d+)*\b|\bSECTION\s\d", t):
+        if CODE_SEC.search(t) and not code_index:
             warns.append(f"{where}: code section cited - verify it in the code-library for "
-                         f"{juris or 'the jurisdiction'} before issue: {t[:70]}")
+                         f"{juris or 'the jurisdiction'} before issue (pass --code-library to check "
+                         f"automatically): {t[:70]}")
     return errors, warns
 
 
@@ -144,11 +211,12 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("manifest")
     ap.add_argument("--assemblies")
+    ap.add_argument("--code-library", help="clone of phantom-press-hq/code-library (or set CODE_LIBRARY)")
     a = ap.parse_args()
     with open(a.manifest) as f:
         manifest = json.load(f)
     asm, meta = (load_assemblies(a.assemblies) if a.assemblies else (None, None))
-    errors, warns = check(manifest, asm, meta)
+    errors, warns = check(manifest, asm, meta, load_code_index(a.code_library))
     name = f"{manifest.get('number')}/{manifest.get('sheet')} {manifest.get('title')}"
     for e in errors:
         print("ERROR", e)

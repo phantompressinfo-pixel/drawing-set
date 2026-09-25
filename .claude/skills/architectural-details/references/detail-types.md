@@ -11,6 +11,12 @@ Numbers marked *(office practice)* are the office's standard, taken from its iss
 details. They are not code limits. Where a code limit applies, get it from the code
 library for the jurisdiction.
 
+The office's own wording for each type is in `office-note-library.md`. Use it
+first. On these projects, a building-envelope / waterproofing consultant owns the
+weather barrier, flashings and waterproofing. Details show the intent (which layer
+laps over which, which way it slopes, how far it turns up) and end with `- SEE
+WATERPROOFING DRAWINGS`.
+
 Mountain-site conditions run through all of these: deep snow, ice damming, snow
 shedding off metal roofs, freeze-thaw, high UV and steep grades. Always ask where
 the snow goes.
@@ -21,6 +27,14 @@ the snow goes.
 
 Windows (head, jamb, sill), doors and thresholds, penetrations (vents, hose bibbs,
 lights), cladding terminations, soffits, trim, railings on exterior walls.
+
+Office pattern (A6.13-A6.22): window per schedule on a synthetic wood shim with
+kerf cuts; a 3x wood or cut stone sill at 1/2" per ft min. with a drip kerf; a
+copper pan returned up the jambs 6" min.; pan dams (back and side) that stop at the
+interior face of the unit (general note 4); liquid-applied flashing wrapped into
+the opening and lapped over the WRB. At stone veneer: a custom steel angle and
+channel lintel S.S.D., a sloped cant strip, copper flashing with end closures, and
+weeps at 33" o.c. max.
 
 **Draw**
 - The wall tag and the unit or item.
@@ -84,6 +98,19 @@ and floor joints, shower and wet-area floors, fireplaces.
   `stair-details-drawings` for the format.
 
 ## 3. Roof details
+
+**Ask first: cold (vented) or unvented?** The office usually uses a cold roof, but
+it varies by project. Cold-roof eave and rake (A6.01):
+- 2x sleepers aligned with the rafters;
+- a continuous 1-1/2" min. air gap from the eave vents;
+- wildfire defense mesh at the vents;
+- the eave and rake cavity filled with closed-cell spray foam;
+- the below-insulation underlayment lapped over the subfascia;
+- a stepped fascia (2x8 upper, 2x4 recessed, 2 1/2" x 10" lower) with a shiplap
+  soffit.
+
+The unvented rake (A6.03) is the same without the vent gap, with 5" min. rigid
+insulation.
 
 Eave, rake, ridge and hip, valley, headwall, sidewall, parapet, curb and
 penetration, skylight, snow retention, gutters, and vented (cold) roof edges.
@@ -201,10 +228,8 @@ meet, and every note is about the joint.
 - Grade elevations along the whole wall.
 - Deck ledger flashing and attachment per structural.
 
-Examples:
-- `examples/wall-at-foundation.py`, wall to foundation at grade.
-- 6/A6.01 and 7/A6.01 on branch `admiring-galileo` (stone wall to standing seam
-  roof, and green roof edge).
+Examples: the office's A6.08 set (patio wall, entry eave beam, column cap) and
+A6.02 (ballast roof to deck, stone parapet cap, green roof edge).
 
 ## 6. Wall sections
 

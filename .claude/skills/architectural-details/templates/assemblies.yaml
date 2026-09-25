@@ -9,6 +9,10 @@
 # drawn yet, leave the tag's layers empty and the checker will still confirm the
 # tag exists.  Use the project's own prefixes - the ones below are examples.
 #
+# Office tag style (sample set): walls 3A-X, 2/3/4/5B-X, 3C-E ... ; roofs R1-R8;
+# floors F2 with finish tags A, B, A/B; ceilings C1, C2, C13.  Use the tag exactly as
+# it prints in Revit - the key below must match the tag on the detail.
+#
 # Order layers the way the schedule reads: walls exterior -> interior, roofs and
 # floors top -> bottom.  Write R-values with a hyphen (R-21); "R2" is a roof tag.
 

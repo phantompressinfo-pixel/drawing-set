@@ -1,0 +1,16 @@
+# EXAMPLE ONLY - the tag and build-up are placeholders in the office's tag style.
+# Replace with the project's real assembly schedule (sheet A5.02 on the sample set).
+project: EXAMPLE - OFFICE METHOD
+jurisdiction: aspen
+assemblies:
+  3B-X:
+    name: EXTERIOR WALL - VERTICAL WOOD BOARD SIDING
+    type: exterior wall
+    layers:
+      - VERTICAL WOOD BOARD SIDING - SEE EXTERIOR FINISH SCHEDULE
+      - 1x4 VERTICAL FURRING @ 16" O.C.
+      - WEATHER-RESISTIVE BARRIER
+      - 1/2" PLYWOOD SHEATHING
+      - 2x6 WOOD STUDS @ 16" O.C.
+      - R-21 FIBERGLASS BATT
+      - 5/8" GYPSUM BOARD

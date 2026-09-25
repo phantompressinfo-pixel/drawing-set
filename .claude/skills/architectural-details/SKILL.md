@@ -1,6 +1,6 @@
 ---
 name: architectural-details
-description: Draw and note construction details the office way - exterior details, interior details, roof details, foundation details, exterior transition details and wall sections - as SVG/PNG sheets with leader notes, keynotes, general notes and a verify list. Every assembly on a detail carries its assembly-schedule tag, and the notes never repeat what the tag already says; they call out only the design intent, transitions, sequencing and dimensions the GC or sub must hold. Use when asked to draw, redraw, mark up, note, check or review a detail or wall section, or to write the notes for one.
+description: Draw and note construction details the office way - exterior details, interior details, roof details, foundation details, exterior transition details and wall sections. The deliverable is the detail only (no sheet or title block), drawn in the office's Revit style, with a DXF for a Revit drafting view and the notes ready to paste. Every assembly carries its schedule tag, and the notes never repeat what the tag says; they call out only design intent, transitions, sequencing and the dimensions the GC or sub must hold, in the office's own wording. Use when asked to draw, redraw, mark up, note, check or review a detail or wall section, or to write the notes for one.
 ---
 
 # Architectural details - office method
@@ -10,108 +10,123 @@ description: Draw and note construction details the office way - exterior detail
 **The tag carries the assembly. The notes carry the intent.**
 
 Every wall, roof, floor, ceiling and foundation cut on a detail gets its tag from
-the project assembly schedule (W1, R2, F1 ...). The tag already tells the builder
-every layer, thickness, R-value, gauge and spacing. A note that says it again is
-noise at best; at worst it drifts from the schedule and the sheet contradicts
-itself.
+the project assembly schedule. The office tags look like this:
+- walls: `3A-X`, `2/3/4/5B-X`, `3C-E`;
+- roofs: `R1` to `R8`;
+- floors and finishes: `F2`, `A`, `B`, `A/B`;
+- ceilings: `C1`, `C2`, `C13`.
+
+A tag may carry `SIM` under it. The tag already tells the builder every layer. A
+note that says it again is noise, and it drifts out of step with the schedule.
 
 A note earns its place only if it tells the GC or sub something the assembly
 schedule cannot:
 
-1. **What happens where assemblies meet** - laps, turn-ups, terminations, which
+1. **What happens where assemblies meet**: laps, turn-ups, terminations, which
    layer goes over which.
-2. **Continuity of the control layers** - water, air, thermal, vapor (and fire, where
-   rated) carried across the joint without a break.
-3. **Items that belong to no assembly** - flashings, transition membranes, blocking,
-   sealant joints, anchors, screens, trim. These get the black-square flag.
-4. **Dimensions and tolerances that must be held**, and why when it isn't obvious.
-5. **Sequence** - what has to go in before what.
-6. **Visible design intent** - flush, reveal, shadow line, alignment, no exposed
-   fasteners.
-7. **Responsibility and coordination** - per structural, deferred submittal, shop
-   drawings, mock-up.
-8. **Field-verify items** - things that must be checked before work proceeds.
+2. **Continuity** of water, air, thermal and vapor control (and fire, where rated)
+   across the joint.
+3. **Items in no assembly**: flashings, pans, membranes, blocking, headers, shims,
+   sealant, trim, anchors, screens.
+4. **Dimensions and slopes to hold**: `1/2" PER FT SLOPE MIN.`,
+   `RETURN UP @ JAMBS 6" MIN`.
+5. **Sequence**: what laps over what.
+6. **Visible design intent**: `3/16" REVEAL`, `ALIGN ...`, `MITER CORNER AT NOSING`.
+7. **Who owns it**:
+   - `S.S.D.`, `S.L.D.`, `S.M.D.`;
+   - `SEE WATERPROOFING DRAWINGS`;
+   - `PER SCHEDULE`;
+   - `BY G.C.`;
+   - `FRAMING AS REQ.`
+8. **Field verify**: `V.I.F.`
 
-Two tests for every note, before it goes on the sheet:
-- *Would the builder do it differently without this note?* If no, cut it.
+Two tests for every note:
+- *Would the builder do it differently without it?* If not, cut it.
 - *Is it in the assembly schedule?* If yes, cut it and make sure the tag is there.
 
-Full rules, wording standards and before/after examples:
-`references/note-rules.md`. Read it before writing notes.
+Full rules: `references/note-rules.md`. Office wording, by condition:
+`references/office-note-library.md`. **Use the office's wording before writing
+new wording.**
+
+## What the office wants back
+
+**The detail only.** No sheet border, no title block. The detail goes onto the
+office's own Revit sheet. For each detail, deliver:
+
+| File | Use |
+|---|---|
+| `<NN>-<SHEET>-<slug>.png` | To look at and review |
+| `<NN>-<SHEET>-<slug>.dxf` | Import into a Revit drafting view (Insert > Import CAD, units inches, 1:1). Layers are named A-DETL-* and A-ANNO-*. |
+| `<NN>-<SHEET>-<slug>.notes.txt` | The notes top to bottom, the tags, and the verify list, for typing into or pasting over the Revit text |
+| `<NN>-<SHEET>-<slug>.svg` / `.py` / `.json` | Source, to regenerate after comments |
+
+The office uses a cold roof most of the time, but it varies by project. **Ask
+which roof** (cold/vented or unvented/hot) before drawing any roof, eave, rake or
+ridge.
 
 ## What to have before drawing
 
-Ask for whatever is missing. Don't guess at any of it.
+Ask for whatever is missing. Don't guess.
 
 | Input | Why |
 |---|---|
-| Detail type and condition (for example, "roof eave at the stone wall, north side") | Picks the checklist in `references/detail-types.md` |
-| Detail number and sheet (for example, 6 / A6.01), and scale | Title bubble, file name, cross-references |
-| **Project assembly schedule** as `<project>/assemblies.yaml` (template: `templates/assemblies.yaml`) | The tags, and what the notes must not repeat. Copy it from the project's schedule sheet. Never invent a build-up. |
-| Jurisdiction (City of Aspen or Pitkin County) | Code basis. The City runs houses under the IBC (the IRC is not adopted); the County adopts the IRC. |
-| The existing sketch, markup or photo, if there is one | Draw to what the office has, then fix it |
-| Structural, civil and interiors information that governs the detail | Refer to it with "PER STRUCTURAL" rather than guessing sizes |
-
-If there is no assembly schedule yet, draw the tags anyway, leave the layers out
-of the yaml file, and put "W_ AGREES WITH THE ASSEMBLY SCHEDULE" in the verify
-list.
+| Detail type and condition, with any sketch, markup or similar office detail | Picks the checklist in `references/detail-types.md` |
+| Detail number, sheet and scale | Title, file name, cross-references. Scales are usually 3" = 1'-0", or 1 1/2" = 1'-0" for eaves and rakes. |
+| **Project assembly schedule** as `<project>/assemblies.yaml` (template: `templates/assemblies.yaml`) | Tags, and what the notes must not repeat. Copy it from the schedule sheet (A5.02 on the sample set). Never invent a build-up. |
+| Jurisdiction: City of Aspen or Pitkin County | Code basis. The City runs houses under the IBC (the IRC is not adopted); the County adopts the IRC. |
+| Roof type (cold or unvented), for roof work | See above |
+| Structural, waterproofing-consultant and interiors information | The office points to these; it doesn't size them |
 
 ## Workflow
 
-1. **Read the condition.** State in one or two lines what the detail shows and which
-   assemblies meet in it. If the condition is ambiguous (for example, headwall vs
-   sidewall, or above vs below grade), ask. Don't pick.
-2. **Open the checklist** for the type in `references/detail-types.md`: what must be
-   drawn, the continuity lines, and the usual verify items.
-3. **Draw it** with `scripts/detailkit.py`, one Python script per detail, saved beside
-   its output as `details/<NN>-<SHEET>-<slug>.py`. Enter geometry in real inches.
-   Graphics standards and the API are in `references/drawing-standards.md`. The
-   worked example is `examples/wall-at-foundation.py`.
-4. **Tag every assembly** that is cut or seen, once per detail. Where an assembly
-   changes (for example, a wall going below grade), that is a new tag. Don't stretch
-   one tag across the change.
-5. **Write the notes** per `references/note-rules.md`. Flag (black square) every item
-   that belongs to no assembly.
-6. **Code.** Cite a code section only where a note depends on a code limit the
-   builder must hold. Get the section from the code library
-   (phantom-press-hq/code-library, `aspen-pitkin-code` skill). Never cite it from
-   memory. On a City of Aspen detail, never cite the IRC.
-7. **Save and check.** `d.save("details", assemblies="<project>/assemblies.yaml")`
-   writes the SVG, PNG, `.notes.txt` and `.json`, then runs
-   `scripts/check_notes.py`. Fix every ERROR. Read every WARN.
-8. **Look at the PNG** and fix any overlaps, crossed leaders, or text over linework.
-   Move notes with `side=`, or move the targets. Re-save.
-9. **Report** in plain words:
+1. **Read the condition.** State in one line what the detail shows and which
+   assemblies meet in it. If it's ambiguous (headwall or sidewall, above or below
+   grade, cold or unvented roof), ask.
+2. **Open the checklist** for the type in `references/detail-types.md`, and the
+   matching section of `references/office-note-library.md`.
+3. **Draw it** with `scripts/detailkit.py`, one script per detail, saved as
+   `details/<NN>-<SHEET>-<slug>.py`. Enter geometry in real inches, with INT. to the
+   left and EXT. to the right, as the office does. Graphics and the API are in
+   `references/drawing-standards.md`; the worked example is
+   `examples/window-sill-wood-siding.py`.
+4. **Tag every assembly** that is cut or seen, once per detail. Where the build-up
+   changes, use a new tag.
+5. **Write the notes** from the office library. Mark items that belong to no
+   assembly with `flag=True`; they're listed with `#` in the notes file.
+6. **Code.** Cite a code section only where a note depends on a code limit. Get it
+   from the code library (phantom-press-hq/code-library), never from memory. Never
+   cite the IRC on a City of Aspen detail.
+7. **Save and check.**
+   `d.save("details", assemblies="<project>/assemblies.yaml")` runs
+   `scripts/check_notes.py`. Pass the code library with
+   `CODE_LIBRARY=/path/to/code-library` so section numbers are checked against the
+   2021 dataset. Fix every ERROR and read every WARN.
+8. **Look at the PNG.** Fix overlaps, crossed leaders, and text over linework.
+   Re-save.
+9. **Report**:
    - what was drawn;
-   - the tags used;
-   - any flagged items;
-   - anything assumed, which goes in the verify list and in the reply;
-   - the file paths.
+   - the tags;
+   - the notes;
+   - anything assumed (it goes in the verify list);
+   - the files.
 
-Checking or marking up an existing detail follows the same rules. List the notes
-that repeat an assembly, the missing tags, the missing continuity lines, and the
-missing flagged items. The 100% CD checklists in `details/` on the project branches
-are the format.
-
-## Output conventions
-
-- Files go in `details/` on the project's branch in the drawing-set repo. Name them
-  `<NN>-<SHEET>-<slug>`, for example `06-A6.01-stone-wall-to-standing-seam-roof.svg`.
-- Keep the `.py` next to the drawing so the detail can be regenerated after
-  comments.
-- Notes are ALL CAPS on the sheet.
-- The `.notes.txt` file is the sheet text, ready to paste into the CAD note block.
-- This repo is drawings only. The code library lives in phantom-press-hq/code-library.
-  Don't copy code text into it.
+Checking an existing detail follows the same rules. List:
+- notes that repeat an assembly;
+- missing tags;
+- missing continuity;
+- missing flashings or other items;
+- anything the checker flags.
 
 ## Files
 
 | Path | What |
 |---|---|
-| `references/note-rules.md` | The tag-vs-note rule in full, wording standards, before/after examples |
+| `references/note-rules.md` | The tag-vs-note rule in full, the office voice, before/after examples |
+| `references/office-note-library.md` | The office's own note wording, by condition, from the 22 sample sheets |
 | `references/detail-types.md` | Checklists for the six detail types |
-| `references/drawing-standards.md` | Line weights, hatches, tags, symbols, scales, and the detailkit API |
-| `scripts/detailkit.py` | Drawing library: SVG + PNG + notes + manifest |
-| `scripts/check_notes.py` | Enforces the rules; run automatically by `save()` |
+| `references/drawing-standards.md` | Office graphics (Revit look), symbols, scales, detailkit API, DXF |
+| `scripts/detailkit.py` | Drawing library: SVG + PNG + DXF + notes + manifest |
+| `scripts/check_notes.py` | Enforces the rules; `save()` runs it automatically |
 | `templates/assemblies.yaml` | Project assembly schedule format |
-| `examples/wall-at-foundation.py` | Worked example, an exterior transition |
+| `templates/standard-general-notes.txt` | The DETAILING / WATERPROOFING GEN NOTES block, corrected |
+| `examples/window-sill-wood-siding.py` | Worked example, based on 1/A6.16 |

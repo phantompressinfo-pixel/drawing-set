@@ -42,9 +42,9 @@ stops someone from "improving" it.
   instead ("PER STRUCTURAL").
 - Generic spec language: "INSTALL PER MANUFACTURER'S INSTRUCTIONS" as a note on its
   own, "PROVIDE ALL REQUIRED ...". That belongs in the specs.
-- Vague words, which the checker rejects: AS REQUIRED, AS NECESSARY, ETC., OR EQUAL,
-  WHERE APPLICABLE, BY OTHERS, PER CODE, ADEQUATE, PROPER, SUITABLE. Say exactly
-  what, where and how much.
+- Vague words, which the checker rejects: ETC., AS NECESSARY, AS NEEDED, WHERE
+  APPLICABLE, PER CODE, ADEQUATE, PROPER, SUITABLE. OR EQUAL and BY OTHERS get a
+  warning. "AS REQ." is fine on framing and blocking only.
 - "TYP." unless the detail says what it is typical of.
 
 ## 4. Where each kind of note goes
@@ -57,23 +57,33 @@ stops someone from "improving" it.
 | General notes, this detail | Numbered box under the title | Sequence, mock-ups, submittals, and anything that applies to the whole detail |
 | Verify / coordinate before issue | Box, dash bullets | Open questions and every assumption. Remove before issue. |
 
-## 5. Wording standard (from the office's issued sets)
+## 5. Wording standard (the office voice - see office-note-library.md)
 
-- ALL CAPS. Plain construction English, imperative voice: "LAP", "HOLD", "SEAL",
-  "RETURN", "DO NOT".
-- Dimensions in feet and inches with fractions: `1'-6"`, `3/4"`, `8" MIN.`,
-  `4 1/2" MAX.`. Use MIN./MAX. when a dimension is a limit, not a target.
-- R-values with a hyphen, `R-21`. A tag has no hyphen, `R2`.
-- Cross-references as number/sheet: `SEE 3/A6.31`. Specs by section: `SEE SPEC 07 62 00`.
-  Never a bare "SEE DETAIL".
-- `**  ...  **` around the one or two warnings that cost money if missed, for example
-  `** 11" IS THE TRIGGER LINE, NOT A MARGIN. **`.
-- Code citations only where the note depends on a code limit, in the form
-  `- 1011.5.2` for the City of Aspen (IBC as amended by M.C. 8.20). Look up every
-  section in the code library, never from memory. Never cite the IRC on a City of
-  Aspen detail; Pitkin County details may cite it.
-- Blanks `__` are allowed only while drafting. The checker warns until they are
-  filled.
+- ALL CAPS, noun phrase first, then a dash and the instruction:
+  `PAN FLASHING W/ END DAMS SET IN FULL BED OF SEALANT - SEE WATERPROOFING DRAWINGS`.
+- **Items owned elsewhere: name them, point, stop.**
+  - `WINDOW PER SCHEDULE`
+  - `STL. BEAM, S.S.D.`
+  - `ROLLER SHADE AS SCHEDULED, SEE LOW VOLTAGE`
+  - `FINISH PER SCHEDULE`
+  - `SEE R.C.P.`
+  - `SEE INTERIOR ELEVATIONS`
+- **Waterproofing** belongs to the waterproofing / building-envelope consultant.
+  Show the intent (the lap, the direction, the turn-up), then end with
+  `- SEE WATERPROOFING DRAWINGS`.
+- **"AS REQ."** is fine for framing, blocking, shims, pack-out, furring and
+  sleepers. That's the office handing it to the GC. Anywhere else, say what is
+  required. The checker warns on any other use.
+- **Wall assemblies** get the tag, or `SEE 1 / A.5.02 FOR WALL ASSEMBLY`.
+- **Dimensions** in feet and inches with fractions: `1'-6"`, `3/4"`, `6" MIN.`,
+  `1/2" PER FT SLOPE MIN.`
+- **R-values** with a hyphen (`R-50`). A tag has no hyphen (`R2`).
+- **Cross-references** as number / sheet, `SEE 1 / A.5.02`. Never leave the number
+  blank; the checker stops `REFER TO DETAIL  FOR`.
+- **Code citations** only where a note depends on a code limit. Take the section
+  from the code library, using the 2021 editions (Aspen and Pitkin County both
+  adopted them). No IRC on City of Aspen work.
+- **Blanks** `__` are for drafts only.
 
 ## 6. Before and after - 6/A6.01, stone wall to standing seam roof
 
