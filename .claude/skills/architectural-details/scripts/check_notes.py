@@ -56,7 +56,7 @@ SPEC_RE = re.compile(
     r"(\d+\s\d+/\d+\"|\d+/\d+\"|\d+(?:\.\d+)?\"|\d+'-\d+(?:\s\d+/\d+)?\"|"   # 1 1/2"  5/8"  2"  1'-6"
     r"\bR-\d+(?:\.\d+)?\b|\b\d+\s?GA\.?\b|\b\d+\s?MIL\b|\bTYPE\s[A-Z0-9]+\b|"  # R-21  24 GA  40 MIL  TYPE X
     r"@\s?\d+\"\s?O\.?C\.?|\b\d+X\d+\b|\b\d+x\d+\b)")                           # @ 16" O.C.  2X6
-STOP = set("""A AN AND OR THE OF TO AT ON IN WITH W/ FOR BY PER OVER UNDER INTO FROM AS
+STOP = set("""NEW EXISTING A AN AND OR THE OF TO AT ON IN WITH W/ FOR BY PER OVER UNDER INTO FROM AS
 MIN MAX MIN. MAX. O.C. OC CONT CONT. CONTINUOUS TYP TYP. EACH ALL SEE @ - — =""".split())
 
 
@@ -188,9 +188,16 @@ def check(manifest, assemblies=None, schedule_meta=None, code_index=None):
                     specs = {s.strip() for s in SPEC_RE.findall(layer.upper())}
                     specs = {s for s in specs if s}
                     mats = material_words(layer)
-                    note_specs = {s.strip() for s in SPEC_RE.findall(t)}
-                    hit_spec = specs & note_specs
-                    hit_mat = mats & set(words(t))
+                    hit_spec, hit_mat = set(), set()
+                    for sm in SPEC_RE.finditer(t):          # a spec and a material word
+                        sp = sm.group(0).strip()            # within 2 words of each other
+                        if sp not in specs:
+                            continue
+                        for w in mats:
+                            for wm in re.finditer(rf"(?<![A-Z]){re.escape(w)}(?![A-Z])", t):
+                                a, b = sorted((sm.span(), wm.span()))
+                                if len(t[a[1]:b[0]].split()) <= 2:
+                                    hit_spec.add(sp); hit_mat.add(w)
                     if hit_spec and hit_mat:
                         errors.append(
                             f"{where} repeats {tag} layer \"{layer}\" "
