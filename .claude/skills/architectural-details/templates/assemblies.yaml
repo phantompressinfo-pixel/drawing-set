@@ -1,0 +1,59 @@
+# PROJECT ASSEMBLY SCHEDULE - one per project, saved as <project>/assemblies.yaml
+#
+# This file is what a tag on a detail POINTS TO.  Everything listed under a tag's
+# `layers` is said once, here, and never again in a detail note.  check_notes.py
+# reads it and stops any note that repeats a layer's material and spec.
+#
+# Copy the tags and the build-ups straight from the project's assembly schedule
+# sheet (G- or A0- series).  Do not invent a build-up: if the schedule is not
+# drawn yet, leave the tag's layers empty and the checker will still confirm the
+# tag exists.  Use the project's own prefixes - the ones below are examples.
+#
+# Order layers the way the schedule reads: walls exterior -> interior, roofs and
+# floors top -> bottom.  Write R-values with a hyphen (R-21); "R2" is a roof tag.
+
+project: PROJECT NAME
+jurisdiction: aspen            # aspen | pitkin  (drives the code-citation checks)
+
+assemblies:
+  W1:
+    name: EXTERIOR WALL - WOOD SIDING, RAINSCREEN
+    type: exterior wall
+    rating: none               # fire rating / UL design no., or none
+    layers:
+      - 1x6 SHIPLAP SIDING
+      - 1x3 VERTICAL FURRING @ 16" O.C. - VENTED RAINSCREEN CAVITY
+      - WEATHER-RESISTIVE BARRIER
+      - 2" MINERAL WOOL CONTINUOUS INSULATION, R-8.4
+      - 1/2" PLYWOOD SHEATHING, SEAMS TAPED - AIR BARRIER
+      - 2x6 WOOD STUDS @ 16" O.C.
+      - R-21 FIBERGLASS BATT
+      - 5/8" GYPSUM BOARD
+    control_layers:            # which layer does each job - the details make these continuous
+      water: WEATHER-RESISTIVE BARRIER
+      air: TAPED PLYWOOD SHEATHING
+      thermal: MINERAL WOOL CI + CAVITY BATT
+      vapor: KRAFT FACING ON BATT (CLASS II)
+
+  W2:
+    name: FOUNDATION WALL - BELOW GRADE
+    type: foundation wall
+    rating: none
+    layers:
+      - 2" XPS INSULATION, R-10
+      - DAMPPROOFING
+      - 8" CAST-IN-PLACE CONCRETE - SEE STRUCTURAL
+    control_layers:
+      water: DAMPPROOFING + FOUNDATION DRAIN
+      air: CONCRETE
+      thermal: XPS
+      vapor: CONCRETE
+
+  F1:
+    name: FLOOR - WOOD FRAMED OVER CRAWLSPACE
+    type: floor
+    rating: none
+    layers:
+      - FINISH FLOOR - SEE INTERIORS
+      - 3/4" T&G PLYWOOD SUBFLOOR, GLUED AND SCREWED
+      - 11 7/8" I-JOISTS - SEE STRUCTURAL
