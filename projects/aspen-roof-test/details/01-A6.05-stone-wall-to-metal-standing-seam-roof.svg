@@ -120,8 +120,8 @@
 <path d="M1015.6,542.0 L1351.6,542.0" class="lead" marker-end="url(#dot)"/>
 <rect x="992.3" y="527.0" width="46.5" height="30" fill="#fff" stroke="#000" stroke-width="1.2"/>
 <text x="1015.6" y="547.0" class="tag" text-anchor="middle">W10</text>
-<text x="389.6" y="634.0" class="n" text-anchor="end">WEEP VENTS IN FIRST JOINT ABOVE</text>
-<text x="389.6" y="652.0" class="n" text-anchor="end">FLASHING @ 33" O.C. MAX.</text>
+<text x="389.6" y="634.0" class="n" text-anchor="end">WEEP VENTS @ 24" O.C. MAX. IN FIRST</text>
+<text x="389.6" y="652.0" class="n" text-anchor="end">JOINT ABOVE FLASHING</text>
 <path d="M397.6,629.0 L423.6,629.0 L1339.6,638.0" class="lead" marker-end="url(#arw)"/>
 <text x="389.6" y="872.2" class="n" text-anchor="end">STAINLESS THRU-WALL FLASHING W/ END</text>
 <text x="389.6" y="890.2" class="n" text-anchor="end">DAMS - LAP UNDER WALL AIR/WEATHER</text>

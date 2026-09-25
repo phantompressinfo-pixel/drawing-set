@@ -489,7 +489,7 @@ $SKPOLY
   9
 $TDCREATE
  40
-2461309.8034375
+2461309.8876041668
   9
 $TDUCREATE
  40
@@ -497,7 +497,7 @@ $TDUCREATE
   9
 $TDUPDATE
  40
-2461309.8034375
+2461309.8876041668
   9
 $TDUUPDATE
  40
@@ -929,11 +929,11 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{395216B1-C786-4DD4-84A9-BB85D7E57226}
+{04389701-FEA9-4E0B-A9A9-DE9B0D05845A}
   9
 $VERSIONGUID
   2
-{67CEE615-3797-4ACC-AE49-80C3F6E2C0F6}
+{E9F13761-AE14-441F-97A4-F2676D86EC27}
   9
 $EXTNAMES
 290
@@ -2295,126 +2295,6 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-A-DETL-HEVY
- 70
-0
- 62
-7
-  6
-Continuous
-370
-50
-390
-13
-347
-21
-  0
-LAYER
-  5
-8B
-330
-1
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-A-ANNO-DIMS
- 70
-0
- 62
-7
-  6
-Continuous
-370
-13
-390
-13
-347
-21
-  0
-LAYER
-  5
-8C
-330
-1
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-A-ANNO-GRID
- 70
-0
- 62
-7
-  6
-CENTER
-370
-13
-390
-13
-347
-21
-  0
-LAYER
-  5
-8D
-330
-1
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-A-DETL-MEMB
- 70
-0
- 62
-5
-  6
-Continuous
-370
-35
-390
-13
-347
-21
-  0
-LAYER
-  5
-8E
-330
-1
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-A-DETL-VAPR
- 70
-0
- 62
-7
-  6
-Continuous
-370
-18
-390
-13
-347
-21
-  0
-LAYER
-  5
-8F
-330
-1
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
 A-ANNO-NOTE
  70
 0
@@ -2431,31 +2311,7 @@ Continuous
   0
 LAYER
   5
-90
-330
-1
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-A-DETL-LITE
- 70
-0
- 62
-7
-  6
-Continuous
-370
-13
-390
-13
-347
-21
-  0
-LAYER
-  5
-91
+8B
 330
 1
 100
@@ -2479,7 +2335,7 @@ Continuous
   0
 LAYER
   5
-92
+8C
 330
 1
 100
@@ -2487,7 +2343,103 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-A-ANNO-TAGS
+A-DETL-LITE
+ 70
+0
+ 62
+7
+  6
+Continuous
+370
+13
+390
+13
+347
+21
+  0
+LAYER
+  5
+8D
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+A-DETL-HEVY
+ 70
+0
+ 62
+7
+  6
+Continuous
+370
+50
+390
+13
+347
+21
+  0
+LAYER
+  5
+8E
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+A-ANNO-GRID
+ 70
+0
+ 62
+7
+  6
+CENTER
+370
+13
+390
+13
+347
+21
+  0
+LAYER
+  5
+8F
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+A-DETL-HIDN
+ 70
+0
+ 62
+7
+  6
+DASHED
+370
+18
+390
+13
+347
+21
+  0
+LAYER
+  5
+90
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+A-DETL-VAPR
  70
 0
  62
@@ -2496,6 +2448,54 @@ A-ANNO-TAGS
 Continuous
 370
 18
+390
+13
+347
+21
+  0
+LAYER
+  5
+91
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+A-DETL-MEDM
+ 70
+0
+ 62
+7
+  6
+Continuous
+370
+30
+390
+13
+347
+21
+  0
+LAYER
+  5
+92
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+A-ANNO-DIMS
+ 70
+0
+ 62
+7
+  6
+Continuous
+370
+13
 390
 13
 347
@@ -2535,15 +2535,15 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-A-DETL-HIDN
+A-DETL-MEMB
  70
 0
  62
-7
+5
   6
-DASHED
+Continuous
 370
-18
+35
 390
 13
 347
@@ -2559,7 +2559,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-A-DETL-MEDM
+A-ANNO-TAGS
  70
 0
  62
@@ -2567,7 +2567,7 @@ A-DETL-MEDM
   6
 Continuous
 370
-30
+18
 390
 13
 347
@@ -8147,7 +8147,7 @@ AcDbText
  40
 0.375
   1
-WEEP VENTS IN FIRST JOINT ABOVE
+WEEP VENTS @ 24" O.C. MAX. IN FIRST
   7
 OpenSans
  72
@@ -8183,7 +8183,7 @@ AcDbText
  40
 0.375
   1
-FLASHING @ 33" O.C. MAX.
+JOINT ABOVE FLASHING
   7
 OpenSans
  72
@@ -11129,7 +11129,7 @@ DictionaryVariables
 280
 0
   1
-1.4.4 @ 2026-09-25T19:16:57.777152+00:00
+1.4.4 @ 2026-09-25T21:18:09.534940+00:00
   0
 VISUALSTYLE
   5
@@ -11841,7 +11841,7 @@ DictionaryVariables
 280
 0
   1
-1.4.4 @ 2026-09-25T19:16:57.785728+00:00
+1.4.4 @ 2026-09-25T21:18:09.543837+00:00
   0
 ENDSEC
   0
