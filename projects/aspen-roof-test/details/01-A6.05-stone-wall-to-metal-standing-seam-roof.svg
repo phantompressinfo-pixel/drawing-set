@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2319" height="1639" viewBox="0 0 2319 1639">
+<defs><style>
+ text{font-family:Arial,Helvetica,sans-serif;fill:#000}
+ .n{font-size:15px}
+ .tag{font-size:15px}
+ .tagb{font-size:17px;font-weight:bold}
+ .kn{font-size:15px;font-weight:bold}
+ .dimt{font-size:14px}
+ .ttl{font-size:26px;letter-spacing:.5px}
+ .sc{font-size:13px}
+ .lead{fill:none;stroke:#000;stroke-width:1}
+ .cut{fill:none;stroke:#000;stroke-width:2.6}
+ .med{fill:none;stroke:#000;stroke-width:1.6}
+ .thin{fill:none;stroke:#000;stroke-width:0.9}
+ .hidden{fill:none;stroke:#000;stroke-width:1.1;stroke-dasharray:12 7}
+ .center{fill:none;stroke:#000;stroke-width:0.9;stroke-dasharray:28 6 5 6}
+ .metal{fill:none;stroke:#000;stroke-width:3.4;stroke-linejoin:miter}
+ .membrane{fill:none;stroke:#2340c8;stroke-width:3}
+ .airbar{fill:none;stroke:#2340c8;stroke-width:2.2;stroke-dasharray:16 5 3 5}
+ .vapor{fill:none;stroke:#000;stroke-width:1.4;stroke-dasharray:4 4}
+ .dim{fill:none;stroke:#000;stroke-width:0.9}
+</style>
+<marker id="arw" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="10" markerHeight="10" orient="auto-start-reverse">
+ <path d="M0,1.5 L12,6 L0,10.5 z" fill="#000"/></marker>
+<marker id="dot" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="7" markerHeight="7">
+ <circle cx="5" cy="5" r="4" fill="#000"/></marker>
+<marker id="tick" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="9" markerHeight="9" orient="auto">
+ <path d="M1,9 L9,1" stroke="#000" stroke-width="2"/></marker>
+<pattern id="conc" width="52" height="52" patternUnits="userSpaceOnUse">
+ <circle cx="30" cy="12" r="1.6"/><circle cx="8" cy="36" r="1.4"/><circle cx="45" cy="6" r="1.3"/>
+ <circle cx="22" cy="45" r="1.5"/><circle cx="44" cy="47" r="1.2"/><circle cx="14" cy="10" r="1"/>
+ <circle cx="36" cy="30" r="1"/><path d="M26,25 l5,3 l-4,3 z M6,20 l4,-3 l1,5 z M40,38 l5,1 l-3,4 z"/></pattern>
+<pattern id="grout" width="16" height="16" patternUnits="userSpaceOnUse">
+ <circle cx="3" cy="4" r="0.9"/><circle cx="11" cy="9" r="0.9"/><circle cx="6" cy="13" r="0.9"/><circle cx="13" cy="2" r="0.6"/></pattern>
+<pattern id="cmu" width="18" height="18" patternUnits="userSpaceOnUse">
+ <path d="M0,18 L18,0 M-4,4 L4,-4 M14,22 L22,14" stroke="#000" stroke-width="0.8" fill="none"/></pattern>
+<pattern id="earth" width="40" height="40" patternUnits="userSpaceOnUse">
+ <path d="M4,12 l10,0 M20,28 l12,0 M26,6 l8,0 M6,34 l8,0 M4,12 l5,-6 M20,28 l5,-6" stroke="#000" stroke-width="0.9" fill="none"/></pattern>
+<pattern id="gravel" width="30" height="30" patternUnits="userSpaceOnUse">
+ <circle cx="7" cy="7" r="4.5" fill="none" stroke="#000" stroke-width="0.9"/>
+ <circle cx="22" cy="19" r="5" fill="none" stroke="#000" stroke-width="0.9"/>
+ <circle cx="8" cy="24" r="3" fill="none" stroke="#000" stroke-width="0.9"/></pattern>
+<pattern id="sand" width="16" height="16" patternUnits="userSpaceOnUse">
+ <circle cx="3" cy="4" r="1"/><circle cx="11" cy="9" r="1"/><circle cx="6" cy="13" r="1"/></pattern>
+<pattern id="insul" width="10" height="10" patternUnits="userSpaceOnUse">
+ <path d="M0,0 L10,0 M0,0 L0,10" stroke="#000" stroke-width="0.7" fill="none"/></pattern>
+<pattern id="sprayfoam" width="12" height="12" patternUnits="userSpaceOnUse">
+ <circle cx="3" cy="3" r="1.1" fill="none" stroke="#000" stroke-width="0.6"/>
+ <circle cx="9" cy="8" r="1.4" fill="none" stroke="#000" stroke-width="0.6"/></pattern>
+<pattern id="wood" width="60" height="16" patternUnits="userSpaceOnUse">
+ <path d="M0,4 C15,1 30,7 60,4 M0,11 C20,14 35,8 60,11" stroke="#000" stroke-width="0.7" fill="none"/></pattern>
+<pattern id="ply" width="8" height="8" patternUnits="userSpaceOnUse">
+ <path d="M0,8 L8,0" stroke="#000" stroke-width="0.6" fill="none"/></pattern>
+<pattern id="gyp" width="10" height="10" patternUnits="userSpaceOnUse">
+ <circle cx="3" cy="3" r="0.8"/><circle cx="8" cy="8" r="0.8"/></pattern>
+<pattern id="stone" width="16" height="16" patternUnits="userSpaceOnUse">
+ <path d="M0,16 L16,0 M-4,4 L4,-4 M12,20 L20,12" stroke="#000" stroke-width="0.8" fill="none"/></pattern>
+<pattern id="steel" width="6" height="6" patternUnits="userSpaceOnUse">
+ <path d="M0,6 L6,0 M-1.5,1.5 L1.5,-1.5 M4.5,7.5 L7.5,4.5" stroke="#000" stroke-width="1" fill="none"/></pattern>
+<pattern id="glass" width="20" height="20" patternUnits="userSpaceOnUse">
+ <rect width="20" height="20" fill="#dfe8f7"/></pattern>
+<pattern id="ice" width="20" height="20" patternUnits="userSpaceOnUse">
+ <path d="M0,20 L20,0" stroke="#000" stroke-width="0.6" fill="none" stroke-dasharray="3 3"/></pattern>
+</defs>
+<rect width="2319" height="1639" fill="#fff"/>
+<path d="M487.6,1118.0 L1380.4,1118.0 L1380.4,1070.0 L1392.4,1070.0" class="metal"/>
+<path d="M631.6,1118.0 L631.6,1094.0 L646.0,1094.0 L646.0,1118.0" class="metal"/>
+<path d="M638.8,1118.5 L638.8,1101.2" class="thin"/>
+<path d="M919.6,1118.0 L919.6,1094.0 L934.0,1094.0 L934.0,1118.0" class="metal"/>
+<path d="M926.8,1118.5 L926.8,1101.2" class="thin"/>
+<path d="M487.6,1122.8 L1409.2,1122.8 L1409.2,914.0" class="membrane"/>
+<path d="M487.6,1124.0 L1411.6,1124.0 L1411.6,1136.0 L487.6,1136.0 z" fill="url(#ply)" stroke="#000" stroke-width="0.9"/>
+<path d="M487.6,1136.0 L1471.6,1136.0 L1471.6,1184.0 L487.6,1184.0 z" fill="url(#insul)" stroke="#000" stroke-width="1.6"/>
+<path d="M487.6,1184.0 L1483.6,1184.0 L1483.6,1199.0 L487.6,1199.0 z" fill="url(#ply)" stroke="#000" stroke-width="1.6"/>
+<path d="M487.6,1199.0 L1645.6,1199.0 L1645.6,1469.0 L487.6,1469.0 z" fill="url(#sprayfoam)" stroke="#000" stroke-width="0.9"/>
+<rect x="1483.6" y="1199.0" width="132.0" height="270.0" fill="#fff" stroke="#000" stroke-width="1.6"/>
+<path d="M1483.6,1199.0 L1615.6,1469.0 M1483.6,1469.0 L1615.6,1199.0" class="thin"/>
+<path d="M1483.6,158.0 L1615.6,158.0 L1615.6,1163.0 L1483.6,1163.0 z" fill="url(#sprayfoam)" stroke="#000" stroke-width="1.6"/>
+<rect x="1483.6" y="1163.0" width="132.0" height="36.0" fill="#fff" stroke="#000" stroke-width="1.6"/>
+<path d="M1483.6,1163.0 L1615.6,1199.0 M1483.6,1199.0 L1615.6,1163.0" class="thin"/>
+<path d="M1615.6,158.0 L1645.6,158.0 L1645.6,1199.0 L1615.6,1199.0 z" fill="url(#gyp)" stroke="#000" stroke-width="1.6"/>
+<path d="M1471.6,158.0 L1483.6,158.0 L1483.6,1184.0 L1471.6,1184.0 z" fill="url(#ply)" stroke="#000" stroke-width="1.6"/>
+<path d="M1411.6,158.0 L1471.6,158.0 L1471.6,1136.0 L1411.6,1136.0 z" fill="url(#insul)" stroke="#000" stroke-width="1.6"/>
+<path d="M487.6,1070.0 L487.6,1271.5 L471.6,1277.5 L503.6,1285.5 L487.6,1291.5 L487.6,1493.0" class="med"/>
+<path d="M475.6,1469.0 L1056.6,1469.0 L1062.6,1485.0 L1070.6,1453.0 L1076.6,1469.0 L1657.6,1469.0" class="med"/>
+<path d="M1279.6,158.0 L1458.6,158.0 L1464.6,174.0 L1472.6,142.0 L1478.6,158.0 L1657.6,158.0" class="med"/>
+<path d="M1483.6,80.0 L1483.6,1529.0" class="center"/>
+<circle cx="1483.6" cy="58.0" r="22" fill="#fff" stroke="#000" stroke-width="1.2"/>
+<text x="1483.6" y="64.0" class="tag" text-anchor="middle">FOS</text>
+<text x="727.6" y="398.0" class="kn" text-anchor="middle" style="paint-order:stroke;stroke:#fff;stroke-width:5;stroke-linejoin:round">EXT.</text>
+<path d="M709.2,402.0 L746.0,402.0" class="thin"/>
+<text x="1831.6" y="398.0" class="kn" text-anchor="middle" style="paint-order:stroke;stroke:#fff;stroke-width:5;stroke-linejoin:round">INT.</text>
+<path d="M1813.2,402.0 L1850.0,402.0" class="thin"/>
+<path d="M1063.6,1046.0 l-240.0,0 m14,-6 l-14,6 l14,6" class="thin"/>
+<text x="943.6" y="1040.0" class="dimt" text-anchor="middle" style="paint-order:stroke;stroke:#fff;stroke-width:5;stroke-linejoin:round">SLOPE PER ROOF PLAN</text>
+<path d="M1243.6,1118.0 L1243.6,918.8" class="dim" marker-start="url(#tick)" marker-end="url(#tick)"/>
+<path d="M1234.6,1118.0 l18,0 M1234.6,918.8 l18,0" class="dim"/>
+<g transform="translate(1237.6,1018.4) rotate(-90)">
+<text x="0.0" y="0.0" class="dimt" text-anchor="middle" style="paint-order:stroke;stroke:#fff;stroke-width:5;stroke-linejoin:round">8" MIN.</text>
+</g>
+<path d="M1399.6,158.0 L1410.4,158.0 L1410.4,782.0 L1399.6,782.0 z" fill="#fff" stroke="#000" stroke-width="0.9"/>
+<path d="M1410.4,158.0 L1410.4,899.6" class="airbar"/>
+<path d="M1303.6,158.0 L1399.6,158.0 L1399.6,904.4 L1303.6,904.4 z" fill="url(#stone)" stroke="#000" stroke-width="2.6"/>
+<path d="M1303.6,398.0 L1399.6,398.0" class="med"/>
+<path d="M1303.6,638.0 L1399.6,638.0" class="med"/>
+<path d="M1303.6,904.4 L1409.2,904.4 L1409.2,914.0 L1303.6,914.0 z" fill="url(#steel)" stroke="#000" stroke-width="1.6"/>
+<path d="M1399.6,782.0 L1409.2,782.0 L1409.2,904.4 L1399.6,904.4 z" fill="url(#steel)" stroke="#000" stroke-width="1.6"/>
+<path d="M1409.2,842.0 L1601.2,842.0" class="med" marker-start="url(#dot)"/>
+<path d="M1409.7,794.0 L1409.7,903.2 L1291.6,903.2 L1291.6,1014.8 L1301.2,1014.8" class="metal"/>
+<path d="M1279.6,1120.9 L1406.8,1120.9 L1406.8,918.8 L1399.6,918.8" class="metal"/>
+<path d="M1406.8,1065.2 L1390.0,1065.2 L1390.0,1074.8" class="metal"/>
+<path d="M1207.6,904.4 L1207.6,1014.8" class="dim" marker-start="url(#tick)" marker-end="url(#tick)"/>
+<path d="M1198.6,904.4 l18,0 M1198.6,1014.8 l18,0" class="dim"/>
+<g transform="translate(1201.6,959.6) rotate(-90)">
+<text x="0.0" y="0.0" class="dimt" text-anchor="middle" style="paint-order:stroke;stroke:#fff;stroke-width:5;stroke-linejoin:round">4" MIN. LAP</text>
+</g>
+<path d="M751.6,1334.0 L751.6,1158.8" class="lead" marker-end="url(#dot)"/>
+<rect x="731.6" y="1319.0" width="40.0" height="30" fill="#fff" stroke="#000" stroke-width="1.2"/>
+<text x="751.6" y="1339.0" class="tag" text-anchor="middle">R2</text>
+<path d="M1015.6,542.0 L1351.6,542.0" class="lead" marker-end="url(#dot)"/>
+<rect x="992.3" y="527.0" width="46.5" height="30" fill="#fff" stroke="#000" stroke-width="1.2"/>
+<text x="1015.6" y="547.0" class="tag" text-anchor="middle">W10</text>
+<text x="389.6" y="634.0" class="n" text-anchor="end">WEEP VENTS IN FIRST JOINT ABOVE</text>
+<text x="389.6" y="652.0" class="n" text-anchor="end">FLASHING @ 33" O.C. MAX.</text>
+<path d="M397.6,629.0 L423.6,629.0 L1339.6,638.0" class="lead" marker-end="url(#arw)"/>
+<text x="389.6" y="872.2" class="n" text-anchor="end">STAINLESS THRU-WALL FLASHING W/ END</text>
+<text x="389.6" y="890.2" class="n" text-anchor="end">DAMS - LAP UNDER WALL AIR/WEATHER</text>
+<text x="389.6" y="908.2" class="n" text-anchor="end">BARRIER, TURN DOWN AS COUNTERFLASHING</text>
+<text x="389.6" y="926.2" class="n" text-anchor="end">OVER BASE FLASHING 4" MIN. LAP, HEMMED</text>
+<text x="389.6" y="944.2" class="n" text-anchor="end">DRIP EDGE</text>
+<path d="M397.6,867.2 L423.6,867.2 L1315.6,903.2" class="lead" marker-end="url(#arw)"/>
+<text x="389.6" y="973.0" class="n" text-anchor="end">BASE FLASHING - TURN UP 8" MIN. ABOVE</text>
+<text x="389.6" y="991.0" class="n" text-anchor="end">FINISHED ROOF, HEM TOP AND BOTTOM</text>
+<text x="389.6" y="1009.0" class="n" text-anchor="end">EDGES - SEE WATERPROOFING DRAWINGS</text>
+<path d="M397.6,968.0 L423.6,968.0 L1406.8,986.0" class="lead" marker-end="url(#arw)"/>
+<text x="389.6" y="1059.4" class="n" text-anchor="end">PANEL END HEM UP 2" MIN. INTO</text>
+<text x="389.6" y="1077.4" class="n" text-anchor="end">CONTINUOUS OFFSET CLEAT AT WALL; NO</text>
+<text x="389.6" y="1095.4" class="n" text-anchor="end">EXPOSED FASTENERS IN PANEL PAN</text>
+<path d="M397.6,1054.4 L423.6,1054.4 L1385.2,1072.4" class="lead" marker-end="url(#arw)"/>
+<text x="389.6" y="1123.4" class="n" text-anchor="end">CONCEALED CLIP AT EACH SEAM - ALLOW</text>
+<text x="389.6" y="1141.4" class="n" text-anchor="end">FOR THERMAL MOVEMENT; DO NOT PIN PANEL</text>
+<text x="389.6" y="1159.4" class="n" text-anchor="end">AT BOTH ENDS</text>
+<path d="M397.6,1118.4 L423.6,1118.4 L638.8,1103.6" class="lead" marker-end="url(#arw)"/>
+<text x="1929.6" y="814.0" class="n" text-anchor="start">STONE SUPPORT ANGLE, S.S.D. - SEAL ALL</text>
+<text x="1929.6" y="832.0" class="n" text-anchor="start">FASTENER PENETRATIONS THROUGH WRB</text>
+<path d="M1921.6,809.0 L1895.6,809.0 L1404.4,818.0" class="lead" marker-end="url(#arw)"/>
+<text x="1929.6" y="1024.0" class="n" text-anchor="start">HIGH TEMP. SELF-ADHERED MEMBRANE -</text>
+<text x="1929.6" y="1042.0" class="n" text-anchor="start">TURN UP WALL 8" MIN. BEHIND BASE</text>
+<text x="1929.6" y="1060.0" class="n" text-anchor="start">FLASHING, LAP UNDER WALL WRB - SEE</text>
+<text x="1929.6" y="1078.0" class="n" text-anchor="start">WATERPROOFING DRAWINGS</text>
+<path d="M1921.6,1019.0 L1895.6,1019.0 L1409.2,1046.0" class="lead" marker-end="url(#arw)"/>
+<text x="1929.6" y="1123.0" class="n" text-anchor="start">RUN WALL NAIL BASE DOWN ONTO ROOF NAIL</text>
+<text x="1929.6" y="1141.0" class="n" text-anchor="start">BASE - NO GAP IN RIGID INSULATION AT</text>
+<text x="1929.6" y="1159.0" class="n" text-anchor="start">CORNER</text>
+<path d="M1921.6,1118.0 L1895.6,1118.0 L1440.4,1136.0" class="lead" marker-end="url(#arw)"/>
+<text x="1929.6" y="1240.0" class="n" text-anchor="start">CONTINUOUS CLOSED CELL SPRAY FOAM FROM</text>
+<text x="1929.6" y="1258.0" class="n" text-anchor="start">ROOF CAVITY INTO WALL CAVITY - WRAP</text>
+<text x="1929.6" y="1276.0" class="n" text-anchor="start">AROUND BEAM FOR CONTINUOUS THERMAL</text>
+<text x="1929.6" y="1294.0" class="n" text-anchor="start">ENVELOPE AND AIR BARRIER</text>
+<path d="M1921.6,1235.0 L1895.6,1235.0 L1567.6,1262.0" class="lead" marker-end="url(#arw)"/>
+<text x="1929.6" y="1387.0" class="n" text-anchor="start">ROOF FRAMING AND BEAM, S.S.D.</text>
+<path d="M1921.6,1382.0 L1895.6,1382.0 L1351.6,1382.0" class="lead" marker-end="url(#arw)"/>
+<circle cx="60.0" cy="1589.0" r="24" fill="none" stroke="#000" stroke-width="1.2"/>
+<path d="M36.0,1589.0 l48,0" class="thin"/>
+<text x="60.0" y="1584.0" class="sc" text-anchor="middle">1</text>
+<text x="60.0" y="1603.0" class="sc" text-anchor="middle">A6.05</text>
+<text x="98.0" y="1591.0" class="ttl" text-anchor="start">STONE WALL TO METAL STANDING SEAM ROOF</text>
+<path d="M80.0,1599.0 L2249.0,1599.0" class="med"/>
+<text x="98.0" y="1619.0" class="sc" text-anchor="start">SCALE : 3" = 1'-0"</text>
+</svg>
