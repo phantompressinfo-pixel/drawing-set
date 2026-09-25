@@ -118,7 +118,7 @@ def check(manifest, assemblies=None, schedule_meta=None, code_index=None):
 
     if assemblies is None:
         warns.append("no assembly schedule given - tags and repeated build-ups were NOT checked "
-                     "(pass --assemblies <project>/assemblies.yaml)")
+                     "(pass --assemblies details/assemblies.yaml - built from this project's schedule)")
     else:
         for t in sorted(tags - set(assemblies)):
             errors.append(f"tag {t} is on the detail but not in the assembly schedule")

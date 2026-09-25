@@ -90,6 +90,9 @@
 <path d="M664.0,80.0 L664.0,1046.0" class="center"/>
 <circle cx="664.0" cy="58.0" r="22" fill="#fff" stroke="#000" stroke-width="1.2"/>
 <text x="664.0" y="64.0" class="tag" text-anchor="middle">GL</text>
+<path d="M715.6,80.0 L715.6,1046.0" class="center"/>
+<circle cx="715.6" cy="58.0" r="22" fill="#fff" stroke="#000" stroke-width="1.2"/>
+<text x="715.6" y="64.0" class="tag" text-anchor="middle">FOS</text>
 <text x="487.6" y="254.0" class="kn" text-anchor="middle" style="paint-order:stroke;stroke:#fff;stroke-width:5;stroke-linejoin:round">INT.</text>
 <path d="M469.2,258.0 L506.0,258.0" class="thin"/>
 <text x="883.6" y="254.0" class="kn" text-anchor="middle" style="paint-order:stroke;stroke:#fff;stroke-width:5;stroke-linejoin:round">EXT.</text>

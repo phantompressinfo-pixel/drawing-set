@@ -1,4 +1,5 @@
-# PROJECT ASSEMBLY SCHEDULE - one per project, saved as <project>/assemblies.yaml
+# PROJECT ASSEMBLY SCHEDULE - one per project, saved as details/assemblies.yaml on the
+# project's branch.  Assemblies differ on every project: never copy another job's file.
 #
 # This file is what a tag on a detail POINTS TO.  Everything listed under a tag's
 # `layers` is said once, here, and never again in a detail note.  check_notes.py

@@ -41,7 +41,8 @@ Placeholders: `__` means a value to fill, and `[..]` means pick one option.
 | MTL. / SHT. / STL. | metal / sheet / steel | P.T. | pressure-treated |
 | MFR. / REQS | manufacturer / requirements | RCP / R.C.P. | reflected ceiling plan |
 | DWGS | drawings | LVL | laminated veneer lumber |
-| MHB | metal fabricator named on the set ("BY MHB") | GL, FOS | reference lines on the sample set - confirm meaning |
+| MHB | metal fabricator named on the set ("BY MHB") | GL | grid line (bubble + dash-dot line) |
+| FOS | face of stud (reference bubble + line, dimensions run from it) | | |
 
 ## Windows and doors
 

@@ -43,7 +43,8 @@ d.line([(-0.625, 1), (-0.9, 1), (-0.9, 0.9)], style="thin")         # J-bead
 
 d.break_line(1.2, -13, 5.6, -13)
 d.break_line(-1.2, BOT, 8, BOT)
-d.grid(3.35, "GL")
+d.grid(3.35, "GL")      # grid line
+d.grid(5.5, "FOS")      # face of stud
 d.label(-4, -9, "INT.")
 d.label(12.5, -9, "EXT.")
 d.tag("3B-X", at=(12.5, 12), to=(7.2, 12))

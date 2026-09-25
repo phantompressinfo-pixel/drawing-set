@@ -14,8 +14,9 @@ These follow the office's Revit details (the 22 sample sheets: A6.01-A6.38).
 - **Leader notes:** mostly one column to the right of the drawing, text left-aligned,
   with a short horizontal leader and then an angled leg to an arrowhead. Put a few
   notes in a left column, right-aligned, for items on the interior side.
-- **Reference lines:** grid / reference bubbles (GL, FOS, A, B, 1, 5 ...) at the top,
-  with a dash-dot line through the detail.
+- **Reference lines:** bubbles at the top with a dash-dot line through the detail:
+  - `GL` = grid line (or the grid's own name: A, B, 1, 5 ...);
+  - `FOS` = face of stud; dimensions to the window, veneer and trim run from it.
 - **Elevations:** a quartered target (two black quadrants) with the label and
   `EL = 100' - 0"` beside it, and a dashed line back to the surface. Examples:
   `T.O.F.F. @ MAIN LEVEL`, `B.O. FIN. CEILING`, `T.O. CONC. SLAB`.

@@ -72,10 +72,31 @@ Ask for whatever is missing. Don't guess.
 |---|---|
 | Detail type and condition, with any sketch, markup or similar office detail | Picks the checklist in `references/detail-types.md` |
 | Detail number, sheet and scale | Title, file name, cross-references. Scales are usually 3" = 1'-0", or 1 1/2" = 1'-0" for eaves and rakes. |
-| **Project assembly schedule** as `<project>/assemblies.yaml` (template: `templates/assemblies.yaml`) | Tags, and what the notes must not repeat. Copy it from the schedule sheet (A5.02 on the sample set). Never invent a build-up. |
+| **This project's assembly schedule** | **Wall assemblies are different on every project**, so there is no office-wide set. See "Start of every project" below. |
 | Jurisdiction: City of Aspen or Pitkin County | Code basis. The City runs houses under the IBC (the IRC is not adopted); the County adopts the IRC. |
 | Roof type (cold or unvented), for roof work | See above |
 | Structural, waterproofing-consultant and interiors information | The office points to these; it doesn't size them |
+
+## Start of every project: the assembly schedule
+
+Wall, roof, floor and ceiling assemblies change on every project, so the tags and
+build-ups can't be carried over from a previous job.
+
+1. Ask for the project's assembly schedule sheet (A5.02 or equivalent), as a PDF or
+   screenshot.
+2. Transcribe it into `details/assemblies.yaml` on the project's branch, using the
+   format in `templates/assemblies.yaml`. Use the tag exactly as it prints in Revit,
+   and the layers exactly as the schedule lists them.
+3. Show the transcription to the user and get a yes before drawing. A mistyped
+   layer means the checker misses a repeated note.
+4. If the schedule isn't drawn yet, list the tags with no layers. The checker will
+   still confirm every tag exists, and each detail's verify list gets "__ AGREES
+   WITH THE ASSEMBLY SCHEDULE".
+5. When the schedule is revised, update the file and re-run every detail script.
+   `python3 details/<file>.py` redraws and re-checks each one.
+
+Never reuse another project's `assemblies.yaml`, and never fill in a build-up from
+an office habit.
 
 ## Workflow
 
@@ -97,7 +118,7 @@ Ask for whatever is missing. Don't guess.
    from the code library (phantom-press-hq/code-library), never from memory. Never
    cite the IRC on a City of Aspen detail.
 7. **Save and check.**
-   `d.save("details", assemblies="<project>/assemblies.yaml")` runs
+   `d.save("details", assemblies="details/assemblies.yaml")` runs
    `scripts/check_notes.py`. Pass the code library with
    `CODE_LIBRARY=/path/to/code-library` so section numbers are checked against the
    2021 dataset. Fix every ERROR and read every WARN.
