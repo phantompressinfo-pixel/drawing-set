@@ -120,7 +120,12 @@ def check(manifest, assemblies=None, schedule_meta=None, code_index=None):
         warns.append("no assembly schedule given - tags and repeated build-ups were NOT checked "
                      "(pass --assemblies details/assemblies.yaml - built from this project's schedule)")
     else:
+        studs = {str(k).upper() for k in ((schedule_meta or {}).get("stud_sizes") or {})}
         for t in sorted(tags - set(assemblies)):
+            base, _, suf = t.replace('"', '').rpartition("-")
+            if base in assemblies and suf in studs:
+                tags = (tags - {t}) | {base}      # W4-B = wall type W4 on 2x6 studs
+                continue
             errors.append(f"tag {t} is on the detail but not in the assembly schedule")
     if not tags:
         warns.append("no assembly tag on this detail - every wall, roof, floor, ceiling and "
